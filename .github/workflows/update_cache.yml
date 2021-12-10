@@ -37,13 +37,13 @@ jobs:
           echo "Cloning destination repo"
           git config --global user.email "pietervdvn@posteo.net"
           git config --global user.name "pietervdvn"
-          git clone --depth 1 --single-branch --branch master "https://x-access-token:$DEPLOY_KEY_PIETERVDVN@github.com/pietervdvn/pietervdvn.github.io.git"
+          git clone --depth 1 --single-branch --branch master "https://x-access-token:$DEPLOY_KEY_PIETERVDVN@github.com/pietervdvn/MapComplete-data.git"
           echo "Destination repo is cloned"
           
       - name: "Update the cache"
         run: |
           # here, we move into the cloned (and updatable!) repo
-          cd pietervdvn.github.io
+          cd MapComplete-data
           ls
           pwd
           cd ../MapComplete
@@ -53,7 +53,7 @@ jobs:
           npm run generate:cache:speelplekken
           npm run generate:cache:natuurpunt
           echo "Caching done, commiting now"
-          cd ../pietervdvn.github.io
+          cd ../MapComplete-data
           git status
           git pull
           git add *
