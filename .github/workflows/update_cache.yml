@@ -1,7 +1,7 @@
 name: Deployment on pietervdvn
 on:
-  schedule:
-  - cron: 4 */1 * * *
+  push:
+  - main
       
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
         run: |
           # No write access is needed here
           rm -rf MapComplete/ # We remove the already existing file. This one won't be committed
-          git clone  --depth 1 --single-branch --branch master https://github.com/pietervdvn/MapComplete.git
+          git clone  --depth 1 --single-branch --branch develop https://github.com/pietervdvn/MapComplete.git
           
       - name: "Installing deps"
         run: |
@@ -43,15 +43,10 @@ jobs:
       - name: "Update the cache"
         run: |
           # here, we move into the cloned (and updatable!) repo
-          cd MapComplete-data
-          ls
-          pwd
-          cd ../MapComplete
-          # git pull # The CD-script should be doing the pull and deploying!
+          cd MapComplete
           echo "Starting the caching script"
           npm run init
-          npm run generate:cache:speelplekken
-          npm run generate:cache:natuurpunt
+          npm run generate:cache:speelplekken:mini
           echo "Caching done, commiting now"
           cd ../MapComplete-data
           git status
