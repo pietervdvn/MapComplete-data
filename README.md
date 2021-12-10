@@ -1,5 +1,8 @@
 # MapComplete-data
-Various datasets used by MapComplete
+
+Various datasets used by MapComplete. No actual code is stored here.
+
+Do you want to report a MapComplete issue? Head over to [the main repo](https://github.com/pietervdvn/MapComplete).
 
 
 ## mc-archive
