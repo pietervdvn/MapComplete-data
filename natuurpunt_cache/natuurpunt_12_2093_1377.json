@@ -1,0 +1,372 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "osm3s": {
+    "timestamp_osm_base": "2021-12-11T04:16:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 976888076,
+      "lat": 50.6386073,
+      "lon": 3.9596019,
+      "tags": {
+        "alt_name": "Parking des amoureux",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8520038695,
+      "lat": 50.6781604,
+      "lon": 4.0132401,
+      "tags": {
+        "leisure": "bird_hide"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8973621460,
+      "lat": 50.6707814,
+      "lon": 4.0354907,
+      "tags": {
+        "board_type": "history",
+        "image": "https://westnordost.de/p/52319.jpg",
+        "information": "board",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 77753758,
+      "nodes": [
+        914427761,
+        4126562295,
+        914427756,
+        4126562296,
+        4126562298,
+        4126562297,
+        914427779,
+        4126562291,
+        914427786,
+        4126562290,
+        914427761
+      ],
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "note": "FIXME",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136673019,
+      "nodes": [
+        1499441453,
+        1499441449,
+        1499441442,
+        1499441440,
+        1499441438,
+        1499441422,
+        1499441423,
+        1499441425,
+        1499441444,
+        1499441451,
+        1499441453
+      ],
+      "tags": {
+        "amenity": "parking",
+        "old_name": "test",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 418864401,
+      "nodes": [
+        4190993596,
+        4190993597,
+        4190993598,
+        4190993599,
+        4190993596
+      ],
+      "tags": {
+        "building": "yes",
+        "description": "hutte d'observation",
+        "leisure": "bird_hide"
+      }
+    },
+    {
+      "type": "node",
+      "id": 976888076,
+      "lat": 50.6386073,
+      "lon": 3.9596019,
+      "timestamp": "2013-08-29T06:42:34Z",
+      "version": 3,
+      "changeset": 17566516,
+      "user": "Luc Rogge",
+      "uid": 1727639,
+      "tags": {
+        "alt_name": "Parking des amoureux",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8520038695,
+      "lat": 50.6781604,
+      "lon": 4.0132401,
+      "timestamp": "2021-03-15T08:16:54Z",
+      "version": 1,
+      "changeset": 101033033,
+      "user": "Supergreg",
+      "uid": 12430228,
+      "tags": {
+        "leisure": "bird_hide"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8973621460,
+      "lat": 50.6707814,
+      "lon": 4.0354907,
+      "timestamp": "2021-08-02T07:12:27Z",
+      "version": 1,
+      "changeset": 109007552,
+      "user": "Jakka",
+      "uid": 2403313,
+      "tags": {
+        "board_type": "history",
+        "image": "https://westnordost.de/p/52319.jpg",
+        "information": "board",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 77753758,
+      "timestamp": "2021-08-01T18:50:53Z",
+      "version": 4,
+      "changeset": 108984662,
+      "user": "Jean-Louis Stanus",
+      "uid": 116840,
+      "nodes": [
+        914427761,
+        4126562295,
+        914427756,
+        4126562296,
+        4126562298,
+        4126562297,
+        914427779,
+        4126562291,
+        914427786,
+        4126562290,
+        914427761
+      ],
+      "tags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "note": "FIXME",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136673019,
+      "timestamp": "2016-04-16T16:38:57Z",
+      "version": 3,
+      "changeset": 38626746,
+      "user": "Roman Guy",
+      "uid": 77947,
+      "nodes": [
+        1499441453,
+        1499441449,
+        1499441442,
+        1499441440,
+        1499441438,
+        1499441422,
+        1499441423,
+        1499441425,
+        1499441444,
+        1499441451,
+        1499441453
+      ],
+      "tags": {
+        "amenity": "parking",
+        "old_name": "test",
+        "parking": "surface"
+      }
+    },
+    {
+      "type": "way",
+      "id": 418864401,
+      "timestamp": "2021-03-05T15:39:52Z",
+      "version": 3,
+      "changeset": 100501364,
+      "user": "joost schouppe",
+      "uid": 67832,
+      "nodes": [
+        4190993596,
+        4190993597,
+        4190993598,
+        4190993599,
+        4190993596
+      ],
+      "tags": {
+        "building": "yes",
+        "description": "hutte d'observation",
+        "leisure": "bird_hide"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1499441422,
+      "lat": 50.6477872,
+      "lon": 3.9622288
+    },
+    {
+      "type": "node",
+      "id": 1499441423,
+      "lat": 50.6477892,
+      "lon": 3.9622813
+    },
+    {
+      "type": "node",
+      "id": 1499441425,
+      "lat": 50.6477978,
+      "lon": 3.9623402
+    },
+    {
+      "type": "node",
+      "id": 1499441438,
+      "lat": 50.6480045,
+      "lon": 3.9623831
+    },
+    {
+      "type": "node",
+      "id": 1499441440,
+      "lat": 50.6481395,
+      "lon": 3.9624912
+    },
+    {
+      "type": "node",
+      "id": 1499441442,
+      "lat": 50.648302,
+      "lon": 3.9626239
+    },
+    {
+      "type": "node",
+      "id": 1499441444,
+      "lat": 50.6483258,
+      "lon": 3.9627671
+    },
+    {
+      "type": "node",
+      "id": 1499441449,
+      "lat": 50.6484028,
+      "lon": 3.9627149
+    },
+    {
+      "type": "node",
+      "id": 1499441451,
+      "lat": 50.6484157,
+      "lon": 3.9628737
+    },
+    {
+      "type": "node",
+      "id": 1499441453,
+      "lat": 50.6484592,
+      "lon": 3.962795
+    },
+    {
+      "type": "node",
+      "id": 4190993596,
+      "lat": 50.6714375,
+      "lon": 3.9882178
+    },
+    {
+      "type": "node",
+      "id": 4190993597,
+      "lat": 50.6714069,
+      "lon": 3.9882329
+    },
+    {
+      "type": "node",
+      "id": 4190993598,
+      "lat": 50.6713724,
+      "lon": 3.9881228
+    },
+    {
+      "type": "node",
+      "id": 4190993599,
+      "lat": 50.6714131,
+      "lon": 3.9881164
+    },
+    {
+      "type": "node",
+      "id": 914427756,
+      "lat": 50.6701042,
+      "lon": 4.0355904
+    },
+    {
+      "type": "node",
+      "id": 914427761,
+      "lat": 50.6702867,
+      "lon": 4.0353843
+    },
+    {
+      "type": "node",
+      "id": 914427779,
+      "lat": 50.6702578,
+      "lon": 4.0357308
+    },
+    {
+      "type": "node",
+      "id": 914427786,
+      "lat": 50.6705605,
+      "lon": 4.0355773
+    },
+    {
+      "type": "node",
+      "id": 4126562290,
+      "lat": 50.6704234,
+      "lon": 4.0355109
+    },
+    {
+      "type": "node",
+      "id": 4126562291,
+      "lat": 50.6705658,
+      "lon": 4.0356293
+    },
+    {
+      "type": "node",
+      "id": 4126562295,
+      "lat": 50.6701813,
+      "lon": 4.0354312
+    },
+    {
+      "type": "node",
+      "id": 4126562296,
+      "lat": 50.6701556,
+      "lon": 4.0356759
+    },
+    {
+      "type": "node",
+      "id": 4126562297,
+      "lat": 50.6702218,
+      "lon": 4.03573
+    },
+    {
+      "type": "node",
+      "id": 4126562298,
+      "lat": 50.6701875,
+      "lon": 4.0357059
+    }
+  ]
+}

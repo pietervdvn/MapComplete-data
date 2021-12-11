@@ -1,0 +1,119 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "way/463852290",
+   "properties": {
+    "amenity": "toilets",
+    "building": "yes",
+    "ref:bag": "758100000109011",
+    "source": "BAG",
+    "source:date": "2018-03-08",
+    "start_date": "1981",
+    "id": "way/463852290",
+    "_lat": "51.525650850000005",
+    "_lon": "4.75551235",
+    "_layer": "toilet",
+    "_length": "12.23684203683121",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Sander H",
+    "_last_edit:contributor:uid": 327477,
+    "_last_edit:changeset": 57328970,
+    "_last_edit:timestamp": "2018-03-19T20:17:04Z",
+    "_version_number": 2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.7554866,
+       51.5256619
+      ],
+      [
+       4.7554929,
+       51.5256356
+      ],
+      [
+       4.7555381,
+       51.5256398
+      ],
+      [
+       4.7555318,
+       51.5256661
+      ],
+      [
+       4.7554866,
+       51.5256619
+      ]
+     ]
+    ]
+   },
+   "_lon": 4.75551235,
+   "_lat": 51.525650850000005
+  },
+  {
+   "type": "Feature",
+   "id": "node/5730750719",
+   "properties": {
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "id": "node/5730750719",
+    "_lat": "51.5222874",
+    "_lon": "4.750989",
+    "_layer": "toilet",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "R_S",
+    "_last_edit:contributor:uid": 2580096,
+    "_last_edit:changeset": 60306858,
+    "_last_edit:timestamp": "2018-06-30T17:24:13Z",
+    "_version_number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.750989,
+     51.5222874
+    ]
+   },
+   "_lon": 4.750989,
+   "_lat": 51.5222874
+  },
+  {
+   "type": "Feature",
+   "id": "node/5894506537",
+   "properties": {
+    "access": "customers",
+    "amenity": "toilets",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:position": "seated;urinal",
+    "id": "node/5894506537",
+    "_lat": "51.5603676",
+    "_lon": "4.7662696",
+    "_layer": "toilet",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "MvanderHeide",
+    "_last_edit:contributor:uid": 431046,
+    "_last_edit:changeset": 88494707,
+    "_last_edit:timestamp": "2020-07-25T12:47:12Z",
+    "_version_number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7662696,
+     51.5603676
+    ]
+   },
+   "_lon": 4.7662696,
+   "_lat": 51.5603676
+  }
+ ]
+}
