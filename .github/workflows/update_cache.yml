@@ -41,6 +41,8 @@ jobs:
           
       - name: "Update the cache"
         run: |
+          pwd
+          ls
           # here, we move into the cloned (and updatable!) repo
           cd MapComplete
           echo "Starting the caching script"
