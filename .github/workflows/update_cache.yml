@@ -1,7 +1,6 @@
 name: Deployment on pietervdvn
 on:
-  push:
-  - main
+  push
       
 jobs:
   build:
