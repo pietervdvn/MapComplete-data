@@ -39,10 +39,6 @@ jobs:
           git clone --depth 1 --single-branch --branch main "https://x-access-token:$DEPLOY_KEY_PIETERVDVN@github.com/pietervdvn/MapComplete-data.git"
           echo "Destination repo is cloned"
           cd MapComplete-data
-          date > last_run.txt
-          git add last_run.txt
-          git commit -m "Update date"
-          git push
           
       - name: "Update the cache"
         run: |
