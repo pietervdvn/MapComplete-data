@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8273871170",
+            "osm_id": 8273871170,
+            "reasons": [
+              43
+            ],
+            "version": 4,
+            "primary_tags": {
+              "tourism": "map"
+            }
+          }
+        ],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.2.5g",
+        "comment": "Adding data with #MapComplete for theme #nature",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2020-12-30T12:20:04Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "theme": "nature",
+          "language": "nl",
+          "theme-creator": ""
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2088366,
+          51.319858
+        ]
+      }
+    }
+  ]
+}

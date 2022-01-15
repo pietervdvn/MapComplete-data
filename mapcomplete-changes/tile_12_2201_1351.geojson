@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9007648358",
+            "osm_id": 9007648358,
+            "reasons": [
+              43
+            ],
+            "version": 4,
+            "primary_tags": {
+              "emergency": "Löschwasserbehälter"
+            }
+          }
+        ],
+        "user": "DasDaniel419",
+        "uid": "13924905",
+        "editor": "MapComplete 0.7.2l",
+        "comment": "Adding data with #MapComplete for theme #waldbrand",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-08-15T08:06:01Z",
+        "reviewed_features": [],
+        "create": 4,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.000535681101169885,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "waldbrand-app.de",
+          "theme": "waldbrand",
+          "imagery": "osm",
+          "language": "de",
+          "theme-creator": "Sebastian Kürten"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49928915,
+          52.06398625
+        ]
+      }
+    }
+  ]
+}

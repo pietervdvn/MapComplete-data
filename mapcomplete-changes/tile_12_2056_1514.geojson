@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Javi Ruixi",
+        "uid": "3814937",
+        "editor": "MapComplete 0.9.0",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-08-22T05:01:05Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 5,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "aed",
+          "imagery": "osm",
+          "language": "es",
+          "theme-creator": "MapComplete"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7381868,
+          42.406185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9025771307",
+            "osm_id": 9025771307,
+            "reasons": [
+              43
+            ],
+            "version": 1,
+            "primary_tags": {
+              "tourism": "map"
+            }
+          }
+        ],
+        "user": "Javi Ruixi",
+        "uid": "3814937",
+        "editor": "MapComplete 0.9.0",
+        "comment": "Adding data with #MapComplete for theme #maps",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-08-22T04:59:47Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "maps",
+          "imagery": "osm",
+          "language": "en",
+          "theme-creator": "MapComplete"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.738211,
+          42.4061771
+        ]
+      }
+    }
+  ]
+}

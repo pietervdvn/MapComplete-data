@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha-7",
+        "comment": "Adding data with #MapComplete for theme #missing_streets  Mechanical edit: if a single CRAB-address is in the building, has the same housenumber and the same name as a nearby street, then addr:street is added if missing. ",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-13T16:01:31Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 5.86679200002233e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "theme": "missing_streets",
+          "answer": 1,
+          "language": "nl"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.733403,
+          51.1459675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.7.5a",
+        "comment": "Adding data with #MapComplete for theme #fietsstraten",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-06-09T06:32:55Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 13,
+        "delete": 0,
+        "area": 0.00408401316960023,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "fietsstraten",
+          "imagery": "osm",
+          "language": "nl",
+          "theme-creator": "MapComplete, joost schouppe"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7997411999999997,
+          51.1744513
+        ]
+      }
+    }
+  ]
+}

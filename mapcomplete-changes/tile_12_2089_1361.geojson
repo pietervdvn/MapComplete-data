@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.9.12",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-09-24T18:27:08Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "cyclofix",
+          "imagery": "CartoDB.Voyager",
+          "language": "en",
+          "theme-creator": "MapComplete"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6696884,
+          51.5499412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9120402882",
+            "osm_id": 9120402882,
+            "reasons": [
+              43
+            ],
+            "version": 1,
+            "primary_tags": {
+              "amenity": "binoculars"
+            }
+          },
+          {
+            "url": "node-9120416768",
+            "osm_id": 9120416768,
+            "reasons": [
+              43
+            ],
+            "version": 1,
+            "primary_tags": {
+              "amenity": "binoculars"
+            }
+          },
+          {
+            "url": "node-9120402883",
+            "osm_id": 9120402883,
+            "reasons": [
+              43
+            ],
+            "version": 1,
+            "primary_tags": {
+              "amenity": "binoculars"
+            }
+          }
+        ],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.9.12",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-09-24T13:59:50Z",
+        "reviewed_features": [],
+        "create": 6,
+        "modify": 8,
+        "delete": 0,
+        "area": 0.0000179470749299955,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "personal",
+          "imagery": "osm",
+          "language": "en",
+          "theme-creator": "MapComplete"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6658474500000002,
+          51.54911385
+        ]
+      }
+    }
+  ]
+}

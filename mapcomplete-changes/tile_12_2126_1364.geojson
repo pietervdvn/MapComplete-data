@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8428431653",
+            "osm_id": 8428431653,
+            "reasons": [
+              43
+            ],
+            "version": 3,
+            "primary_tags": {
+              "tourism": "map"
+            }
+          }
+        ],
+        "user": "hke2912",
+        "uid": "5154951",
+        "editor": "MapComplete 0.4.9",
+        "comment": "Adding data with #MapComplete for theme #maps",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-02-16T10:12:23Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "pietervdvn.github.io",
+          "theme": "maps",
+          "imagery": "osm",
+          "language": "en",
+          "theme-creator": "MapComplete"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8836749,
+          51.3929233
+        ]
+      }
+    }
+  ]
+}

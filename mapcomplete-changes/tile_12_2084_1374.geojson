@@ -1,0 +1,830 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Jakka",
+        "uid": "2403313",
+        "editor": "MapComplete 0.2.5",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2020-12-13T09:03:15Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "theme": "cyclofix",
+          "language": "nl",
+          "theme-creator": "MapComplete"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1842233,
+          50.7983379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "beardhatcode",
+        "uid": "5439560",
+        "editor": "MapComplete 0.10.6",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-10-16T14:58:30Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "personal",
+          "imagery": "osm",
+          "language": "en",
+          "theme-creator": "MapComplete"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2469264,
+          50.8334362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha-8",
+        "comment": "Adding data with #MapComplete for theme #missing_streets  Mechanical edit: if a single CRAB-address is in the building, has the same housenumber and the same name as a nearby street, then addr:street is added if missing. ",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-17T17:09:28Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 7.68955000009553e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "theme": "missing_streets",
+          "answer": 1,
+          "language": "nl"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1761646,
+          50.83030315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9328103323",
+            "name": "Black Box Boulder Shop",
+            "osm_id": 9328103323,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "shop": "climbing_gear"
+            }
+          }
+        ],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha-5",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-12-10T20:05:20Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "pietervdvn.github.io",
+          "path": "mc/develop/",
+          "theme": "shops",
+          "answer": 2,
+          "create": 1,
+          "imagery": "osm",
+          "language": "en",
+          "add-image": 1,
+          "change_over_5000m": 1,
+          "change_within_100m": 3
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2450733,
+          50.8151191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha-5",
+        "comment": "Adding data with #MapComplete for theme #climbing",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-12-10T20:00:45Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "pietervdvn.github.io",
+          "path": "mc/develop/",
+          "theme": "climbing",
+          "answer": 7,
+          "imagery": "osm",
+          "language": "en",
+          "change_within_100m": 7
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2449211,
+          50.8151578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha-5",
+        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-12-10T19:59:00Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "pietervdvn.github.io",
+          "path": "mc/develop/",
+          "theme": "bookcases",
+          "answer": 5,
+          "create": 1,
+          "imagery": "osm",
+          "language": "en",
+          "add-image": 1,
+          "change_over_5000m": 1,
+          "change_within_100m": 6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2450035,
+          50.8151903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-06T01:42:54Z",
+        "reviewed_features": [],
+        "create": 319,
+        "modify": 213,
+        "delete": 0,
+        "area": 0.00000985261466999628,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "move": 88,
+          "theme": "grb",
+          "answer": 1,
+          "import": 58,
+          "imagery": "osm",
+          "language": "nl",
+          "conflation": 28
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24783355,
+          50.837065249999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-06T01:08:34Z",
+        "reviewed_features": [],
+        "create": 169,
+        "modify": 156,
+        "delete": 0,
+        "area": 0.00000309088618000064,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "move": 136,
+          "theme": "grb",
+          "answer": 3,
+          "import": 18,
+          "imagery": "AGIVFlandersGRB",
+          "language": "nl",
+          "conflation": 30
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2459167,
+          50.83720434999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-05T22:01:55Z",
+        "reviewed_features": [],
+        "create": 16,
+        "modify": 84,
+        "delete": 0,
+        "area": 0.00000120281996999916,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "move": 69,
+          "theme": "grb",
+          "answer": 12,
+          "import": 2,
+          "imagery": "AGIV",
+          "language": "nl",
+          "conflation": 22
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24370265,
+          50.83731325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.13.0-alpha",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-12-05T12:54:27Z",
+        "reviewed_features": [],
+        "create": 3,
+        "modify": 23,
+        "delete": 0,
+        "area": 1.21993390002413e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "pietervdvn.github.io",
+          "move": 16,
+          "path": "mc/develop/",
+          "theme": "grb",
+          "answer": 4,
+          "import": 1,
+          "imagery": "AGIV",
+          "language": "nl",
+          "conflation": 4,
+          "change_over_5000m": 5
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24383875,
+          50.83723315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.12.12",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-05T03:23:34Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 7,
+        "delete": 0,
+        "area": 3.07638000003993e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "theme": "grb",
+          "import": 1,
+          "imagery": "AGIVFlandersGRB",
+          "language": "en"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2441605,
+          50.8380716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.12.12",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-05T03:15:00Z",
+        "reviewed_features": [],
+        "create": 52,
+        "modify": 72,
+        "delete": 0,
+        "area": 0.00000179656311999424,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "move": 65,
+          "theme": "grb",
+          "answer": 2,
+          "import": 8,
+          "imagery": "AGIVFlandersGRB",
+          "language": "en",
+          "conflation": 18
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24455465,
+          50.8379028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.12.12",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-05T02:37:45Z",
+        "reviewed_features": [],
+        "create": 4,
+        "modify": 39,
+        "delete": 0,
+        "area": 4.78107399997627e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "move": 30,
+          "theme": "grb",
+          "answer": 6,
+          "import": 1,
+          "imagery": "AGIVFlandersGRB",
+          "language": "en",
+          "conflation": 6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24489295,
+          50.838181500000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.12.12",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-05T02:33:41Z",
+        "reviewed_features": [],
+        "create": 11,
+        "modify": 41,
+        "delete": 0,
+        "area": 3.30828689995914e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "127.0.0.1:1234",
+          "move": 37,
+          "theme": "grb",
+          "answer": 2,
+          "import": 1,
+          "imagery": "AGIVFlandersGRB",
+          "language": "en",
+          "conflation": 12
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24506765,
+          50.83826435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.12.12",
+        "comment": "Adding data with #MapComplete for theme #grb",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-12-05T01:35:50Z",
+        "reviewed_features": [],
+        "create": 82,
+        "modify": 89,
+        "delete": 0,
+        "area": 0.00000157885000000431,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "move": 60,
+          "theme": "grb",
+          "answer": 9,
+          "import": 15,
+          "imagery": "AGIV",
+          "language": "en",
+          "conflation": 22,
+          "change_over_5000m": 6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24650895,
+          50.8384264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Dieter Dewitte",
+        "uid": "10825393",
+        "editor": "MapComplete 0.6.8",
+        "comment": "Adding data with #MapComplete for theme #boomgaarden",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-04-14T15:21:59Z",
+        "reviewed_features": [],
+        "create": 11,
+        "modify": 10,
+        "delete": 0,
+        "area": 0.0000010292669999901,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "boomgaarden",
+          "imagery": "osm",
+          "language": "nl"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.18619965,
+          50.8029491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Dieter Dewitte",
+        "uid": "10825393",
+        "editor": "MapComplete 0.8.4",
+        "comment": "Adding data with #MapComplete for theme #boomgaarden",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-07-30T16:12:02Z",
+        "reviewed_features": [],
+        "create": 7,
+        "modify": 22,
+        "delete": 0,
+        "area": 8.6367609997985e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "boomgaarden",
+          "imagery": "osm",
+          "language": "nl"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.18588895,
+          50.801121949999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Dieter Dewitte",
+        "uid": "10825393",
+        "editor": "MapComplete 0.8.4",
+        "comment": "Adding data with #MapComplete for theme #boomgaarden",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-08-12T13:12:31Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "boomgaarden",
+          "imagery": "osm",
+          "language": "nl"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1750542,
+          50.8107011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Dieter Dewitte",
+        "uid": "10825393",
+        "editor": "MapComplete 0.9.12",
+        "comment": "Adding data with #MapComplete for theme #boomgaarden",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-09-17T08:33:10Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "boomgaarden",
+          "imagery": "osm",
+          "language": "nl"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1805232,
+          50.8088384
+        ]
+      }
+    }
+  ]
+}

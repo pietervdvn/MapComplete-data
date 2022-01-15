@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8461197945",
+            "name": "August Veeck",
+            "osm_id": 8461197945,
+            "reasons": [
+              43
+            ],
+            "version": 4,
+            "primary_tags": {
+              "shop": "jewels and gems"
+            }
+          }
+        ],
+        "user": "Melanie Veeck",
+        "uid": "12741541",
+        "editor": "MapComplete 0.5.2c",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-02-26T13:11:51Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "metadata": {
+          "host": "mapcomplete.osm.be",
+          "theme": "shops",
+          "imagery": "osm",
+          "language": "en",
+          "theme-creator": "MapComplete"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3277199,
+          49.7047654
+        ]
+      }
+    }
+  ]
+}
