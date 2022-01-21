@@ -52,7 +52,132 @@
     ]
    },
    "_lon": 4.4567225,
-   "_lat": 51.1044314
+   "_lat": 51.1044314,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1047889,
+    "maxLon": 4.4575166,
+    "minLat": 51.1040739,
+    "minLon": 4.4559284
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/453060652",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "basketball",
+    "id": "way/453060652",
+    "_lat": "51.107000850000006",
+    "_lon": "4.45522195",
+    "_layer": "sport_pitch",
+    "_length": "85.39892870686171",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "escada",
+    "_last_edit:contributor:uid": 436365,
+    "_last_edit:changeset": 43608236,
+    "_last_edit:timestamp": "2016-11-13T15:41:19Z",
+    "_version_number": 1,
+    "_geometry:type": "Polygon",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4550468,
+       51.107091
+      ],
+      [
+       4.4552034,
+       51.1068591
+      ],
+      [
+       4.4553971,
+       51.1069106
+      ],
+      [
+       4.4552404,
+       51.1071426
+      ],
+      [
+       4.4550468,
+       51.107091
+      ]
+     ]
+    ]
+   },
+   "_lon": 4.45522195,
+   "_lat": 51.107000850000006,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1071426,
+    "maxLon": 4.4553971,
+    "minLat": 51.1068591,
+    "minLon": 4.4550468
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/720585231",
+   "properties": {
+    "boules": "petanque",
+    "indoor": "yes",
+    "leisure": "pitch",
+    "source:geometry:date": "2014-10-09",
+    "source:geometry:ref": "Gbg/4865588",
+    "sport": "boules",
+    "id": "way/720585231",
+    "_lat": "51.10394205",
+    "_lon": "4.4565877",
+    "_layer": "sport_pitch",
+    "_length": "47.64449535951379",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Globelotter",
+    "_last_edit:contributor:uid": 6141733,
+    "_last_edit:changeset": 105769368,
+    "_last_edit:timestamp": "2021-06-03T09:59:33Z",
+    "_version_number": 2,
+    "_geometry:type": "Polygon",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4564711,
+       51.1039696
+      ],
+      [
+       4.4565087,
+       51.1038836
+      ],
+      [
+       4.4567043,
+       51.1039179
+      ],
+      [
+       4.4566649,
+       51.1040005
+      ],
+      [
+       4.4564711,
+       51.1039696
+      ]
+     ]
+    ]
+   },
+   "_lon": 4.4565877,
+   "_lat": 51.10394205,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1040005,
+    "maxLon": 4.4567043,
+    "minLat": 51.1038836,
+    "minLon": 4.4564711
+   }
   }
  ]
 }
