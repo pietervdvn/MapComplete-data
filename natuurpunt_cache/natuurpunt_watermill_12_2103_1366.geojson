@@ -5,29 +5,33 @@
    "type": "Feature",
    "id": "way/128206684",
    "properties": {
-    "OnroerendErfgoed:criteria": "M",
+    "OnroerendErfgoed:criteria": "BE",
     "addr:city": "Tielen",
     "addr:housenumber": "6",
     "addr:street": "Watermolenstraat",
     "building": "yes",
     "heritage": "4",
     "heritage:operator": "OnroerendErfgoed",
-    "heritage:website": "https://inventaris.onroerenderfgoed.be/dibe/relict/47380",
+    "heritage:website": "https://id.erfgoed.net/erfgoedobjecten/47380",
+    "historic": "watermill",
+    "image": "https://commons.wikimedia.org/wiki/File:Molen_van_Tielen.jpg",
     "man_made": "watermill",
     "name": "De Watermolen",
     "ref:OnroerendErfgoed": "47380",
+    "start_date": "1681",
     "wikidata": "Q63352800",
+    "wikipedia": "nl:Watermolen van Tielen",
     "id": "way/128206684",
-    "_lat": "51.246569750000006",
-    "_lon": "4.8757698000000005",
+    "_lat": "51.24656935",
+    "_lon": "4.875771500000001",
     "_layer": "watermill",
-    "_length": "70.77048495139634",
+    "_length": "71.10031261923324",
     "_length:km": "0.1",
-    "_last_edit:contributor": "L'imaginaire",
-    "_last_edit:contributor:uid": 654234,
-    "_last_edit:changeset": 101700665,
-    "_last_edit:timestamp": "2021-03-25T08:29:20Z",
-    "_version_number": 6,
+    "_last_edit:contributor": "Rienux",
+    "_last_edit:contributor:uid": 11911273,
+    "_last_edit:changeset": 115845139,
+    "_last_edit:timestamp": "2022-01-06T16:46:03Z",
+    "_version_number": 7,
     "_geometry:type": "Polygon"
    },
    "geometry": {
@@ -35,12 +39,12 @@
     "coordinates": [
      [
       [
-       4.8759285,
-       51.2464949
+       4.8759304,
+       51.2464941
       ],
       [
-       4.8759662,
-       51.2465465
+       4.8759696,
+       51.2465464
       ],
       [
        4.8756328,
@@ -59,74 +63,22 @@
        51.246574
       ],
       [
-       4.8758311,
-       51.2465062
+       4.8758281,
+       51.2465067
       ],
       [
        4.8758417,
        51.2465203
       ],
       [
-       4.8759285,
-       51.2464949
+       4.8759304,
+       51.2464941
       ]
      ]
     ]
    },
-   "_lon": 4.8757698000000005,
-   "_lat": 51.246569750000006
-  },
-  {
-   "type": "Feature",
-   "id": "way/377996950",
-   "properties": {
-    "man_made": "watermill",
-    "id": "way/377996950",
-    "_lat": "51.24651925",
-    "_lon": "4.87597905",
-    "_layer": "watermill",
-    "_length": "23.994726873767764",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "henke54",
-    "_last_edit:contributor:uid": 71942,
-    "_last_edit:changeset": 35038641,
-    "_last_edit:timestamp": "2015-11-02T17:05:39Z",
-    "_version_number": 1,
-    "_geometry:type": "Polygon"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.8759662,
-       51.2465465
-      ],
-      [
-       4.8759285,
-       51.2464949
-      ],
-      [
-       4.8759827,
-       51.2464794
-      ],
-      [
-       4.8760296,
-       51.2465436
-      ],
-      [
-       4.8759754,
-       51.2465591
-      ],
-      [
-       4.8759662,
-       51.2465465
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.87597905,
-   "_lat": 51.24651925
+   "_lon": 4.875771500000001,
+   "_lat": 51.24656935
   }
  ]
 }

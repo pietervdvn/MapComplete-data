@@ -286,17 +286,18 @@
    "id": "node/3831382568",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
     "id": "node/3831382568",
     "_lat": "51.1876865",
     "_lon": "5.3829948",
     "_layer": "bench",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 35246968,
-    "_last_edit:timestamp": "2015-11-11T19:20:17Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "staf",
+    "_last_edit:contributor:uid": 377797,
+    "_last_edit:changeset": 116421505,
+    "_last_edit:timestamp": "2022-01-21T09:41:00Z",
+    "_version_number": 2,
     "_geometry:type": "Point"
    },
    "geometry": {
@@ -743,6 +744,34 @@
    },
    "_lon": 5.4202396,
    "_lat": 51.2096933
+  },
+  {
+   "type": "Feature",
+   "id": "node/9412016261",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/9412016261",
+    "_lat": "51.2333871",
+    "_lon": "5.4401483",
+    "_layer": "bench",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Wim van der Ven",
+    "_last_edit:contributor:uid": 1817282,
+    "_last_edit:changeset": 116053546,
+    "_last_edit:timestamp": "2022-01-12T07:19:25Z",
+    "_version_number": 1,
+    "_geometry:type": "Point"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4401483,
+     51.2333871
+    ]
+   },
+   "_lon": 5.4401483,
+   "_lat": 51.2333871
   }
  ]
 }

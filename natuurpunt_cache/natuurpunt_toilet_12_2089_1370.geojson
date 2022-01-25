@@ -254,6 +254,59 @@
   },
   {
    "type": "Feature",
+   "id": "way/1017804702",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes",
+    "opening_hours": "Mo-Tu 16:00-19:00; We 14:00-17:00; Sa 10:00-12:00",
+    "unisex": "yes",
+    "wheelchair": "limited",
+    "id": "way/1017804702",
+    "_lat": "51.01997365",
+    "_lon": "3.6683522",
+    "_layer": "toilet",
+    "_length": "44.87781202636603",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "JanFi",
+    "_last_edit:contributor:uid": 672253,
+    "_last_edit:changeset": 115705095,
+    "_last_edit:timestamp": "2022-01-03T10:56:28Z",
+    "_version_number": 1,
+    "_geometry:type": "Polygon"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.6682823,
+       51.0200329
+      ],
+      [
+       3.6683044,
+       51.0199063
+      ],
+      [
+       3.6684221,
+       51.0199145
+      ],
+      [
+       3.6684,
+       51.020041
+      ],
+      [
+       3.6682823,
+       51.0200329
+      ]
+     ]
+    ]
+   },
+   "_lon": 3.6683522,
+   "_lat": 51.01997365
+  },
+  {
+   "type": "Feature",
    "id": "node/1080965305",
    "properties": {
     "amenity": "toilets",
@@ -378,38 +431,6 @@
    },
    "_lon": 3.6406929,
    "_lat": 51.0194205
-  },
-  {
-   "type": "Feature",
-   "id": "node/8685938803",
-   "properties": {
-    "access": "yes",
-    "amenity": "toilets",
-    "opening_hours": "Mo-Tu 16:00-19:00; We 14:00-17:00; Sa 10:00-12:00",
-    "unisex": "yes",
-    "wheelchair": "limited",
-    "id": "node/8685938803",
-    "_lat": "51.0200305",
-    "_lon": "3.6683515",
-    "_layer": "toilet",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 113373323,
-    "_last_edit:timestamp": "2021-11-04T14:49:42Z",
-    "_version_number": 2,
-    "_geometry:type": "Point"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.6683515,
-     51.0200305
-    ]
-   },
-   "_lon": 3.6683515,
-   "_lat": 51.0200305
   }
  ]
 }

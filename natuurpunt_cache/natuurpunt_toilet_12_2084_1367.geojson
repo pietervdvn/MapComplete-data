@@ -74,7 +74,7 @@
    "properties": {
     "amenity": "toilets",
     "building": "yes",
-    "source:geometry:date": "2011/06/17",
+    "source:geometry:date": "2011-06-17",
     "source:geometry:ref": "Gbg/3092957",
     "id": "way/305606888",
     "_lat": "51.2027986",
@@ -82,11 +82,11 @@
     "_layer": "toilet",
     "_length": "22.21147810631168",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 79720970,
-    "_last_edit:timestamp": "2020-01-18T02:27:00Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "s8evq",
+    "_last_edit:contributor:uid": 3710738,
+    "_last_edit:changeset": 115295256,
+    "_last_edit:timestamp": "2021-12-23T11:53:43Z",
+    "_version_number": 4,
     "_geometry:type": "Polygon"
    },
    "geometry": {
@@ -244,6 +244,119 @@
    },
    "_lon": 3.2368755,
    "_lat": 51.192943150000005
+  },
+  {
+   "type": "Feature",
+   "id": "way/1016629298",
+   "properties": {
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "id": "way/1016629298",
+    "_lat": "51.1868816",
+    "_lon": "3.2083896999999997",
+    "_layer": "toilet",
+    "_length": "18.2371365985858",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 115844486,
+    "_last_edit:timestamp": "2022-01-06T16:30:08Z",
+    "_version_number": 2,
+    "_geometry:type": "Polygon"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.2084365,
+       51.1868865
+      ],
+      [
+       3.2084126,
+       51.1868928
+      ],
+      [
+       3.2083623,
+       51.1869059
+      ],
+      [
+       3.2083429,
+       51.1868767
+      ],
+      [
+       3.2083688,
+       51.1868699
+      ],
+      [
+       3.208417,
+       51.1868573
+      ],
+      [
+       3.2084195,
+       51.186861
+      ],
+      [
+       3.2084365,
+       51.1868865
+      ]
+     ]
+    ]
+   },
+   "_lon": 3.2083896999999997,
+   "_lat": 51.1868816
+  },
+  {
+   "type": "Feature",
+   "id": "way/1023966861",
+   "properties": {
+    "amenity": "toilets",
+    "building": "yes",
+    "source:geometry:date": "2016-05-16",
+    "source:geometry:ref": "Gbg/4560901",
+    "id": "way/1023966861",
+    "_lat": "51.1795165",
+    "_lon": "3.1935113",
+    "_layer": "toilet",
+    "_length": "22.24931388152327",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 116504591,
+    "_last_edit:timestamp": "2022-01-23T15:48:16Z",
+    "_version_number": 1,
+    "_geometry:type": "Polygon"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.1934572,
+       51.179528
+      ],
+      [
+       3.1934769,
+       51.1794879
+      ],
+      [
+       3.1935654,
+       51.1795049
+      ],
+      [
+       3.1935457,
+       51.1795451
+      ],
+      [
+       3.1934572,
+       51.179528
+      ]
+     ]
+    ]
+   },
+   "_lon": 3.1935113,
+   "_lat": 51.1795165
   },
   {
    "type": "Feature",
@@ -1135,34 +1248,6 @@
    },
    "_lon": 3.2270433,
    "_lat": 51.2051216
-  },
-  {
-   "type": "Feature",
-   "id": "node/6286720055",
-   "properties": {
-    "amenity": "toilets",
-    "id": "node/6286720055",
-    "_lat": "51.1795083",
-    "_lon": "3.193534",
-    "_layer": "toilet",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "liamrocker",
-    "_last_edit:contributor:uid": 2108413,
-    "_last_edit:changeset": 67326114,
-    "_last_edit:timestamp": "2019-02-18T18:38:23Z",
-    "_version_number": 1,
-    "_geometry:type": "Point"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.193534,
-     51.1795083
-    ]
-   },
-   "_lon": 3.193534,
-   "_lat": 51.1795083
   },
   {
    "type": "Feature",
