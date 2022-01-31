@@ -706,6 +706,7 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "image": "https://i.imgur.com/x3X1w9Q.jpg",
     "id": "node/6795753675",
     "_lat": "51.0755869",
     "_lon": "3.3806251",
@@ -714,9 +715,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "L'imaginaire",
     "_last_edit:contributor:uid": 654234,
-    "_last_edit:changeset": 74480906,
-    "_last_edit:timestamp": "2019-09-14T17:53:42Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 116780133,
+    "_last_edit:timestamp": "2022-01-30T14:04:55Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1305,31 +1306,31 @@
     "amenity": "bench",
     "backrest": "yes",
     "colour": "brown",
-    "image": "https://westnordost.de/p/33451.jpg",
+    "image": "https://i.imgur.com/ZijfpF6.jpg",
     "material": "wood",
     "id": "node/8540725164",
-    "_lat": "51.0736738",
-    "_lon": "3.3703022",
+    "_lat": "51.07371",
+    "_lon": "3.3704001",
     "_layer": "bench",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 101385087,
-    "_last_edit:timestamp": "2021-03-20T12:26:44Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 116786382,
+    "_last_edit:timestamp": "2022-01-30T15:58:19Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.3703022,
-     51.0736738
+     3.3704001,
+     51.07371
     ]
    },
-   "_lon": 3.3703022,
-   "_lat": 51.0736738
+   "_lon": 3.3704001,
+   "_lat": 51.07371
   },
   {
    "type": "Feature",
@@ -1488,17 +1489,19 @@
    "id": "node/9219188228",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "image": "https://i.imgur.com/Uqs6UWa.jpg",
     "id": "node/9219188228",
     "_lat": "51.0773864",
     "_lon": "3.3820817",
     "_layer": "bench",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "A127",
-    "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 113294684,
-    "_last_edit:timestamp": "2021-11-02T17:17:08Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 116780133,
+    "_last_edit:timestamp": "2022-01-30T14:02:01Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1573,6 +1576,68 @@
    },
    "_lon": 3.3541679,
    "_lat": 51.1054843
+  },
+  {
+   "type": "Feature",
+   "id": "node/9460210423",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/vdhp06K.jpg",
+    "id": "node/9460210423",
+    "_lat": "51.0897719",
+    "_lon": "3.352405",
+    "_layer": "bench",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 116780133,
+    "_last_edit:timestamp": "2022-01-30T13:30:56Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.352405,
+     51.0897719
+    ]
+   },
+   "_lon": 3.352405,
+   "_lat": 51.0897719
+  },
+  {
+   "type": "Feature",
+   "id": "node/9460378051",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/XNo11M4.jpg",
+    "id": "node/9460378051",
+    "_lat": "51.0715945",
+    "_lon": "3.3649586",
+    "_layer": "bench",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 116780133,
+    "_last_edit:timestamp": "2022-01-30T14:21:20Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.3649586,
+     51.0715945
+    ]
+   },
+   "_lon": 3.3649586,
+   "_lat": 51.0715945
   }
  ]
 }
