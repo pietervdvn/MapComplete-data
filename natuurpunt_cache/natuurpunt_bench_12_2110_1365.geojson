@@ -567,6 +567,7 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "direction": "85",
     "material": "wood",
     "id": "node/6389039387",
     "_lat": "51.335231",
@@ -574,11 +575,13 @@
     "_layer": "bench",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 85,
+    "_direction:leftright": "right",
     "_last_edit:contributor": "r0di",
     "_last_edit:contributor:uid": 4737001,
-    "_last_edit:changeset": 92055370,
-    "_last_edit:timestamp": "2020-10-06T14:18:38Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 116833592,
+    "_last_edit:timestamp": "2022-01-31T17:56:59Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "nl"
    },
@@ -1429,6 +1432,35 @@
    },
    "_lon": 5.5164226,
    "_lat": 51.3431658
+  },
+  {
+   "type": "Feature",
+   "id": "node/9462615446",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/9462615446",
+    "_lat": "51.3433211",
+    "_lon": "5.4878713",
+    "_layer": "bench",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "byckel",
+    "_last_edit:contributor:uid": 2195662,
+    "_last_edit:changeset": 116815806,
+    "_last_edit:timestamp": "2022-01-31T10:19:21Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "nl"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4878713,
+     51.3433211
+    ]
+   },
+   "_lon": 5.4878713,
+   "_lat": 51.3433211
   }
  ]
 }
