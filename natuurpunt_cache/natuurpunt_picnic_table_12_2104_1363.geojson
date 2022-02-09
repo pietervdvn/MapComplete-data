@@ -3,6 +3,44 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/1029329279",
+   "properties": {
+    "description": "Reuzenpicnictafel",
+    "leisure": "picnic_table",
+    "id": "way/1029329279",
+    "_lat": "51.42040355",
+    "_lon": "4.981369900000001",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "7.410225287949959",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 117162880,
+    "_last_edit:timestamp": "2022-02-08T14:10:23Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.9813264,
+      51.4203842
+     ],
+     [
+      4.9814134,
+      51.4204229
+     ]
+    ]
+   },
+   "_lon": 4.981369900000001,
+   "_lat": 51.42040355
+  },
+  {
+   "type": "Feature",
    "id": "node/4239325114",
    "properties": {
     "covered": "no",
@@ -221,37 +259,6 @@
    },
    "_lon": 4.9825618,
    "_lat": 51.4218525
-  },
-  {
-   "type": "Feature",
-   "id": "node/5881692431",
-   "properties": {
-    "leisure": "picnic_table",
-    "id": "node/5881692431",
-    "_lat": "51.4204098",
-    "_lon": "4.9813722",
-    "_layer": "picnic_table",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Stinus_Clasius",
-    "_last_edit:contributor:uid": 1086503,
-    "_last_edit:changeset": 62279717,
-    "_last_edit:timestamp": "2018-09-04T13:31:27Z",
-    "_version_number": 1,
-    "_geometry:type": "Point",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.9813722,
-     51.4204098
-    ]
-   },
-   "_lon": 4.9813722,
-   "_lat": 51.4204098
   },
   {
    "type": "Feature",
