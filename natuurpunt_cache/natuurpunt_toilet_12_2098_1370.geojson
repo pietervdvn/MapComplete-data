@@ -77,8 +77,11 @@
    "properties": {
     "access": "yes",
     "amenity": "toilets",
+    "changing_table": "yes",
     "fee": "no",
-    "note": "bevindt zich in visit mechelen",
+    "level": "-1",
+    "location": "Het is goed aangeduid.  Trapje opj voor de balie naar links, nog eens naar links, trap af.",
+    "note": "Bevindt zich in visit mechelen, ik weet niet of er een lift is, ook luierverversing",
     "wheelchair": "yes",
     "id": "node/9476264469",
     "_lat": "51.0276134",
@@ -88,11 +91,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "jospyck",
-    "_last_edit:contributor:uid": 12128135,
-    "_last_edit:changeset": 117010979,
-    "_last_edit:timestamp": "2022-02-04T15:22:56Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "philippec",
+    "_last_edit:contributor:uid": 76884,
+    "_last_edit:changeset": 117209230,
+    "_last_edit:timestamp": "2022-02-09T16:00:06Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -105,6 +108,76 @@
    },
    "_lon": 4.4794074,
    "_lat": 51.0276134
+  },
+  {
+   "type": "Feature",
+   "id": "node/9492726873",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "location": "Hoofdingang naar links, naar rechts en dan aan de rechterkant.  De eerste is voor de mannen.  Er is helemaal geen aanduiding.",
+    "toilets:position": "seated",
+    "id": "node/9492726873",
+    "_lat": "51.028419",
+    "_lon": "4.4760221",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "philippec",
+    "_last_edit:contributor:uid": 76884,
+    "_last_edit:changeset": 117209449,
+    "_last_edit:timestamp": "2022-02-09T16:05:34Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4760221,
+     51.028419
+    ]
+   },
+   "_lon": 4.4760221,
+   "_lat": 51.028419
+  },
+  {
+   "type": "Feature",
+   "id": "node/9492728237",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0",
+    "location": "Slecht aangeduid.  Naar links, bijna op het einde aan de rechterkant.",
+    "id": "node/9492728237",
+    "_lat": "51.0284867",
+    "_lon": "4.4771777",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "philippec",
+    "_last_edit:contributor:uid": 76884,
+    "_last_edit:changeset": 117209230,
+    "_last_edit:timestamp": "2022-02-09T16:00:06Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4771777,
+     51.0284867
+    ]
+   },
+   "_lon": 4.4771777,
+   "_lat": 51.0284867
   }
  ]
 }
