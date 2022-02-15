@@ -73,35 +73,41 @@
    "type": "Feature",
    "id": "node/2159644906",
    "properties": {
-    "board_type": "board",
+    "board_type": "map",
+    "direction": "100",
+    "hiking": "yes",
+    "image": "https://i.imgur.com/twEEXBd.jpg",
     "information": "board",
-    "name": "Wandelnetwerk Kempense Landduinen",
+    "mapillary": "923233471712168",
+    "name": "Wandelnetwerk Het Grote Netewoud",
     "tourism": "information",
     "id": "node/2159644906",
-    "_lat": "51.1421677",
-    "_lon": "5.0616474",
+    "_lat": "51.1420807",
+    "_lon": "5.061689",
     "_layer": "information_board",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "GuyVV",
-    "_last_edit:contributor:uid": 579178,
-    "_last_edit:changeset": 15066137,
-    "_last_edit:timestamp": "2013-02-17T16:46:22Z",
-    "_version_number": 1,
+    "_direction:numerical": 100,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 117337000,
+    "_last_edit:timestamp": "2022-02-12T21:51:45Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.0616474,
-     51.1421677
+     5.061689,
+     51.1420807
     ]
    },
-   "_lon": 5.0616474,
-   "_lat": 51.1421677
+   "_lon": 5.061689,
+   "_lat": 51.1420807
   },
   {
    "type": "Feature",
@@ -479,6 +485,76 @@
    },
    "_lon": 5.0220884,
    "_lat": 51.1500062
+  },
+  {
+   "type": "Feature",
+   "id": "node/9497233639",
+   "properties": {
+    "board_type": "welcome_sign",
+    "direction": "280",
+    "information": "board",
+    "name": "'t Gewad",
+    "tourism": "information",
+    "id": "node/9497233639",
+    "_lat": "51.1424194",
+    "_lon": "5.06171",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 280,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 117272752,
+    "_last_edit:timestamp": "2022-02-11T06:07:34Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.06171,
+     51.1424194
+    ]
+   },
+   "_lon": 5.06171,
+   "_lat": 51.1424194
+  },
+  {
+   "type": "Feature",
+   "id": "node/9497266724",
+   "properties": {
+    "board_type": "map",
+    "information": "board",
+    "tourism": "information",
+    "id": "node/9497266724",
+    "_lat": "51.1420603",
+    "_lon": "5.0552042",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 117273053,
+    "_last_edit:timestamp": "2022-02-11T06:19:30Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0552042,
+     51.1420603
+    ]
+   },
+   "_lon": 5.0552042,
+   "_lat": 51.1420603
   }
  ]
 }
