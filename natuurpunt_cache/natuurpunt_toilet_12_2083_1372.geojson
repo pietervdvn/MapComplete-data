@@ -143,7 +143,10 @@
    "properties": {
     "access": "yes",
     "amenity": "toilets",
+    "changing_table": "yes",
+    "changing_table:location": "wheelchair_toilet",
     "fee": "no",
+    "wheelchair": "yes",
     "id": "node/3371450166",
     "_lat": "50.9447481",
     "_lon": "3.1204873",
@@ -152,11 +155,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Rienux",
-    "_last_edit:contributor:uid": 11911273,
-    "_last_edit:changeset": 112249439,
-    "_last_edit:timestamp": "2021-10-08T07:58:58Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "Dasrakel",
+    "_last_edit:contributor:uid": 673393,
+    "_last_edit:changeset": 117484485,
+    "_last_edit:timestamp": "2022-02-16T16:37:55Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -179,6 +182,8 @@
     "fee": "no",
     "fixme": "map path to the toilets",
     "layer": "-1",
+    "level": "-1",
+    "opening_hours": "Mo-Su 07:30-20:00",
     "id": "node/3371450167",
     "_lat": "50.9465679",
     "_lon": "3.1238787",
@@ -187,11 +192,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Rienux",
-    "_last_edit:contributor:uid": 11911273,
-    "_last_edit:changeset": 112249377,
-    "_last_edit:timestamp": "2021-10-08T07:57:47Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "Dasrakel",
+    "_last_edit:contributor:uid": 673393,
+    "_last_edit:changeset": 117475720,
+    "_last_edit:timestamp": "2022-02-16T13:32:45Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -235,6 +240,74 @@
    },
    "_lon": 3.1257128,
    "_lat": 50.943352
+  },
+  {
+   "type": "Feature",
+   "id": "node/9510498585",
+   "properties": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "toilets:handwashing": "no",
+    "id": "node/9510498585",
+    "_lat": "50.9458789",
+    "_lon": "3.1287298",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Dasrakel",
+    "_last_edit:contributor:uid": 673393,
+    "_last_edit:changeset": 117475720,
+    "_last_edit:timestamp": "2022-02-16T12:57:05Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.1287298,
+     50.9458789
+    ]
+   },
+   "_lon": 3.1287298,
+   "_lat": 50.9458789
+  },
+  {
+   "type": "Feature",
+   "id": "node/9510773897",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "charge": "0.50",
+    "fee": "yes",
+    "opening_hours": "Mo-Su 06:30-20:00",
+    "id": "node/9510773897",
+    "_lat": "50.9491472",
+    "_lon": "3.1300655",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Dasrakel",
+    "_last_edit:contributor:uid": 673393,
+    "_last_edit:changeset": 117481817,
+    "_last_edit:timestamp": "2022-02-16T15:34:14Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.1300655,
+     50.9491472
+    ]
+   },
+   "_lon": 3.1300655,
+   "_lat": 50.9491472
   }
  ]
 }
