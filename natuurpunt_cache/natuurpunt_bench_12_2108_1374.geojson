@@ -942,6 +942,7 @@
    "id": "node/5080012685",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
     "colour": "blue",
     "material": "metal",
     "seats": "3",
@@ -955,9 +956,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "jozin-belgium",
     "_last_edit:contributor:uid": 1947314,
-    "_last_edit:changeset": 117487334,
-    "_last_edit:timestamp": "2022-02-16T17:50:34Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 117510150,
+    "_last_edit:timestamp": "2022-02-17T09:15:12Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1867,8 +1868,8 @@
     "material": "plastic",
     "seats": "3",
     "id": "node/8795049648",
-    "_lat": "50.8034305",
-    "_lon": "5.3389969",
+    "_lat": "50.803386",
+    "_lon": "5.3391867",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
@@ -1876,21 +1877,21 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "jozin-belgium",
     "_last_edit:contributor:uid": 1947314,
-    "_last_edit:changeset": 105889973,
-    "_last_edit:timestamp": "2021-06-05T16:41:01Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 117524961,
+    "_last_edit:timestamp": "2022-02-17T14:41:00Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.3389969,
-     50.8034305
+     5.3391867,
+     50.803386
     ]
    },
-   "_lon": 5.3389969,
-   "_lat": 50.8034305
+   "_lon": 5.3391867,
+   "_lat": 50.803386
   },
   {
    "type": "Feature",
@@ -2444,6 +2445,182 @@
    },
    "_lon": 5.3335235,
    "_lat": 50.8408349
+  },
+  {
+   "type": "Feature",
+   "id": "node/9514040215",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "plastic",
+    "seats": "3",
+    "id": "node/9514040215",
+    "_lat": "50.8051051",
+    "_lon": "5.3277428",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117524961,
+    "_last_edit:timestamp": "2022-02-17T14:41:00Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3277428,
+     50.8051051
+    ]
+   },
+   "_lon": 5.3277428,
+   "_lat": 50.8051051
+  },
+  {
+   "type": "Feature",
+   "id": "node/9514085517",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "note": "Overdekte zitbank",
+    "seats": "3",
+    "id": "node/9514085517",
+    "_lat": "50.8050826",
+    "_lon": "5.3279326",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117524961,
+    "_last_edit:timestamp": "2022-02-17T14:41:00Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3279326,
+     50.8050826
+    ]
+   },
+   "_lon": 5.3279326,
+   "_lat": 50.8050826
+  },
+  {
+   "type": "Feature",
+   "id": "node/9514085521",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "grey",
+    "material": "plastic",
+    "seats": "4",
+    "id": "node/9514085521",
+    "_lat": "50.8031645",
+    "_lon": "5.340486",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117524961,
+    "_last_edit:timestamp": "2022-02-17T14:41:00Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.340486,
+     50.8031645
+    ]
+   },
+   "_lon": 5.340486,
+   "_lat": 50.8031645
+  },
+  {
+   "type": "Feature",
+   "id": "node/9514085522",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "colour": "grey",
+    "material": "plastic",
+    "seats": "4",
+    "id": "node/9514085522",
+    "_lat": "50.8031616",
+    "_lon": "5.3405188",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117524961,
+    "_last_edit:timestamp": "2022-02-17T14:41:00Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3405188,
+     50.8031616
+    ]
+   },
+   "_lon": 5.3405188,
+   "_lat": 50.8031616
+  },
+  {
+   "type": "Feature",
+   "id": "node/9514085556",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "plastic",
+    "seats": "3",
+    "id": "node/9514085556",
+    "_lat": "50.8038977",
+    "_lon": "5.352344",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117524961,
+    "_last_edit:timestamp": "2022-02-17T14:41:00Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.352344,
+     50.8038977
+    ]
+   },
+   "_lon": 5.352344,
+   "_lat": 50.8038977
   }
  ]
 }

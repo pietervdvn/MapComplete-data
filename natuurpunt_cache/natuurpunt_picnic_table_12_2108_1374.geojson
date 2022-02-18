@@ -490,6 +490,7 @@
    "properties": {
     "bench": "yes",
     "colour": "brown",
+    "covered": "no",
     "leisure": "picnic_table",
     "material": "wood",
     "id": "node/8807211506",
@@ -502,9 +503,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "jozin-belgium",
     "_last_edit:contributor:uid": 1947314,
-    "_last_edit:changeset": 105888849,
-    "_last_edit:timestamp": "2021-06-05T16:15:34Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 117511918,
+    "_last_edit:timestamp": "2022-02-17T09:55:04Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -524,6 +525,7 @@
    "properties": {
     "bench": "yes",
     "colour": "brown,black",
+    "covered": "no",
     "leisure": "picnic_table",
     "material": "plastic",
     "id": "node/8807665782",
@@ -536,9 +538,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "jozin-belgium",
     "_last_edit:contributor:uid": 1947314,
-    "_last_edit:changeset": 105897080,
-    "_last_edit:timestamp": "2021-06-05T20:32:10Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 117511918,
+    "_last_edit:timestamp": "2022-02-17T10:06:39Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -613,6 +615,41 @@
    },
    "_lon": 5.2843956,
    "_lat": 50.8110188
+  },
+  {
+   "type": "Feature",
+   "id": "node/9514085518",
+   "properties": {
+    "bench": "yes",
+    "colour": "brown",
+    "leisure": "picnic_table",
+    "lit": "no",
+    "material": "wood",
+    "id": "node/9514085518",
+    "_lat": "50.8050631",
+    "_lon": "5.3280184",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117524961,
+    "_last_edit:timestamp": "2022-02-17T14:41:00Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3280184,
+     50.8050631
+    ]
+   },
+   "_lon": 5.3280184,
+   "_lat": 50.8050631
   }
  ]
 }
