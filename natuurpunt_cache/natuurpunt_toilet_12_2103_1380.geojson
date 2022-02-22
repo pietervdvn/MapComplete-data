@@ -740,12 +740,13 @@
     "access": "yes",
     "amenity": "toilets",
     "fee": "no",
+    "indoor": "yes",
     "level": "0",
     "toilets:position": "seated;urinal",
     "wheelchair": "yes",
     "id": "node/8946890957",
-    "_lat": "50.4590373",
-    "_lon": "4.8611023",
+    "_lat": "50.4591149",
+    "_lon": "4.861099",
     "_layer": "toilet",
     "_surface": "0",
     "_surface:ha": "0",
@@ -753,21 +754,57 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "cimm",
     "_last_edit:contributor:uid": 3921,
-    "_last_edit:changeset": 117636209,
-    "_last_edit:timestamp": "2022-02-20T12:22:57Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 117675774,
+    "_last_edit:timestamp": "2022-02-21T11:01:28Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.8611023,
-     50.4590373
+     4.861099,
+     50.4591149
     ]
    },
-   "_lon": 4.8611023,
-   "_lat": 50.4590373
+   "_lon": 4.861099,
+   "_lat": 50.4591149
+  },
+  {
+   "type": "Feature",
+   "id": "node/9524045414",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "indoor": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes",
+    "id": "node/9524045414",
+    "_lat": "50.4576551",
+    "_lon": "4.8584795",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 117675774,
+    "_last_edit:timestamp": "2022-02-21T11:01:28Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8584795,
+     50.4576551
+    ]
+   },
+   "_lon": 4.8584795,
+   "_lat": 50.4576551
   }
  ]
 }
