@@ -1216,6 +1216,7 @@
    "id": "node/7995628892",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
     "id": "node/7995628892",
     "_lat": "50.7578316",
     "_lon": "5.3850073",
@@ -1224,11 +1225,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 92283320,
-    "_last_edit:timestamp": "2020-10-10T18:09:49Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117843449,
+    "_last_edit:timestamp": "2022-02-25T10:25:16Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1892,6 +1893,42 @@
    },
    "_lon": 5.4393617,
    "_lat": 50.7762545
+  },
+  {
+   "type": "Feature",
+   "id": "node/9534691445",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "gray",
+    "material": "plastic",
+    "seats": "3",
+    "source": "survey;osm notes",
+    "id": "node/9534691445",
+    "_lat": "50.7571452",
+    "_lon": "5.3624294",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117850971,
+    "_last_edit:timestamp": "2022-02-25T14:15:38Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3624294,
+     50.7571452
+    ]
+   },
+   "_lon": 5.3624294,
+   "_lat": 50.7571452
   }
  ]
 }

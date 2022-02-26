@@ -5,32 +5,33 @@
    "type": "Feature",
    "id": "node/1775157785",
    "properties": {
+    "covered": "no",
     "leisure": "picnic_table",
     "id": "node/1775157785",
-    "_lat": "50.7592666",
-    "_lon": "5.3636969",
+    "_lat": "50.7592301",
+    "_lon": "5.3636721",
     "_layer": "picnic_table",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 103348455,
-    "_last_edit:timestamp": "2021-04-21T14:54:15Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117850971,
+    "_last_edit:timestamp": "2022-02-25T14:15:38Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.3636969,
-     50.7592666
+     5.3636721,
+     50.7592301
     ]
    },
-   "_lon": 5.3636969,
-   "_lat": 50.7592666
+   "_lon": 5.3636721,
+   "_lat": 50.7592301
   },
   {
    "type": "Feature",
@@ -68,7 +69,13 @@
    "type": "Feature",
    "id": "node/2707971908",
    "properties": {
+    "bench": "yes",
+    "colour": "brown",
+    "covered": "no",
     "leisure": "picnic_table",
+    "lit": "no",
+    "material": "wood",
+    "source": "survey",
     "id": "node/2707971908",
     "_lat": "50.7504429",
     "_lon": "5.3878796",
@@ -77,11 +84,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 113170697,
-    "_last_edit:timestamp": "2021-10-30T18:25:07Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117850971,
+    "_last_edit:timestamp": "2022-02-25T14:15:38Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -94,6 +101,43 @@
    },
    "_lon": 5.3878796,
    "_lat": 50.7504429
+  },
+  {
+   "type": "Feature",
+   "id": "node/2707971923",
+   "properties": {
+    "bench": "yes",
+    "colour": "brown",
+    "image": "https://westnordost.de/p/81440.jpg",
+    "leisure": "picnic_table",
+    "lit": "no",
+    "material": "wood",
+    "source": "survey;osm notes",
+    "id": "node/2707971923",
+    "_lat": "50.7536721",
+    "_lon": "5.3826899",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117850971,
+    "_last_edit:timestamp": "2022-02-25T14:15:38Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3826899,
+     50.7536721
+    ]
+   },
+   "_lon": 5.3826899,
+   "_lat": 50.7536721
   },
   {
    "type": "Feature",
