@@ -89,6 +89,7 @@
     "image:2": "https://i.imgur.com/dDZMJB5.jpg",
     "level": "-1",
     "location": "Het is goed aangeduid.  Trapje op voor de balie naar links, nog eens naar links, trap af.  Voor rolstoelen = er is een rolstoellift om aan de balie te geraken, dan links, links. Aan de rechterkant is de lift naar de kelder.",
+    "mapillary": "https://www.mapillary.com/app/?pKey=489694959380720",
     "note": "Bevindt zich in Visit Mechelen.",
     "wheelchair": "yes",
     "id": "node/9476264469",
@@ -101,9 +102,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "philippec",
     "_last_edit:contributor:uid": 76884,
-    "_last_edit:changeset": 117365388,
-    "_last_edit:timestamp": "2022-02-13T18:42:44Z",
-    "_version_number": 7,
+    "_last_edit:changeset": 117919140,
+    "_last_edit:timestamp": "2022-02-27T19:05:11Z",
+    "_version_number": 8,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -233,6 +234,8 @@
     "access": "yes",
     "amenity": "toilets",
     "changing_table": "yes",
+    "description": "Er is een verschoningstafel voor volwassenen.",
+    "fee": "no",
     "location": "Rechtdoor",
     "mapillary": "https://www.mapillary.com/app/?pKey=671186497342146",
     "note": "Heel modern en proper.  Het bezichtigen waard, vooral het gehandicapten WC.",
@@ -247,9 +250,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "philippec",
     "_last_edit:contributor:uid": 76884,
-    "_last_edit:changeset": 117363329,
-    "_last_edit:timestamp": "2022-02-13T17:38:33Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 117920820,
+    "_last_edit:timestamp": "2022-02-27T20:14:00Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -312,6 +315,7 @@
     "fee": "no",
     "female": "yes",
     "location": "Vanuit de tuin, aan de rechterkant.  Dan zijn er ook geen trappen.",
+    "mapillary": "https://www.mapillary.com/app/?pKey=513271170141057",
     "toilets:handwashing": "yes",
     "toilets:paper_supplied": "yes",
     "toilets:position": "seated;urinal",
@@ -326,9 +330,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "philippec",
     "_last_edit:contributor:uid": 76884,
-    "_last_edit:changeset": 117813264,
-    "_last_edit:timestamp": "2022-02-24T13:48:36Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 117919264,
+    "_last_edit:timestamp": "2022-02-27T19:10:30Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -341,6 +345,73 @@
    },
    "_lon": 4.4800498,
    "_lat": 51.0252267
+  },
+  {
+   "type": "Feature",
+   "id": "node/9543752167",
+   "properties": {
+    "amenity": "toilets",
+    "mapillary": "https://www.mapillary.com/app/?pKey=441174937632151",
+    "wheelchair": "yes",
+    "id": "node/9543752167",
+    "_lat": "51.0466071",
+    "_lon": "4.4732172",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "philippec",
+    "_last_edit:contributor:uid": 76884,
+    "_last_edit:changeset": 117923024,
+    "_last_edit:timestamp": "2022-02-27T21:36:25Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4732172,
+     51.0466071
+    ]
+   },
+   "_lon": 4.4732172,
+   "_lat": 51.0466071
+  },
+  {
+   "type": "Feature",
+   "id": "node/9543778584",
+   "properties": {
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "mapillary": "https://www.mapillary.com/app/?pKey=689990912195707",
+    "wheelchair": "yes",
+    "id": "node/9543778584",
+    "_lat": "51.0479473",
+    "_lon": "4.4727124",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "philippec",
+    "_last_edit:contributor:uid": 76884,
+    "_last_edit:changeset": 117923162,
+    "_last_edit:timestamp": "2022-02-27T21:43:00Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4727124,
+     51.0479473
+    ]
+   },
+   "_lon": 4.4727124,
+   "_lat": 51.0479473
   }
  ]
 }
