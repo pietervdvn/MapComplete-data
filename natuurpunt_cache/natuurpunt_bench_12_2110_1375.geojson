@@ -215,6 +215,7 @@
    "id": "node/5080016930",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
     "colour": "blue",
     "material": "metal",
     "seats": "3",
@@ -226,11 +227,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Polyglot",
-    "_last_edit:contributor:uid": 15188,
-    "_last_edit:changeset": 51732470,
-    "_last_edit:timestamp": "2017-09-04T21:55:41Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 117981058,
+    "_last_edit:timestamp": "2022-03-01T13:51:28Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2251,6 +2252,107 @@
    },
    "_lon": 5.4724007,
    "_lat": 50.7737174
+  },
+  {
+   "type": "Feature",
+   "id": "node/9547335368",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "grey",
+    "material": "plastic",
+    "id": "node/9547335368",
+    "_lat": "50.7907818",
+    "_lon": "5.4795617",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Erin76",
+    "_last_edit:contributor:uid": 8982454,
+    "_last_edit:changeset": 117981966,
+    "_last_edit:timestamp": "2022-03-01T14:20:20Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4795617,
+     50.7907818
+    ]
+   },
+   "_lon": 5.4795617,
+   "_lat": 50.7907818
+  },
+  {
+   "type": "Feature",
+   "id": "node/9547335376",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "grey",
+    "material": "plastic",
+    "id": "node/9547335376",
+    "_lat": "50.7854433",
+    "_lon": "5.4777576",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Erin76",
+    "_last_edit:contributor:uid": 8982454,
+    "_last_edit:changeset": 117981966,
+    "_last_edit:timestamp": "2022-03-01T14:20:20Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4777576,
+     50.7854433
+    ]
+   },
+   "_lon": 5.4777576,
+   "_lat": 50.7854433
+  },
+  {
+   "type": "Feature",
+   "id": "node/9547335379",
+   "properties": {
+    "amenity": "bench",
+    "colour": "brown",
+    "material": "wood",
+    "id": "node/9547335379",
+    "_lat": "50.7859389",
+    "_lon": "5.4796789",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Erin76",
+    "_last_edit:contributor:uid": 8982454,
+    "_last_edit:changeset": 117981966,
+    "_last_edit:timestamp": "2022-03-01T14:20:20Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4796789,
+     50.7859389
+    ]
+   },
+   "_lon": 5.4796789,
+   "_lat": 50.7859389
   }
  ]
 }
