@@ -278,6 +278,7 @@
     "level": "1",
     "toilets:handwashing": "yes",
     "toilets:position": "seated;urinal",
+    "wheelchair": "yes",
     "id": "node/9510824240",
     "_lat": "51.0391101",
     "_lon": "4.4593111",
@@ -288,9 +289,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "philippec",
     "_last_edit:contributor:uid": 76884,
-    "_last_edit:changeset": 117482550,
-    "_last_edit:timestamp": "2022-02-16T15:51:12Z",
-    "_version_number": 6,
+    "_last_edit:changeset": 118189505,
+    "_last_edit:timestamp": "2022-03-07T09:43:02Z",
+    "_version_number": 7,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -412,6 +413,42 @@
    },
    "_lon": 4.4727124,
    "_lat": 51.0479473
+  },
+  {
+   "type": "Feature",
+   "id": "node/9560000151",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "mapillary": "https://www.mapillary.com/app/?pKey=380825446789742",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes",
+    "id": "node/9560000151",
+    "_lat": "51.042318",
+    "_lon": "4.4756513",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "philippec",
+    "_last_edit:contributor:uid": 76884,
+    "_last_edit:changeset": 118189505,
+    "_last_edit:timestamp": "2022-03-07T09:40:56Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4756513,
+     51.042318
+    ]
+   },
+   "_lon": 4.4756513,
+   "_lat": 51.042318
   }
  ]
 }
