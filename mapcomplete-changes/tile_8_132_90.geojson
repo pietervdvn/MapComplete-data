@@ -579,6 +579,91 @@
           46.686447
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "lmagreault",
+        "uid": "260065",
+        "editor": "MapComplete 0.15.8",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-02-14T18:21:50Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 8.04362650001831e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 117404833,
+        "host": "pietervdvn.github.io",
+        "path": "mc/develop/",
+        "theme": "benches",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_500m": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7004119499999995,
+          46.579131149999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "dmx_valou",
+        "uid": "13908331",
+        "editor": "MapComplete 0.15.4",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-02-07T19:26:20Z",
+        "reviewed_features": [],
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 117132736,
+        "host": "mapcomplete.osm.be",
+        "theme": "surveillance",
+        "answer": 2,
+        "locale": "fr",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1215835,
+          46.2326336
+        ]
+      }
     }
   ]
 }

@@ -38,6 +38,141 @@
           51.53845695
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "complete_gth",
+        "uid": "9837674",
+        "editor": "MapComplete 0.15.8",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-02-14T20:56:40Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.000100713439680076,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 117410571,
+        "host": "mapcomplete.osm.be",
+        "theme": "street_lighting",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7386792,
+          50.9441082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "complete_gth",
+        "uid": "9837674",
+        "editor": "MapComplete 0.15.8",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-02-13T22:27:05Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 117371343,
+        "host": "mapcomplete.osm.be",
+        "theme": "cyclofix",
+        "answer": 5,
+        "locale": "de",
+        "imagery": "CartoDB.Voyager"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7315329,
+          50.9445605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 87,
+            "name": "Irrelevant tags on highway"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-177394410",
+            "name": "Robert-Koch-Straße",
+            "osm_id": 177394410,
+            "reasons": [
+              87
+            ],
+            "version": 3,
+            "primary_tags": {
+              "highway": "residential"
+            }
+          }
+        ],
+        "user": "complete_gth",
+        "uid": "9837674",
+        "editor": "MapComplete 0.15.8",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-02-13T21:14:43Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 152,
+        "delete": 0,
+        "area": 0.00228942764819996,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 117369597,
+        "host": "mapcomplete.osm.be",
+        "theme": "etymology",
+        "answer": 233,
+        "locale": "de",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7024805,
+          50.94857965
+        ]
+      }
     }
   ]
 }
