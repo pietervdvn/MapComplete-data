@@ -40,8 +40,12 @@
    "id": "node/2277629241",
    "properties": {
     "board_type": "geology",
+    "direction": "270",
+    "image": "https://westnordost.de/p/83106.jpg",
     "information": "board",
     "name": "Natuurreservaat Overbroek",
+    "operator": "Stad Sint-Truiden",
+    "source": "survey;osm notes",
     "tourism": "information",
     "id": "node/2277629241",
     "_lat": "50.7595635",
@@ -51,11 +55,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 270,
+    "_direction:leftright": "left",
     "_last_edit:contributor": "jozin-belgium",
     "_last_edit:contributor:uid": 1947314,
-    "_last_edit:changeset": 102810464,
-    "_last_edit:timestamp": "2021-04-12T14:18:11Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -75,8 +81,12 @@
    "properties": {
     "board_type": "nature",
     "check_date": "2021-04-12",
+    "direction": "90",
+    "image": "https://westnordost.de/p/83102.jpg",
     "information": "board",
     "name": "Bovenloop Steenbornbeek",
+    "operator": "Stad Sint-Truiden",
+    "source": "survey;osm notes",
     "tourism": "information",
     "id": "node/2658104428",
     "_lat": "50.7606162",
@@ -86,11 +96,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 90,
+    "_direction:leftright": "right",
     "_last_edit:contributor": "jozin-belgium",
     "_last_edit:contributor:uid": 1947314,
-    "_last_edit:changeset": 102805724,
-    "_last_edit:timestamp": "2021-04-12T13:56:28Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -169,6 +181,245 @@
    },
    "_lon": 5.2715038,
    "_lat": 50.7778498
+  },
+  {
+   "type": "Feature",
+   "id": "node/8071987053",
+   "properties": {
+    "board_type": "map",
+    "direction": "220",
+    "hiking": "yes",
+    "image": "https://westnordost.de/p/83099.jpg",
+    "information": "board",
+    "name": "Wandelgebied Gelinden",
+    "operator": "Stad Sint-Truiden",
+    "source": "survey;osm notes",
+    "tourism": "information",
+    "id": "node/8071987053",
+    "_lat": "50.7653271",
+    "_lon": "5.2611099",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 220,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2611099,
+     50.7653271
+    ]
+   },
+   "_lon": 5.2611099,
+   "_lat": 50.7653271
+  },
+  {
+   "type": "Feature",
+   "id": "node/9568947932",
+   "properties": {
+    "board_type": "nature",
+    "direction": "270",
+    "image": "https://westnordost.de/p/83107.jpg",
+    "information": "board",
+    "name": "Overbroek Natte Hooilanden",
+    "operator": "Natuurpunt",
+    "source": "streetlevel imagery;survey;osm notes",
+    "tourism": "information",
+    "id": "node/9568947932",
+    "_lat": "50.7599318",
+    "_lon": "5.2635051",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 270,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2635051,
+     50.7599318
+    ]
+   },
+   "_lon": 5.2635051,
+   "_lat": 50.7599318
+  },
+  {
+   "type": "Feature",
+   "id": "node/9568947934",
+   "properties": {
+    "board_type": "geology",
+    "direction": "240",
+    "image": "https://westnordost.de/p/83113.jpg",
+    "information": "board",
+    "name": "Wereldvermaarde mergels van Gelinden",
+    "tourism": "information",
+    "id": "node/9568947934",
+    "_lat": "50.7565223",
+    "_lon": "5.2649153",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 240,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2649153,
+     50.7565223
+    ]
+   },
+   "_lon": 5.2649153,
+   "_lat": 50.7565223
+  },
+  {
+   "type": "Feature",
+   "id": "node/9568947935",
+   "properties": {
+    "board_type": "nature",
+    "direction": "240",
+    "image": "https://westnordost.de/p/83116.jpg",
+    "information": "board",
+    "name": "Wilde Narcis",
+    "operator": "Stad Sint-Truiden",
+    "source": "survey;osm notes",
+    "tourism": "information",
+    "id": "node/9568947935",
+    "_lat": "50.7578848",
+    "_lon": "5.2597795",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 240,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2597795,
+     50.7578848
+    ]
+   },
+   "_lon": 5.2597795,
+   "_lat": 50.7578848
+  },
+  {
+   "type": "Feature",
+   "id": "node/9568947936",
+   "properties": {
+    "board_type": "wildlife",
+    "description": "Tweede, betere afbeelding: https://westnordost.de/p/83119.jpg",
+    "direction": "150",
+    "image": "https://westnordost.de/p/83118.jpg",
+    "information": "board",
+    "name": "Bijenhotel",
+    "operator": "Natuurpunt",
+    "source": "streetlevel imagery;survey;osm notes",
+    "tourism": "information",
+    "id": "node/9568947936",
+    "_lat": "50.7579074",
+    "_lon": "5.2597958",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 150,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2597958,
+     50.7579074
+    ]
+   },
+   "_lon": 5.2597958,
+   "_lat": 50.7579074
+  },
+  {
+   "type": "Feature",
+   "id": "node/9568947967",
+   "properties": {
+    "board_type": "history",
+    "direction": "180",
+    "image": "https://westnordost.de/p/83128.jpg",
+    "information": "board",
+    "name": "Schepenbank Gelinden",
+    "source": "survey;osm notes",
+    "tourism": "information",
+    "id": "node/9568947967",
+    "_lat": "50.7680203",
+    "_lon": "5.2638383",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 180,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2638383,
+     50.7680203
+    ]
+   },
+   "_lon": 5.2638383,
+   "_lat": 50.7680203
   }
  ]
 }

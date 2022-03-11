@@ -36,7 +36,10 @@
    "type": "Feature",
    "id": "node/2277629261",
    "properties": {
+    "bench": "yes",
+    "covered": "no",
     "leisure": "picnic_table",
+    "lit": "no",
     "id": "node/2277629261",
     "_lat": "50.7595384",
     "_lon": "5.2634217",
@@ -45,11 +48,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 93377508,
-    "_last_edit:timestamp": "2020-11-01T18:06:20Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -62,6 +65,43 @@
    },
    "_lon": 5.2634217,
    "_lat": 50.7595384
+  },
+  {
+   "type": "Feature",
+   "id": "node/2658105142",
+   "properties": {
+    "bench": "yes",
+    "colour": "brown",
+    "covered": "no",
+    "leisure": "picnic_table",
+    "lit": "no",
+    "material": "plastic",
+    "source": "survey;osm notes",
+    "id": "node/2658105142",
+    "_lat": "50.767725",
+    "_lon": "5.2574431",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2574431,
+     50.767725
+    ]
+   },
+   "_lon": 5.2574431,
+   "_lat": 50.767725
   },
   {
    "type": "Feature",
@@ -253,6 +293,7 @@
    "type": "Feature",
    "id": "node/6309215583",
    "properties": {
+    "covered": "no",
     "leisure": "picnic_table",
     "id": "node/6309215583",
     "_lat": "50.7605838",
@@ -262,11 +303,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 93375980,
-    "_last_edit:timestamp": "2020-11-01T17:19:02Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118314999,
+    "_last_edit:timestamp": "2022-03-10T10:04:11Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -347,6 +388,7 @@
    "type": "Feature",
    "id": "node/8071987059",
    "properties": {
+    "covered": "no",
     "leisure": "picnic_table",
     "id": "node/8071987059",
     "_lat": "50.7605764",
@@ -356,11 +398,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 93375980,
-    "_last_edit:timestamp": "2020-11-01T17:19:02Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118314999,
+    "_last_edit:timestamp": "2022-03-10T10:04:08Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -405,6 +447,44 @@
    },
    "_lon": 5.2504051,
    "_lat": 50.7389231
+  },
+  {
+   "type": "Feature",
+   "id": "node/9568947933",
+   "properties": {
+    "bench": "yes",
+    "colour": "brown",
+    "covered": "no",
+    "image": "https://westnordost.de/p/83108.jpg",
+    "leisure": "picnic_table",
+    "lit": "no",
+    "material": "wood",
+    "source": "streetlevel imagery;survey;osm notes",
+    "id": "node/9568947933",
+    "_lat": "50.7600667",
+    "_lon": "5.2633703",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118327285,
+    "_last_edit:timestamp": "2022-03-10T14:55:49Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2633703,
+     50.7600667
+    ]
+   },
+   "_lon": 5.2633703,
+   "_lat": 50.7600667
   }
  ]
 }
