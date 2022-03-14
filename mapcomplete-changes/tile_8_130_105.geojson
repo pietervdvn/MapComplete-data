@@ -13,35 +13,37 @@
         ],
         "tags": [],
         "features": [],
-        "user": "brymche",
-        "uid": "491790",
-        "editor": "MapComplete 0.9.14",
-        "comment": "Adding data with #MapComplete for theme #ghostbikes",
+        "user": "Slayne88",
+        "uid": "14768560",
+        "editor": "MapComplete 0.16.5",
+        "comment": "Adding data with #MapComplete for theme #food",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-09-27T02:54:14Z",
+        "date": "2022-03-05T18:02:03Z",
         "reviewed_features": [],
         "create": 1,
-        "modify": 0,
-        "delete": 0,
+        "modify": 2,
+        "delete": 1,
         "area": 0,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 111745566,
+        "id": 118135766,
         "host": "mapcomplete.osm.be",
-        "theme": "ghostbikes",
-        "imagery": "CartoDB.Positron",
-        "language": "en",
-        "theme-creator": "MapComplete"
+        "theme": "food",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "deletion": 1,
+        "deletion:node/9556471822": "testing point"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.6753014,
-          35.2439797
+          2.8848472,
+          30.5800732
         ]
       }
     },
@@ -49,39 +51,44 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "AlexeyTyur",
-        "uid": "10509852",
-        "editor": "MapComplete 0.16.1",
+        "user": "Slayne88",
+        "uid": "14768560",
+        "editor": "MapComplete 0.16.5",
         "comment": "Adding data with #MapComplete for theme #toilets",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-02-21T05:23:45Z",
+        "date": "2022-03-05T18:00:54Z",
         "reviewed_features": [],
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
+        "create": 1,
+        "modify": 0,
+        "delete": 1,
         "area": 0,
-        "is_suspect": false,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117663014,
+        "id": 118135736,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
-        "answer": 1,
         "locale": "en",
         "imagery": "osm",
-        "change_within_500m": 1
+        "deletion": 1,
+        "deletion:node/9556463133": "testing point"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.66929915,
-          34.4169059
+          2.8850269,
+          30.5794058
         ]
       }
     }

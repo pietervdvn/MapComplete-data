@@ -830,10 +830,27 @@
           {
             "id": 4,
             "name": "mass modification"
+          },
+          {
+            "id": 91,
+            "name": "Motorway/trunk geometry modified"
           }
         ],
         "tags": [],
-        "features": [],
+        "features": [
+          {
+            "url": "way-196714838",
+            "name": "Boulevard Louis Pasteur",
+            "osm_id": 196714838,
+            "reasons": [
+              91
+            ],
+            "version": 6,
+            "primary_tags": {
+              "highway": "trunk"
+            }
+          }
+        ],
         "user": "whatismoss",
         "uid": "8427311",
         "editor": "MapComplete 0.13.1",
@@ -1419,6 +1436,85 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "whatismoss",
+        "uid": "8427311",
+        "editor": "MapComplete 0.16.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-02-19T13:13:53Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 35,
+        "delete": 0,
+        "area": 0.00104607415219997,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 117603584,
+        "host": "mapcomplete.osm.be",
+        "theme": "etymology",
+        "answer": 67,
+        "locale": "en",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.967124,
+          50.399339049999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.16.0",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-02-17T13:34:39Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 117521968,
+        "host": "pietervdvn.github.io",
+        "path": "mc/waste-theme/",
+        "theme": "waste",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "SPW_ORTHO_LAST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8436157,
+          50.7039922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "kbentekik",
         "uid": "4495",
         "editor": "MapComplete 0.15.4",
@@ -1492,6 +1588,50 @@
         "coordinates": [
           4.21651575,
           50.48277865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": "joost schouppe",
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "LienV",
+        "uid": "15272266",
+        "editor": "MapComplete 0.16.5",
+        "comment": "Adding data with #MapComplete for theme #toerisme_vlaanderen",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-03-09T09:44:31Z",
+        "reviewed_features": [],
+        "create": 4,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0126033346223101,
+        "is_suspect": true,
+        "harmful": false,
+        "checked": true,
+        "check_date": "2022-03-09T14:05:01.484344Z",
+        "id": 118270704,
+        "host": "https://mapcomplete.osm.be/toerisme_vlaanderen.html",
+        "theme": "toerisme_vlaanderen",
+        "answer": 9,
+        "locale": "nl",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.07785225,
+          50.72725785
         ]
       }
     }
