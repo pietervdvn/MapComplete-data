@@ -393,7 +393,11 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
-    "check_date": "2020-12-29",
+    "check_date": "2022-03-14",
+    "colour": "grey",
+    "material": "plastic",
+    "seats": "3",
+    "source": "survey",
     "id": "node/4207081937",
     "_lat": "50.7838271",
     "_lon": "5.2572636",
@@ -402,11 +406,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 96820710,
-    "_last_edit:timestamp": "2021-01-02T18:59:45Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118466125,
+    "_last_edit:timestamp": "2022-03-14T11:27:06Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1135,6 +1139,7 @@
     "amenity": "bench",
     "backrest": "yes",
     "colour": "grey",
+    "direction": "175",
     "material": "plastic",
     "seats": "3",
     "id": "node/8842191992",
@@ -1145,11 +1150,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "jozin-belgium",
-    "_last_edit:contributor:uid": 1947314,
-    "_last_edit:changeset": 106536389,
-    "_last_edit:timestamp": "2021-06-17T14:31:48Z",
-    "_version_number": 1,
+    "_direction:numerical": 175,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Jan Pirard",
+    "_last_edit:contributor:uid": 13678221,
+    "_last_edit:changeset": 118588371,
+    "_last_edit:timestamp": "2022-03-17T11:19:58Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1513,6 +1520,193 @@
    },
    "_lon": 5.2638269,
    "_lat": 50.7680253
+  },
+  {
+   "type": "Feature",
+   "id": "node/9577556630",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
+    "source": "survey;osm notes",
+    "id": "node/9577556630",
+    "_lat": "50.7820635",
+    "_lon": "5.2596763",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118466125,
+    "_last_edit:timestamp": "2022-03-14T11:27:06Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2596763,
+     50.7820635
+    ]
+   },
+   "_lon": 5.2596763,
+   "_lat": 50.7820635
+  },
+  {
+   "type": "Feature",
+   "id": "node/9577556695",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "3",
+    "source": "survey;osm notes",
+    "id": "node/9577556695",
+    "_lat": "50.7864641",
+    "_lon": "5.2636689",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118466125,
+    "_last_edit:timestamp": "2022-03-14T11:27:06Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2636689,
+     50.7864641
+    ]
+   },
+   "_lon": 5.2636689,
+   "_lat": 50.7864641
+  },
+  {
+   "type": "Feature",
+   "id": "node/9577564223",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "grey",
+    "direction": "310",
+    "material": "plastic",
+    "seats": "3",
+    "id": "node/9577564223",
+    "_lat": "50.7831717",
+    "_lon": "5.2652789",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 310,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118466125,
+    "_last_edit:timestamp": "2022-03-14T11:27:06Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2652789,
+     50.7831717
+    ]
+   },
+   "_lon": 5.2652789,
+   "_lat": 50.7831717
+  },
+  {
+   "type": "Feature",
+   "id": "node/9577564224",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "grey",
+    "direction": "320",
+    "material": "plastic",
+    "seats": "3",
+    "id": "node/9577564224",
+    "_lat": "50.7831798",
+    "_lon": "5.2652936",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 320,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118466125,
+    "_last_edit:timestamp": "2022-03-14T11:27:06Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2652936,
+     50.7831798
+    ]
+   },
+   "_lon": 5.2652936,
+   "_lat": 50.7831798
+  },
+  {
+   "type": "Feature",
+   "id": "node/9577564226",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "330",
+    "material": "wood",
+    "seats": "4",
+    "source": "survey;osm notes",
+    "id": "node/9577564226",
+    "_lat": "50.783186",
+    "_lon": "5.2642999",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 330,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 118466125,
+    "_last_edit:timestamp": "2022-03-14T11:27:06Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2642999,
+     50.783186
+    ]
+   },
+   "_lon": 5.2642999,
+   "_lat": 50.783186
   }
  ]
 }

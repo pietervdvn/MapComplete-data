@@ -80,6 +80,11 @@
    "id": "way/206545356",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "image": "https://i.imgur.com/aX3ojwp.jpg",
+    "material": "metal",
+    "seats": "3",
+    "survey:date": "2022-03-12",
     "id": "way/206545356",
     "_lat": "50.84666115",
     "_lon": "3.97424135",
@@ -88,11 +93,11 @@
     "_surface:ha": "0",
     "_length": "1.061602937656902",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Polyglot",
-    "_last_edit:contributor:uid": 15188,
-    "_last_edit:changeset": 15114605,
-    "_last_edit:timestamp": "2013-02-21T17:22:51Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 118483875,
+    "_last_edit:timestamp": "2022-03-14T20:19:30Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be"
    },
@@ -409,6 +414,82 @@
    },
    "_lon": 3.9985992,
    "_lat": 50.8111358
+  },
+  {
+   "type": "Feature",
+   "id": "node/9579214477",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "230",
+    "image": "https://i.imgur.com/oMFipuA.jpg",
+    "material": "4 banken houten zitting en rugleuning met betonnen frame",
+    "seats": "16",
+    "id": "node/9579214477",
+    "_lat": "50.8029548",
+    "_lon": "3.9662039",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 230,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 118483875,
+    "_last_edit:timestamp": "2022-03-14T20:46:06Z",
+    "_version_number": 4,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.9662039,
+     50.8029548
+    ]
+   },
+   "_lon": 3.9662039,
+   "_lat": 50.8029548
+  },
+  {
+   "type": "Feature",
+   "id": "node/9579217566",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "239",
+    "image": "https://i.imgur.com/oXmIC3Y.jpg",
+    "material": "plastic",
+    "seats": "4",
+    "id": "node/9579217566",
+    "_lat": "50.7995881",
+    "_lon": "3.9672339",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 239,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 118483875,
+    "_last_edit:timestamp": "2022-03-14T20:50:53Z",
+    "_version_number": 4,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.9672339,
+     50.7995881
+    ]
+   },
+   "_lon": 3.9672339,
+   "_lat": 50.7995881
   }
  ]
 }
