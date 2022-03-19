@@ -5,32 +5,28 @@
    "type": "Feature",
    "id": "way/23399163",
    "properties": {
-    "bicycle": "yes",
-    "highway": "path",
+    "highway": "footway",
     "surface": "compacted",
-    "vehicle": "no",
     "id": "way/23399163",
-    "_lat": "51.127691600000006",
+    "_lat": "51.12765415",
     "_lon": "4.57057985",
     "_layer": "slow_roads",
-    "_length": "209.70181097461656",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "201.1358754624303",
     "_length:km": "0.2",
-    "_last_edit:contributor": "Kevin@RouteYou",
-    "_last_edit:contributor:uid": 678643,
-    "_last_edit:changeset": 76402349,
-    "_last_edit:timestamp": "2019-10-30T15:16:54Z",
-    "_version_number": 12,
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 116469856,
+    "_last_edit:timestamp": "2022-01-22T15:20:35Z",
+    "_version_number": 13,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
     "coordinates": [
-     [
-      4.5707245,
-      51.1284739
-     ],
      [
       4.5706958,
       51.128399
@@ -122,7 +118,7 @@
     ]
    },
    "_lon": 4.57057985,
-   "_lat": 51.127691600000006,
+   "_lat": 51.12765415,
    "_is_patched": true
   },
   {
@@ -137,6 +133,8 @@
     "_lat": "51.12670715",
     "_lon": "4.5704576",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "81.10978232241646",
     "_length:km": "0.1",
     "_last_edit:contributor": "Kevin@RouteYou",
@@ -145,8 +143,8 @@
     "_last_edit:timestamp": "2019-10-30T15:16:54Z",
     "_version_number": 9,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -163,111 +161,6 @@
    },
    "_lon": 4.5704576,
    "_lat": 51.12670715,
-   "_is_patched": true
-  },
-  {
-   "type": "Feature",
-   "id": "way/29464778",
-   "properties": {
-    "bicycle": "yes",
-    "highway": "pedestrian",
-    "maxspeed": "30",
-    "name": "Papegaaistraat",
-    "oneway": "no",
-    "id": "way/29464778",
-    "_lat": "51.129413150000005",
-    "_lon": "4.57037445",
-    "_layer": "slow_roads",
-    "_length": "56.57432611187812",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "Ronnie Nys",
-    "_last_edit:contributor:uid": 2479598,
-    "_last_edit:changeset": 60263395,
-    "_last_edit:timestamp": "2018-06-29T01:34:26Z",
-    "_version_number": 9,
-    "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.5701228,
-      51.1292138
-     ],
-     [
-      4.570383,
-      51.1294105
-     ],
-     [
-      4.5706261,
-      51.1296125
-     ]
-    ]
-   },
-   "_lon": 4.57037445,
-   "_lat": 51.129413150000005,
-   "_is_patched": true
-  },
-  {
-   "type": "Feature",
-   "id": "way/232009566",
-   "properties": {
-    "bicycle": "yes @ Mo-Fr 00:00-24:00;Sa 00:00-12:00",
-    "highway": "path",
-    "name": "Vest",
-    "note": "bicycles not permitted from saturday 12:00 till sunday 23:59",
-    "id": "way/232009566",
-    "_lat": "51.1371298",
-    "_lon": "4.570935349999999",
-    "_layer": "slow_roads",
-    "_length": "140.23014109469327",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "koninklijke",
-    "_last_edit:contributor:uid": 2029979,
-    "_last_edit:changeset": 63865066,
-    "_last_edit:timestamp": "2018-10-25T12:09:44Z",
-    "_version_number": 4,
-    "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.5699437,
-      51.1370834
-     ],
-     [
-      4.5701972,
-      51.1371335
-     ],
-     [
-      4.5705283,
-      51.1371762
-     ],
-     [
-      4.5707896,
-      51.1371762
-     ],
-     [
-      4.5711261,
-      51.1371549
-     ],
-     [
-      4.5716022,
-      51.137147
-     ],
-     [
-      4.571927,
-      51.1371093
-     ]
-    ]
-   },
-   "_lon": 4.570935349999999,
-   "_lat": 51.1371298,
    "_is_patched": true
   },
   {
@@ -289,6 +182,8 @@
     "_lat": "51.1305872",
     "_lon": "4.57029515",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "60.23893198643837",
     "_length:km": "0.1",
     "_last_edit:contributor": "dejakke",
@@ -297,8 +192,8 @@
     "_last_edit:timestamp": "2021-04-25T13:59:02Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -327,73 +222,25 @@
   },
   {
    "type": "Feature",
-   "id": "way/553833815",
-   "properties": {
-    "highway": "path",
-    "surface": "compacted",
-    "id": "way/553833815",
-    "_lat": "51.12797885",
-    "_lon": "4.5705828",
-    "_layer": "slow_roads",
-    "_length": "43.535776813442446",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Kevin@RouteYou",
-    "_last_edit:contributor:uid": 678643,
-    "_last_edit:changeset": 76402349,
-    "_last_edit:timestamp": "2019-10-30T15:16:54Z",
-    "_version_number": 2,
-    "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.5708675,
-      51.1279037
-     ],
-     [
-      4.5707324,
-      51.1279615
-     ],
-     [
-      4.5705688,
-      51.1280053
-     ],
-     [
-      4.5704025,
-      51.1280423
-     ],
-     [
-      4.5702981,
-      51.128054
-     ]
-    ]
-   },
-   "_lon": 4.5705828,
-   "_lat": 51.12797885,
-   "_is_patched": true
-  },
-  {
-   "type": "Feature",
    "id": "way/553833818",
    "properties": {
-    "highway": "path",
+    "highway": "footway",
     "id": "way/553833818",
     "_lat": "51.128438900000006",
     "_lon": "4.5704059",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "22.542765679028268",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Mr_Johny_Lier",
-    "_last_edit:contributor:uid": 5209815,
-    "_last_edit:changeset": 55531236,
-    "_last_edit:timestamp": "2018-01-17T19:44:01Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 116469856,
+    "_last_edit:timestamp": "2022-01-22T15:20:35Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -418,66 +265,6 @@
    },
    "_lon": 4.5704059,
    "_lat": 51.128438900000006,
-   "_is_patched": true
-  },
-  {
-   "type": "Feature",
-   "id": "way/924787954",
-   "properties": {
-    "bicycle": "yes @ Mo-Fr 00:00-24:00;Sa 00:00-12:00",
-    "highway": "path",
-    "name": "Vest",
-    "note": "bicycles not permitted from saturday 12:00 till sunday 23:59",
-    "id": "way/924787954",
-    "_lat": "51.1373825",
-    "_lon": "4.57100005",
-    "_layer": "slow_roads",
-    "_length": "164.09131296199553",
-    "_length:km": "0.2",
-    "_last_edit:contributor": "sh85",
-    "_last_edit:contributor:uid": 1721850,
-    "_last_edit:changeset": 102124011,
-    "_last_edit:timestamp": "2021-04-01T11:54:49Z",
-    "_version_number": 1,
-    "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.5699437,
-      51.1370834
-     ],
-     [
-      4.5700475,
-      51.1371376
-     ],
-     [
-      4.5702842,
-      51.1372693
-     ],
-     [
-      4.5706356,
-      51.1374036
-     ],
-     [
-      4.5708821,
-      51.1374605
-     ],
-     [
-      4.571142,
-      51.1375014
-     ],
-     [
-      4.5720564,
-      51.1376816
-     ]
-    ]
-   },
-   "_lon": 4.57100005,
-   "_lat": 51.1373825,
    "_is_patched": true
   }
  ]

@@ -3,67 +3,313 @@
  "features": [
   {
    "type": "Feature",
-   "id": "way/234070764",
+   "id": "way/25770522",
    "properties": {
-    "access": "designated",
-    "bicycle": "yes",
+    "bicycle": "dismount",
     "foot": "yes",
-    "highway": "path",
-    "horse": "yes",
-    "motor_vehicle": "no",
-    "sidewalk": "none",
-    "surface": "gravel",
-    "id": "way/234070764",
-    "_lat": "51.1719012",
-    "_lon": "4.5036267500000005",
+    "highway": "footway",
+    "layer": "-1",
+    "surface": "paved",
+    "tunnel": "yes",
+    "id": "way/25770522",
+    "_lat": "51.1672047",
+    "_lon": "4.4873723000000005",
     "_layer": "slow_roads",
-    "_length": "72.93206900635859",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "Lange_666",
-    "_last_edit:contributor:uid": 1695957,
-    "_last_edit:changeset": 44181622,
-    "_last_edit:timestamp": "2016-12-05T12:12:40Z",
-    "_version_number": 3,
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "14.976147663241813",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "koninklijke",
+    "_last_edit:contributor:uid": 2029979,
+    "_last_edit:changeset": 73250627,
+    "_last_edit:timestamp": "2019-08-11T20:54:05Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
-    "_is_shadowed": "",
+    "_country": "be",
     "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
     "coordinates": [
      [
-      4.5039858,
-      51.1720538
+      4.4872957,
+      51.1671575
      ],
      [
-      4.5038163,
-      51.1720262
-     ],
-     [
-      4.5037762,
-      51.1720002
-     ],
-     [
-      4.5038059,
-      51.1718504
-     ],
-     [
-      4.5037801,
-      51.1718284
-     ],
-     [
-      4.5034974,
-      51.1717949
-     ],
-     [
-      4.5032677,
-      51.1717486
+      4.4874489,
+      51.1672519
      ]
     ]
    },
-   "_lon": 4.5036267500000005,
-   "_lat": 51.1719012,
-   "_is_patched": true
+   "_lon": 4.4873723000000005,
+   "_lat": 51.1672047,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1672519,
+    "maxLon": 4.4874489,
+    "minLat": 51.1671575,
+    "minLon": 4.4872957
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/25879577",
+   "properties": {
+    "highway": "track",
+    "name": "Sombekestraat",
+    "id": "way/25879577",
+    "_lat": "51.1720508",
+    "_lon": "4.4925728",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "362.415921275714",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "lodde1949",
+    "_last_edit:contributor:uid": 138772,
+    "_last_edit:changeset": 7542375,
+    "_last_edit:timestamp": "2011-03-13T09:45:32Z",
+    "_version_number": 4,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4929687,
+      51.1736047
+     ],
+     [
+      4.4928025,
+      51.1733756
+     ],
+     [
+      4.4925452,
+      51.1730493
+     ],
+     [
+      4.4922767,
+      51.1727258
+     ],
+     [
+      4.4922216,
+      51.1726238
+     ],
+     [
+      4.4921914,
+      51.1725114
+     ],
+     [
+      4.4921769,
+      51.1723322
+     ],
+     [
+      4.4922036,
+      51.1721008
+     ],
+     [
+      4.492238,
+      51.1718992
+     ],
+     [
+      4.4923118,
+      51.1716219
+     ],
+     [
+      4.4923909,
+      51.1713267
+     ],
+     [
+      4.4924469,
+      51.1710592
+     ],
+     [
+      4.4924806,
+      51.1708112
+     ],
+     [
+      4.4924727,
+      51.1705953
+     ],
+     [
+      4.4923423,
+      51.1704969
+     ]
+    ]
+   },
+   "_lon": 4.4925728,
+   "_lat": 51.1720508,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1736047,
+    "maxLon": 4.4929687,
+    "minLat": 51.1704969,
+    "minLon": 4.4921769
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/150696151",
+   "properties": {
+    "bicycle": "yes",
+    "highway": "footway",
+    "lit": "yes",
+    "name": "Smalleweg",
+    "segregated": "no",
+    "surface": "sett",
+    "id": "way/150696151",
+    "_lat": "51.165414",
+    "_lon": "4.4956613",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "191.00213645752507",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 116029842,
+    "_last_edit:timestamp": "2022-01-11T15:55:18Z",
+    "_version_number": 10,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4957102,
+      51.1662319
+     ],
+     [
+      4.4957116,
+      51.1662071
+     ],
+     [
+      4.4957424,
+      51.1656528
+     ],
+     [
+      4.4957832,
+      51.1651039
+     ],
+     [
+      4.4957746,
+      51.1650847
+     ],
+     [
+      4.4957444,
+      51.1650641
+     ],
+     [
+      4.4956492,
+      51.1650292
+     ],
+     [
+      4.4955922,
+      51.1649922
+     ],
+     [
+      4.4955522,
+      51.1649506
+     ],
+     [
+      4.4955394,
+      51.164916
+     ],
+     [
+      4.4955469,
+      51.1649012
+     ],
+     [
+      4.4955624,
+      51.1648547
+     ],
+     [
+      4.495645,
+      51.1646341
+     ],
+     [
+      4.4956022,
+      51.1645961
+     ]
+    ]
+   },
+   "_lon": 4.4956613,
+   "_lat": 51.165414,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1662319,
+    "maxLon": 4.4957832,
+    "minLat": 51.1645961,
+    "minLon": 4.4955394
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/398802385",
+   "properties": {
+    "bicycle": "designated",
+    "foot": "designated",
+    "highway": "path",
+    "surface": "paved",
+    "id": "way/398802385",
+    "_lat": "51.170397550000004",
+    "_lon": "4.5042629000000005",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "68.79255979663971",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 55300258,
+    "_last_edit:timestamp": "2018-01-09T18:18:18Z",
+    "_version_number": 6,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5041437,
+      51.1706701
+     ],
+     [
+      4.5042036,
+      51.1706695
+     ],
+     [
+      4.5043588,
+      51.1702241
+     ],
+     [
+      4.5043751,
+      51.1701691
+     ],
+     [
+      4.5043821,
+      51.1701438
+     ],
+     [
+      4.5043194,
+      51.170125
+     ]
+    ]
+   },
+   "_lon": 4.5042629000000005,
+   "_lat": 51.170397550000004,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1706701,
+    "maxLon": 4.5043821,
+    "minLat": 51.170125,
+    "minLon": 4.5041437
+   }
   },
   {
    "type": "Feature",
@@ -74,6 +320,8 @@
     "_lat": "51.16894795",
     "_lon": "4.49981275",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "30.346346159088068",
     "_length:km": "0.0",
     "_last_edit:contributor": "MCO666",
@@ -82,7 +330,7 @@
     "_last_edit:timestamp": "2017-01-27T14:34:15Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_is_shadowed": "",
+    "_country": "be",
     "_part_of_walking_routes": ""
    },
    "geometry": {
@@ -100,7 +348,13 @@
    },
    "_lon": 4.49981275,
    "_lat": 51.16894795,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1689621,
+    "maxLon": 4.5000292,
+    "minLat": 51.1689338,
+    "minLon": 4.4995963
+   }
   },
   {
    "type": "Feature",
@@ -114,6 +368,8 @@
     "_lat": "51.16865935",
     "_lon": "4.49988815",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "32.898933172185934",
     "_length:km": "0.0",
     "_last_edit:contributor": "MCO666",
@@ -122,7 +378,7 @@
     "_last_edit:timestamp": "2017-01-27T14:34:15Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_is_shadowed": "",
+    "_country": "be",
     "_part_of_walking_routes": ""
    },
    "geometry": {
@@ -140,7 +396,543 @@
    },
    "_lon": 4.49988815,
    "_lat": 51.16865935,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1686728,
+    "maxLon": 4.5001231,
+    "minLat": 51.1686459,
+    "minLon": 4.4996532
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/489150753",
+   "properties": {
+    "highway": "footway",
+    "id": "way/489150753",
+    "_lat": "51.16841905",
+    "_lon": "4.49408535",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "109.17476249846439",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 89469266,
+    "_last_edit:timestamp": "2020-08-16T11:25:24Z",
+    "_version_number": 4,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4948481,
+      51.168317
+     ],
+     [
+      4.4945347,
+      51.168351
+     ],
+     [
+      4.4942281,
+      51.1683757
+     ],
+     [
+      4.493897,
+      51.1684078
+     ],
+     [
+      4.493801,
+      51.1684218
+     ],
+     [
+      4.4937567,
+      51.1684247
+     ],
+     [
+      4.4935817,
+      51.1684637
+     ],
+     [
+      4.493407,
+      51.1685026
+     ],
+     [
+      4.4933226,
+      51.1685211
+     ]
+    ]
+   },
+   "_lon": 4.49408535,
+   "_lat": 51.16841905,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1685211,
+    "maxLon": 4.4948481,
+    "minLat": 51.168317,
+    "minLon": 4.4933226
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/489150755",
+   "properties": {
+    "highway": "footway",
+    "layer": "-1",
+    "id": "way/489150755",
+    "_lat": "51.1687029",
+    "_lon": "4.49414945",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "109.07808150426528",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 89469266,
+    "_last_edit:timestamp": "2020-08-16T11:25:24Z",
+    "_version_number": 4,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4949236,
+      51.1686327
+     ],
+     [
+      4.4946112,
+      51.1686629
+     ],
+     [
+      4.4942853,
+      51.1686915
+     ],
+     [
+      4.4939754,
+      51.1687208
+     ],
+     [
+      4.4938663,
+      51.1687305
+     ],
+     [
+      4.4938406,
+      51.1687328
+     ],
+     [
+      4.4934425,
+      51.1687682
+     ],
+     [
+      4.4933753,
+      51.1687731
+     ]
+    ]
+   },
+   "_lon": 4.49414945,
+   "_lat": 51.1687029,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1687731,
+    "maxLon": 4.4949236,
+    "minLat": 51.1686327,
+    "minLon": 4.4933753
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/551959676",
+   "properties": {
+    "highway": "path",
+    "id": "way/551959676",
+    "_lat": "51.16919315",
+    "_lon": "4.50511975",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "396.13318134726075",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 70448708,
+    "_last_edit:timestamp": "2019-05-20T16:50:21Z",
+    "_version_number": 5,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5043751,
+      51.1701691
+     ],
+     [
+      4.5045951,
+      51.1701967
+     ],
+     [
+      4.5046475,
+      51.1701999
+     ],
+     [
+      4.504698,
+      51.1701976
+     ],
+     [
+      4.5047463,
+      51.1701854
+     ],
+     [
+      4.5047744,
+      51.1701646
+     ],
+     [
+      4.5048019,
+      51.1701217
+     ],
+     [
+      4.5048252,
+      51.1700949
+     ],
+     [
+      4.5048746,
+      51.1700834
+     ],
+     [
+      4.5049219,
+      51.1700688
+     ],
+     [
+      4.5049718,
+      51.1700451
+     ],
+     [
+      4.5050149,
+      51.1700189
+     ],
+     [
+      4.5050482,
+      51.1699845
+     ],
+     [
+      4.5050651,
+      51.1699344
+     ],
+     [
+      4.5050946,
+      51.1698066
+     ],
+     [
+      4.5051295,
+      51.1697713
+     ],
+     [
+      4.505285,
+      51.1696838
+     ],
+     [
+      4.5053092,
+      51.1696048
+     ],
+     [
+      4.5053896,
+      51.169561
+     ],
+     [
+      4.5054218,
+      51.1695072
+     ],
+     [
+      4.5054835,
+      51.1694971
+     ],
+     [
+      4.5055479,
+      51.1694618
+     ],
+     [
+      4.5056337,
+      51.1694584
+     ],
+     [
+      4.5057383,
+      51.1694837
+     ],
+     [
+      4.5057759,
+      51.1694786
+     ],
+     [
+      4.5057839,
+      51.1694383
+     ],
+     [
+      4.5057158,
+      51.1690712
+     ],
+     [
+      4.5056847,
+      51.1689875
+     ],
+     [
+      4.5056981,
+      51.1688967
+     ],
+     [
+      4.5057356,
+      51.1688362
+     ],
+     [
+      4.5058467,
+      51.1687632
+     ],
+     [
+      4.5058642,
+      51.1687354
+     ],
+     [
+      4.5058644,
+      51.1687022
+     ],
+     [
+      4.505842,
+      51.1686243
+     ],
+     [
+      4.5058376,
+      51.168584
+     ],
+     [
+      4.5058489,
+      51.1685216
+     ],
+     [
+      4.5058466,
+      51.1683977
+     ],
+     [
+      4.5058382,
+      51.1683274
+     ],
+     [
+      4.5058284,
+      51.1682705
+     ],
+     [
+      4.5058121,
+      51.1682389
+     ],
+     [
+      4.5057796,
+      51.16821
+     ],
+     [
+      4.5057422,
+      51.1681957
+     ],
+     [
+      4.5057048,
+      51.168187
+     ],
+     [
+      4.5056591,
+      51.1681864
+     ],
+     [
+      4.5056156,
+      51.1682007
+     ],
+     [
+      4.5055656,
+      51.1682236
+     ],
+     [
+      4.5055131,
+      51.1682675
+     ],
+     [
+      4.5054267,
+      51.1683499
+     ],
+     [
+      4.5053602,
+      51.1684261
+     ],
+     [
+      4.5053136,
+      51.1684791
+     ],
+     [
+      4.5052931,
+      51.1685141
+     ],
+     [
+      4.5052834,
+      51.1685479
+     ],
+     [
+      4.5052852,
+      51.168597
+     ],
+     [
+      4.505272,
+      51.1686539
+     ],
+     [
+      4.5052461,
+      51.1686789
+     ],
+     [
+      4.5051925,
+      51.1687038
+     ],
+     [
+      4.5051393,
+      51.1687143
+     ],
+     [
+      4.505086,
+      51.1687194
+     ],
+     [
+      4.5050316,
+      51.1687176
+     ],
+     [
+      4.5049822,
+      51.1687045
+     ],
+     [
+      4.5048825,
+      51.1686533
+     ]
+    ]
+   },
+   "_lon": 4.50511975,
+   "_lat": 51.16919315,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1701999,
+    "maxLon": 4.5058644,
+    "minLat": 51.1681864,
+    "minLon": 4.5043751
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/626398044",
+   "properties": {
+    "highway": "track",
+    "id": "way/626398044",
+    "_lat": "51.1782252",
+    "_lon": "4.48671865",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "113.04558488466074",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "JanFi",
+    "_last_edit:contributor:uid": 672253,
+    "_last_edit:changeset": 62695506,
+    "_last_edit:timestamp": "2018-09-18T12:32:22Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4874966,
+      51.1783684
+     ],
+     [
+      4.4873989,
+      51.1783508
+     ],
+     [
+      4.4861953,
+      51.1781244
+     ],
+     [
+      4.4859407,
+      51.178082
+     ]
+    ]
+   },
+   "_lon": 4.48671865,
+   "_lat": 51.1782252,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1783684,
+    "maxLon": 4.4874966,
+    "minLat": 51.178082,
+    "minLon": 4.4859407
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/626398045",
+   "properties": {
+    "highway": "track",
+    "id": "way/626398045",
+    "_lat": "51.17663015",
+    "_lon": "4.48689585",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "209.66721345987744",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "Globelotter",
+    "_last_edit:contributor:uid": 6141733,
+    "_last_edit:changeset": 104837164,
+    "_last_edit:timestamp": "2021-05-17T16:09:48Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4873762,
+      51.1757371
+     ],
+     [
+      4.486894,
+      51.1766795
+     ],
+     [
+      4.4865856,
+      51.1772621
+     ],
+     [
+      4.4864155,
+      51.1775232
+     ]
+    ]
+   },
+   "_lon": 4.48689585,
+   "_lat": 51.17663015,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1775232,
+    "maxLon": 4.4873762,
+    "minLat": 51.1757371,
+    "minLon": 4.4864155
+   }
   },
   {
    "type": "Feature",
@@ -151,6 +943,8 @@
     "_lat": "51.167359",
     "_lon": "4.50335705",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "50.74510396763124",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -159,7 +953,7 @@
     "_last_edit:timestamp": "2019-05-20T11:18:30Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_is_shadowed": "",
+    "_country": "be",
     "_part_of_walking_routes": ""
    },
    "geometry": {
@@ -177,7 +971,1783 @@
    },
    "_lon": 4.50335705,
    "_lat": 51.167359,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1675608,
+    "maxLon": 4.5035269,
+    "minLat": 51.1671572,
+    "minLon": 4.5031872
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/691207459",
+   "properties": {
+    "highway": "path",
+    "id": "way/691207459",
+    "_lat": "51.168517949999995",
+    "_lon": "4.5038021",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "284.4436015808189",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 70436979,
+    "_last_edit:timestamp": "2019-05-20T11:30:38Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5030687,
+      51.1688735
+     ],
+     [
+      4.5030743,
+      51.1687163
+     ],
+     [
+      4.5030901,
+      51.168673
+     ],
+     [
+      4.503116,
+      51.1686406
+     ],
+     [
+      4.5031318,
+      51.1686
+     ],
+     [
+      4.5031361,
+      51.1685631
+     ],
+     [
+      4.5031117,
+      51.1685468
+     ],
+     [
+      4.5030498,
+      51.1685405
+     ],
+     [
+      4.502988,
+      51.1685504
+     ],
+     [
+      4.5029277,
+      51.1685675
+     ],
+     [
+      4.5028917,
+      51.1685874
+     ],
+     [
+      4.5028443,
+      51.1685919
+     ],
+     [
+      4.5027954,
+      51.168582
+     ],
+     [
+      4.5027638,
+      51.1685675
+     ],
+     [
+      4.5027361,
+      51.1685459
+     ],
+     [
+      4.5027217,
+      51.1685198
+     ],
+     [
+      4.5027232,
+      51.1684963
+     ],
+     [
+      4.5027548,
+      51.1684657
+     ],
+     [
+      4.5027907,
+      51.1684351
+     ],
+     [
+      4.5028022,
+      51.1684053
+     ],
+     [
+      4.5027965,
+      51.1683684
+     ],
+     [
+      4.5028108,
+      51.1683251
+     ],
+     [
+      4.5028295,
+      51.1682927
+     ],
+     [
+      4.5028597,
+      51.168239
+     ],
+     [
+      4.5028899,
+      51.1681985
+     ],
+     [
+      4.5029258,
+      51.1681769
+     ],
+     [
+      4.5029704,
+      51.1681706
+     ],
+     [
+      4.5030308,
+      51.1681624
+     ],
+     [
+      4.5030911,
+      51.1681633
+     ],
+     [
+      4.5031559,
+      51.1681742
+     ],
+     [
+      4.5032048,
+      51.1681751
+     ],
+     [
+      4.5032436,
+      51.168166
+     ],
+     [
+      4.5032924,
+      51.1681642
+     ],
+     [
+      4.5033542,
+      51.1681724
+     ],
+     [
+      4.5034132,
+      51.1681895
+     ],
+     [
+      4.5034779,
+      51.1682075
+     ],
+     [
+      4.5035397,
+      51.1682201
+     ],
+     [
+      4.5035799,
+      51.168221
+     ],
+     [
+      4.5036302,
+      51.1682147
+     ],
+     [
+      4.5036935,
+      51.168212
+     ],
+     [
+      4.5037788,
+      51.168212
+     ],
+     [
+      4.5038549,
+      51.1682174
+     ],
+     [
+      4.5039153,
+      51.1682318
+     ],
+     [
+      4.5039656,
+      51.1682571
+     ],
+     [
+      4.5040073,
+      51.1682877
+     ],
+     [
+      4.5040404,
+      51.1683157
+     ],
+     [
+      4.5040993,
+      51.1683292
+     ],
+     [
+      4.5041812,
+      51.1683418
+     ],
+     [
+      4.5042626,
+      51.168358
+     ],
+     [
+      4.504323,
+      51.1683679
+     ],
+     [
+      4.5043676,
+      51.1683652
+     ],
+     [
+      4.5043978,
+      51.1683499
+     ],
+     [
+      4.5044294,
+      51.1683238
+     ],
+     [
+      4.5044567,
+      51.1682958
+     ],
+     [
+      4.5044854,
+      51.1682787
+     ],
+     [
+      4.5045199,
+      51.1682751
+     ],
+     [
+      4.5045386,
+      51.1682931
+     ],
+     [
+      4.5046181,
+      51.1683941
+     ],
+     [
+      4.5047604,
+      51.1685616
+     ],
+     [
+      4.5048064,
+      51.1686058
+     ],
+     [
+      4.5048423,
+      51.1686319
+     ],
+     [
+      4.5048825,
+      51.1686533
+     ]
+    ]
+   },
+   "_lon": 4.5038021,
+   "_lat": 51.168517949999995,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1688735,
+    "maxLon": 4.5048825,
+    "minLat": 51.1681624,
+    "minLon": 4.5027217
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/691207463",
+   "properties": {
+    "highway": "path",
+    "id": "way/691207463",
+    "_lat": "51.1687661",
+    "_lon": "4.5040894",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "108.40204309999714",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 102718217,
+    "_last_edit:timestamp": "2021-04-10T22:55:55Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5036102,
+      51.168892
+     ],
+     [
+      4.5036167,
+      51.1687378
+     ],
+     [
+      4.5037495,
+      51.1686402
+     ],
+     [
+      4.5038275,
+      51.16865
+     ],
+     [
+      4.5045686,
+      51.1687538
+     ],
+     [
+      4.5045511,
+      51.1687976
+     ],
+     [
+      4.5045294,
+      51.1688413
+     ],
+     [
+      4.5044814,
+      51.1688659
+     ],
+     [
+      4.5044289,
+      51.1688817
+     ]
+    ]
+   },
+   "_lon": 4.5040894,
+   "_lat": 51.1687661,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.168892,
+    "maxLon": 4.5045686,
+    "minLat": 51.1686402,
+    "minLon": 4.5036102
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/712702319",
+   "properties": {
+    "bicycle": "dismount",
+    "foot": "yes",
+    "highway": "footway",
+    "lit": "yes",
+    "surface": "paving_stones",
+    "id": "way/712702319",
+    "_lat": "51.167181150000005",
+    "_lon": "4.4870579500000005",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "37.068170533769276",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "eddii",
+    "_last_edit:contributor:uid": 3720324,
+    "_last_edit:changeset": 80097752,
+    "_last_edit:timestamp": "2020-01-26T13:57:32Z",
+    "_version_number": 5,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4868202,
+      51.1671673
+     ],
+     [
+      4.4868309,
+      51.1672048
+     ],
+     [
+      4.4872957,
+      51.1671575
+     ]
+    ]
+   },
+   "_lon": 4.4870579500000005,
+   "_lat": 51.167181150000005,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1672048,
+    "maxLon": 4.4872957,
+    "minLat": 51.1671575,
+    "minLon": 4.4868202
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/840597041",
+   "properties": {
+    "highway": "living_street",
+    "name": "Rode Leeuwplein",
+    "surface": "paving_stones",
+    "id": "way/840597041",
+    "_lat": "51.1654487",
+    "_lon": "4.493498450000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "159.54923903655464",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 101522541,
+    "_last_edit:timestamp": "2021-03-22T18:13:11Z",
+    "_version_number": 3,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4927788,
+      51.1657282
+     ],
+     [
+      4.4932946,
+      51.165746
+     ],
+     [
+      4.4934604,
+      51.1656994
+     ],
+     [
+      4.4941693,
+      51.165703
+     ],
+     [
+      4.4942181,
+      51.1651514
+     ]
+    ]
+   },
+   "_lon": 4.493498450000001,
+   "_lat": 51.1654487,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.165746,
+    "maxLon": 4.4942181,
+    "minLat": 51.1651514,
+    "minLon": 4.4927788
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/912829855",
+   "properties": {
+    "highway": "path",
+    "surface": "ground",
+    "id": "way/912829855",
+    "_lat": "51.165444199999996",
+    "_lon": "4.4965075",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "102.3114640504696",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 100292492,
+    "_last_edit:timestamp": "2021-03-02T16:20:04Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4963573,
+      51.1658878
+     ],
+     [
+      4.4964901,
+      51.1655918
+     ],
+     [
+      4.4964834,
+      51.165522
+     ],
+     [
+      4.4965491,
+      51.1653799
+     ],
+     [
+      4.4966322,
+      51.1652496
+     ],
+     [
+      4.4966577,
+      51.16512
+     ],
+     [
+      4.4966054,
+      51.1650006
+     ]
+    ]
+   },
+   "_lon": 4.4965075,
+   "_lat": 51.165444199999996,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1658878,
+    "maxLon": 4.4966577,
+    "minLat": 51.1650006,
+    "minLon": 4.4963573
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/912829856",
+   "properties": {
+    "highway": "path",
+    "surface": "ground",
+    "id": "way/912829856",
+    "_lat": "51.1654654",
+    "_lon": "4.4961626",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "146.0142053714763",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 100292492,
+    "_last_edit:timestamp": "2021-03-02T16:20:04Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4965097,
+      51.1659874
+     ],
+     [
+      4.4964572,
+      51.1659568
+     ],
+     [
+      4.4963573,
+      51.1658878
+     ],
+     [
+      4.4960797,
+      51.1658424
+     ],
+     [
+      4.4959456,
+      51.1657937
+     ],
+     [
+      4.4958745,
+      51.1656776
+     ],
+     [
+      4.4958597,
+      51.1655203
+     ],
+     [
+      4.4959255,
+      51.1653505
+     ],
+     [
+      4.4959429,
+      51.1652689
+     ],
+     [
+      4.4958745,
+      51.165136
+     ],
+     [
+      4.4958155,
+      51.165057
+     ],
+     [
+      4.4959228,
+      51.1649434
+     ]
+    ]
+   },
+   "_lon": 4.4961626,
+   "_lat": 51.1654654,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1659874,
+    "maxLon": 4.4965097,
+    "minLat": 51.1649434,
+    "minLon": 4.4958155
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/929016065",
+   "properties": {
+    "highway": "path",
+    "id": "way/929016065",
+    "_lat": "51.16872525",
+    "_lon": "4.50383365",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "17.70057169032835",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 102718217,
+    "_last_edit:timestamp": "2021-04-10T22:55:55Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5038573,
+      51.1688005
+     ],
+     [
+      4.5038122,
+      51.1687525
+     ],
+     [
+      4.50381,
+      51.1687129
+     ],
+     [
+      4.5038275,
+      51.16865
+     ]
+    ]
+   },
+   "_lon": 4.50383365,
+   "_lat": 51.16872525,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1688005,
+    "maxLon": 4.5038573,
+    "minLat": 51.16865,
+    "minLon": 4.50381
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/929016066",
+   "properties": {
+    "highway": "path",
+    "id": "way/929016066",
+    "_lat": "51.168189299999995",
+    "_lon": "4.5027943",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "15.61084079328769",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 102718217,
+    "_last_edit:timestamp": "2021-04-10T22:55:55Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5028899,
+      51.1681985
+     ],
+     [
+      4.5028454,
+      51.1681837
+     ],
+     [
+      4.5027859,
+      51.1681727
+     ],
+     [
+      4.5027363,
+      51.1681752
+     ],
+     [
+      4.5026987,
+      51.1682059
+     ]
+    ]
+   },
+   "_lon": 4.5027943,
+   "_lat": 51.168189299999995,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1682059,
+    "maxLon": 4.5028899,
+    "minLat": 51.1681727,
+    "minLon": 4.5026987
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/943948999",
+   "properties": {
+    "highway": "track",
+    "id": "way/943948999",
+    "_lat": "51.17748815",
+    "_lon": "4.4862328",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "26.637756774952194",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Globelotter",
+    "_last_edit:contributor:uid": 6141733,
+    "_last_edit:changeset": 104837164,
+    "_last_edit:timestamp": "2021-05-17T16:09:48Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4864155,
+      51.1775232
+     ],
+     [
+      4.4860501,
+      51.1774531
+     ]
+    ]
+   },
+   "_lon": 4.4862328,
+   "_lat": 51.17748815,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1775232,
+    "maxLon": 4.4864155,
+    "minLat": 51.1774531,
+    "minLon": 4.4860501
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/943949950",
+   "properties": {
+    "highway": "path",
+    "id": "way/943949950",
+    "_lat": "51.1778238",
+    "_lon": "4.4863054",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "68.59012830696008",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Globelotter",
+    "_last_edit:contributor:uid": 6141733,
+    "_last_edit:changeset": 104837311,
+    "_last_edit:timestamp": "2021-05-17T16:12:43Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4861953,
+      51.1781244
+     ],
+     [
+      4.4864155,
+      51.1775232
+     ]
+    ]
+   },
+   "_lon": 4.4863054,
+   "_lat": 51.1778238,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1781244,
+    "maxLon": 4.4864155,
+    "minLat": 51.1775232,
+    "minLon": 4.4861953
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/150696151",
+   "properties": {
+    "bicycle": "yes",
+    "highway": "footway",
+    "lit": "yes",
+    "name": "Smalleweg",
+    "segregated": "no",
+    "surface": "sett",
+    "id": "way/150696151",
+    "_lat": "51.165414",
+    "_lon": "4.4956613",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "191.00213645752507",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 116029842,
+    "_last_edit:timestamp": "2022-01-11T15:55:18Z",
+    "_version_number": 10,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4957102,
+      51.1662319
+     ],
+     [
+      4.4957116,
+      51.1662071
+     ],
+     [
+      4.4957424,
+      51.1656528
+     ],
+     [
+      4.4957832,
+      51.1651039
+     ],
+     [
+      4.4957746,
+      51.1650847
+     ],
+     [
+      4.4957444,
+      51.1650641
+     ],
+     [
+      4.4956492,
+      51.1650292
+     ],
+     [
+      4.4955922,
+      51.1649922
+     ],
+     [
+      4.4955522,
+      51.1649506
+     ],
+     [
+      4.4955394,
+      51.164916
+     ],
+     [
+      4.4955469,
+      51.1649012
+     ],
+     [
+      4.4955624,
+      51.1648547
+     ],
+     [
+      4.495645,
+      51.1646341
+     ],
+     [
+      4.4956022,
+      51.1645961
+     ]
+    ]
+   },
+   "_lon": 4.4956613,
+   "_lat": 51.165414,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1662319,
+    "maxLon": 4.4957832,
+    "minLat": 51.1645961,
+    "minLon": 4.4955394
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/840597041",
+   "properties": {
+    "highway": "living_street",
+    "name": "Rode Leeuwplein",
+    "surface": "paving_stones",
+    "id": "way/840597041",
+    "_lat": "51.1654487",
+    "_lon": "4.493498450000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "159.54923903655464",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 101522541,
+    "_last_edit:timestamp": "2021-03-22T18:13:11Z",
+    "_version_number": 3,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4927788,
+      51.1657282
+     ],
+     [
+      4.4932946,
+      51.165746
+     ],
+     [
+      4.4934604,
+      51.1656994
+     ],
+     [
+      4.4941693,
+      51.165703
+     ],
+     [
+      4.4942181,
+      51.1651514
+     ]
+    ]
+   },
+   "_lon": 4.493498450000001,
+   "_lat": 51.1654487,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.165746,
+    "maxLon": 4.4942181,
+    "minLat": 51.1651514,
+    "minLon": 4.4927788
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/912829855",
+   "properties": {
+    "highway": "path",
+    "surface": "ground",
+    "id": "way/912829855",
+    "_lat": "51.165444199999996",
+    "_lon": "4.4965075",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "102.3114640504696",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 100292492,
+    "_last_edit:timestamp": "2021-03-02T16:20:04Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4963573,
+      51.1658878
+     ],
+     [
+      4.4964901,
+      51.1655918
+     ],
+     [
+      4.4964834,
+      51.165522
+     ],
+     [
+      4.4965491,
+      51.1653799
+     ],
+     [
+      4.4966322,
+      51.1652496
+     ],
+     [
+      4.4966577,
+      51.16512
+     ],
+     [
+      4.4966054,
+      51.1650006
+     ]
+    ]
+   },
+   "_lon": 4.4965075,
+   "_lat": 51.165444199999996,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1658878,
+    "maxLon": 4.4966577,
+    "minLat": 51.1650006,
+    "minLon": 4.4963573
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/912829856",
+   "properties": {
+    "highway": "path",
+    "surface": "ground",
+    "id": "way/912829856",
+    "_lat": "51.1654654",
+    "_lon": "4.4961626",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "146.0142053714763",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 100292492,
+    "_last_edit:timestamp": "2021-03-02T16:20:04Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4965097,
+      51.1659874
+     ],
+     [
+      4.4964572,
+      51.1659568
+     ],
+     [
+      4.4963573,
+      51.1658878
+     ],
+     [
+      4.4960797,
+      51.1658424
+     ],
+     [
+      4.4959456,
+      51.1657937
+     ],
+     [
+      4.4958745,
+      51.1656776
+     ],
+     [
+      4.4958597,
+      51.1655203
+     ],
+     [
+      4.4959255,
+      51.1653505
+     ],
+     [
+      4.4959429,
+      51.1652689
+     ],
+     [
+      4.4958745,
+      51.165136
+     ],
+     [
+      4.4958155,
+      51.165057
+     ],
+     [
+      4.4959228,
+      51.1649434
+     ]
+    ]
+   },
+   "_lon": 4.4961626,
+   "_lat": 51.1654654,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1659874,
+    "maxLon": 4.4965097,
+    "minLat": 51.1649434,
+    "minLon": 4.4958155
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/551959676",
+   "properties": {
+    "highway": "path",
+    "id": "way/551959676",
+    "_lat": "51.16919315",
+    "_lon": "4.50511975",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "396.13318134726075",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 70448708,
+    "_last_edit:timestamp": "2019-05-20T16:50:21Z",
+    "_version_number": 5,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5043751,
+      51.1701691
+     ],
+     [
+      4.5045951,
+      51.1701967
+     ],
+     [
+      4.5046475,
+      51.1701999
+     ],
+     [
+      4.504698,
+      51.1701976
+     ],
+     [
+      4.5047463,
+      51.1701854
+     ],
+     [
+      4.5047744,
+      51.1701646
+     ],
+     [
+      4.5048019,
+      51.1701217
+     ],
+     [
+      4.5048252,
+      51.1700949
+     ],
+     [
+      4.5048746,
+      51.1700834
+     ],
+     [
+      4.5049219,
+      51.1700688
+     ],
+     [
+      4.5049718,
+      51.1700451
+     ],
+     [
+      4.5050149,
+      51.1700189
+     ],
+     [
+      4.5050482,
+      51.1699845
+     ],
+     [
+      4.5050651,
+      51.1699344
+     ],
+     [
+      4.5050946,
+      51.1698066
+     ],
+     [
+      4.5051295,
+      51.1697713
+     ],
+     [
+      4.505285,
+      51.1696838
+     ],
+     [
+      4.5053092,
+      51.1696048
+     ],
+     [
+      4.5053896,
+      51.169561
+     ],
+     [
+      4.5054218,
+      51.1695072
+     ],
+     [
+      4.5054835,
+      51.1694971
+     ],
+     [
+      4.5055479,
+      51.1694618
+     ],
+     [
+      4.5056337,
+      51.1694584
+     ],
+     [
+      4.5057383,
+      51.1694837
+     ],
+     [
+      4.5057759,
+      51.1694786
+     ],
+     [
+      4.5057839,
+      51.1694383
+     ],
+     [
+      4.5057158,
+      51.1690712
+     ],
+     [
+      4.5056847,
+      51.1689875
+     ],
+     [
+      4.5056981,
+      51.1688967
+     ],
+     [
+      4.5057356,
+      51.1688362
+     ],
+     [
+      4.5058467,
+      51.1687632
+     ],
+     [
+      4.5058642,
+      51.1687354
+     ],
+     [
+      4.5058644,
+      51.1687022
+     ],
+     [
+      4.505842,
+      51.1686243
+     ],
+     [
+      4.5058376,
+      51.168584
+     ],
+     [
+      4.5058489,
+      51.1685216
+     ],
+     [
+      4.5058466,
+      51.1683977
+     ],
+     [
+      4.5058382,
+      51.1683274
+     ],
+     [
+      4.5058284,
+      51.1682705
+     ],
+     [
+      4.5058121,
+      51.1682389
+     ],
+     [
+      4.5057796,
+      51.16821
+     ],
+     [
+      4.5057422,
+      51.1681957
+     ],
+     [
+      4.5057048,
+      51.168187
+     ],
+     [
+      4.5056591,
+      51.1681864
+     ],
+     [
+      4.5056156,
+      51.1682007
+     ],
+     [
+      4.5055656,
+      51.1682236
+     ],
+     [
+      4.5055131,
+      51.1682675
+     ],
+     [
+      4.5054267,
+      51.1683499
+     ],
+     [
+      4.5053602,
+      51.1684261
+     ],
+     [
+      4.5053136,
+      51.1684791
+     ],
+     [
+      4.5052931,
+      51.1685141
+     ],
+     [
+      4.5052834,
+      51.1685479
+     ],
+     [
+      4.5052852,
+      51.168597
+     ],
+     [
+      4.505272,
+      51.1686539
+     ],
+     [
+      4.5052461,
+      51.1686789
+     ],
+     [
+      4.5051925,
+      51.1687038
+     ],
+     [
+      4.5051393,
+      51.1687143
+     ],
+     [
+      4.505086,
+      51.1687194
+     ],
+     [
+      4.5050316,
+      51.1687176
+     ],
+     [
+      4.5049822,
+      51.1687045
+     ],
+     [
+      4.5048825,
+      51.1686533
+     ]
+    ]
+   },
+   "_lon": 4.50511975,
+   "_lat": 51.16919315,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1701999,
+    "maxLon": 4.5058644,
+    "minLat": 51.1681864,
+    "minLon": 4.5043751
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/691207459",
+   "properties": {
+    "highway": "path",
+    "id": "way/691207459",
+    "_lat": "51.168517949999995",
+    "_lon": "4.5038021",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "284.4436015808189",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 70436979,
+    "_last_edit:timestamp": "2019-05-20T11:30:38Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5030687,
+      51.1688735
+     ],
+     [
+      4.5030743,
+      51.1687163
+     ],
+     [
+      4.5030901,
+      51.168673
+     ],
+     [
+      4.503116,
+      51.1686406
+     ],
+     [
+      4.5031318,
+      51.1686
+     ],
+     [
+      4.5031361,
+      51.1685631
+     ],
+     [
+      4.5031117,
+      51.1685468
+     ],
+     [
+      4.5030498,
+      51.1685405
+     ],
+     [
+      4.502988,
+      51.1685504
+     ],
+     [
+      4.5029277,
+      51.1685675
+     ],
+     [
+      4.5028917,
+      51.1685874
+     ],
+     [
+      4.5028443,
+      51.1685919
+     ],
+     [
+      4.5027954,
+      51.168582
+     ],
+     [
+      4.5027638,
+      51.1685675
+     ],
+     [
+      4.5027361,
+      51.1685459
+     ],
+     [
+      4.5027217,
+      51.1685198
+     ],
+     [
+      4.5027232,
+      51.1684963
+     ],
+     [
+      4.5027548,
+      51.1684657
+     ],
+     [
+      4.5027907,
+      51.1684351
+     ],
+     [
+      4.5028022,
+      51.1684053
+     ],
+     [
+      4.5027965,
+      51.1683684
+     ],
+     [
+      4.5028108,
+      51.1683251
+     ],
+     [
+      4.5028295,
+      51.1682927
+     ],
+     [
+      4.5028597,
+      51.168239
+     ],
+     [
+      4.5028899,
+      51.1681985
+     ],
+     [
+      4.5029258,
+      51.1681769
+     ],
+     [
+      4.5029704,
+      51.1681706
+     ],
+     [
+      4.5030308,
+      51.1681624
+     ],
+     [
+      4.5030911,
+      51.1681633
+     ],
+     [
+      4.5031559,
+      51.1681742
+     ],
+     [
+      4.5032048,
+      51.1681751
+     ],
+     [
+      4.5032436,
+      51.168166
+     ],
+     [
+      4.5032924,
+      51.1681642
+     ],
+     [
+      4.5033542,
+      51.1681724
+     ],
+     [
+      4.5034132,
+      51.1681895
+     ],
+     [
+      4.5034779,
+      51.1682075
+     ],
+     [
+      4.5035397,
+      51.1682201
+     ],
+     [
+      4.5035799,
+      51.168221
+     ],
+     [
+      4.5036302,
+      51.1682147
+     ],
+     [
+      4.5036935,
+      51.168212
+     ],
+     [
+      4.5037788,
+      51.168212
+     ],
+     [
+      4.5038549,
+      51.1682174
+     ],
+     [
+      4.5039153,
+      51.1682318
+     ],
+     [
+      4.5039656,
+      51.1682571
+     ],
+     [
+      4.5040073,
+      51.1682877
+     ],
+     [
+      4.5040404,
+      51.1683157
+     ],
+     [
+      4.5040993,
+      51.1683292
+     ],
+     [
+      4.5041812,
+      51.1683418
+     ],
+     [
+      4.5042626,
+      51.168358
+     ],
+     [
+      4.504323,
+      51.1683679
+     ],
+     [
+      4.5043676,
+      51.1683652
+     ],
+     [
+      4.5043978,
+      51.1683499
+     ],
+     [
+      4.5044294,
+      51.1683238
+     ],
+     [
+      4.5044567,
+      51.1682958
+     ],
+     [
+      4.5044854,
+      51.1682787
+     ],
+     [
+      4.5045199,
+      51.1682751
+     ],
+     [
+      4.5045386,
+      51.1682931
+     ],
+     [
+      4.5046181,
+      51.1683941
+     ],
+     [
+      4.5047604,
+      51.1685616
+     ],
+     [
+      4.5048064,
+      51.1686058
+     ],
+     [
+      4.5048423,
+      51.1686319
+     ],
+     [
+      4.5048825,
+      51.1686533
+     ]
+    ]
+   },
+   "_lon": 4.5038021,
+   "_lat": 51.168517949999995,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1688735,
+    "maxLon": 4.5048825,
+    "minLat": 51.1681624,
+    "minLon": 4.5027217
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/691207463",
+   "properties": {
+    "highway": "path",
+    "id": "way/691207463",
+    "_lat": "51.1687661",
+    "_lon": "4.5040894",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "108.40204309999714",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 102718217,
+    "_last_edit:timestamp": "2021-04-10T22:55:55Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5036102,
+      51.168892
+     ],
+     [
+      4.5036167,
+      51.1687378
+     ],
+     [
+      4.5037495,
+      51.1686402
+     ],
+     [
+      4.5038275,
+      51.16865
+     ],
+     [
+      4.5045686,
+      51.1687538
+     ],
+     [
+      4.5045511,
+      51.1687976
+     ],
+     [
+      4.5045294,
+      51.1688413
+     ],
+     [
+      4.5044814,
+      51.1688659
+     ],
+     [
+      4.5044289,
+      51.1688817
+     ]
+    ]
+   },
+   "_lon": 4.5040894,
+   "_lat": 51.1687661,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.168892,
+    "maxLon": 4.5045686,
+    "minLat": 51.1686402,
+    "minLon": 4.5036102
+   }
   }
  ]
 }

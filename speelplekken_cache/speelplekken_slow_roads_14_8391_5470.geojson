@@ -17,6 +17,8 @@
     "_lat": "51.2057308",
     "_lon": "4.37131495",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "552.9821941152862",
     "_length:km": "0.6",
     "_last_edit:contributor": "joost schouppe",
@@ -25,8 +27,8 @@
     "_last_edit:timestamp": "2021-12-07T14:34:56Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -61,6 +63,8 @@
     "_lat": "51.19308925",
     "_lon": "4.3757138",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "498.224348844587",
     "_length:km": "0.5",
     "_last_edit:contributor": "Jorisbo",
@@ -69,8 +73,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -121,1533 +125,6 @@
   },
   {
    "type": "Feature",
-   "id": "relation/2121936",
-   "properties": {
-    "area": "yes",
-    "highway": "pedestrian",
-    "type": "multipolygon",
-    "id": "relation/2121936",
-    "_lat": "51.2070628",
-    "_lon": "4.39106275",
-    "_layer": "slow_roads",
-    "_length": "450.4965579566054",
-    "_length:km": "0.5",
-    "_last_edit:contributor": "Eimai",
-    "_last_edit:contributor:uid": 6072,
-    "_last_edit:changeset": 11217238,
-    "_last_edit:timestamp": "2012-04-07T18:15:33Z",
-    "_version_number": 1,
-    "_geometry:type": "Polygon",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3907801,
-       51.2072005
-      ],
-      [
-       4.3907509,
-       51.2071731
-      ],
-      [
-       4.3907315,
-       51.2071479
-      ],
-      [
-       4.390717,
-       51.2071211
-      ],
-      [
-       4.3907074,
-       51.2070902
-      ],
-      [
-       4.3907047,
-       51.2070604
-      ],
-      [
-       4.3907075,
-       51.2070351
-      ],
-      [
-       4.3907192,
-       51.2069997
-      ],
-      [
-       4.3907339,
-       51.2069741
-      ],
-      [
-       4.390756,
-       51.2069472
-      ],
-      [
-       4.3907835,
-       51.2069224
-      ],
-      [
-       4.3908109,
-       51.2069034
-      ],
-      [
-       4.3908399,
-       51.2068872
-      ],
-      [
-       4.3908785,
-       51.2068705
-      ],
-      [
-       4.3909127,
-       51.2068591
-      ],
-      [
-       4.3909425,
-       51.2068515
-      ],
-      [
-       4.39098,
-       51.2068445
-      ],
-      [
-       4.3910118,
-       51.2068407
-      ],
-      [
-       4.3910604,
-       51.2068385
-      ],
-      [
-       4.391088,
-       51.206839
-      ],
-      [
-       4.3911369,
-       51.2068433
-      ],
-      [
-       4.3911831,
-       51.2068515
-      ],
-      [
-       4.3912228,
-       51.2068621
-      ],
-      [
-       4.3912636,
-       51.206877
-      ],
-      [
-       4.3912921,
-       51.2068904
-      ],
-      [
-       4.3913271,
-       51.2069114
-      ],
-      [
-       4.391353,
-       51.2069313
-      ],
-      [
-       4.3913794,
-       51.2069579
-      ],
-      [
-       4.391396,
-       51.2069805
-      ],
-      [
-       4.3914117,
-       51.2070122
-      ],
-      [
-       4.3914184,
-       51.207036
-      ],
-      [
-       4.3914208,
-       51.20707
-      ],
-      [
-       4.3914154,
-       51.2071021
-      ],
-      [
-       4.391406,
-       51.207127
-      ],
-      [
-       4.391388,
-       51.2071569
-      ],
-      [
-       4.3913647,
-       51.2071836
-      ],
-      [
-       4.3913297,
-       51.2072125
-      ],
-      [
-       4.3912882,
-       51.2072372
-      ],
-      [
-       4.3912408,
-       51.2072575
-      ],
-      [
-       4.3911905,
-       51.2072725
-      ],
-      [
-       4.3911357,
-       51.2072825
-      ],
-      [
-       4.3910743,
-       51.2072871
-      ],
-      [
-       4.3910222,
-       51.2072857
-      ],
-      [
-       4.3909659,
-       51.2072788
-      ],
-      [
-       4.3909104,
-       51.2072659
-      ],
-      [
-       4.3908586,
-       51.2072471
-      ],
-      [
-       4.3908153,
-       51.207225
-      ],
-      [
-       4.3907801,
-       51.2072005
-      ]
-     ],
-     [
-      [
-       4.3912284,
-       51.2070006
-      ],
-      [
-       4.3912445,
-       51.2070229
-      ],
-      [
-       4.3912525,
-       51.2070444
-      ],
-      [
-       4.3912543,
-       51.2070653
-      ],
-      [
-       4.3912501,
-       51.2070867
-      ],
-      [
-       4.3912406,
-       51.2071063
-      ],
-      [
-       4.391226,
-       51.2071246
-      ],
-      [
-       4.3912118,
-       51.2071373
-      ],
-      [
-       4.3911983,
-       51.2071468
-      ],
-      [
-       4.3912487,
-       51.2071901
-      ],
-      [
-       4.3912663,
-       51.2071902
-      ],
-      [
-       4.3912946,
-       51.2071694
-      ],
-      [
-       4.3913159,
-       51.2071481
-      ],
-      [
-       4.3913311,
-       51.2071271
-      ],
-      [
-       4.3913418,
-       51.2071056
-      ],
-      [
-       4.3913487,
-       51.2070793
-      ],
-      [
-       4.3913495,
-       51.2070529
-      ],
-      [
-       4.3913449,
-       51.2070292
-      ],
-      [
-       4.3913369,
-       51.2070092
-      ],
-      [
-       4.391321,
-       51.2069839
-      ],
-      [
-       4.3913081,
-       51.206969
-      ],
-      [
-       4.3912894,
-       51.2069683
-      ],
-      [
-       4.3912284,
-       51.2070006
-      ]
-     ],
-     [
-      [
-       4.3909631,
-       51.2069563
-      ],
-      [
-       4.3909972,
-       51.2069465
-      ],
-      [
-       4.3910329,
-       51.2069411
-      ],
-      [
-       4.3910802,
-       51.2069405
-      ],
-      [
-       4.3911181,
-       51.2069453
-      ],
-      [
-       4.391153,
-       51.2069545
-      ],
-      [
-       4.3911754,
-       51.2069634
-      ],
-      [
-       4.3911983,
-       51.2069758
-      ],
-      [
-       4.3912615,
-       51.2069442
-      ],
-      [
-       4.3912603,
-       51.2069318
-      ],
-      [
-       4.391236,
-       51.2069188
-      ],
-      [
-       4.3911933,
-       51.206902
-      ],
-      [
-       4.3911568,
-       51.2068921
-      ],
-      [
-       4.3911148,
-       51.2068851
-      ],
-      [
-       4.3910752,
-       51.2068821
-      ],
-      [
-       4.3910277,
-       51.2068831
-      ],
-      [
-       4.3909875,
-       51.2068879
-      ],
-      [
-       4.3909481,
-       51.2068963
-      ],
-      [
-       4.3909227,
-       51.206904
-      ],
-      [
-       4.3909215,
-       51.2069187
-      ],
-      [
-       4.3909631,
-       51.2069563
-      ]
-     ],
-     [
-      [
-       4.3911317,
-       51.2069815
-      ],
-      [
-       4.3911107,
-       51.2069751
-      ],
-      [
-       4.391077,
-       51.2069697
-      ],
-      [
-       4.3910431,
-       51.2069695
-      ],
-      [
-       4.3910104,
-       51.2069743
-      ],
-      [
-       4.390984,
-       51.2069823
-      ],
-      [
-       4.3909555,
-       51.2069969
-      ],
-      [
-       4.3909368,
-       51.2070125
-      ],
-      [
-       4.3909256,
-       51.2070272
-      ],
-      [
-       4.3909181,
-       51.2070462
-      ],
-      [
-       4.390917,
-       51.2070605
-      ],
-      [
-       4.3909225,
-       51.2070826
-      ],
-      [
-       4.3909396,
-       51.2071061
-      ],
-      [
-       4.3909598,
-       51.2071216
-      ],
-      [
-       4.390984,
-       51.2071335
-      ],
-      [
-       4.3910158,
-       51.2071427
-      ],
-      [
-       4.3910484,
-       51.2071466
-      ],
-      [
-       4.3910844,
-       51.2071454
-      ],
-      [
-       4.3911101,
-       51.2071409
-      ],
-      [
-       4.3911357,
-       51.2071327
-      ],
-      [
-       4.3911603,
-       51.2071201
-      ],
-      [
-       4.3911787,
-       51.2071057
-      ],
-      [
-       4.3911917,
-       51.2070894
-      ],
-      [
-       4.3911999,
-       51.2070682
-      ],
-      [
-       4.3912001,
-       51.2070485
-      ],
-      [
-       4.3911938,
-       51.2070301
-      ],
-      [
-       4.391184,
-       51.2070159
-      ],
-      [
-       4.3911704,
-       51.2070029
-      ],
-      [
-       4.3911527,
-       51.2069912
-      ],
-      [
-       4.3911317,
-       51.2069815
-      ]
-     ],
-     [
-      [
-       4.3911621,
-       51.2071648
-      ],
-      [
-       4.3911272,
-       51.2071754
-      ],
-      [
-       4.3910931,
-       51.2071811
-      ],
-      [
-       4.3910554,
-       51.2071828
-      ],
-      [
-       4.3910208,
-       51.2071802
-      ],
-      [
-       4.3909913,
-       51.2071748
-      ],
-      [
-       4.3909648,
-       51.207167
-      ],
-      [
-       4.3909462,
-       51.2071595
-      ],
-      [
-       4.3909234,
-       51.2071473
-      ],
-      [
-       4.3908598,
-       51.2071806
-      ],
-      [
-       4.3908607,
-       51.2071932
-      ],
-      [
-       4.3908964,
-       51.2072115
-      ],
-      [
-       4.3909369,
-       51.2072262
-      ],
-      [
-       4.3909874,
-       51.2072378
-      ],
-      [
-       4.3910402,
-       51.2072434
-      ],
-      [
-       4.3910974,
-       51.2072424
-      ],
-      [
-       4.3911398,
-       51.207237
-      ],
-      [
-       4.3911775,
-       51.2072285
-      ],
-      [
-       4.3912043,
-       51.20722
-      ],
-      [
-       4.3912079,
-       51.2072068
-      ],
-      [
-       4.3911621,
-       51.2071648
-      ]
-     ],
-     [
-      [
-       4.3908941,
-       51.2071237
-      ],
-      [
-       4.3908779,
-       51.2071022
-      ],
-      [
-       4.3908682,
-       51.2070769
-      ],
-      [
-       4.3908668,
-       51.2070559
-      ],
-      [
-       4.3908735,
-       51.2070291
-      ],
-      [
-       4.3908845,
-       51.2070103
-      ],
-      [
-       4.3909018,
-       51.2069915
-      ],
-      [
-       4.3909223,
-       51.2069761
-      ],
-      [
-       4.3908807,
-       51.2069348
-      ],
-      [
-       4.3908585,
-       51.2069339
-      ],
-      [
-       4.3908394,
-       51.2069469
-      ],
-      [
-       4.3908179,
-       51.2069652
-      ],
-      [
-       4.3907955,
-       51.2069917
-      ],
-      [
-       4.3907822,
-       51.2070157
-      ],
-      [
-       4.390774,
-       51.2070431
-      ],
-      [
-       4.3907726,
-       51.207072
-      ],
-      [
-       4.3907784,
-       51.2071
-      ],
-      [
-       4.3907942,
-       51.2071321
-      ],
-      [
-       4.3908125,
-       51.207155
-      ],
-      [
-       4.3908318,
-       51.2071572
-      ],
-      [
-       4.3908941,
-       51.2071237
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.39106275,
-   "_lat": 51.2070628,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2072871,
-    "maxLon": 4.3914208,
-    "minLat": 51.2068385,
-    "minLon": 4.3907047
-   }
-  },
-  {
-   "type": "Feature",
-   "id": "relation/10957961",
-   "properties": {
-    "area": "yes",
-    "highway": "pedestrian",
-    "type": "multipolygon",
-    "id": "relation/10957961",
-    "_lat": "51.20569065",
-    "_lon": "4.39033705",
-    "_layer": "slow_roads",
-    "_length": "255.63862587269648",
-    "_length:km": "0.3",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 83069111,
-    "_last_edit:timestamp": "2020-04-04T12:14:02Z",
-    "_version_number": 1,
-    "_geometry:type": "Polygon",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3904249,
-       51.2053187
-      ],
-      [
-       4.3905689,
-       51.2053645
-      ],
-      [
-       4.3907543,
-       51.2054241
-      ],
-      [
-       4.3902723,
-       51.2059999
-      ],
-      [
-       4.3901384,
-       51.2060626
-      ],
-      [
-       4.3900431,
-       51.2059817
-      ],
-      [
-       4.3899198,
-       51.205922
-      ],
-      [
-       4.3904249,
-       51.2053187
-      ]
-     ],
-     [
-      [
-       4.390055,
-       51.2058965
-      ],
-      [
-       4.3900721,
-       51.2059022
-      ],
-      [
-       4.3900911,
-       51.2058795
-      ],
-      [
-       4.3900739,
-       51.2058739
-      ],
-      [
-       4.390055,
-       51.2058965
-      ]
-     ],
-     [
-      [
-       4.3901614,
-       51.2059087
-      ],
-      [
-       4.390273,
-       51.2057751
-      ],
-      [
-       4.3902335,
-       51.2057621
-      ],
-      [
-       4.3901219,
-       51.2058957
-      ],
-      [
-       4.3901614,
-       51.2059087
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.39033705,
-   "_lat": 51.20569065,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2060626,
-    "maxLon": 4.3907543,
-    "minLat": 51.2053187,
-    "minLon": 4.3899198
-   }
-  },
-  {
-   "type": "Feature",
-   "id": "way/87530458",
-   "properties": {
-    "area": "yes",
-    "highway": "pedestrian",
-    "name": "Bolivarplaats",
-    "name:ko": "볼리바 광장",
-    "wikidata": "Q2151338",
-    "wikipedia": "nl:Bolivarplaats",
-    "id": "way/87530458",
-    "_lat": "51.204233200000004",
-    "_lon": "4.3883942000000005",
-    "_layer": "slow_roads",
-    "_length": "424.5811893086011",
-    "_length:km": "0.4",
-    "_last_edit:contributor": "H4N5-antw",
-    "_last_edit:contributor:uid": 10846743,
-    "_last_edit:changeset": 92974392,
-    "_last_edit:timestamp": "2020-10-23T23:00:48Z",
-    "_version_number": 19,
-    "_geometry:type": "Polygon",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3880618,
-       51.2049424
-      ],
-      [
-       4.38799,
-       51.2049299
-      ],
-      [
-       4.3877596,
-       51.2048019
-      ],
-      [
-       4.3875577,
-       51.2047805
-      ],
-      [
-       4.3881358,
-       51.2040993
-      ],
-      [
-       4.388504,
-       51.203646
-      ],
-      [
-       4.388591,
-       51.2035911
-      ],
-      [
-       4.3888001,
-       51.2035477
-      ],
-      [
-       4.3889587,
-       51.203524
-      ],
-      [
-       4.3889642,
-       51.20354
-      ],
-      [
-       4.3889821,
-       51.2035919
-      ],
-      [
-       4.388987,
-       51.2036145
-      ],
-      [
-       4.3890125,
-       51.2036658
-      ],
-      [
-       4.3890758,
-       51.2036516
-      ],
-      [
-       4.3891019,
-       51.2036884
-      ],
-      [
-       4.3891149,
-       51.2037066
-      ],
-      [
-       4.3891665,
-       51.2038396
-      ],
-      [
-       4.3892197,
-       51.2039646
-      ],
-      [
-       4.3892307,
-       51.2040232
-      ],
-      [
-       4.3892292,
-       51.2040884
-      ],
-      [
-       4.3891899,
-       51.2041702
-      ],
-      [
-       4.3891594,
-       51.2042241
-      ],
-      [
-       4.3890953,
-       51.2042976
-      ],
-      [
-       4.3889821,
-       51.2044246
-      ],
-      [
-       4.388936,
-       51.2044766
-      ],
-      [
-       4.388893,
-       51.2045241
-      ],
-      [
-       4.3888063,
-       51.20463
-      ],
-      [
-       4.3887874,
-       51.2046515
-      ],
-      [
-       4.3887208,
-       51.204731
-      ],
-      [
-       4.3886845,
-       51.2047744
-      ],
-      [
-       4.3886546,
-       51.2048043
-      ],
-      [
-       4.388571,
-       51.2047895
-      ],
-      [
-       4.38854,
-       51.2048031
-      ],
-      [
-       4.3884276,
-       51.2048522
-      ],
-      [
-       4.3881926,
-       51.2049141
-      ],
-      [
-       4.3881138,
-       51.2049311
-      ],
-      [
-       4.3880618,
-       51.2049424
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.3883942000000005,
-   "_lat": 51.204233200000004,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2049424,
-    "maxLon": 4.3892307,
-    "minLat": 51.203524,
-    "minLon": 4.3875577
-   }
-  },
-  {
-   "type": "Feature",
-   "id": "way/150788231",
-   "properties": {
-    "area": "yes",
-    "highway": "pedestrian",
-    "name": "Troonplaats",
-    "id": "way/150788231",
-    "_lat": "51.2034101",
-    "_lon": "4.3918998",
-    "_layer": "slow_roads",
-    "_length": "218.45965732641494",
-    "_length:km": "0.2",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 82204416,
-    "_last_edit:timestamp": "2020-03-14T21:30:28Z",
-    "_version_number": 6,
-    "_geometry:type": "Polygon",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3918711,
-       51.2031271
-      ],
-      [
-       4.3919328,
-       51.2031228
-      ],
-      [
-       4.3919723,
-       51.20312
-      ],
-      [
-       4.3919956,
-       51.2031183
-      ],
-      [
-       4.3919989,
-       51.2031333
-      ],
-      [
-       4.3920191,
-       51.2031527
-      ],
-      [
-       4.3921133,
-       51.2031881
-      ],
-      [
-       4.3921885,
-       51.2032158
-      ],
-      [
-       4.3922505,
-       51.2032397
-      ],
-      [
-       4.392284,
-       51.2032524
-      ],
-      [
-       4.3923125,
-       51.2032521
-      ],
-      [
-       4.392349,
-       51.2033228
-      ],
-      [
-       4.3923832,
-       51.2033811
-      ],
-      [
-       4.3923791,
-       51.2034162
-      ],
-      [
-       4.3923764,
-       51.2034396
-      ],
-      [
-       4.3923686,
-       51.2035058
-      ],
-      [
-       4.3923909,
-       51.2035143
-      ],
-      [
-       4.3923366,
-       51.2035697
-      ],
-      [
-       4.3923053,
-       51.2036045
-      ],
-      [
-       4.3922677,
-       51.2036046
-      ],
-      [
-       4.3922047,
-       51.2036291
-      ],
-      [
-       4.3921416,
-       51.2036541
-      ],
-      [
-       4.3921169,
-       51.2036787
-      ],
-      [
-       4.3920543,
-       51.2036845
-      ],
-      [
-       4.3919908,
-       51.2036905
-      ],
-      [
-       4.3919325,
-       51.2036959
-      ],
-      [
-       4.391868,
-       51.2037019
-      ],
-      [
-       4.391862,
-       51.2036716
-      ],
-      [
-       4.3918426,
-       51.2036548
-      ],
-      [
-       4.3917856,
-       51.203633
-      ],
-      [
-       4.3917271,
-       51.2036112
-      ],
-      [
-       4.3916381,
-       51.2035768
-      ],
-      [
-       4.3915802,
-       51.2035544
-      ],
-      [
-       4.3915459,
-       51.2035511
-      ],
-      [
-       4.3915252,
-       51.2035542
-      ],
-      [
-       4.3914986,
-       51.2034925
-      ],
-      [
-       4.3914654,
-       51.2034151
-      ],
-      [
-       4.391469,
-       51.2033758
-      ],
-      [
-       4.3914737,
-       51.2033345
-      ],
-      [
-       4.3914756,
-       51.2033102
-      ],
-      [
-       4.3914648,
-       51.2032945
-      ],
-      [
-       4.3914087,
-       51.2032676
-      ],
-      [
-       4.3914605,
-       51.203225
-      ],
-      [
-       4.3915138,
-       51.2031826
-      ],
-      [
-       4.3915622,
-       51.2032068
-      ],
-      [
-       4.3917441,
-       51.203136
-      ],
-      [
-       4.3918109,
-       51.2031313
-      ],
-      [
-       4.3918711,
-       51.2031271
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.3918998,
-   "_lat": 51.2034101,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2037019,
-    "maxLon": 4.3923909,
-    "minLat": 51.2031183,
-    "minLon": 4.3914087
-   }
-  },
-  {
-   "type": "Feature",
-   "id": "way/651921993",
-   "properties": {
-    "area": "yes",
-    "bicycle": "yes",
-    "highway": "pedestrian",
-    "lit": "yes",
-    "surface": "paving_stones",
-    "id": "way/651921993",
-    "_lat": "51.2070681",
-    "_lon": "4.3847459",
-    "_layer": "slow_roads",
-    "_length": "412.234494855082",
-    "_length:km": "0.4",
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 114629193,
-    "_last_edit:timestamp": "2021-12-06T18:14:39Z",
-    "_version_number": 11,
-    "_geometry:type": "Polygon",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3846762,
-       51.2067558
-      ],
-      [
-       4.3845484,
-       51.2067145
-      ],
-      [
-       4.3845042,
-       51.2066939
-      ],
-      [
-       4.384499,
-       51.2066964
-      ],
-      [
-       4.3844303,
-       51.2066649
-      ],
-      [
-       4.3844331,
-       51.2066618
-      ],
-      [
-       4.3843858,
-       51.2066402
-      ],
-      [
-       4.3844542,
-       51.2065604
-      ],
-      [
-       4.3844676,
-       51.2065443
-      ],
-      [
-       4.384522,
-       51.2064794
-      ],
-      [
-       4.3845309,
-       51.2064831
-      ],
-      [
-       4.3845978,
-       51.2065139
-      ],
-      [
-       4.3846907,
-       51.2065428
-      ],
-      [
-       4.3848029,
-       51.2065866
-      ],
-      [
-       4.3848397,
-       51.2065995
-      ],
-      [
-       4.3848772,
-       51.2066131
-      ],
-      [
-       4.3850582,
-       51.2066748
-      ],
-      [
-       4.385528,
-       51.2068309
-      ],
-      [
-       4.3854354,
-       51.2068825
-      ],
-      [
-       4.3853471,
-       51.2069317
-      ],
-      [
-       4.3852883,
-       51.2069167
-      ],
-      [
-       4.3850654,
-       51.2068585
-      ],
-      [
-       4.3847395,
-       51.2067735
-      ],
-      [
-       4.3845015,
-       51.2070638
-      ],
-      [
-       4.3840149,
-       51.2076568
-      ],
-      [
-       4.3839882,
-       51.2076434
-      ],
-      [
-       4.3839638,
-       51.2076312
-      ],
-      [
-       4.3844403,
-       51.2070456
-      ],
-      [
-       4.3846762,
-       51.2067558
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.3847459,
-   "_lat": 51.2070681,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2076568,
-    "maxLon": 4.385528,
-    "minLat": 51.2064794,
-    "minLon": 4.3839638
-   }
-  },
-  {
-   "type": "Feature",
-   "id": "way/787892303",
-   "properties": {
-    "area": "yes",
-    "highway": "pedestrian",
-    "lit": "yes",
-    "name": "Jan Denucéstraat",
-    "surface": "paving_stones",
-    "id": "way/787892303",
-    "_lat": "51.1956134",
-    "_lon": "4.3883872",
-    "_layer": "slow_roads",
-    "_length": "265.4401592544483",
-    "_length:km": "0.3",
-    "_last_edit:contributor": "Rienux",
-    "_last_edit:contributor:uid": 11911273,
-    "_last_edit:changeset": 114418062,
-    "_last_edit:timestamp": "2021-11-30T20:48:12Z",
-    "_version_number": 4,
-    "_geometry:type": "Polygon",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3878599,
-       51.1953556
-      ],
-      [
-       4.3881688,
-       51.1953327
-      ],
-      [
-       4.388219,
-       51.195329
-      ],
-      [
-       4.3883401,
-       51.1953194
-      ],
-      [
-       4.3885369,
-       51.1953004
-      ],
-      [
-       4.3885456,
-       51.1953376
-      ],
-      [
-       4.3887893,
-       51.1953157
-      ],
-      [
-       4.3888198,
-       51.1954445
-      ],
-      [
-       4.3887359,
-       51.1954516
-      ],
-      [
-       4.3887836,
-       51.1956872
-      ],
-      [
-       4.3887866,
-       51.195702
-      ],
-      [
-       4.3889252,
-       51.1956894
-      ],
-      [
-       4.3889283,
-       51.1957021
-      ],
-      [
-       4.3889841,
-       51.1959264
-      ],
-      [
-       4.3886494,
-       51.1958259
-      ],
-      [
-       4.3886224,
-       51.1958207
-      ],
-      [
-       4.388599,
-       51.1958182
-      ],
-      [
-       4.3884555,
-       51.1958089
-      ],
-      [
-       4.3879919,
-       51.1955017
-      ],
-      [
-       4.3878892,
-       51.195462
-      ],
-      [
-       4.3877903,
-       51.1954051
-      ],
-      [
-       4.3878599,
-       51.1953556
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.3883872,
-   "_lat": 51.1956134,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1959264,
-    "maxLon": 4.3889841,
-    "minLat": 51.1953004,
-    "minLon": 4.3877903
-   }
-  },
-  {
-   "type": "Feature",
    "id": "way/22795161",
    "properties": {
     "highway": "path",
@@ -1655,6 +132,8 @@
     "_lat": "51.19482205",
     "_lon": "4.39289065",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "37.80909670557418",
     "_length:km": "0.0",
     "_last_edit:contributor": "Thibault Rommel",
@@ -1663,8 +142,8 @@
     "_last_edit:timestamp": "2021-03-27T11:37:30Z",
     "_version_number": 10,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -1709,6 +188,8 @@
     "_lat": "51.1935855",
     "_lon": "4.3898677",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "134.701311740899",
     "_length:km": "0.1",
     "_last_edit:contributor": "dejakke",
@@ -1717,8 +198,8 @@
     "_last_edit:timestamp": "2021-04-24T09:07:36Z",
     "_version_number": 10,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -1775,6 +256,8 @@
     "_lat": "51.20329565",
     "_lon": "4.37389915",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "18.084144740000628",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -1783,8 +266,8 @@
     "_last_edit:timestamp": "2020-03-21T08:09:56Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -1829,6 +312,8 @@
     "_lat": "51.20356445",
     "_lon": "4.37436865",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "87.87574203888703",
     "_length:km": "0.1",
     "_last_edit:contributor": "s8evq",
@@ -1837,8 +322,8 @@
     "_last_edit:timestamp": "2019-12-19T15:05:20Z",
     "_version_number": 9,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -1873,6 +358,8 @@
     "_lat": "51.19469265",
     "_lon": "4.39371445",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "62.454614211982545",
     "_length:km": "0.1",
     "_last_edit:contributor": "sh85",
@@ -1881,8 +368,8 @@
     "_last_edit:timestamp": "2021-04-21T10:57:42Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -1937,6 +424,8 @@
     "_lat": "51.19421115",
     "_lon": "4.3944103000000005",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "12.560738036138673",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -1945,8 +434,8 @@
     "_last_edit:timestamp": "2021-11-02T16:02:38Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -1984,6 +473,8 @@
     "_lat": "51.19407995",
     "_lon": "4.3939045",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "66.57036565522012",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -1992,8 +483,8 @@
     "_last_edit:timestamp": "2021-11-02T16:02:43Z",
     "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2029,6 +520,8 @@
     "_lat": "51.19365445",
     "_lon": "4.3953443",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "269.31099571373124",
     "_length:km": "0.3",
     "_last_edit:contributor": "ThVerhulst",
@@ -2037,8 +530,8 @@
     "_last_edit:timestamp": "2021-11-02T16:02:13Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2094,6 +587,8 @@
     "_lat": "51.193602049999996",
     "_lon": "4.395033400000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "437.4396378889506",
     "_length:km": "0.4",
     "_last_edit:contributor": "ThVerhulst",
@@ -2102,8 +597,8 @@
     "_last_edit:timestamp": "2021-11-02T16:03:18Z",
     "_version_number": 8,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2178,6 +673,8 @@
     "_lat": "51.20609355",
     "_lon": "4.3924425",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "9.118836088269147",
     "_length:km": "0.0",
     "_last_edit:contributor": "Eimai",
@@ -2186,8 +683,8 @@
     "_last_edit:timestamp": "2012-04-07T17:36:15Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2221,6 +718,8 @@
     "_lat": "51.1931674",
     "_lon": "4.379675199999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "30.954913937065495",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorieke V",
@@ -2229,8 +728,8 @@
     "_last_edit:timestamp": "2014-07-10T12:56:52Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2273,6 +772,8 @@
     "_lat": "51.19394615",
     "_lon": "4.3841158",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "145.41506838688701",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -2281,8 +782,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 12,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2364,6 +865,8 @@
     "_lat": "51.1936701",
     "_lon": "4.38501145",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "11.351544973512338",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -2372,8 +875,8 @@
     "_last_edit:timestamp": "2021-11-02T16:06:04Z",
     "_version_number": 8,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2411,6 +914,8 @@
     "_lat": "51.193045850000004",
     "_lon": "4.38443935",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "94.04330146324847",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -2419,8 +924,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2470,6 +975,8 @@
     "_lat": "51.19319625",
     "_lon": "4.38371525",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "18.450513767264944",
     "_length:km": "0.0",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -2478,8 +985,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2518,6 +1025,8 @@
     "_lat": "51.192842150000004",
     "_lon": "4.38403065",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "78.57849142707587",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -2526,8 +1035,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2578,6 +1087,8 @@
     "_lat": "51.193259499999996",
     "_lon": "4.3850394",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "82.72936857641305",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -2586,8 +1097,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 5,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2639,6 +1150,8 @@
     "_lat": "51.19303805",
     "_lon": "4.3790297",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "34.937895803190266",
     "_length:km": "0.0",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -2647,8 +1160,8 @@
     "_last_edit:timestamp": "2021-05-04T10:45:14Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2686,6 +1199,8 @@
     "_lat": "51.194669250000004",
     "_lon": "4.392626099999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "17.121179130031678",
     "_length:km": "0.0",
     "_last_edit:contributor": "Thibault Rommel",
@@ -2694,8 +1209,8 @@
     "_last_edit:timestamp": "2021-03-27T11:37:30Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2733,6 +1248,8 @@
     "_lat": "51.1949336",
     "_lon": "4.39255115",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "45.09388522615565",
     "_length:km": "0.0",
     "_last_edit:contributor": "Thibault Rommel",
@@ -2741,8 +1258,8 @@
     "_last_edit:timestamp": "2021-03-27T11:37:30Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2791,6 +1308,8 @@
     "_lat": "51.19372035",
     "_lon": "4.37720615",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "51.591820505391354",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -2799,8 +1318,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 5,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2857,6 +1376,8 @@
     "_lat": "51.2035371",
     "_lon": "4.37364275",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "32.85212009072077",
     "_length:km": "0.0",
     "_last_edit:contributor": "s8evq",
@@ -2865,8 +1386,8 @@
     "_last_edit:timestamp": "2019-12-19T15:05:20Z",
     "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2907,6 +1428,8 @@
     "_lat": "51.20338835",
     "_lon": "4.373799399999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "6.780767768870475",
     "_length:km": "0.0",
     "_last_edit:contributor": "s8evq",
@@ -2915,8 +1438,8 @@
     "_last_edit:timestamp": "2019-12-19T15:05:20Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2951,6 +1474,8 @@
     "_lat": "51.1950541",
     "_lon": "4.3902113",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "251.40716933179706",
     "_length:km": "0.3",
     "_last_edit:contributor": "Jorisbo",
@@ -2959,8 +1484,8 @@
     "_last_edit:timestamp": "2020-04-04T11:33:18Z",
     "_version_number": 5,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3032,6 +1557,8 @@
     "_lat": "51.19496345",
     "_lon": "4.38896375",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "137.565829612891",
     "_length:km": "0.1",
     "_last_edit:contributor": "Rienux",
@@ -3040,8 +1567,8 @@
     "_last_edit:timestamp": "2021-11-30T20:48:12Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3100,6 +1627,8 @@
     "_lat": "51.203759399999996",
     "_lon": "4.37493185",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "3.24251541552007",
     "_length:km": "0.0",
     "_last_edit:contributor": "s8evq",
@@ -3108,8 +1637,8 @@
     "_last_edit:timestamp": "2019-12-19T15:05:20Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3145,6 +1674,8 @@
     "_lat": "51.19314875",
     "_lon": "4.39350625",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "86.45202626312711",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -3153,8 +1684,8 @@
     "_last_edit:timestamp": "2021-11-02T16:03:15Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3192,6 +1723,8 @@
     "_lat": "51.19527945",
     "_lon": "4.3915781",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "21.2040003934962",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -3200,8 +1733,8 @@
     "_last_edit:timestamp": "2020-04-04T11:33:18Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3243,6 +1776,8 @@
     "_lat": "51.1950988",
     "_lon": "4.39035735",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "23.952738078202128",
     "_length:km": "0.0",
     "_last_edit:contributor": "Polyglot",
@@ -3251,8 +1786,8 @@
     "_last_edit:timestamp": "2012-01-10T15:54:32Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3287,6 +1822,8 @@
     "_lat": "51.1951717",
     "_lon": "4.3895926",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "58.283753964765936",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -3295,8 +1832,8 @@
     "_last_edit:timestamp": "2020-04-04T10:38:25Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3334,6 +1871,8 @@
     "_lat": "51.19497685",
     "_lon": "4.3905438",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "51.44702166635922",
     "_length:km": "0.1",
     "_last_edit:contributor": "wegspotter",
@@ -3342,8 +1881,8 @@
     "_last_edit:timestamp": "2021-07-04T14:31:17Z",
     "_version_number": 5,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3393,6 +1932,8 @@
     "_lat": "51.20605495",
     "_lon": "4.39006625",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "36.934326564954645",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -3401,8 +1942,8 @@
     "_last_edit:timestamp": "2020-03-21T08:53:31Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3449,6 +1990,8 @@
     "_lat": "51.194455250000004",
     "_lon": "4.3830464",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "52.12727295360494",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -3457,8 +2000,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 5,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3508,6 +2051,8 @@
     "_lat": "51.19448855",
     "_lon": "4.38221925",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "38.45478482624877",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -3516,8 +2061,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3571,6 +2116,8 @@
     "_lat": "51.1946167",
     "_lon": "4.3843655",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "37.01401088575338",
     "_length:km": "0.0",
     "_last_edit:contributor": "Eimai",
@@ -3579,8 +2126,8 @@
     "_last_edit:timestamp": "2013-03-21T19:29:49Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3635,6 +2182,8 @@
     "_lat": "51.194123399999995",
     "_lon": "4.38316335",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "24.849415240570906",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -3643,8 +2192,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3682,6 +2231,8 @@
     "_lat": "51.19419625",
     "_lon": "4.382036149999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "32.82448130858788",
     "_length:km": "0.0",
     "_last_edit:contributor": "Eimai",
@@ -3690,8 +2241,8 @@
     "_last_edit:timestamp": "2013-03-21T19:35:51Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3729,6 +2280,8 @@
     "_lat": "51.194734350000004",
     "_lon": "4.3825828",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "30.814200745914142",
     "_length:km": "0.0",
     "_last_edit:contributor": "Eimai",
@@ -3737,8 +2290,8 @@
     "_last_edit:timestamp": "2013-03-21T19:35:51Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3785,6 +2338,8 @@
     "_lat": "51.1937947",
     "_lon": "4.38289785",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "68.96087959099411",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -3793,8 +2348,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3845,6 +2400,8 @@
     "_lat": "51.194283999999996",
     "_lon": "4.38189805",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "37.0813240082877",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -3853,8 +2410,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3901,6 +2458,8 @@
     "_lat": "51.19434465",
     "_lon": "4.382588",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "60.58034298348653",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -3909,8 +2468,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -3965,6 +2524,8 @@
     "_lat": "51.19308925",
     "_lon": "4.3757138",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "498.224348844587",
     "_length:km": "0.5",
     "_last_edit:contributor": "Jorisbo",
@@ -3973,8 +2534,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4036,6 +2597,8 @@
     "_lat": "51.194303250000004",
     "_lon": "4.39022855",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "55.64840514201491",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -4044,8 +2607,8 @@
     "_last_edit:timestamp": "2021-11-02T16:04:30Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4084,6 +2647,8 @@
     "_lat": "51.19339515",
     "_lon": "4.3830755",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "85.10824294024002",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -4092,8 +2657,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4140,6 +2705,8 @@
     "_lat": "51.19372165",
     "_lon": "4.3824591999999996",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "40.320939037052234",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -4148,8 +2715,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4196,6 +2763,8 @@
     "_lat": "51.192994",
     "_lon": "4.381820599999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "82.07895312614617",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -4204,8 +2773,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4262,6 +2831,8 @@
     "_lat": "51.192863200000005",
     "_lon": "4.383111899999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "106.54765698465607",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -4270,8 +2841,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4321,6 +2892,8 @@
     "_lat": "51.1930355",
     "_lon": "4.38238165",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "126.84178832400076",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -4329,8 +2902,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4384,6 +2957,8 @@
     "_lat": "51.193335399999995",
     "_lon": "4.385408",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "84.39362965986452",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -4392,8 +2967,8 @@
     "_last_edit:timestamp": "2021-11-02T16:06:05Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4447,6 +3022,8 @@
     "_lat": "51.20055775",
     "_lon": "4.3912113",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "27.959344938391823",
     "_length:km": "0.0",
     "_last_edit:contributor": "Eimai",
@@ -4455,8 +3032,8 @@
     "_last_edit:timestamp": "2014-12-06T21:02:41Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4510,6 +3087,8 @@
     "_lat": "51.2005223",
     "_lon": "4.3911283999999995",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "9.660064161696896",
     "_length:km": "0.0",
     "_last_edit:contributor": "Eimai",
@@ -4518,8 +3097,8 @@
     "_last_edit:timestamp": "2014-12-06T21:02:41Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4553,6 +3132,8 @@
     "_lat": "51.2004518",
     "_lon": "4.3912309",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "17.607695068970763",
     "_length:km": "0.0",
     "_last_edit:contributor": "Eimai",
@@ -4561,8 +3142,8 @@
     "_last_edit:timestamp": "2014-12-06T21:02:41Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4600,6 +3181,8 @@
     "_lat": "51.20077515",
     "_lon": "4.39152495",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "10.540580704685526",
     "_length:km": "0.0",
     "_last_edit:contributor": "Eimai",
@@ -4608,8 +3191,8 @@
     "_last_edit:timestamp": "2014-12-06T21:02:41Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4647,6 +3230,8 @@
     "_lat": "51.201033699999996",
     "_lon": "4.3914912",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "25.380781937543496",
     "_length:km": "0.0",
     "_last_edit:contributor": "H4N5-antw",
@@ -4655,8 +3240,8 @@
     "_last_edit:timestamp": "2021-04-03T14:45:30Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4711,6 +3296,8 @@
     "_lat": "51.20554645",
     "_lon": "4.3930152",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "108.67348896933416",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -4719,8 +3306,8 @@
     "_last_edit:timestamp": "2021-11-16T15:20:04Z",
     "_version_number": 5,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4760,6 +3347,8 @@
     "_lat": "51.2056193",
     "_lon": "4.3903498",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "94.63548266475198",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -4768,8 +3357,8 @@
     "_last_edit:timestamp": "2021-11-12T17:48:30Z",
     "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4831,6 +3420,8 @@
     "_lat": "51.1935472",
     "_lon": "4.390301",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "137.63538625502994",
     "_length:km": "0.1",
     "_last_edit:contributor": "dejakke",
@@ -4839,8 +3430,8 @@
     "_last_edit:timestamp": "2021-04-24T09:07:19Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4883,6 +3474,8 @@
     "_lat": "51.2072158",
     "_lon": "4.3843341",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "132.3596377139972",
     "_length:km": "0.1",
     "_last_edit:contributor": "stijnh",
@@ -4891,8 +3484,8 @@
     "_last_edit:timestamp": "2021-11-13T13:29:40Z",
     "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -4944,6 +3537,8 @@
     "_lat": "51.206801",
     "_lon": "4.385135",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "56.91747993142005",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -4952,8 +3547,8 @@
     "_last_edit:timestamp": "2021-12-06T18:14:13Z",
     "_version_number": 8,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5001,6 +3596,8 @@
     "_lat": "51.2066018",
     "_lon": "4.3845656",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "34.306477330673744",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -5009,8 +3606,8 @@
     "_last_edit:timestamp": "2021-12-06T18:14:54Z",
     "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5054,6 +3651,8 @@
     "_lat": "51.2062737",
     "_lon": "4.3838425",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "90.14797852656324",
     "_length:km": "0.1",
     "_last_edit:contributor": "stijnh",
@@ -5062,8 +3661,8 @@
     "_last_edit:timestamp": "2021-11-21T14:41:22Z",
     "_version_number": 8,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5105,22 +3704,25 @@
     "maxspeed": "20",
     "maxspeed:zone": "yes",
     "name": "Jan Vanhoenackerstraat",
+    "name:etymology:wikidata": "Q3338306",
     "oneway": "no",
     "surface": "paving_stones",
     "id": "way/489126661",
     "_lat": "51.20525295",
     "_lon": "4.3837809",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "180.9032071232164",
     "_length:km": "0.2",
-    "_last_edit:contributor": "H4N5-antw",
-    "_last_edit:contributor:uid": 10846743,
-    "_last_edit:changeset": 91914154,
-    "_last_edit:timestamp": "2020-10-03T20:29:35Z",
-    "_version_number": 11,
+    "_last_edit:contributor": "stijnh",
+    "_last_edit:contributor:uid": 14414954,
+    "_last_edit:changeset": 114955533,
+    "_last_edit:timestamp": "2021-12-15T09:27:02Z",
+    "_version_number": 12,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5182,6 +3784,8 @@
     "_lat": "51.20691965",
     "_lon": "4.38469175",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "76.8331219464327",
     "_length:km": "0.1",
     "_last_edit:contributor": "H4N5-antw",
@@ -5190,8 +3794,8 @@
     "_last_edit:timestamp": "2021-01-13T16:06:54Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5285,6 +3889,8 @@
     "_lat": "51.205871200000004",
     "_lon": "4.3848739000000005",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "161.87509589355108",
     "_length:km": "0.2",
     "_last_edit:contributor": "wegspotter",
@@ -5293,8 +3899,8 @@
     "_last_edit:timestamp": "2021-07-04T14:34:32Z",
     "_version_number": 8,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5356,6 +3962,8 @@
     "_lat": "51.194962700000005",
     "_lon": "4.3907731000000005",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "32.506385364578676",
     "_length:km": "0.0",
     "_last_edit:contributor": "wegspotter",
@@ -5364,8 +3972,8 @@
     "_last_edit:timestamp": "2021-07-04T14:31:17Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5413,6 +4021,8 @@
     "_lat": "51.20241805",
     "_lon": "4.39043445",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "25.37222978037027",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -5421,8 +4031,8 @@
     "_last_edit:timestamp": "2020-04-04T11:45:43Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5460,6 +4070,8 @@
     "_lat": "51.202639950000005",
     "_lon": "4.390869049999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "61.92104854623848",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -5468,8 +4080,8 @@
     "_last_edit:timestamp": "2020-04-04T11:45:43Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5507,6 +4119,8 @@
     "_lat": "51.20249765",
     "_lon": "4.3911409",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "27.905581703592574",
     "_length:km": "0.0",
     "_last_edit:contributor": "AbcNc",
@@ -5515,8 +4129,8 @@
     "_last_edit:timestamp": "2017-06-12T12:24:52Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5553,6 +4167,8 @@
     "_lat": "51.20575535",
     "_lon": "4.3859274",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "57.09761989362096",
     "_length:km": "0.1",
     "_last_edit:contributor": "RudolpheDeer",
@@ -5561,8 +4177,8 @@
     "_last_edit:timestamp": "2020-03-29T18:52:06Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5604,6 +4220,8 @@
     "_lat": "51.20610865",
     "_lon": "4.385251",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "145.08539082497552",
     "_length:km": "0.1",
     "_last_edit:contributor": "stijnh",
@@ -5612,8 +4230,8 @@
     "_last_edit:timestamp": "2021-11-13T13:29:40Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5661,6 +4279,8 @@
     "_lat": "51.2050414",
     "_lon": "4.38341395",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "58.925481637818564",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jakka",
@@ -5669,8 +4289,8 @@
     "_last_edit:timestamp": "2018-12-03T17:00:51Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5709,6 +4329,8 @@
     "_lat": "51.2061897",
     "_lon": "4.392842399999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "51.01682220260466",
     "_length:km": "0.1",
     "_last_edit:contributor": "Alxmel",
@@ -5717,8 +4339,8 @@
     "_last_edit:timestamp": "2017-10-25T13:59:28Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5755,6 +4377,8 @@
     "_lat": "51.20539155",
     "_lon": "4.38262535",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "311.22316087685687",
     "_length:km": "0.3",
     "_last_edit:contributor": "stijnh",
@@ -5763,8 +4387,8 @@
     "_last_edit:timestamp": "2021-11-21T14:41:22Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5814,6 +4438,8 @@
     "_lat": "51.1946085",
     "_lon": "4.3905885",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "30.710389509226513",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -5822,8 +4448,8 @@
     "_last_edit:timestamp": "2020-04-04T11:33:18Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5858,6 +4484,8 @@
     "_lat": "51.19331255",
     "_lon": "4.3891431",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "263.6129922441545",
     "_length:km": "0.3",
     "_last_edit:contributor": "Jakka",
@@ -5866,8 +4494,8 @@
     "_last_edit:timestamp": "2018-01-15T19:45:24Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -5990,6 +4618,8 @@
     "_lat": "51.20357065",
     "_lon": "4.3919331",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "65.39894217017967",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -5998,8 +4628,8 @@
     "_last_edit:timestamp": "2021-11-12T17:48:18Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6049,6 +4679,8 @@
     "_lat": "51.203335499999994",
     "_lon": "4.3920473",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "69.60298687247911",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -6057,8 +4689,8 @@
     "_last_edit:timestamp": "2020-03-14T21:26:09Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6112,6 +4744,8 @@
     "_lat": "51.2006612",
     "_lon": "4.388006600000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "773.796824308035",
     "_length:km": "0.8",
     "_last_edit:contributor": "AbcNc",
@@ -6120,8 +4754,8 @@
     "_last_edit:timestamp": "2018-10-29T21:55:35Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6271,6 +4905,8 @@
     "_lat": "51.19920655",
     "_lon": "4.38890185",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "122.68017449153756",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -6279,8 +4915,8 @@
     "_last_edit:timestamp": "2020-03-14T21:26:09Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6334,6 +4970,8 @@
     "_lat": "51.1999141",
     "_lon": "4.38888695",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "32.384102977862185",
     "_length:km": "0.0",
     "_last_edit:contributor": "AbcNc",
@@ -6342,8 +4980,8 @@
     "_last_edit:timestamp": "2018-10-29T21:54:32Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6383,6 +5021,8 @@
     "_lat": "51.20037585",
     "_lon": "4.389469200000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "9.977411841850609",
     "_length:km": "0.0",
     "_last_edit:contributor": "dejakke",
@@ -6391,8 +5031,8 @@
     "_last_edit:timestamp": "2021-05-10T07:10:26Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6426,6 +5066,8 @@
     "_lat": "51.1992372",
     "_lon": "4.389026100000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "42.45549147766827",
     "_length:km": "0.0",
     "_last_edit:contributor": "AbcNc",
@@ -6434,8 +5076,8 @@
     "_last_edit:timestamp": "2018-10-29T21:54:32Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6470,6 +5112,8 @@
     "_lat": "51.20028995",
     "_lon": "4.3901045",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "32.19590050134301",
     "_length:km": "0.0",
     "_last_edit:contributor": "QuercE",
@@ -6478,8 +5122,8 @@
     "_last_edit:timestamp": "2018-11-18T10:31:22Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6521,6 +5165,8 @@
     "_lat": "51.2016972",
     "_lon": "4.389345049999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "93.2691637051311",
     "_length:km": "0.1",
     "_last_edit:contributor": "AbcNc",
@@ -6529,8 +5175,8 @@
     "_last_edit:timestamp": "2018-10-29T21:55:35Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6576,6 +5222,8 @@
     "_lat": "51.19984855",
     "_lon": "4.3907061",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "27.850619142541007",
     "_length:km": "0.0",
     "_last_edit:contributor": "QuercE",
@@ -6584,8 +5232,8 @@
     "_last_edit:timestamp": "2018-11-18T20:53:23Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6651,6 +5299,8 @@
     "_lat": "51.19994685",
     "_lon": "4.3908841",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "30.108469263793925",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -6659,8 +5309,8 @@
     "_last_edit:timestamp": "2020-03-16T10:39:17Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6706,6 +5356,8 @@
     "_lat": "51.199939099999995",
     "_lon": "4.3911806",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "19.122204973017205",
     "_length:km": "0.0",
     "_last_edit:contributor": "QuercE",
@@ -6714,8 +5366,8 @@
     "_last_edit:timestamp": "2018-11-18T10:31:18Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6757,6 +5409,8 @@
     "_lat": "51.1999866",
     "_lon": "4.3906165999999995",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "17.33813814109038",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -6765,8 +5419,8 @@
     "_last_edit:timestamp": "2020-03-16T10:39:17Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6805,52 +5459,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/645917599",
-   "properties": {
-    "footway": "crossing",
-    "highway": "footway",
-    "lit": "no",
-    "surface": "compacted",
-    "id": "way/645917599",
-    "_lat": "51.20021075",
-    "_lon": "4.39049865",
-    "_layer": "slow_roads",
-    "_length": "25.662884348922546",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "dejakke",
-    "_last_edit:contributor:uid": 803526,
-    "_last_edit:changeset": 104428653,
-    "_last_edit:timestamp": "2021-05-10T07:08:11Z",
-    "_version_number": 4,
-    "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.3903289,
-      51.2002555
-     ],
-     [
-      4.3906684,
-      51.200166
-     ]
-    ]
-   },
-   "_lon": 4.39049865,
-   "_lat": 51.20021075,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2002555,
-    "maxLon": 4.3906684,
-    "minLat": 51.200166,
-    "minLon": 4.3903289
-   }
-  },
-  {
-   "type": "Feature",
    "id": "way/651927144",
    "properties": {
     "highway": "living_street",
@@ -6863,6 +5471,8 @@
     "_lat": "51.2070262",
     "_lon": "4.3839435",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "127.40747149983248",
     "_length:km": "0.1",
     "_last_edit:contributor": "H4N5-antw",
@@ -6871,8 +5481,8 @@
     "_last_edit:timestamp": "2021-01-13T16:06:54Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6905,13 +5515,7 @@
    },
    "_lon": 4.3839435,
    "_lat": 51.2070262,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.207536,
-    "maxLon": 4.3843607,
-    "minLat": 51.2065164,
-    "minLon": 4.3835263
-   }
+   "_is_patched": true
   },
   {
    "type": "Feature",
@@ -6925,6 +5529,8 @@
     "_lat": "51.2059282",
     "_lon": "4.3851275",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "33.0774670925965",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jakka",
@@ -6933,8 +5539,8 @@
     "_last_edit:timestamp": "2018-12-03T15:31:12Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -6979,6 +5585,8 @@
     "_lat": "51.205589849999996",
     "_lon": "4.3846221",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "57.77982489865501",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -6987,8 +5595,8 @@
     "_last_edit:timestamp": "2020-03-21T08:40:24Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7026,6 +5634,8 @@
     "_lat": "51.205830399999996",
     "_lon": "4.38395695",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "89.24269967538673",
     "_length:km": "0.1",
     "_last_edit:contributor": "stijnh",
@@ -7034,8 +5644,8 @@
     "_last_edit:timestamp": "2021-11-21T14:41:22Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7068,20 +5678,23 @@
     "maxspeed": "20",
     "maxspeed:zone": "yes",
     "name": "Jan Vanhoenackerstraat",
+    "name:etymology:wikidata": "Q3338306",
     "id": "way/652015943",
     "_lat": "51.2065204",
     "_lon": "4.382747500000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "123.89550165202512",
     "_length:km": "0.1",
-    "_last_edit:contributor": "H4N5-antw",
-    "_last_edit:contributor:uid": 10846743,
-    "_last_edit:changeset": 91914154,
-    "_last_edit:timestamp": "2020-10-03T20:29:35Z",
-    "_version_number": 5,
+    "_last_edit:contributor": "stijnh",
+    "_last_edit:contributor:uid": 14414954,
+    "_last_edit:changeset": 114955533,
+    "_last_edit:timestamp": "2021-12-15T09:27:02Z",
+    "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7102,13 +5715,7 @@
    },
    "_lon": 4.382747500000001,
    "_lat": 51.2065204,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2070151,
-    "maxLon": 4.3831534,
-    "minLat": 51.2060257,
-    "minLon": 4.3823416
-   }
+   "_is_patched": true
   },
   {
    "type": "Feature",
@@ -7122,6 +5729,8 @@
     "_lat": "51.20595575",
     "_lon": "4.3831539500000005",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "7.014844222562533",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -7130,8 +5739,8 @@
     "_last_edit:timestamp": "2020-03-21T08:40:24Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7169,6 +5778,8 @@
     "_lat": "51.20600255",
     "_lon": "4.383259600000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "11.01351987568409",
     "_length:km": "0.0",
     "_last_edit:contributor": "stijnh",
@@ -7177,8 +5788,8 @@
     "_last_edit:timestamp": "2021-11-21T14:41:22Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7211,20 +5822,23 @@
     "maxspeed": "20",
     "maxspeed:zone": "yes",
     "name": "Jan Vanhoenackerstraat",
+    "name:etymology:wikidata": "Q3338306",
     "id": "way/652032185",
     "_lat": "51.205999899999995",
     "_lon": "4.38317415",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "6.424915725599057",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 82454375,
-    "_last_edit:timestamp": "2020-03-21T08:40:24Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "stijnh",
+    "_last_edit:contributor:uid": 14414954,
+    "_last_edit:changeset": 114955533,
+    "_last_edit:timestamp": "2021-12-15T09:27:02Z",
+    "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7259,6 +5873,8 @@
     "_lat": "51.1947722",
     "_lon": "4.392007899999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "89.16385764450132",
     "_length:km": "0.1",
     "_last_edit:contributor": "H4N5-antw",
@@ -7267,8 +5883,8 @@
     "_last_edit:timestamp": "2021-01-24T19:36:20Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7303,6 +5919,8 @@
     "_lat": "51.19566715",
     "_lon": "4.3893353",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "57.25106178576936",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -7311,8 +5929,8 @@
     "_last_edit:timestamp": "2020-04-04T11:12:57Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7359,6 +5977,8 @@
     "_lat": "51.205389",
     "_lon": "4.38397315",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "43.07277702560742",
     "_length:km": "0.0",
     "_last_edit:contributor": "gkhn_kaya",
@@ -7367,8 +5987,8 @@
     "_last_edit:timestamp": "2021-11-16T14:26:19Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7404,6 +6024,8 @@
     "_lat": "51.2020747",
     "_lon": "4.3936957",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "40.33146022298337",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -7412,8 +6034,8 @@
     "_last_edit:timestamp": "2021-11-16T15:19:41Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7454,6 +6076,8 @@
     "_lat": "51.20505585",
     "_lon": "4.3851634",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "49.05388575895138",
     "_length:km": "0.0",
     "_last_edit:contributor": "stijnh",
@@ -7462,8 +6086,8 @@
     "_last_edit:timestamp": "2021-11-13T13:29:40Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7504,6 +6128,8 @@
     "_lat": "51.20537805",
     "_lon": "4.385559300000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "41.46225170253338",
     "_length:km": "0.0",
     "_last_edit:contributor": "stijnh",
@@ -7512,8 +6138,8 @@
     "_last_edit:timestamp": "2021-11-13T13:29:40Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7555,6 +6181,8 @@
     "_lat": "51.1937377",
     "_lon": "4.3850066000000005",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "4.046656887273396",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -7563,8 +6191,8 @@
     "_last_edit:timestamp": "2021-11-02T16:06:03Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7599,6 +6227,8 @@
     "_lat": "51.1955691",
     "_lon": "4.3877337",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "42.450651528552335",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -7607,8 +6237,8 @@
     "_last_edit:timestamp": "2020-04-04T11:12:57Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7671,6 +6301,8 @@
     "_lat": "51.19554185",
     "_lon": "4.388666",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "40.27905877140088",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -7679,8 +6311,8 @@
     "_last_edit:timestamp": "2021-11-02T16:04:56Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7716,6 +6348,8 @@
     "_lat": "51.195395",
     "_lon": "4.388280549999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "48.33181267397363",
     "_length:km": "0.0",
     "_last_edit:contributor": "dejakke",
@@ -7724,8 +6358,8 @@
     "_last_edit:timestamp": "2021-03-18T18:42:19Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7760,6 +6394,8 @@
     "_lat": "51.19571155",
     "_lon": "4.3888184",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "15.45955997053729",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -7768,8 +6404,8 @@
     "_last_edit:timestamp": "2021-11-02T16:04:55Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7804,6 +6440,8 @@
     "_lat": "51.1955737",
     "_lon": "4.3877643",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "3.843511410246303",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -7812,8 +6450,8 @@
     "_last_edit:timestamp": "2021-11-02T16:05:18Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7855,6 +6493,8 @@
     "_lat": "51.205527599999996",
     "_lon": "4.38701865",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "214.56007373572555",
     "_length:km": "0.2",
     "_last_edit:contributor": "wegspotter",
@@ -7863,8 +6503,8 @@
     "_last_edit:timestamp": "2021-07-04T14:34:32Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7928,6 +6568,8 @@
     "_lat": "51.20459505",
     "_lon": "4.3823484",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "186.90395520409552",
     "_length:km": "0.2",
     "_last_edit:contributor": "gkhn_kaya",
@@ -7936,8 +6578,8 @@
     "_last_edit:timestamp": "2021-11-16T14:26:19Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -7976,6 +6618,8 @@
     "_lat": "51.20467615",
     "_lon": "4.3827567",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "59.306439739518346",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -7984,8 +6628,8 @@
     "_last_edit:timestamp": "2021-10-30T12:14:02Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8014,7 +6658,7 @@
    "type": "Feature",
    "id": "way/854658547",
    "properties": {
-    "highway": "path",
+    "highway": "pedestrian",
     "name": "Nicole Van Goethempad",
     "name:etymology:wikidata": "Q4322238",
     "surface": "concrete",
@@ -8022,16 +6666,18 @@
     "_lat": "51.2043644",
     "_lon": "4.3839436",
     "_layer": "slow_roads",
-    "_length": "181.250496871413",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "181.25049698878655",
     "_length:km": "0.2",
-    "_last_edit:contributor": "stijnh",
-    "_last_edit:contributor:uid": 14414954,
-    "_last_edit:changeset": 113730752,
-    "_last_edit:timestamp": "2021-11-13T13:29:40Z",
-    "_version_number": 4,
+    "_last_edit:contributor": "Money Moustache",
+    "_last_edit:contributor:uid": 12369934,
+    "_last_edit:changeset": 117371360,
+    "_last_edit:timestamp": "2022-02-13T22:28:01Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8039,6 +6685,10 @@
      [
       4.3849397,
       51.2048857
+     ],
+     [
+      4.384749,
+      51.2047679
      ],
      [
       4.3843669,
@@ -8081,6 +6731,8 @@
     "_lat": "51.2041086",
     "_lon": "4.38822815",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "38.92938968123421",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -8089,8 +6741,8 @@
     "_last_edit:timestamp": "2020-10-23T11:28:08Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8148,6 +6800,8 @@
     "_lat": "51.204356649999994",
     "_lon": "4.38842745",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "39.24025921503361",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -8156,8 +6810,8 @@
     "_last_edit:timestamp": "2020-10-23T10:55:51Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8199,6 +6853,8 @@
     "_lat": "51.204060150000004",
     "_lon": "4.3885297",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "85.87636581207472",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -8207,8 +6863,8 @@
     "_last_edit:timestamp": "2020-10-23T10:55:51Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8250,6 +6906,8 @@
     "_lat": "51.204733700000006",
     "_lon": "4.3881234",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "53.90081234202684",
     "_length:km": "0.1",
     "_last_edit:contributor": "H4N5-antw",
@@ -8258,8 +6916,8 @@
     "_last_edit:timestamp": "2020-10-23T23:00:48Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8306,6 +6964,8 @@
     "_lat": "51.2039429",
     "_lon": "4.3880843",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "88.90110632226877",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
@@ -8314,8 +6974,8 @@
     "_last_edit:timestamp": "2020-10-23T10:55:51Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8357,6 +7017,8 @@
     "_lat": "51.2038939",
     "_lon": "4.3890189500000005",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "39.503896863490745",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -8365,8 +7027,8 @@
     "_last_edit:timestamp": "2020-10-23T11:28:08Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8415,6 +7077,8 @@
     "_lat": "51.19429985",
     "_lon": "4.3843993",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "41.76000795477809",
     "_length:km": "0.0",
     "_last_edit:contributor": "ThVerhulst",
@@ -8423,8 +7087,8 @@
     "_last_edit:timestamp": "2021-11-02T16:06:01Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8468,6 +7132,8 @@
     "_lat": "51.195927100000006",
     "_lon": "4.3890040500000005",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "5.286098537283628",
     "_length:km": "0.0",
     "_last_edit:contributor": "Thibault Rommel",
@@ -8476,8 +7142,8 @@
     "_last_edit:timestamp": "2021-03-27T11:37:30Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8509,22 +7175,25 @@
     "alt_name": "Zillionpad",
     "highway": "path",
     "name": "Ann Salenspad",
+    "name:etymology:wikidata": "Q14943175",
     "surface": "concrete",
     "width": "4",
     "id": "way/925836698",
     "_lat": "51.20528155",
     "_lon": "4.3859813",
     "_layer": "slow_roads",
-    "_length": "84.26987563219812",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "84.31229990698415",
     "_length:km": "0.1",
-    "_last_edit:contributor": "wegspotter",
-    "_last_edit:contributor:uid": 428001,
-    "_last_edit:changeset": 107393378,
-    "_last_edit:timestamp": "2021-07-04T14:34:32Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "stijnh",
+    "_last_edit:contributor:uid": 14414954,
+    "_last_edit:changeset": 115132175,
+    "_last_edit:timestamp": "2021-12-19T16:40:19Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8542,8 +7211,8 @@
       51.2052833
      ],
      [
-      4.3860401,
-      51.2053244
+      4.3860253,
+      51.2053254
      ],
      [
       4.3865755,
@@ -8573,6 +7242,8 @@
     "_lat": "51.19414695",
     "_lon": "4.39035185",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "42.99092753171018",
     "_length:km": "0.0",
     "_last_edit:contributor": "dejakke",
@@ -8581,8 +7252,8 @@
     "_last_edit:timestamp": "2021-04-24T09:06:31Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8629,6 +7300,8 @@
     "_lat": "51.19443275",
     "_lon": "4.39417655",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "42.17432509392563",
     "_length:km": "0.0",
     "_last_edit:contributor": "sh85",
@@ -8637,8 +7310,8 @@
     "_last_edit:timestamp": "2021-04-21T10:57:42Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8680,6 +7353,8 @@
     "_lat": "51.1946562",
     "_lon": "4.3941137",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "9.34846616341646",
     "_length:km": "0.0",
     "_last_edit:contributor": "sh85",
@@ -8688,8 +7363,8 @@
     "_last_edit:timestamp": "2021-04-21T10:57:42Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8723,6 +7398,8 @@
     "_lat": "51.193071",
     "_lon": "4.3852691",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "29.678079230138426",
     "_length:km": "0.0",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -8731,8 +7408,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8770,6 +7447,8 @@
     "_lat": "51.19494525",
     "_lon": "4.390594849999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "48.0344622546206",
     "_length:km": "0.0",
     "_last_edit:contributor": "wegspotter",
@@ -8778,8 +7457,8 @@
     "_last_edit:timestamp": "2021-07-04T14:31:17Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8839,6 +7518,8 @@
     "_lat": "51.19507874999999",
     "_lon": "4.391162850000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "60.350551914778464",
     "_length:km": "0.1",
     "_last_edit:contributor": "wegspotter",
@@ -8847,8 +7528,8 @@
     "_last_edit:timestamp": "2021-07-04T14:31:17Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8896,6 +7577,8 @@
     "_lat": "51.20420565",
     "_lon": "4.3831267",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "52.316256908215884",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -8904,8 +7587,8 @@
     "_last_edit:timestamp": "2021-10-30T12:14:00Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8941,6 +7624,8 @@
     "_lat": "51.204044749999994",
     "_lon": "4.3841699",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "113.80165906939067",
     "_length:km": "0.1",
     "_last_edit:contributor": "wegspotter",
@@ -8949,8 +7634,8 @@
     "_last_edit:timestamp": "2021-07-04T14:35:57Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -8998,6 +7683,8 @@
     "_lat": "51.2040595",
     "_lon": "4.38516495",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "104.52997161535112",
     "_length:km": "0.1",
     "_last_edit:contributor": "wegspotter",
@@ -9006,8 +7693,8 @@
     "_last_edit:timestamp": "2021-07-04T14:35:57Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9071,6 +7758,8 @@
     "_lat": "51.20407645",
     "_lon": "4.38486025",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "154.03407834477332",
     "_length:km": "0.2",
     "_last_edit:contributor": "wegspotter",
@@ -9079,8 +7768,8 @@
     "_last_edit:timestamp": "2021-07-04T14:35:57Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9137,6 +7826,8 @@
     "_lat": "51.204509200000004",
     "_lon": "4.38104085",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "125.99301637652027",
     "_length:km": "0.1",
     "_last_edit:contributor": "gkhn_kaya",
@@ -9145,8 +7836,8 @@
     "_last_edit:timestamp": "2021-11-16T14:26:19Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9184,6 +7875,8 @@
     "_lat": "51.193855600000006",
     "_lon": "4.37916225",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "29.95103309572511",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -9192,8 +7885,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9235,6 +7928,8 @@
     "_lat": "51.1947611",
     "_lon": "4.38124775",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "152.68546806044023",
     "_length:km": "0.2",
     "_last_edit:contributor": "Jorisbo",
@@ -9243,8 +7938,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9350,6 +8045,8 @@
     "_lat": "51.19467535",
     "_lon": "4.38149195",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "20.11701893280751",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorisbo",
@@ -9358,8 +8055,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9400,6 +8097,8 @@
     "_lat": "51.20560055",
     "_lon": "4.38094985",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "106.71183173817778",
     "_length:km": "0.1",
     "_last_edit:contributor": "stijnh",
@@ -9408,8 +8107,8 @@
     "_last_edit:timestamp": "2021-11-21T14:41:22Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9445,6 +8144,8 @@
     "_lat": "51.1946479",
     "_lon": "4.3901551",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "66.70223897426085",
     "_length:km": "0.1",
     "_last_edit:contributor": "Rienux",
@@ -9453,8 +8154,8 @@
     "_last_edit:timestamp": "2021-11-30T20:48:12Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9527,6 +8228,8 @@
     "_lat": "51.1945936",
     "_lon": "4.3897234",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "2.2861748030674316",
     "_length:km": "0.0",
     "_last_edit:contributor": "Rienux",
@@ -9535,8 +8238,8 @@
     "_last_edit:timestamp": "2021-11-30T20:48:12Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9577,6 +8280,8 @@
     "_lat": "51.2057308",
     "_lon": "4.37131495",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "552.9821941152862",
     "_length:km": "0.6",
     "_last_edit:contributor": "joost schouppe",
@@ -9585,8 +8290,8 @@
     "_last_edit:timestamp": "2021-12-07T14:34:56Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9603,12 +8308,306 @@
    },
    "_lon": 4.37131495,
    "_lat": 51.2057308,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "way/1031026950",
+   "properties": {
+    "highway": "living_street",
+    "id": "way/1031026950",
+    "_lat": "51.20525635",
+    "_lon": "4.3843882",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "54.700466080191156",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Money Moustache",
+    "_last_edit:contributor:uid": 12369934,
+    "_last_edit:changeset": 117371360,
+    "_last_edit:timestamp": "2022-02-13T22:28:01Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.384251,
+      51.2054739
+     ],
+     [
+      4.384291,
+      51.2054193
+     ],
+     [
+      4.3842679,
+      51.2054096
+     ],
+     [
+      4.3842512,
+      51.205388
+     ],
+     [
+      4.3842589,
+      51.2053599
+     ],
+     [
+      4.3842986,
+      51.2053109
+     ],
+     [
+      4.3845254,
+      51.2050388
+     ]
+    ]
+   },
+   "_lon": 4.3843882,
+   "_lat": 51.20525635,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.2078012,
-    "maxLon": 4.3735129,
-    "minLat": 51.2036604,
-    "minLon": 4.369117
+    "maxLat": 51.2054739,
+    "maxLon": 4.3845254,
+    "minLat": 51.2050388,
+    "minLon": 4.384251
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1031026951",
+   "properties": {
+    "highway": "pedestrian",
+    "id": "way/1031026951",
+    "_lat": "51.204903349999995",
+    "_lon": "4.3846372",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "33.91306944900564",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Money Moustache",
+    "_last_edit:contributor:uid": 12369934,
+    "_last_edit:changeset": 117371360,
+    "_last_edit:timestamp": "2022-02-13T22:28:01Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3845254,
+      51.2050388
+     ],
+     [
+      4.3845651,
+      51.204989
+     ],
+     [
+      4.3846766,
+      51.204855
+     ],
+     [
+      4.384749,
+      51.2047679
+     ]
+    ]
+   },
+   "_lon": 4.3846372,
+   "_lat": 51.204903349999995,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.2050388,
+    "maxLon": 4.384749,
+    "minLat": 51.2047679,
+    "minLon": 4.3845254
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1031027982",
+   "properties": {
+    "highway": "footway",
+    "id": "way/1031027982",
+    "_lat": "51.204868250000004",
+    "_lon": "4.38642765",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "148.80172934635638",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Money Moustache",
+    "_last_edit:contributor:uid": 12369934,
+    "_last_edit:changeset": 117371520,
+    "_last_edit:timestamp": "2022-02-13T22:34:48Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3854628,
+      51.2046044
+     ],
+     [
+      4.385507,
+      51.2046331
+     ],
+     [
+      4.3855685,
+      51.2046577
+     ],
+     [
+      4.385654,
+      51.2046888
+     ],
+     [
+      4.3857788,
+      51.2047295
+     ],
+     [
+      4.3859018,
+      51.204768
+     ],
+     [
+      4.3860386,
+      51.2048141
+     ],
+     [
+      4.3862061,
+      51.2048676
+     ],
+     [
+      4.3864129,
+      51.2049308
+     ],
+     [
+      4.3866146,
+      51.2049972
+     ],
+     [
+      4.386871,
+      51.2050797
+     ],
+     [
+      4.3869873,
+      51.2051064
+     ],
+     [
+      4.3871291,
+      51.2051236
+     ],
+     [
+      4.3872471,
+      51.2051257
+     ],
+     [
+      4.3873377,
+      51.2051257
+     ],
+     [
+      4.3873925,
+      51.2051321
+     ]
+    ]
+   },
+   "_lon": 4.38642765,
+   "_lat": 51.204868250000004,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.2051321,
+    "maxLon": 4.3873925,
+    "minLat": 51.2046044,
+    "minLon": 4.3854628
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1031027983",
+   "properties": {
+    "highway": "footway",
+    "id": "way/1031027983",
+    "_lat": "51.20498405",
+    "_lon": "4.38579615",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "115.06427340068967",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Money Moustache",
+    "_last_edit:contributor:uid": 12369934,
+    "_last_edit:changeset": 117371520,
+    "_last_edit:timestamp": "2022-02-13T22:34:48Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3855009,
+      51.2045023
+     ],
+     [
+      4.3855408,
+      51.2045514
+     ],
+     [
+      4.3855981,
+      51.2046243
+     ],
+     [
+      4.385654,
+      51.2046888
+     ],
+     [
+      4.3857108,
+      51.2047629
+     ],
+     [
+      4.3857967,
+      51.2048991
+     ],
+     [
+      4.3858778,
+      51.2050277
+     ],
+     [
+      4.3859378,
+      51.2051454
+     ],
+     [
+      4.3859927,
+      51.2052624
+     ],
+     [
+      4.3860253,
+      51.2053254
+     ],
+     [
+      4.3860914,
+      51.2054658
+     ]
+    ]
+   },
+   "_lon": 4.38579615,
+   "_lat": 51.20498405,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.2054658,
+    "maxLon": 4.3860914,
+    "minLat": 51.2045023,
+    "minLon": 4.3855009
    }
   },
   {
@@ -9623,6 +8622,8 @@
     "_lat": "51.1935855",
     "_lon": "4.3898677",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "134.701311740899",
     "_length:km": "0.1",
     "_last_edit:contributor": "dejakke",
@@ -9631,8 +8632,8 @@
     "_last_edit:timestamp": "2021-04-24T09:07:36Z",
     "_version_number": 10,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9684,6 +8685,8 @@
     "_lat": "51.193602049999996",
     "_lon": "4.395033400000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "437.4396378889506",
     "_length:km": "0.4",
     "_last_edit:contributor": "ThVerhulst",
@@ -9692,8 +8695,8 @@
     "_last_edit:timestamp": "2021-11-02T16:03:18Z",
     "_version_number": 8,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9767,6 +8770,8 @@
     "_lat": "51.1931674",
     "_lon": "4.379675199999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "30.954913937065495",
     "_length:km": "0.0",
     "_last_edit:contributor": "Jorieke V",
@@ -9775,8 +8780,8 @@
     "_last_edit:timestamp": "2014-07-10T12:56:52Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9818,6 +8823,8 @@
     "_lat": "51.193045850000004",
     "_lon": "4.38443935",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "94.04330146324847",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -9826,8 +8833,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9878,6 +8885,8 @@
     "_lat": "51.192842150000004",
     "_lon": "4.38403065",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "78.57849142707587",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -9886,8 +8895,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 6,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9938,6 +8947,8 @@
     "_lat": "51.193259499999996",
     "_lon": "4.3850394",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "82.72936857641305",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -9946,8 +8957,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 5,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -9999,6 +9010,8 @@
     "_lat": "51.19303805",
     "_lon": "4.3790297",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "34.937895803190266",
     "_length:km": "0.0",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -10007,8 +9020,8 @@
     "_last_edit:timestamp": "2021-05-04T10:45:14Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10048,6 +9061,8 @@
     "_lat": "51.19314875",
     "_lon": "4.39350625",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "86.45202626312711",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -10056,8 +9071,8 @@
     "_last_edit:timestamp": "2021-11-02T16:03:15Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10096,6 +9111,8 @@
     "_lat": "51.19308925",
     "_lon": "4.3757138",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "498.224348844587",
     "_length:km": "0.5",
     "_last_edit:contributor": "Jorisbo",
@@ -10104,8 +9121,8 @@
     "_last_edit:timestamp": "2021-09-13T15:00:58Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10146,13 +9163,7 @@
    },
    "_lon": 4.3757138,
    "_lat": 51.19308925,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1937428,
-    "maxLon": 4.3791253,
-    "minLat": 51.1924357,
-    "minLon": 4.3723023
-   }
+   "_is_patched": true
   },
   {
    "type": "Feature",
@@ -10168,6 +9179,8 @@
     "_lat": "51.192994",
     "_lon": "4.381820599999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "82.07895312614617",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -10176,8 +9189,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10234,6 +9247,8 @@
     "_lat": "51.192863200000005",
     "_lon": "4.383111899999999",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "106.54765698465607",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -10242,8 +9257,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 2,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10293,6 +9308,8 @@
     "_lat": "51.1930355",
     "_lon": "4.38238165",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "126.84178832400076",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -10301,8 +9318,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 3,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10356,6 +9373,8 @@
     "_lat": "51.193335399999995",
     "_lon": "4.385408",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "84.39362965986452",
     "_length:km": "0.1",
     "_last_edit:contributor": "ThVerhulst",
@@ -10364,8 +9383,8 @@
     "_last_edit:timestamp": "2021-11-02T16:06:05Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10423,6 +9442,8 @@
     "_lat": "51.1935472",
     "_lon": "4.390301",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "137.63538625502994",
     "_length:km": "0.1",
     "_last_edit:contributor": "dejakke",
@@ -10431,8 +9452,8 @@
     "_last_edit:timestamp": "2021-04-24T09:07:19Z",
     "_version_number": 7,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10471,6 +9492,8 @@
     "_lat": "51.19331255",
     "_lon": "4.3891431",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "263.6129922441545",
     "_length:km": "0.3",
     "_last_edit:contributor": "Jakka",
@@ -10479,8 +9502,8 @@
     "_last_edit:timestamp": "2018-01-15T19:45:24Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10602,6 +9625,8 @@
     "_lat": "51.193071",
     "_lon": "4.3852691",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "29.678079230138426",
     "_length:km": "0.0",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -10610,8 +9635,8 @@
     "_last_edit:timestamp": "2021-05-04T10:32:26Z",
     "_version_number": 1,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10651,6 +9676,8 @@
     "_lat": "51.19365445",
     "_lon": "4.3953443",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "269.31099571373124",
     "_length:km": "0.3",
     "_last_edit:contributor": "ThVerhulst",
@@ -10659,8 +9686,8 @@
     "_last_edit:timestamp": "2021-11-02T16:02:13Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10716,6 +9743,8 @@
     "_lat": "51.19365445",
     "_lon": "4.3953443",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "269.31099571373124",
     "_length:km": "0.3",
     "_last_edit:contributor": "ThVerhulst",
@@ -10724,8 +9753,8 @@
     "_last_edit:timestamp": "2021-11-02T16:02:13Z",
     "_version_number": 4,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",
@@ -10781,6 +9810,8 @@
     "_lat": "51.193602049999996",
     "_lon": "4.395033400000001",
     "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "437.4396378889506",
     "_length:km": "0.4",
     "_last_edit:contributor": "ThVerhulst",
@@ -10789,8 +9820,8 @@
     "_last_edit:timestamp": "2021-11-02T16:03:18Z",
     "_version_number": 8,
     "_geometry:type": "LineString",
-    "_part_of_walking_routes": "",
-    "_is_shadowed": "yes"
+    "_country": "be",
+    "_part_of_walking_routes": ""
    },
    "geometry": {
     "type": "LineString",

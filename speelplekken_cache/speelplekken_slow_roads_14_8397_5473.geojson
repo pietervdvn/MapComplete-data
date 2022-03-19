@@ -3,6 +3,59 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/172360778",
+   "properties": {
+    "highway": "path",
+    "id": "way/172360778",
+    "_lat": "51.164975999999996",
+    "_lon": "4.5073151",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "82.7339160370534",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 12398113,
+    "_last_edit:timestamp": "2012-07-21T01:45:37Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5072235,
+      51.1652936
+     ],
+     [
+      4.5072302,
+      51.1648225
+     ],
+     [
+      4.5074067,
+      51.1648205
+     ],
+     [
+      4.5073965,
+      51.1646584
+     ]
+    ]
+   },
+   "_lon": 4.5073151,
+   "_lat": 51.164975999999996,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1652936,
+    "maxLon": 4.5074067,
+    "minLat": 51.1646584,
+    "minLon": 4.5072235
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/172360779",
    "properties": {
     "highway": "path",
@@ -21,7 +74,6 @@
     "_version_number": 1,
     "_geometry:type": "LineString",
     "_country": "be",
-    "_is_shadowed": "",
     "_part_of_walking_routes": ""
    },
    "geometry": {
@@ -47,7 +99,13 @@
    },
    "_lon": 4.50610605,
    "_lat": 51.16498635000001,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.165277,
+    "maxLon": 4.506195,
+    "minLat": 51.1646957,
+    "minLon": 4.5060171
+   }
   },
   {
    "type": "Feature",
@@ -69,7 +127,6 @@
     "_version_number": 1,
     "_geometry:type": "LineString",
     "_country": "be",
-    "_is_shadowed": "",
     "_part_of_walking_routes": ""
    },
    "geometry": {
@@ -87,7 +144,228 @@
    },
    "_lon": 4.50476505,
    "_lat": 51.1623254,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1623806,
+    "maxLon": 4.504826,
+    "minLat": 51.1622702,
+    "minLon": 4.5047041
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/461560031",
+   "properties": {
+    "bicycle": "yes",
+    "highway": "footway",
+    "name": "Bacwalde S.K.",
+    "surface": "paved",
+    "id": "way/461560031",
+    "_lat": "51.1560877",
+    "_lon": "4.517739799999999",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "63.58428410648836",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 116326529,
+    "_last_edit:timestamp": "2022-01-19T06:34:34Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5176468,
+      51.1558078
+     ],
+     [
+      4.5178328,
+      51.1563676
+     ]
+    ]
+   },
+   "_lon": 4.517739799999999,
+   "_lat": 51.1560877,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1563676,
+    "maxLon": 4.5178328,
+    "minLat": 51.1558078,
+    "minLon": 4.5176468
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/942246984",
+   "properties": {
+    "bicycle": "dismount",
+    "highway": "path",
+    "id": "way/942246984",
+    "_lat": "51.15548615",
+    "_lon": "4.5181041",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "77.268608436754",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 112939109,
+    "_last_edit:timestamp": "2021-10-25T10:04:12Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5184992,
+      51.1553469
+     ],
+     [
+      4.517709,
+      51.1554385
+     ],
+     [
+      4.5177708,
+      51.1556254
+     ]
+    ]
+   },
+   "_lon": 4.5181041,
+   "_lat": 51.15548615,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1556254,
+    "maxLon": 4.5184992,
+    "minLat": 51.1553469,
+    "minLon": 4.517709
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/942246985",
+   "properties": {
+    "bicycle": "dismount",
+    "bridge": "yes",
+    "highway": "path",
+    "id": "way/942246985",
+    "_lat": "51.15435385",
+    "_lon": "4.51822735",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "5.819448249488608",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 112939109,
+    "_last_edit:timestamp": "2021-10-25T10:04:12Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5182468,
+      51.1543307
+     ],
+     [
+      4.5182079,
+      51.154377
+     ]
+    ]
+   },
+   "_lon": 4.51822735,
+   "_lat": 51.15435385,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.154377,
+    "maxLon": 4.5182468,
+    "minLat": 51.1543307,
+    "minLon": 4.5182079
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/942246987",
+   "properties": {
+    "bicycle": "dismount",
+    "highway": "path",
+    "id": "way/942246987",
+    "_lat": "51.1550924",
+    "_lon": "4.51808965",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "204.28303413714454",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 112939109,
+    "_last_edit:timestamp": "2021-10-25T10:04:12Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5182079,
+      51.154377
+     ],
+     [
+      4.5184024,
+      51.1550037
+     ],
+     [
+      4.5184992,
+      51.1553469
+     ],
+     [
+      4.5185325,
+      51.1554646
+     ],
+     [
+      4.5177708,
+      51.1556254
+     ],
+     [
+      4.5176795,
+      51.1556446
+     ],
+     [
+      4.5176795,
+      51.155738
+     ],
+     [
+      4.5176468,
+      51.1558078
+     ]
+    ]
+   },
+   "_lon": 4.51808965,
+   "_lat": 51.1550924,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1558078,
+    "maxLon": 4.5185325,
+    "minLat": 51.154377,
+    "minLon": 4.5176468
+   }
   }
  ]
 }
