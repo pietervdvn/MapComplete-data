@@ -2730,6 +2730,10 @@
    "id": "node/5780887792",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "braun",
+    "material": "wood",
+    "seats": "3",
     "id": "node/5780887792",
     "_lat": "50.6750928",
     "_lon": "6.0468323",
@@ -2738,11 +2742,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Patrick Bous",
-    "_last_edit:contributor:uid": 223763,
-    "_last_edit:changeset": 69304620,
-    "_last_edit:timestamp": "2019-04-17T10:58:34Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "STEIN_aus_KELMIS",
+    "_last_edit:contributor:uid": 3235324,
+    "_last_edit:changeset": 118728755,
+    "_last_edit:timestamp": "2022-03-21T10:20:18Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -4253,6 +4257,41 @@
    },
    "_lon": 6.001664,
    "_lat": 50.6273154
+  },
+  {
+   "type": "Feature",
+   "id": "node/9594060206",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "blau",
+    "material": "plastic",
+    "seats": "3",
+    "id": "node/9594060206",
+    "_lat": "50.6751196",
+    "_lon": "6.0468563",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "STEIN_aus_KELMIS",
+    "_last_edit:contributor:uid": 3235324,
+    "_last_edit:changeset": 118728755,
+    "_last_edit:timestamp": "2022-03-21T10:20:18Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.0468563,
+     50.6751196
+    ]
+   },
+   "_lon": 6.0468563,
+   "_lat": 50.6751196
   }
  ]
 }
