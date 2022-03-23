@@ -21225,7 +21225,11 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "direction": "321",
+    "image": "https://i.imgur.com/tCWA9PD.jpg",
     "material": "wood;metal",
+    "seats": "5",
+    "survey:date": "2022-03-22",
     "id": "node/8313011352",
     "_lat": "50.874219",
     "_lon": "4.7175852",
@@ -21234,11 +21238,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "pfiers",
-    "_last_edit:contributor:uid": 3797928,
-    "_last_edit:changeset": 97328841,
-    "_last_edit:timestamp": "2021-01-11T20:31:14Z",
-    "_version_number": 1,
+    "_direction:numerical": 321,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 118775276,
+    "_last_edit:timestamp": "2022-03-22T11:51:09Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -21258,7 +21264,9 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "direction": "316",
     "material": "wood;metal",
+    "seats": "5",
     "id": "node/8313011353",
     "_lat": "50.8742542",
     "_lon": "4.7176382",
@@ -21267,11 +21275,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "pfiers",
-    "_last_edit:contributor:uid": 3797928,
-    "_last_edit:changeset": 97328841,
-    "_last_edit:timestamp": "2021-01-11T20:31:14Z",
-    "_version_number": 1,
+    "_direction:numerical": 316,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 118775276,
+    "_last_edit:timestamp": "2022-03-22T11:49:57Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -21290,6 +21300,9 @@
    "id": "node/8313019331",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "seats": "5",
+    "survey:date": "2022-03-22",
     "id": "node/8313019331",
     "_lat": "50.8746675",
     "_lon": "4.7168302",
@@ -21298,11 +21311,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "pfiers",
-    "_last_edit:contributor:uid": 3797928,
-    "_last_edit:changeset": 97328841,
-    "_last_edit:timestamp": "2021-01-11T20:31:14Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 118775276,
+    "_last_edit:timestamp": "2022-03-22T11:48:06Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -22845,6 +22858,173 @@
    },
    "_lon": 4.7119023,
    "_lat": 50.877761
+  },
+  {
+   "type": "Feature",
+   "id": "node/9597156083",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/9597156083",
+    "_lat": "50.8750345",
+    "_lon": "4.7170445",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 118775276,
+    "_last_edit:timestamp": "2022-03-22T11:46:16Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7170445,
+     50.8750345
+    ]
+   },
+   "_lon": 4.7170445,
+   "_lat": 50.8750345
+  },
+  {
+   "type": "Feature",
+   "id": "node/9597163860",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/9597163860",
+    "_lat": "50.8751371",
+    "_lon": "4.7171103",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 118775276,
+    "_last_edit:timestamp": "2022-03-22T11:45:54Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7171103,
+     50.8751371
+    ]
+   },
+   "_lon": 4.7171103,
+   "_lat": 50.8751371
+  },
+  {
+   "type": "Feature",
+   "id": "node/9597163861",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/9597163861",
+    "_lat": "50.8750968",
+    "_lon": "4.7170897",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 118775276,
+    "_last_edit:timestamp": "2022-03-22T11:45:54Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7170897,
+     50.8750968
+    ]
+   },
+   "_lon": 4.7170897,
+   "_lat": 50.8750968
+  },
+  {
+   "type": "Feature",
+   "id": "node/9597166301",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "124",
+    "image": "https://i.imgur.com/bjF3auc.jpg",
+    "seats": "5",
+    "id": "node/9597166301",
+    "_lat": "50.8741867",
+    "_lon": "4.7174172",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 124,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 118775276,
+    "_last_edit:timestamp": "2022-03-22T11:58:25Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7174172,
+     50.8741867
+    ]
+   },
+   "_lon": 4.7174172,
+   "_lat": 50.8741867
+  },
+  {
+   "type": "Feature",
+   "id": "node/9597188035",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "96",
+    "seats": "5",
+    "survey:date": "2022-03-22",
+    "id": "node/9597188035",
+    "_lat": "50.8741274",
+    "_lon": "4.717372",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 96,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 118775276,
+    "_last_edit:timestamp": "2022-03-22T11:56:10Z",
+    "_version_number": 5,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.717372,
+     50.8741274
+    ]
+   },
+   "_lon": 4.717372,
+   "_lat": 50.8741274
   }
  ]
 }
