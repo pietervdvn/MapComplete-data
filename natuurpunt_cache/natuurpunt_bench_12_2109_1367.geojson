@@ -534,6 +534,8 @@
    "id": "node/5914396587",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "survey:date": "2022-03-23",
     "id": "node/5914396587",
     "_lat": "51.2336132",
     "_lon": "5.4317733",
@@ -542,11 +544,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Wim van der Ven",
-    "_last_edit:contributor:uid": 1817282,
-    "_last_edit:changeset": 62707348,
-    "_last_edit:timestamp": "2018-09-18T18:54:38Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Carmen van den Akker",
+    "_last_edit:contributor:uid": 15388402,
+    "_last_edit:changeset": 118809579,
+    "_last_edit:timestamp": "2022-03-23T08:55:31Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -853,6 +855,102 @@
    },
    "_lon": 5.4401483,
    "_lat": 51.2333871
+  },
+  {
+   "type": "Feature",
+   "id": "node/9599205393",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/9599205393",
+    "_lat": "51.2338733",
+    "_lon": "5.4297996",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Carmen van den Akker",
+    "_last_edit:contributor:uid": 15388402,
+    "_last_edit:changeset": 118809579,
+    "_last_edit:timestamp": "2022-03-23T09:05:04Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4297996,
+     51.2338733
+    ]
+   },
+   "_lon": 5.4297996,
+   "_lat": 51.2338733
+  },
+  {
+   "type": "Feature",
+   "id": "node/9599234601",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "id": "node/9599234601",
+    "_lat": "51.1953126",
+    "_lon": "5.4469069",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Mieke Kerkhofs",
+    "_last_edit:contributor:uid": 15388519,
+    "_last_edit:changeset": 118810416,
+    "_last_edit:timestamp": "2022-03-23T09:18:12Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4469069,
+     51.1953126
+    ]
+   },
+   "_lon": 5.4469069,
+   "_lat": 51.1953126
+  },
+  {
+   "type": "Feature",
+   "id": "node/9599234802",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "survey:date": "2022-03-23",
+    "id": "node/9599234802",
+    "_lat": "51.1969496",
+    "_lon": "5.3877608",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Mieke Kerkhofs",
+    "_last_edit:contributor:uid": 15388519,
+    "_last_edit:changeset": 118810416,
+    "_last_edit:timestamp": "2022-03-23T09:28:10Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3877608,
+     51.1969496
+    ]
+   },
+   "_lon": 5.3877608,
+   "_lat": 51.1969496
   }
  ]
 }
