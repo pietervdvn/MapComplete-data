@@ -7554,6 +7554,7 @@
    "type": "Feature",
    "id": "way/780454276",
    "properties": {
+    "bicycle": "yes",
     "highway": "footway",
     "lit": "yes",
     "surface": "concrete",
@@ -7563,13 +7564,13 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "227.82325304608395",
+    "_length": "227.82326765375652",
     "_length:km": "0.2",
-    "_last_edit:contributor": "Guidopallemans",
-    "_last_edit:contributor:uid": 12657732,
-    "_last_edit:changeset": 100575540,
-    "_last_edit:timestamp": "2021-03-07T13:56:09Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "Rembrandt De Vlaeminck",
+    "_last_edit:contributor:uid": 504998,
+    "_last_edit:changeset": 118834331,
+    "_last_edit:timestamp": "2022-03-23T18:49:00Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -7624,6 +7625,10 @@
      [
       4.4100953,
       51.198893
+     ],
+     [
+      4.4101123,
+      51.1988901
      ],
      [
       4.4102634,
@@ -8126,13 +8131,13 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "182.20542108370816",
+    "_length": "182.63659161930784",
     "_length:km": "0.2",
     "_last_edit:contributor": "Rembrandt De Vlaeminck",
     "_last_edit:contributor:uid": 504998,
-    "_last_edit:changeset": 117555320,
-    "_last_edit:timestamp": "2022-02-18T09:35:55Z",
-    "_version_number": 4,
+    "_last_edit:changeset": 118834331,
+    "_last_edit:timestamp": "2022-03-23T18:49:00Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -8165,16 +8170,16 @@
       51.1992084
      ],
      [
-      4.4108311,
-      51.1992438
+      4.4107972,
+      51.1992475
      ],
      [
-      4.4108334,
-      51.1992586
+      4.4108042,
+      51.1992674
      ],
      [
-      4.4108334,
-      51.199303
+      4.4108217,
+      51.1993059
      ],
      [
       4.410821,
@@ -8221,8 +8226,12 @@
       51.1996855
      ],
      [
-      4.4099269,
-      51.1996429
+      4.4100073,
+      51.1996562
+     ],
+     [
+      4.4098895,
+      51.1996517
      ],
      [
       4.4097171,
@@ -8452,6 +8461,7 @@
    "type": "Feature",
    "id": "way/782107834",
    "properties": {
+    "bicycle": "yes",
     "highway": "footway",
     "surface": "concrete",
     "id": "way/782107834",
@@ -8462,11 +8472,11 @@
     "_surface:ha": "0",
     "_length": "72.41476287983085",
     "_length:km": "0.1",
-    "_last_edit:contributor": "Rembrandt De Vlaeminck",
-    "_last_edit:contributor:uid": 504998,
-    "_last_edit:changeset": 117555320,
-    "_last_edit:timestamp": "2022-02-18T09:35:55Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "Katja ProvApen",
+    "_last_edit:contributor:uid": 15388019,
+    "_last_edit:changeset": 118808499,
+    "_last_edit:timestamp": "2022-03-23T08:28:59Z",
+    "_version_number": 4,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -8529,18 +8539,18 @@
     "highway": "footway",
     "surface": "concrete",
     "id": "way/782107835",
-    "_lat": "51.1994666",
-    "_lon": "4.4109184",
+    "_lat": "51.19945165",
+    "_lon": "4.41086665",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "17.974206097235705",
+    "_length": "10.083406896210917",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 82306913,
-    "_last_edit:timestamp": "2020-03-17T14:33:02Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Rembrandt De Vlaeminck",
+    "_last_edit:contributor:uid": 504998,
+    "_last_edit:changeset": 118834331,
+    "_last_edit:timestamp": "2022-03-23T18:49:00Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -8553,25 +8563,21 @@
       51.1994254
      ],
      [
-      4.4109311,
-      51.1994595
+      4.4108819,
+      51.1994497
      ],
      [
-      4.410979,
-      51.19948
-     ],
-     [
-      4.411028,
-      51.1995078
+      4.4109245,
+      51.1994779
      ]
     ]
    },
-   "_lon": 4.4109184,
-   "_lat": 51.1994666,
+   "_lon": 4.41086665,
+   "_lat": 51.19945165,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1995078,
-    "maxLon": 4.411028,
+    "maxLat": 51.1994779,
+    "maxLon": 4.4109245,
     "minLat": 51.1994254,
     "minLon": 4.4108088
    }
@@ -11584,12 +11590,12 @@
     "surface": "concrete",
     "width": "3",
     "id": "way/1032845907",
-    "_lat": "51.1993758",
-    "_lon": "4.4110189",
+    "_lat": "51.19937725",
+    "_lon": "4.411013049999999",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "30.501345996520957",
+    "_length": "31.029105778038776",
     "_length:km": "0.0",
     "_last_edit:contributor": "Rembrandt De Vlaeminck",
     "_last_edit:contributor:uid": 504998,
@@ -11604,8 +11610,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4108334,
-      51.199303
+      4.4108217,
+      51.1993059
      ],
      [
       4.4112044,
@@ -11613,14 +11619,14 @@
      ]
     ]
    },
-   "_lon": 4.4110189,
-   "_lat": 51.1993758,
+   "_lon": 4.411013049999999,
+   "_lat": 51.19937725,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1994486,
     "maxLon": 4.4112044,
-    "minLat": 51.199303,
-    "minLon": 4.4108334
+    "minLat": 51.1993059,
+    "minLon": 4.4108217
    }
   },
   {
@@ -11630,12 +11636,12 @@
     "highway": "path",
     "surface": "concrete",
     "id": "way/1032845909",
-    "_lat": "51.199261050000004",
-    "_lon": "4.4107515500000005",
+    "_lat": "51.1992629",
+    "_lon": "4.4107346",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "11.730525808406954",
+    "_length": "9.371683728119043",
     "_length:km": "0.0",
     "_last_edit:contributor": "Rembrandt De Vlaeminck",
     "_last_edit:contributor:uid": 504998,
@@ -11654,18 +11660,18 @@
       51.1992783
      ],
      [
-      4.4108311,
-      51.1992438
+      4.4107972,
+      51.1992475
      ]
     ]
    },
-   "_lon": 4.4107515500000005,
-   "_lat": 51.199261050000004,
+   "_lon": 4.4107346,
+   "_lat": 51.1992629,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1992783,
-    "maxLon": 4.4108311,
-    "minLat": 51.1992438,
+    "maxLon": 4.4107972,
+    "minLat": 51.1992475,
     "minLon": 4.410672
    }
   },
