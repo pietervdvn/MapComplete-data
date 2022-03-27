@@ -287,24 +287,27 @@
    "type": "Feature",
    "id": "way/4310511",
    "properties": {
-    "highway": "living_street",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "pedestrian",
     "maxspeed": "30",
     "maxspeed:zone": "yes",
+    "motor_vehicle": "no",
     "name": "Florent Cootmansplein",
-    "oneway": "yes",
+    "oneway": "no",
     "id": "way/4310511",
-    "_lat": "51.19295395",
-    "_lon": "4.439281",
+    "_lat": "51.19288625",
+    "_lon": "4.43913075",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "94.9435320221676",
+    "_length": "67.88626937027422",
     "_length:km": "0.1",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 82516199,
-    "_last_edit:timestamp": "2020-03-23T09:57:33Z",
-    "_version_number": 6,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 118918997,
+    "_last_edit:timestamp": "2022-03-25T16:42:35Z",
+    "_version_number": 9,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -313,75 +316,50 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4388765,
-      51.1932475
+      4.4388977,
+      51.1931543
      ],
      [
-      4.4389899,
-      51.1930823
-     ],
-     [
-      4.4393409,
-      51.1926958
-     ],
-     [
-      4.4393592,
-      51.1926795
-     ],
-     [
-      4.4393839,
-      51.1926671
-     ],
-     [
-      4.4394253,
-      51.1926625
-     ],
-     [
-      4.4395686,
-      51.1926604
-     ],
-     [
-      4.4396271,
-      51.1926622
-     ],
-     [
-      4.4396855,
-      51.192664
+      4.4393638,
+      51.1926182
      ]
     ]
    },
-   "_lon": 4.439281,
-   "_lat": 51.19295395,
+   "_lon": 4.43913075,
+   "_lat": 51.19288625,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1932475,
-    "maxLon": 4.4396855,
-    "minLat": 51.1926604,
-    "minLon": 4.4388765
+    "maxLat": 51.1931543,
+    "maxLon": 4.4393638,
+    "minLat": 51.1926182,
+    "minLon": 4.4388977
    }
   },
   {
    "type": "Feature",
    "id": "way/44900085",
    "properties": {
-    "highway": "living_street",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "pedestrian",
     "maxspeed": "30",
     "maxspeed:zone": "yes",
+    "motor_vehicle": "no",
     "name": "Florent Cootmansplein",
-    "oneway": "yes",
+    "oneway": "no",
     "id": "way/44900085",
-    "_lat": "51.192955749999996",
-    "_lon": "4.4392853",
+    "_lat": "51.19305675",
+    "_lon": "4.4393495000000005",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "91.63848006758424",
+    "_length": "61.05368315384072",
     "_length:km": "0.1",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 82516199,
-    "_last_edit:timestamp": "2020-03-23T09:57:33Z",
-    "_version_number": 4,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 118918997,
+    "_last_edit:timestamp": "2022-03-25T16:42:35Z",
+    "_version_number": 7,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -390,51 +368,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4396855,
-      51.192664
+      4.4396813,
+      51.1928775
      ],
      [
-      4.4396941,
-      51.1927081
-     ],
-     [
-      4.4396941,
-      51.1927388
-     ],
-     [
-      4.4396763,
-      51.1928294
-     ],
-     [
-      4.4396675,
-      51.1928465
-     ],
-     [
-      4.4396481,
-      51.1928662
-     ],
-     [
-      4.4396196,
-      51.1928817
-     ],
-     [
-      4.4391324,
-      51.1931394
-     ],
-     [
-      4.4388765,
-      51.1932475
+      4.4390177,
+      51.193236
      ]
     ]
    },
-   "_lon": 4.4392853,
-   "_lat": 51.192955749999996,
+   "_lon": 4.4393495000000005,
+   "_lat": 51.19305675,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1932475,
-    "maxLon": 4.4396941,
-    "minLat": 51.192664,
-    "minLon": 4.4388765
+    "maxLat": 51.193236,
+    "maxLon": 4.4396813,
+    "minLat": 51.1928775,
+    "minLon": 4.4390177
    }
   },
   {
@@ -627,12 +577,12 @@
     "maxspeed:zone": "yes",
     "name": "Florent Cootmansplein",
     "id": "way/4310510",
-    "_lat": "51.19252675",
-    "_lon": "4.4400632",
+    "_lat": "51.192510999999996",
+    "_lon": "4.440087",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "60.919694839044986",
+    "_length": "56.24418323240728",
     "_length:km": "0.1",
     "_last_edit:contributor": "Jorisbo",
     "_last_edit:contributor:uid": 1983103,
@@ -647,8 +597,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4396855,
-      51.192664
+      4.4397331,
+      51.1926325
      ],
      [
       4.4398975,
@@ -660,38 +610,41 @@
      ]
     ]
    },
-   "_lon": 4.4400632,
-   "_lat": 51.19252675,
+   "_lon": 4.440087,
+   "_lat": 51.192510999999996,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.192664,
+    "maxLat": 51.1926325,
     "maxLon": 4.4404409,
     "minLat": 51.1923895,
-    "minLon": 4.4396855
+    "minLon": 4.4397331
    }
   },
   {
    "type": "Feature",
    "id": "way/4310511",
    "properties": {
-    "highway": "living_street",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "pedestrian",
     "maxspeed": "30",
     "maxspeed:zone": "yes",
+    "motor_vehicle": "no",
     "name": "Florent Cootmansplein",
-    "oneway": "yes",
+    "oneway": "no",
     "id": "way/4310511",
-    "_lat": "51.19295395",
-    "_lon": "4.439281",
+    "_lat": "51.19288625",
+    "_lon": "4.43913075",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "94.9435320221676",
+    "_length": "67.88626937027422",
     "_length:km": "0.1",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 82516199,
-    "_last_edit:timestamp": "2020-03-23T09:57:33Z",
-    "_version_number": 6,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 118918997,
+    "_last_edit:timestamp": "2022-03-25T16:42:35Z",
+    "_version_number": 9,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -700,51 +653,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4388765,
-      51.1932475
+      4.4388977,
+      51.1931543
      ],
      [
-      4.4389899,
-      51.1930823
-     ],
-     [
-      4.4393409,
-      51.1926958
-     ],
-     [
-      4.4393592,
-      51.1926795
-     ],
-     [
-      4.4393839,
-      51.1926671
-     ],
-     [
-      4.4394253,
-      51.1926625
-     ],
-     [
-      4.4395686,
-      51.1926604
-     ],
-     [
-      4.4396271,
-      51.1926622
-     ],
-     [
-      4.4396855,
-      51.192664
+      4.4393638,
+      51.1926182
      ]
     ]
    },
-   "_lon": 4.439281,
-   "_lat": 51.19295395,
+   "_lon": 4.43913075,
+   "_lat": 51.19288625,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1932475,
-    "maxLon": 4.4396855,
-    "minLat": 51.1926604,
-    "minLon": 4.4388765
+    "maxLat": 51.1931543,
+    "maxLon": 4.4393638,
+    "minLat": 51.1926182,
+    "minLon": 4.4388977
    }
   },
   {
@@ -1612,24 +1537,27 @@
    "type": "Feature",
    "id": "way/44900085",
    "properties": {
-    "highway": "living_street",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "pedestrian",
     "maxspeed": "30",
     "maxspeed:zone": "yes",
+    "motor_vehicle": "no",
     "name": "Florent Cootmansplein",
-    "oneway": "yes",
+    "oneway": "no",
     "id": "way/44900085",
-    "_lat": "51.192955749999996",
-    "_lon": "4.4392853",
+    "_lat": "51.19305675",
+    "_lon": "4.4393495000000005",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "91.63848006758424",
+    "_length": "61.05368315384072",
     "_length:km": "0.1",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 82516199,
-    "_last_edit:timestamp": "2020-03-23T09:57:33Z",
-    "_version_number": 4,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 118918997,
+    "_last_edit:timestamp": "2022-03-25T16:42:35Z",
+    "_version_number": 7,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1638,51 +1566,23 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4396855,
-      51.192664
+      4.4396813,
+      51.1928775
      ],
      [
-      4.4396941,
-      51.1927081
-     ],
-     [
-      4.4396941,
-      51.1927388
-     ],
-     [
-      4.4396763,
-      51.1928294
-     ],
-     [
-      4.4396675,
-      51.1928465
-     ],
-     [
-      4.4396481,
-      51.1928662
-     ],
-     [
-      4.4396196,
-      51.1928817
-     ],
-     [
-      4.4391324,
-      51.1931394
-     ],
-     [
-      4.4388765,
-      51.1932475
+      4.4390177,
+      51.193236
      ]
     ]
    },
-   "_lon": 4.4392853,
-   "_lat": 51.192955749999996,
+   "_lon": 4.4393495000000005,
+   "_lat": 51.19305675,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1932475,
-    "maxLon": 4.4396941,
-    "minLat": 51.192664,
-    "minLon": 4.4388765
+    "maxLat": 51.193236,
+    "maxLon": 4.4396813,
+    "minLat": 51.1928775,
+    "minLon": 4.4390177
    }
   },
   {
@@ -5102,6 +5002,126 @@
     "maxLon": 4.4417877,
     "minLat": 51.1845089,
     "minLon": 4.4416755
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1043708709",
+   "properties": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "living_street",
+    "maxspeed": "30",
+    "maxspeed:zone": "yes",
+    "motor_vehicle": "yes",
+    "name": "Florent Cootmansplein",
+    "oneway": "no",
+    "id": "way/1043708709",
+    "_lat": "51.192755000000005",
+    "_lon": "4.4397072",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "28.007759983132598",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 118904899,
+    "_last_edit:timestamp": "2022-03-25T11:24:46Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4397331,
+      51.1926325
+     ],
+     [
+      4.4397245,
+      51.1927313
+     ],
+     [
+      4.4397178,
+      51.1928415
+     ],
+     [
+      4.4396813,
+      51.1928775
+     ]
+    ]
+   },
+   "_lon": 4.4397072,
+   "_lat": 51.192755000000005,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1928775,
+    "maxLon": 4.4397331,
+    "minLat": 51.1926325,
+    "minLon": 4.4396813
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1043708710",
+   "properties": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "living_street",
+    "maxspeed": "30",
+    "maxspeed:zone": "yes",
+    "motor_vehicle": "yes",
+    "name": "Florent Cootmansplein",
+    "oneway": "no",
+    "id": "way/1043708710",
+    "_lat": "51.192624550000005",
+    "_lon": "4.43954845",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "26.127424162235997",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 118904899,
+    "_last_edit:timestamp": "2022-03-25T11:24:46Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4393638,
+      51.1926182
+     ],
+     [
+      4.4394147,
+      51.1926111
+     ],
+     [
+      4.4396466,
+      51.192638
+     ],
+     [
+      4.4397331,
+      51.1926325
+     ]
+    ]
+   },
+   "_lon": 4.43954845,
+   "_lat": 51.192624550000005,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.192638,
+    "maxLon": 4.4397331,
+    "minLat": 51.1926111,
+    "minLon": 4.4393638
    }
   },
   {
