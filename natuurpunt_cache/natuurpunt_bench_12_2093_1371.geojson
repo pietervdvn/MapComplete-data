@@ -39,6 +39,12 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "brown",
+    "direction": "155",
+    "image": "https://i.imgur.com/fRKhQ5l.jpg",
+    "material": "wood",
+    "seats": "3",
+    "survey:date": "2022-03-26",
     "id": "node/3854289562",
     "_lat": "51.0044965",
     "_lon": "3.9987593",
@@ -47,11 +53,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "escada",
-    "_last_edit:contributor:uid": 436365,
-    "_last_edit:changeset": 35528802,
-    "_last_edit:timestamp": "2015-11-23T12:06:03Z",
-    "_version_number": 1,
+    "_direction:numerical": 155,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 118973150,
+    "_last_edit:timestamp": "2022-03-27T09:24:40Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -923,6 +931,86 @@
    },
    "_lon": 3.9856231,
    "_lat": 50.9699391
+  },
+  {
+   "type": "Feature",
+   "id": "node/9610480185",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "green",
+    "direction": "292",
+    "image": "https://i.imgur.com/Dg7UkHK.jpg",
+    "material": "plastic",
+    "seats": "4",
+    "survey:date": "2022-03-26",
+    "id": "node/9610480185",
+    "_lat": "50.9593863",
+    "_lon": "4.0289623",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 292,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 118973150,
+    "_last_edit:timestamp": "2022-03-27T09:17:43Z",
+    "_version_number": 6,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.0289623,
+     50.9593863
+    ]
+   },
+   "_lon": 4.0289623,
+   "_lat": 50.9593863
+  },
+  {
+   "type": "Feature",
+   "id": "node/9610488716",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "green",
+    "direction": "274",
+    "image": "https://i.imgur.com/gWedrhK.jpg",
+    "material": "plastic",
+    "seats": "4",
+    "survey:date": "2022-03-26",
+    "id": "node/9610488716",
+    "_lat": "50.9617076",
+    "_lon": "4.0301746",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 274,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 118973150,
+    "_last_edit:timestamp": "2022-03-27T09:21:11Z",
+    "_version_number": 6,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.0301746,
+     50.9617076
+    ]
+   },
+   "_lon": 4.0301746,
+   "_lat": 50.9617076
   }
  ]
 }
