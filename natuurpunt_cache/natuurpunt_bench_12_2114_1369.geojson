@@ -509,6 +509,11 @@
    "id": "node/2954503493",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "direction": "106",
+    "image": "https://i.imgur.com/ZPsXP5l.jpg",
+    "material": "wood",
+    "seats": "8",
     "id": "node/2954503493",
     "_lat": "51.1237684",
     "_lon": "5.8165263",
@@ -517,11 +522,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "L'imaginaire",
-    "_last_edit:contributor:uid": 654234,
-    "_last_edit:changeset": 118740319,
-    "_last_edit:timestamp": "2022-03-21T15:06:02Z",
-    "_version_number": 2,
+    "_direction:numerical": 106,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Visit Kinrooi",
+    "_last_edit:contributor:uid": 15291736,
+    "_last_edit:changeset": 119015015,
+    "_last_edit:timestamp": "2022-03-28T10:58:37Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1426,6 +1433,8 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "direction": "105",
+    "image": "https://i.imgur.com/TG9QW36.jpg",
     "material": "wood",
     "seats": "8",
     "id": "node/9593947994",
@@ -1436,11 +1445,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "L'imaginaire",
-    "_last_edit:contributor:uid": 654234,
-    "_last_edit:changeset": 118740319,
-    "_last_edit:timestamp": "2022-03-21T15:06:02Z",
-    "_version_number": 4,
+    "_direction:numerical": 105,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Visit Kinrooi",
+    "_last_edit:contributor:uid": 15291736,
+    "_last_edit:changeset": 119015015,
+    "_last_edit:timestamp": "2022-03-28T10:58:07Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1453,6 +1464,38 @@
    },
    "_lon": 5.8166166,
    "_lat": 51.1238972
+  },
+  {
+   "type": "Feature",
+   "id": "node/9612946095",
+   "properties": {
+    "amenity": "bench",
+    "image": "https://i.imgur.com/hm64RZp.jpg",
+    "id": "node/9612946095",
+    "_lat": "51.1234168",
+    "_lon": "5.815881",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Visit Kinrooi",
+    "_last_edit:contributor:uid": 15291736,
+    "_last_edit:changeset": 119015015,
+    "_last_edit:timestamp": "2022-03-28T11:32:30Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.815881,
+     51.1234168
+    ]
+   },
+   "_lon": 5.815881,
+   "_lat": 51.1234168
   }
  ]
 }
