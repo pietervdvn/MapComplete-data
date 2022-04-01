@@ -90782,6 +90782,126 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.18.0-alpha",
+        "comment": "Adding data with #MapComplete for theme #sidewalks",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-03-31T21:05:11Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 5.27073439998075e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119177668,
+        "host": "pietervdvn.github.io",
+        "theme": "sidewalks",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_500m": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2408339,
+          51.207188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thibaultmol",
+        "uid": "2916921",
+        "editor": "MapComplete 0.17.1",
+        "comment": "Adding data with #MapComplete for theme #sidewalks",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-03-31T19:00:54Z",
+        "reviewed_features": [],
+        "create": 16,
+        "modify": 47,
+        "delete": 0,
+        "area": 0.000189712649280011,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119174003,
+        "host": "mapcomplete.osm.be",
+        "split": 18,
+        "theme": "sidewalks",
+        "answer": 75,
+        "locale": "en",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3193764,
+          50.993800949999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.17.1",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-03-31T15:26:54Z",
+        "reviewed_features": [],
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119166248,
+        "host": "mapcomplete.osm.be",
+        "theme": "cyclofix",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1954288,
+          51.2497832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [
           {
             "id": 40,
@@ -90799,25 +90919,34 @@
         "imagery_used": "Not reported",
         "date": "2022-03-31T13:29:16Z",
         "reviewed_features": [],
-        "create": 2,
-        "modify": 0,
+        "create": 9,
+        "modify": 55,
         "delete": 0,
-        "area": 1.8269899999618e-9,
+        "area": 1.24299239997193e-7,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
         "id": 119160492,
         "host": "mapcomplete.osm.be",
+        "move": 15,
         "theme": "toerisme_vlaanderen",
+        "answer": 47,
         "locale": "nl",
-        "imagery": "osm"
+        "imagery": "osm",
+        "add-image": 1,
+        "move:node/9626571473": "improve_accuracy",
+        "move:node/9626576649": "improve_accuracy",
+        "move:node/9626613959": "improve_accuracy",
+        "move:node/9626675921": "improve_accuracy",
+        "move:node/9626683663": "improve_accuracy",
+        "move:node/9626695007": "improve_accuracy"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.19116215,
-          51.10300485
+          4.191172549999999,
+          51.1029211
         ]
       }
     },
