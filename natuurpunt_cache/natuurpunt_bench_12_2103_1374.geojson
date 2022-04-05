@@ -951,6 +951,12 @@
    "id": "node/3920957182",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "direction": "66",
+    "image": "https://i.imgur.com/6OTHuPn.jpg",
+    "material": "plastic",
+    "seats": "3",
+    "survey:date": "2022-04-04",
     "id": "node/3920957182",
     "_lat": "50.8271436",
     "_lon": "4.8478022",
@@ -959,11 +965,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 36286424,
-    "_last_edit:timestamp": "2015-12-31T16:55:20Z",
-    "_version_number": 1,
+    "_direction:numerical": 66,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 119301118,
+    "_last_edit:timestamp": "2022-04-04T13:05:48Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1685,6 +1693,121 @@
    },
    "_lon": 4.9113938,
    "_lat": 50.8354788
+  },
+  {
+   "type": "Feature",
+   "id": "node/9635427607",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "231",
+    "image": "https://i.imgur.com/4Uv5Z2L.jpg",
+    "material": "metal",
+    "seats": "3",
+    "id": "node/9635427607",
+    "_lat": "50.8018524",
+    "_lon": "4.875114",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 231,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 119298597,
+    "_last_edit:timestamp": "2022-04-04T11:14:51Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.875114,
+     50.8018524
+    ]
+   },
+   "_lon": 4.875114,
+   "_lat": 50.8018524
+  },
+  {
+   "type": "Feature",
+   "id": "node/9635491030",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "212",
+    "image": "https://i.imgur.com/BIext6J.jpg",
+    "seats": "3",
+    "survey:date": "2022-04-04",
+    "id": "node/9635491030",
+    "_lat": "50.8031202",
+    "_lon": "4.9114901",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 212,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 119298597,
+    "_last_edit:timestamp": "2022-04-04T11:19:13Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9114901,
+     50.8031202
+    ]
+   },
+   "_lon": 4.9114901,
+   "_lat": 50.8031202
+  },
+  {
+   "type": "Feature",
+   "id": "node/9635650094",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "51",
+    "image": "https://i.imgur.com/UQAG4Fy.jpg",
+    "material": "wood",
+    "seats": "4",
+    "survey:date": "2022-04-04",
+    "id": "node/9635650094",
+    "_lat": "50.8132139",
+    "_lon": "4.8444569",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 51,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 119301118,
+    "_last_edit:timestamp": "2022-04-04T12:24:40Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8444569,
+     50.8132139
+    ]
+   },
+   "_lon": 4.8444569,
+   "_lat": 50.8132139
   }
  ]
 }
