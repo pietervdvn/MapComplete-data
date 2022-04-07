@@ -1786,7 +1786,8 @@
     "_version_number": 1,
     "_geometry:type": "LineString",
     "_country": "be",
-    "_part_of_walking_routes": ""
+    "_part_of_walking_routes": "",
+    "_is_shadowed": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2601,7 +2602,8 @@
     "_version_number": 1,
     "_geometry:type": "LineString",
     "_country": "be",
-    "_part_of_walking_routes": ""
+    "_part_of_walking_routes": "",
+    "_is_shadowed": ""
    },
    "geometry": {
     "type": "LineString",
@@ -2903,18 +2905,18 @@
     "motor_vehicle": "no",
     "surface": "grass",
     "id": "way/905761854",
-    "_lat": "51.14450875",
-    "_lon": "4.4444348",
+    "_lat": "51.14440475",
+    "_lon": "4.442834850000001",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "569.3491813538978",
-    "_length:km": "0.6",
+    "_length": "307.76321761470405",
+    "_length:km": "0.3",
     "_last_edit:contributor": "Rembrandt De Vlaeminck",
     "_last_edit:contributor:uid": 504998,
-    "_last_edit:changeset": 119012186,
-    "_last_edit:timestamp": "2022-03-28T09:39:45Z",
-    "_version_number": 5,
+    "_last_edit:changeset": 119396360,
+    "_last_edit:timestamp": "2022-04-06T17:10:24Z",
+    "_version_number": 6,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -2923,64 +2925,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4464874,
-      51.1456203
-     ],
-     [
-      4.4463265,
-      51.1456613
-     ],
-     [
-      4.4462888,
-      51.1456678
-     ],
-     [
-      4.4460958,
-      51.1457011
-     ],
-     [
-      4.4458357,
-      51.1457264
-     ],
-     [
-      4.4455323,
-      51.1457458
-     ],
-     [
-      4.4452985,
-      51.1457536
-     ],
-     [
-      4.4451669,
-      51.1457555
-     ],
-     [
-      4.4448845,
-      51.1457574
-     ],
-     [
-      4.4446523,
-      51.1457491
-     ],
-     [
-      4.4445593,
-      51.1457458
-     ],
-     [
-      4.4442267,
-      51.1457296
-     ],
-     [
-      4.4439032,
-      51.1456928
-     ],
-     [
-      4.4433883,
-      51.1456454
-     ],
-     [
-      4.442941,
-      51.1455933
+      4.4428013,
+      51.1455494
      ],
      [
       4.4427927,
@@ -3007,8 +2953,8 @@
       51.1447096
      ],
      [
-      4.4430454,
-      51.1444891
+      4.4430246,
+      51.1444931
      ],
      [
       4.4430747,
@@ -3060,12 +3006,12 @@
      ]
     ]
    },
-   "_lon": 4.4444348,
-   "_lat": 51.14450875,
+   "_lon": 4.442834850000001,
+   "_lat": 51.14440475,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1457574,
-    "maxLon": 4.4464874,
+    "maxLat": 51.1455494,
+    "maxLon": 4.4432875,
     "minLat": 51.1432601,
     "minLon": 4.4423822
    }
@@ -3082,18 +3028,18 @@
     "name": "Wandelpad",
     "surface": "grass",
     "id": "way/905767008",
-    "_lat": "51.145808900000006",
-    "_lon": "4.4446429",
+    "_lat": "51.14580215",
+    "_lon": "4.44464395",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "13.363436830773756",
+    "_length": "11.855173362958082",
     "_length:km": "0.0",
     "_last_edit:contributor": "Rembrandt De Vlaeminck",
     "_last_edit:contributor:uid": 504998,
-    "_last_edit:changeset": 119012186,
-    "_last_edit:timestamp": "2022-03-28T09:34:28Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 119396360,
+    "_last_edit:timestamp": "2022-04-06T17:10:24Z",
+    "_version_number": 4,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3106,19 +3052,19 @@
       51.1457491
      ],
      [
-      4.4446335,
-      51.1458687
+      4.4446356,
+      51.1458552
      ]
     ]
    },
-   "_lon": 4.4446429,
-   "_lat": 51.145808900000006,
+   "_lon": 4.44464395,
+   "_lat": 51.14580215,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1458687,
+    "maxLat": 51.1458552,
     "maxLon": 4.4446523,
     "minLat": 51.1457491,
-    "minLon": 4.4446335
+    "minLon": 4.4446356
    }
   },
   {
@@ -3993,6 +3939,164 @@
     "maxLon": 4.4420376,
     "minLat": 51.1478625,
     "minLon": 4.4416128
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1049675877",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "surface": "grass",
+    "id": "way/1049675877",
+    "_lat": "51.1456646",
+    "_lon": "4.44468005",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "255.95148495101438",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "Rembrandt De Vlaeminck",
+    "_last_edit:contributor:uid": 504998,
+    "_last_edit:changeset": 119396360,
+    "_last_edit:timestamp": "2022-04-06T17:10:24Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4464874,
+      51.1456203
+     ],
+     [
+      4.4463265,
+      51.1456613
+     ],
+     [
+      4.4462888,
+      51.1456678
+     ],
+     [
+      4.4460958,
+      51.1457011
+     ],
+     [
+      4.4458357,
+      51.1457264
+     ],
+     [
+      4.4455323,
+      51.1457458
+     ],
+     [
+      4.4452985,
+      51.1457536
+     ],
+     [
+      4.4451669,
+      51.1457555
+     ],
+     [
+      4.4448845,
+      51.1457574
+     ],
+     [
+      4.4446523,
+      51.1457491
+     ],
+     [
+      4.4445593,
+      51.1457458
+     ],
+     [
+      4.4442267,
+      51.1457296
+     ],
+     [
+      4.4439032,
+      51.1456928
+     ],
+     [
+      4.4433883,
+      51.1456454
+     ],
+     [
+      4.442941,
+      51.1455933
+     ],
+     [
+      4.4428727,
+      51.1455718
+     ]
+    ]
+   },
+   "_lon": 4.44468005,
+   "_lat": 51.1456646,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1457574,
+    "maxLon": 4.4464874,
+    "minLat": 51.1455718,
+    "minLon": 4.4428727
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1049675878",
+   "properties": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "surface": "grass",
+    "id": "way/1049675878",
+    "_lat": "51.145560599999996",
+    "_lon": "4.442837",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "5.568771010247297",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Rembrandt De Vlaeminck",
+    "_last_edit:contributor:uid": 504998,
+    "_last_edit:changeset": 119396360,
+    "_last_edit:timestamp": "2022-04-06T17:10:24Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4428727,
+      51.1455718
+     ],
+     [
+      4.4428013,
+      51.1455494
+     ]
+    ]
+   },
+   "_lon": 4.442837,
+   "_lat": 51.145560599999996,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1455718,
+    "maxLon": 4.4428727,
+    "minLat": 51.1455494,
+    "minLon": 4.4428013
    }
   },
   {
