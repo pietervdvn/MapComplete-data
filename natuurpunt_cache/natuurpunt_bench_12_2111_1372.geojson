@@ -732,6 +732,10 @@
    "properties": {
     "amenity": "bench",
     "backrest": "no",
+    "colour": "brown",
+    "direction": "340",
+    "material": "wood",
+    "seats": "10",
     "id": "node/6157377388",
     "_lat": "50.9221082",
     "_lon": "5.572608",
@@ -740,11 +744,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 340,
+    "_direction:leftright": "left",
     "_last_edit:contributor": "Bezoekerscentrum Lieteberg",
     "_last_edit:contributor:uid": 15504016,
-    "_last_edit:changeset": 119388139,
-    "_last_edit:timestamp": "2022-04-06T13:45:14Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 119427709,
+    "_last_edit:timestamp": "2022-04-07T12:56:52Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -763,6 +769,11 @@
    "id": "node/6157377389",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "colour": "brown",
+    "direction": "297",
+    "material": "wood",
+    "seats": "15",
     "id": "node/6157377389",
     "_lat": "50.922274",
     "_lon": "5.5727139",
@@ -771,11 +782,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 65723400,
-    "_last_edit:timestamp": "2018-12-23T19:53:36Z",
-    "_version_number": 1,
+    "_direction:numerical": 297,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Bezoekerscentrum Lieteberg",
+    "_last_edit:contributor:uid": 15504016,
+    "_last_edit:changeset": 119427709,
+    "_last_edit:timestamp": "2022-04-07T12:57:02Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1195,6 +1208,81 @@
    },
    "_lon": 5.5670958,
    "_lat": 50.9128235
+  },
+  {
+   "type": "Feature",
+   "id": "node/9648909893",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "gray",
+    "direction": "160",
+    "material": "plastic",
+    "seats": "4",
+    "id": "node/9648909893",
+    "_lat": "50.9204892",
+    "_lon": "5.5715583",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 160,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Bezoekerscentrum Lieteberg",
+    "_last_edit:contributor:uid": 15504016,
+    "_last_edit:changeset": 119427709,
+    "_last_edit:timestamp": "2022-04-07T12:40:16Z",
+    "_version_number": 4,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.5715583,
+     50.9204892
+    ]
+   },
+   "_lon": 5.5715583,
+   "_lat": 50.9204892
+  },
+  {
+   "type": "Feature",
+   "id": "node/9648921722",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "163",
+    "material": "wood",
+    "seats": "3",
+    "id": "node/9648921722",
+    "_lat": "50.9204996",
+    "_lon": "5.571524",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 163,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Bezoekerscentrum Lieteberg",
+    "_last_edit:contributor:uid": 15504016,
+    "_last_edit:changeset": 119427709,
+    "_last_edit:timestamp": "2022-04-07T12:37:39Z",
+    "_version_number": 4,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.571524,
+     50.9204996
+    ]
+   },
+   "_lon": 5.571524,
+   "_lat": 50.9204996
   }
  ]
 }
