@@ -166,119 +166,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/891435340",
-   "properties": {
-    "addr:housenumber": "18",
-    "addr:street": "Biestmolenstraat",
-    "building": "yes",
-    "man_made": "watermill",
-    "name": "Ter Biestmolen",
-    "source:geometry:date": "2013-03-28",
-    "source:geometry:ref": "Gbg/4243686",
-    "id": "way/891435340",
-    "_lat": "50.8850044",
-    "_lon": "3.6926875",
-    "_layer": "watermill",
-    "_surface": "437.50613795677236",
-    "_surface:ha": "0",
-    "_length": "109.85202112492506",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "Thibault Rommel",
-    "_last_edit:contributor:uid": 5846458,
-    "_last_edit:changeset": 109693532,
-    "_last_edit:timestamp": "2021-08-15T09:16:06Z",
-    "_version_number": 3,
-    "_geometry:type": "Polygon",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       3.6924426,
-       50.8849522
-      ],
-      [
-       3.6925891,
-       50.8849061
-      ],
-      [
-       3.692611,
-       50.8849339
-      ],
-      [
-       3.6925855,
-       50.884942
-      ],
-      [
-       3.6926029,
-       50.8849618
-      ],
-      [
-       3.6927941,
-       50.8848932
-      ],
-      [
-       3.6928133,
-       50.8849146
-      ],
-      [
-       3.692817,
-       50.8849133
-      ],
-      [
-       3.6929324,
-       50.8850599
-      ],
-      [
-       3.6927545,
-       50.8851156
-      ],
-      [
-       3.6926799,
-       50.885025
-      ],
-      [
-       3.6926293,
-       50.8850387
-      ],
-      [
-       3.6926171,
-       50.8850212
-      ],
-      [
-       3.6926195,
-       50.8850206
-      ],
-      [
-       3.6926149,
-       50.8850135
-      ],
-      [
-       3.6924822,
-       50.8850482
-      ],
-      [
-       3.6924564,
-       50.8849927
-      ],
-      [
-       3.6924609,
-       50.8849918
-      ],
-      [
-       3.6924426,
-       50.8849522
-      ]
-     ]
-    ]
-   },
-   "_lon": 3.6926875,
-   "_lat": 50.8850044
-  },
-  {
-   "type": "Feature",
    "id": "node/7858950573",
    "properties": {
     "man_made": "watermill",
@@ -309,6 +196,38 @@
    },
    "_lon": 3.7145566,
    "_lat": 50.8839989
+  },
+  {
+   "type": "Feature",
+   "id": "node/9657642107",
+   "properties": {
+    "man_made": "watermill",
+    "name": "Ter Biestmolen",
+    "id": "node/9657642107",
+    "_lat": "50.8851748",
+    "_lon": "3.692978",
+    "_layer": "watermill",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jakka",
+    "_last_edit:contributor:uid": 2403313,
+    "_last_edit:changeset": 119562457,
+    "_last_edit:timestamp": "2022-04-11T06:53:17Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.692978,
+     50.8851748
+    ]
+   },
+   "_lon": 3.692978,
+   "_lat": 50.8851748
   }
  ]
 }
