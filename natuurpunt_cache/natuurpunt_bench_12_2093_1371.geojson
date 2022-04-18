@@ -360,6 +360,12 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "brown",
+    "direction": "153",
+    "image": "https://i.imgur.com/S8fAtLK.jpg",
+    "material": "wood",
+    "seats": "4",
+    "survey:date": "2022-04-16",
     "id": "node/5535598562",
     "_lat": "50.9845582",
     "_lon": "4.0336395",
@@ -368,11 +374,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "mentaken",
-    "_last_edit:contributor:uid": 2336372,
-    "_last_edit:changeset": 57887461,
-    "_last_edit:timestamp": "2018-04-07T10:05:33Z",
-    "_version_number": 1,
+    "_direction:numerical": 153,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 119806510,
+    "_last_edit:timestamp": "2022-04-17T07:53:11Z",
+    "_version_number": 6,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1011,6 +1019,122 @@
    },
    "_lon": 4.0301746,
    "_lat": 50.9617076
+  },
+  {
+   "type": "Feature",
+   "id": "node/9671532310",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "104",
+    "image": "https://i.imgur.com/hVyMrzo.jpg",
+    "material": "wood",
+    "seats": "4",
+    "survey:date": "2022-04-16",
+    "id": "node/9671532310",
+    "_lat": "50.9794832",
+    "_lon": "4.0389924",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 104,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 119806510,
+    "_last_edit:timestamp": "2022-04-17T07:51:15Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.0389924,
+     50.9794832
+    ]
+   },
+   "_lon": 4.0389924,
+   "_lat": 50.9794832
+  },
+  {
+   "type": "Feature",
+   "id": "node/9671557453",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "280",
+    "image": "https://i.imgur.com/kGpamWN.jpg",
+    "material": "wood",
+    "seats": "4",
+    "survey:date": "2022-04-16",
+    "id": "node/9671557453",
+    "_lat": "50.9765484",
+    "_lon": "4.0376768",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 280,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 119806510,
+    "_last_edit:timestamp": "2022-04-17T07:49:11Z",
+    "_version_number": 5,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.0376768,
+     50.9765484
+    ]
+   },
+   "_lon": 4.0376768,
+   "_lat": 50.9765484
+  },
+  {
+   "type": "Feature",
+   "id": "node/9671590859",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "image": "https://i.imgur.com/3mpoALM.jpg",
+    "material": "wood",
+    "seats": "8",
+    "survey:date": "2022-04-16",
+    "id": "node/9671590859",
+    "_lat": "51.0008057",
+    "_lon": "4.0139989",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 119806510,
+    "_last_edit:timestamp": "2022-04-17T07:56:23Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.0139989,
+     51.0008057
+    ]
+   },
+   "_lon": 4.0139989,
+   "_lat": 51.0008057
   }
  ]
 }
