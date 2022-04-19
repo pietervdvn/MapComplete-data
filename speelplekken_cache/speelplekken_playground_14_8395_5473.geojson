@@ -10,6 +10,8 @@
     "_lat": "51.1523136",
     "_lon": "4.4643231",
     "_layer": "playground",
+    "_surface": "0",
+    "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
     "_last_edit:contributor": "cvandeneede",
@@ -18,7 +20,7 @@
     "_last_edit:timestamp": "2014-03-10T13:42:52Z",
     "_version_number": 1,
     "_geometry:type": "Point",
-    "_is_shadowed": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "Point",
@@ -29,7 +31,13 @@
    },
    "_lon": 4.4643231,
    "_lat": 51.1523136,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1523136,
+    "maxLon": 4.4643231,
+    "minLat": 51.1523136,
+    "minLon": 4.4643231
+   }
   }
  ]
 }
