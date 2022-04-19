@@ -1180,6 +1180,12 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "gray",
+    "direction": "183",
+    "image": "https://i.imgur.com/9xad8tj.jpg",
+    "material": "wood",
+    "seats": "3",
+    "survey:date": "2022-04-18",
     "id": "node/8108200842",
     "_lat": "51.0020246",
     "_lon": "5.4496925",
@@ -1188,11 +1194,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 108675850,
-    "_last_edit:timestamp": "2021-07-27T09:39:36Z",
-    "_version_number": 2,
+    "_direction:numerical": 183,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Huainantzu",
+    "_last_edit:contributor:uid": 15614111,
+    "_last_edit:changeset": 119870723,
+    "_last_edit:timestamp": "2022-04-18T17:40:16Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -4899,6 +4907,46 @@
    },
    "_lon": 5.518657,
    "_lat": 50.9763189
+  },
+  {
+   "type": "Feature",
+   "id": "node/9674966792",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "gray",
+    "direction": "69",
+    "image": "https://i.imgur.com/xg66KI7.jpg",
+    "material": "wood",
+    "seats": "3",
+    "survey:date": "2022-04-18",
+    "id": "node/9674966792",
+    "_lat": "51.0098249",
+    "_lon": "5.4598021",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 69,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Huainantzu",
+    "_last_edit:contributor:uid": 15614111,
+    "_last_edit:changeset": 119870723,
+    "_last_edit:timestamp": "2022-04-18T17:42:09Z",
+    "_version_number": 6,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4598021,
+     51.0098249
+    ]
+   },
+   "_lon": 5.4598021,
+   "_lat": 51.0098249
   }
  ]
 }
