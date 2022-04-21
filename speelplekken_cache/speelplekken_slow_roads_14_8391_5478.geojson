@@ -1477,13 +1477,13 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "112.84436723867267",
+    "_length": "112.84436760716615",
     "_length:km": "0.1",
-    "_last_edit:contributor": "koninklijke",
-    "_last_edit:contributor:uid": 2029979,
-    "_last_edit:changeset": 56131338,
-    "_last_edit:timestamp": "2018-02-06T22:02:58Z",
-    "_version_number": 10,
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 119903555,
+    "_last_edit:timestamp": "2022-04-19T11:53:15Z",
+    "_version_number": 11,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1506,6 +1506,10 @@
      [
       4.3874786,
       51.0887508
+     ],
+     [
+      4.3872931,
+      51.0886304
      ],
      [
       4.3872769,
@@ -3440,13 +3444,13 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "128.8341368807601",
+    "_length": "128.83413458163193",
     "_length:km": "0.1",
-    "_last_edit:contributor": "OsmAnd_Pieter",
-    "_last_edit:contributor:uid": 1671145,
-    "_last_edit:changeset": 110661140,
-    "_last_edit:timestamp": "2021-09-03T08:10:43Z",
-    "_version_number": 5,
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 119904408,
+    "_last_edit:timestamp": "2022-04-19T12:12:24Z",
+    "_version_number": 6,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3469,10 +3473,6 @@
      [
       4.3869808,
       51.087362
-     ],
-     [
-      4.3869812,
-      51.0873547
      ],
      [
       4.3869913,
@@ -4432,13 +4432,13 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "161.16413615796017",
+    "_length": "161.16413492774848",
     "_length:km": "0.2",
-    "_last_edit:contributor": "koenstr",
-    "_last_edit:contributor:uid": 2769604,
-    "_last_edit:changeset": 62046984,
-    "_last_edit:timestamp": "2018-08-27T17:31:47Z",
-    "_version_number": 5,
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 119903555,
+    "_last_edit:timestamp": "2022-04-19T11:53:15Z",
+    "_version_number": 6,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4467,10 +4467,6 @@
       51.0894671
      ],
      [
-      4.3868014,
-      51.0894596
-     ],
-     [
       4.3868114,
       51.089336
      ],
@@ -4479,12 +4475,12 @@
       51.089186
      ],
      [
-      4.3869734,
-      51.088983
-     ],
-     [
       4.3870015,
       51.0889451
+     ],
+     [
+      4.3872558,
+      51.0886448
      ],
      [
       4.3872769,
@@ -5109,20 +5105,21 @@
    "id": "way/168760857",
    "properties": {
     "highway": "path",
+    "lit": "no",
     "surface": "dirt",
     "id": "way/168760857",
-    "_lat": "51.0876754",
-    "_lon": "4.387737700000001",
+    "_lat": "51.08809025",
+    "_lon": "4.38776625",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "215.35571076782335",
-    "_length:km": "0.2",
-    "_last_edit:contributor": "koenstr",
-    "_last_edit:contributor:uid": 2769604,
-    "_last_edit:changeset": 71056225,
-    "_last_edit:timestamp": "2019-06-08T18:02:41Z",
-    "_version_number": 4,
+    "_length": "330.0334241991183",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 119904408,
+    "_last_edit:timestamp": "2022-04-19T12:12:24Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -5130,6 +5127,50 @@
    "geometry": {
     "type": "LineString",
     "coordinates": [
+     [
+      4.3886713,
+      51.0892056
+     ],
+     [
+      4.3886245,
+      51.0891618
+     ],
+     [
+      4.3885201,
+      51.0891429
+     ],
+     [
+      4.3883803,
+      51.0890684
+     ],
+     [
+      4.3884776,
+      51.0889728
+     ],
+     [
+      4.388398,
+      51.0888861
+     ],
+     [
+      4.3883803,
+      51.0887794
+     ],
+     [
+      4.3884457,
+      51.0887194
+     ],
+     [
+      4.3884174,
+      51.0886749
+     ],
+     [
+      4.3884758,
+      51.0885416
+     ],
+     [
+      4.3885962,
+      51.0885082
+     ],
      [
       4.3886142,
       51.0883759
@@ -5164,12 +5205,12 @@
      ]
     ]
    },
-   "_lon": 4.387737700000001,
-   "_lat": 51.0876754,
+   "_lon": 4.38776625,
+   "_lat": 51.08809025,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.0883759,
-    "maxLon": 4.3886142,
+    "maxLat": 51.0892056,
+    "maxLon": 4.3886713,
     "minLat": 51.0869749,
     "minLon": 4.3868612
    }
@@ -6477,12 +6518,12 @@
     "surface": "gravel",
     "tracktype": "grade3",
     "id": "way/304073921",
-    "_lat": "51.08848135",
-    "_lon": "4.3785909",
+    "_lat": "51.088475200000005",
+    "_lon": "4.37859355",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "35.66633339474421",
+    "_length": "35.636014706962676",
     "_length:km": "0.0",
     "_last_edit:contributor": "escada",
     "_last_edit:contributor:uid": 436365,
@@ -6501,21 +6542,21 @@
       51.0884331
      ],
      [
-      4.378644,
-      51.0884919
+      4.3786473,
+      51.0884844
      ],
      [
-      4.3788344,
-      51.0885296
+      4.3788397,
+      51.0885173
      ]
     ]
    },
-   "_lon": 4.3785909,
-   "_lat": 51.08848135,
+   "_lon": 4.37859355,
+   "_lat": 51.088475200000005,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.0885296,
-    "maxLon": 4.3788344,
+    "maxLat": 51.0885173,
+    "maxLon": 4.3788397,
     "minLat": 51.0884331,
     "minLon": 4.3783474
    }
@@ -6873,12 +6914,12 @@
     "surface": "gravel",
     "tracktype": "grade3",
     "id": "way/354042579",
-    "_lat": "51.088379599999996",
-    "_lon": "4.37876305",
+    "_lat": "51.08837585",
+    "_lon": "4.3787647",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "31.328232124207766",
+    "_length": "30.46476425264374",
     "_length:km": "0.0",
     "_last_edit:contributor": "escada",
     "_last_edit:contributor:uid": 436365,
@@ -6893,8 +6934,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.378644,
-      51.0884919
+      4.3786473,
+      51.0884844
      ],
      [
       4.3787007,
@@ -6910,14 +6951,14 @@
      ]
     ]
    },
-   "_lon": 4.37876305,
-   "_lat": 51.088379599999996,
+   "_lon": 4.3787647,
+   "_lat": 51.08837585,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.0884919,
+    "maxLat": 51.0884844,
     "maxLon": 4.3788821,
     "minLat": 51.0882673,
-    "minLon": 4.378644
+    "minLon": 4.3786473
    }
   },
   {
@@ -9136,93 +9177,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/409267577",
-   "properties": {
-    "highway": "footway",
-    "lit": "no",
-    "surface": "dirt",
-    "id": "way/409267577",
-    "_lat": "51.08879075",
-    "_lon": "4.3885258",
-    "_layer": "slow_roads",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "114.67771343129493",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "escada",
-    "_last_edit:contributor:uid": 436365,
-    "_last_edit:changeset": 98753642,
-    "_last_edit:timestamp": "2021-02-05T08:46:07Z",
-    "_version_number": 3,
-    "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.3886142,
-      51.0883759
-     ],
-     [
-      4.3885962,
-      51.0885082
-     ],
-     [
-      4.3884758,
-      51.0885416
-     ],
-     [
-      4.3884174,
-      51.0886749
-     ],
-     [
-      4.3884457,
-      51.0887194
-     ],
-     [
-      4.3883803,
-      51.0887794
-     ],
-     [
-      4.388398,
-      51.0888861
-     ],
-     [
-      4.3884776,
-      51.0889728
-     ],
-     [
-      4.3883803,
-      51.0890684
-     ],
-     [
-      4.3885201,
-      51.0891429
-     ],
-     [
-      4.3886245,
-      51.0891618
-     ],
-     [
-      4.3886713,
-      51.0892056
-     ]
-    ]
-   },
-   "_lon": 4.3885258,
-   "_lat": 51.08879075,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.0892056,
-    "maxLon": 4.3886713,
-    "minLat": 51.0883759,
-    "minLon": 4.3883803
-   }
-  },
-  {
-   "type": "Feature",
    "id": "way/423109502",
    "properties": {
     "highway": "path",
@@ -10183,17 +10137,17 @@
     "highway": "footway",
     "id": "way/627592725",
     "_lat": "51.08627225",
-    "_lon": "4.3798089000000004",
+    "_lon": "4.3798215",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "233.45365932573787",
+    "_length": "232.00314274671547",
     "_length:km": "0.2",
-    "_last_edit:contributor": "escada",
-    "_last_edit:contributor:uid": 436365,
-    "_last_edit:changeset": 62856530,
-    "_last_edit:timestamp": "2018-09-23T17:18:18Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 119904762,
+    "_last_edit:timestamp": "2022-04-19T12:20:11Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -10202,7 +10156,7 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.3784081,
+      4.3784333,
       51.0858955
      ],
      [
@@ -10251,14 +10205,14 @@
      ]
     ]
    },
-   "_lon": 4.3798089000000004,
+   "_lon": 4.3798215,
    "_lat": 51.08627225,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.086649,
     "maxLon": 4.3812097,
     "minLat": 51.0858955,
-    "minLon": 4.3784081
+    "minLon": 4.3784333
    }
   },
   {
@@ -10913,18 +10867,18 @@
    "properties": {
     "highway": "path",
     "id": "way/1023900389",
-    "_lat": "51.089479499999996",
+    "_lat": "51.08950815",
     "_lon": "4.3861773500000005",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "137.73959263408858",
+    "_length": "129.66191136093812",
     "_length:km": "0.1",
-    "_last_edit:contributor": "OsmAnd_Pieter",
-    "_last_edit:contributor:uid": 1671145,
-    "_last_edit:changeset": 116491096,
-    "_last_edit:timestamp": "2022-01-23T09:23:18Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 119903555,
+    "_last_edit:timestamp": "2022-04-19T11:53:15Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -11003,24 +10957,16 @@
      [
       4.3863131,
       51.0891259
-     ],
-     [
-      4.3863049,
-      51.0891001
-     ],
-     [
-      4.3862508,
-      51.0890686
      ]
     ]
    },
    "_lon": 4.3861773500000005,
-   "_lat": 51.089479499999996,
+   "_lat": 51.08950815,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.0898904,
     "maxLon": 4.386494,
-    "minLat": 51.0890686,
+    "minLat": 51.0891259,
     "minLon": 4.3858607
    }
   },
