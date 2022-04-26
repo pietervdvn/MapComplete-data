@@ -291,6 +291,12 @@
    "id": "node/7515201022",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "colour": "bruin",
+    "image": "https://i.imgur.com/oJVaTgk.jpg",
+    "material": "wood",
+    "seats": "6",
+    "survey:date": "2022-04-23",
     "id": "node/7515201022",
     "_lat": "51.1654434",
     "_lon": "4.029441",
@@ -299,11 +305,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 85153716,
-    "_last_edit:timestamp": "2020-05-13T15:39:21Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 120169944,
+    "_last_edit:timestamp": "2022-04-25T15:00:12Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -730,6 +736,7 @@
     "amenity": "bench",
     "backrest": "yes",
     "direction": "17",
+    "image": "https://i.imgur.com/achzyKe.jpg",
     "material": "wood",
     "seats": "4",
     "id": "node/9613032525",
@@ -742,11 +749,11 @@
     "_length:km": "0.0",
     "_direction:numerical": 17,
     "_direction:leftright": "right",
-    "_last_edit:contributor": "vott",
-    "_last_edit:contributor:uid": 15407842,
-    "_last_edit:changeset": 119017661,
-    "_last_edit:timestamp": "2022-03-28T12:05:16Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 120169944,
+    "_last_edit:timestamp": "2022-04-25T14:48:44Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -759,6 +766,83 @@
    },
    "_lon": 4.0383205,
    "_lat": 51.1601933
+  },
+  {
+   "type": "Feature",
+   "id": "node/9692626829",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "colour": "brown",
+    "image": "https://i.imgur.com/k35MCHN.jpg",
+    "material": "wood",
+    "seats": "2",
+    "survey:date": "2022-04-23",
+    "id": "node/9692626829",
+    "_lat": "51.1501028",
+    "_lon": "4.0038112",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 120169944,
+    "_last_edit:timestamp": "2022-04-25T14:47:02Z",
+    "_version_number": 4,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.0038112,
+     51.1501028
+    ]
+   },
+   "_lon": 4.0038112,
+   "_lat": 51.1501028
+  },
+  {
+   "type": "Feature",
+   "id": "node/9692653730",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "bruin",
+    "direction": "108",
+    "image": "https://i.imgur.com/QGGw2TM.jpg",
+    "material": "wood",
+    "seats": "4",
+    "survey:date": "2022-04-23",
+    "id": "node/9692653730",
+    "_lat": "51.1574674",
+    "_lon": "4.0412441",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 108,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "WimBau",
+    "_last_edit:contributor:uid": 15313167,
+    "_last_edit:changeset": 120169944,
+    "_last_edit:timestamp": "2022-04-25T14:51:52Z",
+    "_version_number": 6,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.0412441,
+     51.1574674
+    ]
+   },
+   "_lon": 4.0412441,
+   "_lat": 51.1574674
   }
  ]
 }
