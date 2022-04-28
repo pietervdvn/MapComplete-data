@@ -857,6 +857,12 @@
    "id": "node/7274098665",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "white",
+    "direction": "330",
+    "image": "https://i.imgur.com/iHIz3yv.jpg",
+    "material": "wood",
+    "survey:date": "2022-04-27",
     "id": "node/7274098665",
     "_lat": "50.9559685",
     "_lon": "5.3940046",
@@ -865,11 +871,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "GuyVV",
-    "_last_edit:contributor:uid": 579178,
-    "_last_edit:changeset": 81898496,
-    "_last_edit:timestamp": "2020-03-07T12:54:36Z",
-    "_version_number": 1,
+    "_direction:numerical": 330,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120244590,
+    "_last_edit:timestamp": "2022-04-27T08:54:48Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2497,6 +2505,45 @@
    },
    "_lon": 5.412337,
    "_lat": 50.929897
+  },
+  {
+   "type": "Feature",
+   "id": "node/9697102024",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "white",
+    "direction": "330",
+    "image": "https://i.imgur.com/vAKDBiz.jpg",
+    "material": "wood",
+    "survey:date": "2022-04-27",
+    "id": "node/9697102024",
+    "_lat": "50.9555393",
+    "_lon": "5.3921304",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 330,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120244590,
+    "_last_edit:timestamp": "2022-04-27T09:16:19Z",
+    "_version_number": 5,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3921304,
+     50.9555393
+    ]
+   },
+   "_lon": 5.3921304,
+   "_lat": 50.9555393
   }
  ]
 }
