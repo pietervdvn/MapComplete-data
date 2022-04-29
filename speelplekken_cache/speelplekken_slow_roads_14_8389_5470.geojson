@@ -451,6 +451,67 @@
   },
   {
    "type": "Feature",
+   "id": "way/487803284",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "footway",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "railway": "disused",
+    "surface": "gravel",
+    "width": "1",
+    "id": "way/487803284",
+    "_lat": "51.19311915",
+    "_lon": "4.3504068",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "99.81763386018825",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 5,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3499722,
+      51.1934759
+     ],
+     [
+      4.3503135,
+      51.1931952
+     ],
+     [
+      4.3507494,
+      51.1928401
+     ],
+     [
+      4.3508414,
+      51.1927624
+     ]
+    ]
+   },
+   "_lon": 4.3504068,
+   "_lat": 51.19311915,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1934759,
+    "maxLon": 4.3508414,
+    "minLat": 51.1927624,
+    "minLon": 4.3499722
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/568335111",
    "properties": {
     "highway": "path",
@@ -582,18 +643,18 @@
     "highway": "footway",
     "surface": "concrete",
     "id": "way/568335532",
-    "_lat": "51.194901650000006",
-    "_lon": "4.34872265",
+    "_lat": "51.19490295",
+    "_lon": "4.3487234",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "150.35309945830366",
+    "_length": "150.26569195282136",
     "_length:km": "0.2",
-    "_last_edit:contributor": "escada",
-    "_last_edit:contributor:uid": 436365,
-    "_last_edit:changeset": 57040158,
-    "_last_edit:timestamp": "2018-03-09T18:27:26Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120242079,
+    "_last_edit:timestamp": "2022-04-27T06:33:39Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -614,30 +675,22 @@
       51.1950705
      ],
      [
-      4.3488452,
-      51.1948096
-     ],
-     [
-      4.3490182,
-      51.194576
-     ],
-     [
       4.3491898,
       51.194344
      ],
      [
-      4.3492445,
-      51.1943174
+      4.349246,
+      51.19432
      ]
     ]
    },
-   "_lon": 4.34872265,
-   "_lat": 51.194901650000006,
+   "_lon": 4.3487234,
+   "_lat": 51.19490295,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1954859,
-    "maxLon": 4.3492445,
-    "minLat": 51.1943174,
+    "maxLon": 4.349246,
+    "minLat": 51.19432,
     "minLon": 4.3482008
    }
   },
@@ -994,13 +1047,13 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "786.6694268454728",
+    "_length": "786.0123596581095",
     "_length:km": "0.8",
-    "_last_edit:contributor": "Wouter Landuydt",
-    "_last_edit:contributor:uid": 9046872,
-    "_last_edit:changeset": 117017845,
-    "_last_edit:timestamp": "2022-02-04T18:28:54Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120239960,
+    "_last_edit:timestamp": "2022-04-27T05:32:34Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1013,20 +1066,28 @@
       51.1878257
      ],
      [
-      4.3347882,
-      51.188396
+      4.3348143,
+      51.1883859
      ],
      [
-      4.3353032,
-      51.1892406
+      4.3352557,
+      51.1891303
+     ],
+     [
+      4.3353293,
+      51.1892255
+     ],
+     [
+      4.3353882,
+      51.189299
      ],
      [
       4.335698,
-      51.189687
+      51.1896493
      ],
      [
-      4.3360242,
-      51.1900744
+      4.3359259,
+      51.1899373
      ],
      [
       4.3364856,
@@ -1037,24 +1098,24 @@
       51.1910405
      ],
      [
-      4.336934,
-      51.1911663
+      4.3370865,
+      51.1913764
      ],
      [
-      4.3373975,
-      51.1917581
+      4.3374035,
+      51.1917317
      ],
      [
       4.3376644,
       51.1920132
      ],
      [
-      4.3377408,
-      51.1920862
+      4.3380579,
+      51.192339
      ],
      [
-      4.3384704,
-      51.1927048
+      4.3384965,
+      51.1926872
      ],
      [
       4.3394835,
@@ -1667,6 +1728,67 @@
   },
   {
    "type": "Feature",
+   "id": "way/487803284",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "footway",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "railway": "disused",
+    "surface": "gravel",
+    "width": "1",
+    "id": "way/487803284",
+    "_lat": "51.19311915",
+    "_lon": "4.3504068",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "99.81763386018825",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 5,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3499722,
+      51.1934759
+     ],
+     [
+      4.3503135,
+      51.1931952
+     ],
+     [
+      4.3507494,
+      51.1928401
+     ],
+     [
+      4.3508414,
+      51.1927624
+     ]
+    ]
+   },
+   "_lon": 4.3504068,
+   "_lat": 51.19311915,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1934759,
+    "maxLon": 4.3508414,
+    "minLat": 51.1927624,
+    "minLon": 4.3499722
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/933744087",
    "properties": {
     "bicycle": "yes",
@@ -1684,13 +1806,13 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "786.6694268454728",
+    "_length": "786.0123596581095",
     "_length:km": "0.8",
-    "_last_edit:contributor": "Wouter Landuydt",
-    "_last_edit:contributor:uid": 9046872,
-    "_last_edit:changeset": 117017845,
-    "_last_edit:timestamp": "2022-02-04T18:28:54Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120239960,
+    "_last_edit:timestamp": "2022-04-27T05:32:34Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1703,20 +1825,28 @@
       51.1878257
      ],
      [
-      4.3347882,
-      51.188396
+      4.3348143,
+      51.1883859
      ],
      [
-      4.3353032,
-      51.1892406
+      4.3352557,
+      51.1891303
+     ],
+     [
+      4.3353293,
+      51.1892255
+     ],
+     [
+      4.3353882,
+      51.189299
      ],
      [
       4.335698,
-      51.189687
+      51.1896493
      ],
      [
-      4.3360242,
-      51.1900744
+      4.3359259,
+      51.1899373
      ],
      [
       4.3364856,
@@ -1727,24 +1857,24 @@
       51.1910405
      ],
      [
-      4.336934,
-      51.1911663
+      4.3370865,
+      51.1913764
      ],
      [
-      4.3373975,
-      51.1917581
+      4.3374035,
+      51.1917317
      ],
      [
       4.3376644,
       51.1920132
      ],
      [
-      4.3377408,
-      51.1920862
+      4.3380579,
+      51.192339
      ],
      [
-      4.3384704,
-      51.1927048
+      4.3384965,
+      51.1926872
      ],
      [
       4.3394835,
@@ -1981,7 +2111,74 @@
    },
    "_lon": 4.3513666,
    "_lat": 51.20607875,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.2073298,
+    "maxLon": 4.353075,
+    "minLat": 51.2048277,
+    "minLon": 4.3496582
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/487803284",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "footway",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "railway": "disused",
+    "surface": "gravel",
+    "width": "1",
+    "id": "way/487803284",
+    "_lat": "51.19311915",
+    "_lon": "4.3504068",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "99.81763386018825",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 5,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3499722,
+      51.1934759
+     ],
+     [
+      4.3503135,
+      51.1931952
+     ],
+     [
+      4.3507494,
+      51.1928401
+     ],
+     [
+      4.3508414,
+      51.1927624
+     ]
+    ]
+   },
+   "_lon": 4.3504068,
+   "_lat": 51.19311915,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1934759,
+    "maxLon": 4.3508414,
+    "minLat": 51.1927624,
+    "minLon": 4.3499722
+   }
   }
  ]
 }
