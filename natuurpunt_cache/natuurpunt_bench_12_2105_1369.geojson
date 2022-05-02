@@ -357,6 +357,8 @@
     "amenity": "bench",
     "backrest": "yes",
     "direction": "78",
+    "image": "https://i.imgur.com/CPzRwmk.jpg",
+    "survey:date": "2022-05-01",
     "id": "node/3231271526",
     "_lat": "51.0989975",
     "_lon": "5.0317847",
@@ -367,11 +369,11 @@
     "_length:km": "0.0",
     "_direction:numerical": 78,
     "_direction:leftright": "right",
-    "_last_edit:contributor": "escada",
-    "_last_edit:contributor:uid": 436365,
-    "_last_edit:changeset": 27419744,
-    "_last_edit:timestamp": "2014-12-12T12:03:15Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120420872,
+    "_last_edit:timestamp": "2022-05-01T13:44:46Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1310,6 +1312,9 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "black",
+    "image": "https://i.imgur.com/b5TVTEa.jpg",
+    "survey:date": "2022-05-01",
     "id": "node/8227177523",
     "_lat": "51.1053475",
     "_lon": "5.0130512",
@@ -1320,9 +1325,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 95799416,
-    "_last_edit:timestamp": "2020-12-14T09:55:55Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 120420872,
+    "_last_edit:timestamp": "2022-05-01T14:31:00Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1342,12 +1347,13 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "grey",
     "direction": "260",
-    "mapillary": "NwKWvU-jVbqfoas7Qy6Dxw",
+    "mapillary": "472605957140067",
     "survey:date": "2022-04-30",
     "id": "node/8357650447",
-    "_lat": "51.1241109",
-    "_lon": "5.0260386",
+    "_lat": "51.1241139",
+    "_lon": "5.0260382",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
@@ -1357,21 +1363,21 @@
     "_direction:leftright": "left",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 120399310,
-    "_last_edit:timestamp": "2022-04-30T20:44:46Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 120406818,
+    "_last_edit:timestamp": "2022-05-01T05:47:19Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.0260386,
-     51.1241109
+     5.0260382,
+     51.1241139
     ]
    },
-   "_lon": 5.0260386,
-   "_lat": 51.1241109
+   "_lon": 5.0260382,
+   "_lat": 51.1241139
   },
   {
    "type": "Feature",
@@ -1763,7 +1769,9 @@
    "id": "node/9677061093",
    "properties": {
     "amenity": "bench",
-    "survey:date": "2021-01-04 14:06:21.769621",
+    "backrest": "yes",
+    "direction": "155",
+    "survey:date": "2022-05-01",
     "id": "node/9677061093",
     "_lat": "51.1014715",
     "_lon": "5.0135248",
@@ -1772,11 +1780,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Toerisme Vlaanderen - Pin je punt",
-    "_last_edit:contributor:uid": 15015689,
-    "_last_edit:changeset": 119903076,
-    "_last_edit:timestamp": "2022-04-19T11:42:40Z",
-    "_version_number": 1,
+    "_direction:numerical": 155,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120420872,
+    "_last_edit:timestamp": "2022-05-01T14:15:21Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1927,8 +1937,8 @@
     "direction": "90",
     "survey:date": "2022-04-30",
     "id": "node/9677061284",
-    "_lat": "51.118457",
-    "_lon": "5.0375456",
+    "_lat": "51.1184711",
+    "_lon": "5.0375499",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
@@ -1938,85 +1948,60 @@
     "_direction:leftright": "right",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 120399310,
-    "_last_edit:timestamp": "2022-04-30T20:52:18Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 120406818,
+    "_last_edit:timestamp": "2022-05-01T05:47:19Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.0375456,
-     51.118457
+     5.0375499,
+     51.1184711
     ]
    },
-   "_lon": 5.0375456,
-   "_lat": 51.118457
-  },
-  {
-   "type": "Feature",
-   "id": "node/9677061289",
-   "properties": {
-    "amenity": "bench",
-    "survey:date": "2019-11-06 18:34:41.725182",
-    "id": "node/9677061289",
-    "_lat": "51.1237095",
-    "_lon": "5.0283308",
-    "_layer": "bench",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Toerisme Vlaanderen - Pin je punt",
-    "_last_edit:contributor:uid": 15015689,
-    "_last_edit:changeset": 119903076,
-    "_last_edit:timestamp": "2022-04-19T11:42:40Z",
-    "_version_number": 1,
-    "_geometry:type": "Point",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.0283308,
-     51.1237095
-    ]
-   },
-   "_lon": 5.0283308,
-   "_lat": 51.1237095
+   "_lon": 5.0375499,
+   "_lat": 51.1184711
   },
   {
    "type": "Feature",
    "id": "node/9677061317",
    "properties": {
     "amenity": "bench",
-    "survey:date": "2021-01-04 14:06:12.95255",
+    "backrest": "yes",
+    "colour": "gray",
+    "direction": "34",
+    "image": "https://i.imgur.com/A9MS3Gv.jpg",
+    "material": "concrete",
+    "survey:date": "2022-05-01",
     "id": "node/9677061317",
-    "_lat": "51.1045545",
-    "_lon": "5.0314878",
+    "_lat": "51.1044437",
+    "_lon": "5.0318158",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Toerisme Vlaanderen - Pin je punt",
-    "_last_edit:contributor:uid": 15015689,
-    "_last_edit:changeset": 119903076,
-    "_last_edit:timestamp": "2022-04-19T11:42:40Z",
-    "_version_number": 1,
+    "_direction:numerical": 34,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120420872,
+    "_last_edit:timestamp": "2022-05-01T13:36:15Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.0314878,
-     51.1045545
+     5.0318158,
+     51.1044437
     ]
    },
-   "_lon": 5.0314878,
-   "_lat": 51.1045545
+   "_lon": 5.0318158,
+   "_lat": 51.1044437
   },
   {
    "type": "Feature",
@@ -2088,11 +2073,12 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "grey",
     "direction": "87",
     "survey:date": "2022-04-30",
     "id": "node/9705812213",
-    "_lat": "51.1241221",
-    "_lon": "5.0260862",
+    "_lat": "51.1241157",
+    "_lon": "5.0260595",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
@@ -2102,21 +2088,21 @@
     "_direction:leftright": "right",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 120399310,
-    "_last_edit:timestamp": "2022-04-30T20:44:22Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 120406818,
+    "_last_edit:timestamp": "2022-05-01T05:47:19Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.0260862,
-     51.1241221
+     5.0260595,
+     51.1241157
     ]
    },
-   "_lon": 5.0260862,
-   "_lat": 51.1241221
+   "_lon": 5.0260595,
+   "_lat": 51.1241157
   }
  ]
 }
