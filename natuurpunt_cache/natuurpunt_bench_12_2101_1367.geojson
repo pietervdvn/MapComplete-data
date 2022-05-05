@@ -2801,7 +2801,7 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
-    "direction": "eastnortheast",
+    "direction": "ENE",
     "id": "node/9709123302",
     "_lat": "51.2153835",
     "_lon": "4.660429",
@@ -2810,11 +2810,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 67.5,
+    "_direction:leftright": "right",
     "_last_edit:contributor": "pi11",
     "_last_edit:contributor:uid": 12066190,
-    "_last_edit:changeset": 120459750,
-    "_last_edit:timestamp": "2022-05-02T12:39:17Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 120560304,
+    "_last_edit:timestamp": "2022-05-04T20:33:58Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2866,7 +2868,7 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
-    "direction": "northwest",
+    "direction": "NW",
     "id": "node/9709123305",
     "_lat": "51.2154312",
     "_lon": "4.6606482",
@@ -2875,11 +2877,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 315,
+    "_direction:leftright": "left",
     "_last_edit:contributor": "pi11",
     "_last_edit:contributor:uid": 12066190,
-    "_last_edit:changeset": 120459750,
-    "_last_edit:timestamp": "2022-05-02T12:39:17Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 120560304,
+    "_last_edit:timestamp": "2022-05-04T20:33:58Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2899,7 +2903,7 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
-    "direction": "westsouthwest",
+    "direction": "WSW",
     "id": "node/9709123306",
     "_lat": "51.2154503",
     "_lon": "4.6606305",
@@ -2908,11 +2912,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 247.5,
+    "_direction:leftright": "left",
     "_last_edit:contributor": "pi11",
     "_last_edit:contributor:uid": 12066190,
-    "_last_edit:changeset": 120459750,
-    "_last_edit:timestamp": "2022-05-02T12:39:17Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 120560304,
+    "_last_edit:timestamp": "2022-05-04T20:33:58Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2925,6 +2931,41 @@
    },
    "_lon": 4.6606305,
    "_lat": 51.2154503
+  },
+  {
+   "type": "Feature",
+   "id": "node/9714278428",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood;metal",
+    "note": "Locatie bij benadering",
+    "id": "node/9714278428",
+    "_lat": "51.2163806",
+    "_lon": "4.7309721",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 120547524,
+    "_last_edit:timestamp": "2022-05-04T14:31:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7309721,
+     51.2163806
+    ]
+   },
+   "_lon": 4.7309721,
+   "_lat": 51.2163806
   }
  ]
 }
