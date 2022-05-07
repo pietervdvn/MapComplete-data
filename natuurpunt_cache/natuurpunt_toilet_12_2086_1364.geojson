@@ -193,7 +193,15 @@
    "properties": {
     "access": "yes",
     "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "image": "https://i.imgur.com/4ggpyS0.jpg",
+    "opening_hours": "24/7",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
     "unisex": "yes",
+    "wheelchair": "yes",
     "id": "node/6375409332",
     "_lat": "51.358426",
     "_lon": "3.350815",
@@ -202,11 +210,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 78965442,
-    "_last_edit:timestamp": "2019-12-28T21:06:51Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "jospyck",
+    "_last_edit:contributor:uid": 12128135,
+    "_last_edit:changeset": 120618351,
+    "_last_edit:timestamp": "2022-05-06T08:08:53Z",
+    "_version_number": 7,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -219,39 +227,6 @@
    },
    "_lon": 3.350815,
    "_lat": 51.358426
-  },
-  {
-   "type": "Feature",
-   "id": "node/7091762084",
-   "properties": {
-    "access": "yes",
-    "amenity": "toilets",
-    "wheelchair": "yes",
-    "id": "node/7091762084",
-    "_lat": "51.3584554",
-    "_lon": "3.3509022",
-    "_layer": "toilet",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 78965442,
-    "_last_edit:timestamp": "2019-12-28T21:06:51Z",
-    "_version_number": 1,
-    "_geometry:type": "Point",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.3509022,
-     51.3584554
-    ]
-   },
-   "_lon": 3.3509022,
-   "_lat": 51.3584554
   },
   {
    "type": "Feature",
