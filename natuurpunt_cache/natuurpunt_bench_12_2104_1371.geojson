@@ -2019,6 +2019,11 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "brown",
+    "direction": "230",
+    "image": "https://i.imgur.com/MMYDp15.jpg",
+    "material": "wood",
+    "survey:date": "2022-05-07",
     "id": "node/7070130483",
     "_lat": "50.9808605",
     "_lon": "4.9794125",
@@ -2027,11 +2032,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "mjans",
-    "_last_edit:contributor:uid": 5199038,
-    "_last_edit:changeset": 78648245,
-    "_last_edit:timestamp": "2019-12-19T16:54:09Z",
-    "_version_number": 1,
+    "_direction:numerical": 230,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120672325,
+    "_last_edit:timestamp": "2022-05-07T15:16:19Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2465,6 +2472,12 @@
    "id": "node/9621269178",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "0",
+    "image": "https://i.imgur.com/3knz8jt.jpg",
+    "material": "wood",
+    "survey:date": "2022-05-07",
     "id": "node/9621269178",
     "_lat": "51.0020256",
     "_lon": "4.9842051",
@@ -2473,11 +2486,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "thewiep",
-    "_last_edit:contributor:uid": 200296,
-    "_last_edit:changeset": 119077911,
-    "_last_edit:timestamp": "2022-03-29T16:16:18Z",
-    "_version_number": 1,
+    "_direction:numerical": 0,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120672492,
+    "_last_edit:timestamp": "2022-05-07T16:36:17Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2800,6 +2815,120 @@
    },
    "_lon": 4.9648267,
    "_lat": 50.9984992
+  },
+  {
+   "type": "Feature",
+   "id": "node/9722734512",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "180",
+    "image": "https://i.imgur.com/f6cdwB5.jpg",
+    "material": "wood",
+    "survey:date": "2022-05-07",
+    "id": "node/9722734512",
+    "_lat": "50.9806499",
+    "_lon": "4.9783488",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 180,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120672396,
+    "_last_edit:timestamp": "2022-05-07T15:19:43Z",
+    "_version_number": 5,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9783488,
+     50.9806499
+    ]
+   },
+   "_lon": 4.9783488,
+   "_lat": 50.9806499
+  },
+  {
+   "type": "Feature",
+   "id": "node/9722738702",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "122",
+    "image": "https://i.imgur.com/NEGXURT.jpg",
+    "material": "wood",
+    "survey:date": "2022-05-07",
+    "id": "node/9722738702",
+    "_lat": "50.9806263",
+    "_lon": "4.9777961",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 122,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120672492,
+    "_last_edit:timestamp": "2022-05-07T15:22:05Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9777961,
+     50.9806263
+    ]
+   },
+   "_lon": 4.9777961,
+   "_lat": 50.9806263
+  },
+  {
+   "type": "Feature",
+   "id": "node/9722747879",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "85",
+    "image": "https://i.imgur.com/IWbd69c.jpg",
+    "material": "wood",
+    "survey:date": "2022-05-07",
+    "id": "node/9722747879",
+    "_lat": "50.9807968",
+    "_lon": "4.9784346",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 85,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 120672396,
+    "_last_edit:timestamp": "2022-05-07T15:18:45Z",
+    "_version_number": 5,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9784346,
+     50.9807968
+    ]
+   },
+   "_lon": 4.9784346,
+   "_lat": 50.9807968
   }
  ]
 }
