@@ -31496,6 +31496,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-31T15:29:30Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 254,
         "delete": 0,
@@ -31540,6 +31541,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-31T13:40:39Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 588,
         "delete": 0,
@@ -31584,6 +31586,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-31T07:02:30Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 679,
         "delete": 0,
@@ -31623,6 +31626,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-30T21:33:47Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -31667,6 +31671,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-30T15:47:28Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 961,
         "delete": 0,
@@ -31706,6 +31711,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-30T13:49:03Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 69,
         "delete": 0,
@@ -31745,6 +31751,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-30T07:50:30Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 46,
         "delete": 0,
@@ -31789,6 +31796,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-29T12:42:32Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 971,
         "delete": 0,
@@ -31833,6 +31841,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-29T09:55:16Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 946,
         "delete": 0,
@@ -31864,10 +31873,39 @@
           {
             "id": 4,
             "name": "mass modification"
+          },
+          {
+            "id": 91,
+            "name": "Motorway/trunk geometry modified"
           }
         ],
         "tags": [],
-        "features": [],
+        "features": [
+          {
+            "url": "way-904787526",
+            "name": "Avinguda Meridiana",
+            "osm_id": 904787526,
+            "reasons": [
+              91
+            ],
+            "version": 2,
+            "primary_tags": {
+              "highway": "trunk"
+            }
+          },
+          {
+            "url": "way-52586323",
+            "name": "Passeig de Torras i Bages",
+            "osm_id": 52586323,
+            "reasons": [
+              91
+            ],
+            "version": 18,
+            "primary_tags": {
+              "highway": "trunk_link"
+            }
+          }
+        ],
         "user": "ccamara",
         "uid": "423535",
         "editor": "MapComplete 0.17.0",
@@ -31877,6 +31915,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-29T07:43:13Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 813,
         "delete": 0,
@@ -31935,6 +31974,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-28T21:11:14Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 19,
         "delete": 0,
@@ -31979,6 +32019,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-28T19:33:02Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 492,
         "delete": 0,
@@ -32023,6 +32064,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-28T10:50:02Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1302,
         "delete": 0,
@@ -32067,6 +32109,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-28T08:03:07Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1092,
         "delete": 0,
@@ -32111,6 +32154,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-27T20:38:23Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 43,
         "delete": 0,
@@ -32155,6 +32199,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-13T16:37:59Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 3,
         "delete": 0,
@@ -32196,6 +32241,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-04T17:14:12Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 10,
         "delete": 0,
@@ -32216,6 +32262,690 @@
         "coordinates": [
           2.20922935,
           41.5420928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "yopaseopor",
+        "uid": "500572",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #https://raw.githubusercontent.com/yopaseopor/mcquests/main/parkingspaces.json",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-28T13:47:53Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 4,
+        "modify": 5,
+        "delete": 0,
+        "area": 2.9298099998757e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120307502,
+        "host": "mapcomplete.osm.be",
+        "theme": "gh://yopaseopor/mcquests/main/parkingspaces.json",
+        "answer": 8,
+        "locale": "es",
+        "imagery": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7129096499999998,
+          41.21838885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "UnGeograf",
+        "uid": "601515",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #cafes_and_pubs",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-28T06:54:35Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120289145,
+        "host": "mapcomplete.osm.be",
+        "theme": "cafes_and_pubs",
+        "answer": 2,
+        "locale": "ca",
+        "imagery": "PNOA-Spain-TMS",
+        "add-image": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1794021,
+          41.3912499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "UnGeograf",
+        "uid": "601515",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-28T06:48:23Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120288908,
+        "host": "mapcomplete.osm.be",
+        "theme": "benches",
+        "answer": 4,
+        "locale": "ca",
+        "imagery": "PNOA-Spain-TMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1812797,
+          41.3923747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "UnGeograf",
+        "uid": "601515",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-04-20T15:06:49Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119959191,
+        "host": "mapcomplete.osm.be",
+        "theme": "waste",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "PNOA-Spain-TMS",
+        "change_over_5000m": 1,
+        "change_within_100m": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1009073,
+          41.3709937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Moisès",
+        "uid": "12884230",
+        "editor": "MapComplete 0.18.0",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-17T21:46:12Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119832393,
+        "host": "mapcomplete.osm.be",
+        "theme": "cycle_infra",
+        "answer": 11,
+        "locale": "en",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2085216,
+          41.5400129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "ccamara",
+        "uid": "423535",
+        "editor": "MapComplete 0.17.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-07T15:36:25Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 4.48703999999622e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119435148,
+        "host": "mapcomplete.osm.be",
+        "theme": "etymology",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1507084,
+          41.388975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 489,
+            "name": "Mapbox: Spam text"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-4439612463",
+            "osm_id": 4439612463,
+            "reasons": [
+              489
+            ],
+            "version": 9
+          }
+        ],
+        "user": "hortacalaf",
+        "uid": "14495457",
+        "editor": "MapComplete 0.17.2",
+        "comment": "Adding data with #MapComplete for theme #https://raw.githubusercontent.com/yopaseopor/mcquests/master/libraries.json",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-06T20:38:06Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 24,
+        "delete": 0,
+        "area": 0.00000116540999999777,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119402986,
+        "host": "mapcomplete.osm.be",
+        "theme": "gh://yopaseopor/mcquests/master/libraries.json",
+        "answer": 30,
+        "locale": "ca",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.72958695,
+          41.2215519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "hortacalaf",
+        "uid": "14495457",
+        "editor": "MapComplete 0.17.2",
+        "comment": "Adding data with #MapComplete for theme #https://raw.githubusercontent.com/yopaseopor/mcquests/master/libraries.json",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-06T18:40:48Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 3.67117499995066e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119399406,
+        "host": "mapcomplete.osm.be",
+        "theme": "gh://yopaseopor/mcquests/master/libraries.json",
+        "answer": 7,
+        "locale": "ca",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.72956395,
+          41.220940850000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8807870540",
+            "osm_id": 8807870540,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          }
+        ],
+        "user": "Sandra55",
+        "uid": "13279584",
+        "editor": "MapComplete 0.17.1",
+        "comment": "Adding data with #MapComplete for theme #https://llefia.org/arbres/mapcomplete1.json",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-04-01T21:53:05Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119218560,
+        "host": "mapcomplete.osm.be",
+        "theme": "arbres_llefia",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "HDM_HOT",
+        "change_within_25m": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2454005,
+          41.4446509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Moisès",
+        "uid": "12884230",
+        "editor": "MapComplete 0.19.1",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-09T07:36:25Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.00000154331460000563,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120733149,
+        "host": "mapcomplete.osm.be",
+        "theme": "playgrounds",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2125027,
+          41.546388199999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Moisès",
+        "uid": "12884230",
+        "editor": "MapComplete 0.19.1",
+        "comment": "Adding data with #MapComplete for theme #pets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-08T16:19:34Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.000259171963049969,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120709286,
+        "host": "mapcomplete.osm.be",
+        "theme": "pets",
+        "answer": 10,
+        "locale": "en",
+        "imagery": "osm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2140178500000003,
+          41.541509250000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8853143449",
+            "osm_id": 8853143449,
+            "reasons": [
+              43
+            ],
+            "version": 3,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          }
+        ],
+        "user": "PabloDíaz",
+        "uid": "14309824",
+        "editor": "MapComplete 0.19.0",
+        "comment": "Adding data with #MapComplete for theme #https://llefia.org/arbres/mapcomplete1.json",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-08T07:44:53Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 7,
+        "delete": 0,
+        "area": 9.32277490002957e-7,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120691778,
+        "host": "mapcomplete.osm.be",
+        "theme": "arbres_llefia",
+        "answer": 8,
+        "locale": "ca",
+        "imagery": "HDM_HOT",
+        "add-image": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23803675,
+          41.46576655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8852917075",
+            "osm_id": 8852917075,
+            "reasons": [
+              43
+            ],
+            "version": 3,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          }
+        ],
+        "user": "PabloDíaz",
+        "uid": "14309824",
+        "editor": "MapComplete 0.19.0",
+        "comment": "Adding data with #MapComplete for theme #https://llefia.org/arbres/mapcomplete1.json",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-07T17:19:41Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 11,
+        "delete": 0,
+        "area": 2.67845400007755e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120676429,
+        "host": "mapcomplete.osm.be",
+        "theme": "arbres_llefia",
+        "answer": 9,
+        "locale": "ca",
+        "imagery": "HDM_HOT",
+        "add-image": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24296945,
+          41.4676865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9192874267",
+            "osm_id": 9192874267,
+            "reasons": [
+              43
+            ],
+            "version": 3,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          },
+          {
+            "url": "node-9192717866",
+            "osm_id": 9192717866,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          }
+        ],
+        "user": "PabloDíaz",
+        "uid": "14309824",
+        "editor": "MapComplete 0.19.0",
+        "comment": "Adding data with #MapComplete for theme #https://llefia.org/arbres/mapcomplete1.json",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-05T07:26:55Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 2.10813099998412e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120573548,
+        "host": "mapcomplete.osm.be",
+        "theme": "arbres_llefia",
+        "answer": 6,
+        "locale": "ca",
+        "imagery": "HDM_HOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2377692500000004,
+          41.46479825
         ]
       }
     }

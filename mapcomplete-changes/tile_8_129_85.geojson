@@ -1439,6 +1439,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-27T09:41:14Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 4,
         "modify": 10,
         "delete": 0,
@@ -1484,6 +1485,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-27T07:16:56Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 5,
         "modify": 1,
         "delete": 0,
@@ -1528,6 +1530,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-23T13:56:22Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 2,
         "modify": 2,
         "delete": 0,
@@ -1572,6 +1575,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-22T13:49:35Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 5,
         "modify": 0,
         "delete": 0,
@@ -1615,6 +1619,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-22T11:27:37Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 11,
         "modify": 0,
         "delete": 0,
@@ -1653,6 +1658,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-18T19:25:05Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 908,
         "modify": 0,
         "delete": 0,
@@ -1701,6 +1707,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-18T13:30:30Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 4,
         "modify": 0,
         "delete": 0,
@@ -1739,6 +1746,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-18T07:58:33Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -1778,6 +1786,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-17T12:21:16Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -1823,6 +1832,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-14T15:16:52Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 3116,
         "modify": 46,
         "delete": 0,
@@ -1864,6 +1874,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-12T13:56:19Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 2,
         "modify": 3,
         "delete": 0,
@@ -1886,6 +1897,100 @@
         "coordinates": [
           2.7170052499999997,
           50.89962665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": "L'imaginaire",
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Vakantiehuis Velogies",
+        "uid": "15380005",
+        "editor": "MapComplete 0.18.0",
+        "comment": "Adding data with #MapComplete for theme #toerisme_vlaanderen",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-11T11:36:35Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": false,
+        "checked": true,
+        "check_date": "2022-04-16T06:40:42.740637Z",
+        "id": 119574885,
+        "host": "mapcomplete.osm.be",
+        "theme": "toerisme_vlaanderen",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "AGIV",
+        "add-image": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7704845,
+          50.8100128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "queenLizzie",
+        "uid": "15349770",
+        "editor": "MapComplete 0.17.2",
+        "comment": "Adding data with #MapComplete for theme #toerisme_vlaanderen",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-04-03T18:21:15Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 8,
+        "delete": 0,
+        "area": 3.46527706954573,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119274514,
+        "host": "mapcomplete.osm.be",
+        "theme": "toerisme_vlaanderen",
+        "answer": 11,
+        "locale": "nl",
+        "imagery": "osm",
+        "add-image": 2,
+        "change_over_5000m": 2,
+        "change_within_25m": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06035765,
+          51.13841845
         ]
       }
     }

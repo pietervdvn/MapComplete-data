@@ -655,6 +655,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-16T20:39:17Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 4,
         "modify": 2,
         "delete": 0,
@@ -695,6 +696,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-07T00:54:37Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -740,6 +742,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-05T20:33:16Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -784,6 +787,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-05T20:31:00Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 2,
         "delete": 0,
@@ -804,6 +808,134 @@
         "coordinates": [
           -73.9349078,
           40.6738154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "MxxCon",
+        "uid": "384667",
+        "editor": "MapComplete 0.18.0",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-04-12T03:32:26Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.03452799992501e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 119601559,
+        "host": "mapcomplete.osm.be",
+        "theme": "food",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_500m": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9662364,
+          40.5809852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "MxxCon",
+        "uid": "384667",
+        "editor": "MapComplete 0.19.1",
+        "comment": "Adding data with #MapComplete for theme #pets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-05-11T02:55:56Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 21,
+        "delete": 0,
+        "area": 0.00346366955454964,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120816626,
+        "host": "mapcomplete.osm.be",
+        "theme": "pets",
+        "answer": 25,
+        "locale": "en",
+        "imagery": "osm",
+        "soft-delete": 1,
+        "change_over_5000m": 3,
+        "change_within_500m": 2,
+        "change_within_1000m": 7,
+        "change_within_5000m": 9,
+        "soft-delete:way/249728013": "shop_closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98160845,
+          40.59779465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "CurlingMan13",
+        "uid": "6641970",
+        "editor": "MapComplete 0.19.0",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-05-04T07:10:13Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120527634,
+        "host": "mapcomplete.osm.be",
+        "theme": "trees",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_100m": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2891847,
+          39.9976617
         ]
       }
     }

@@ -254,6 +254,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-27T22:37:07Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 14,
         "delete": 0,
@@ -294,6 +295,7 @@
         "imagery_used": "Not reported",
         "date": "2022-03-09T21:56:37Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 75,
         "delete": 0,
@@ -315,6 +317,66 @@
         "coordinates": [
           0.07524025000000001,
           38.8221872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9729432901",
+            "osm_id": 9729432901,
+            "reasons": [
+              43
+            ],
+            "version": 1,
+            "primary_tags": {
+              "amenity": "bicycle_wash"
+            }
+          }
+        ],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.19.1",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-05-10T09:09:27Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 17,
+        "delete": 0,
+        "area": 0.00398406770177998,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "id": 120783116,
+        "host": "mapcomplete.osm.be",
+        "theme": "cyclofix",
+        "answer": 27,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 5,
+        "change_within_1000m": 9,
+        "change_within_5000m": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.060938149999999996,
+          38.8162629
         ]
       }
     }
