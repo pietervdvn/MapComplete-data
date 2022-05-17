@@ -1417,6 +1417,12 @@
    "id": "node/6304461904",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "direction": "177",
+    "image": "https://i.imgur.com/F4pmPY5.jpg",
+    "material": "wood",
+    "seats": "4",
+    "survey:date": "2022-05-16",
     "id": "node/6304461904",
     "_lat": "50.9118525",
     "_lon": "4.7717815",
@@ -1425,11 +1431,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Rupsje",
-    "_last_edit:contributor:uid": 8085854,
-    "_last_edit:changeset": 67596891,
-    "_last_edit:timestamp": "2019-02-26T21:08:45Z",
-    "_version_number": 1,
+    "_direction:numerical": 177,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 121035206,
+    "_last_edit:timestamp": "2022-05-16T07:04:39Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1764,6 +1772,10 @@
    "id": "node/8118556117",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "image": "https://i.imgur.com/VDxGDS9.jpg",
+    "material": "wood",
+    "survey:date": "2022-05-16",
     "id": "node/8118556117",
     "_lat": "50.9098724",
     "_lon": "4.7726186",
@@ -1772,11 +1784,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Jedilance",
-    "_last_edit:contributor:uid": 2405574,
-    "_last_edit:changeset": 94106804,
-    "_last_edit:timestamp": "2020-11-14T13:46:07Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 121035206,
+    "_last_edit:timestamp": "2022-05-16T06:47:38Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1858,6 +1870,8 @@
    "id": "node/8118603117",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "image": "https://i.imgur.com/ywAV8N2.jpg",
     "id": "node/8118603117",
     "_lat": "50.9097243",
     "_lon": "4.7702969",
@@ -1866,11 +1880,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Jedilance",
-    "_last_edit:contributor:uid": 2405574,
-    "_last_edit:changeset": 94107760,
-    "_last_edit:timestamp": "2020-11-14T14:13:41Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 121035206,
+    "_last_edit:timestamp": "2022-05-16T06:49:01Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2039,6 +2053,40 @@
    },
    "_lon": 4.751312,
    "_lat": 50.9140821
+  },
+  {
+   "type": "Feature",
+   "id": "node/9742756128",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "image": "https://i.imgur.com/jifBYqV.jpg",
+    "material": "wood",
+    "id": "node/9742756128",
+    "_lat": "50.9099302",
+    "_lon": "4.7728375",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Hilde OSM",
+    "_last_edit:contributor:uid": 15275790,
+    "_last_edit:changeset": 121035206,
+    "_last_edit:timestamp": "2022-05-16T07:06:10Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7728375,
+     50.9099302
+    ]
+   },
+   "_lon": 4.7728375,
+   "_lat": 50.9099302
   }
  ]
 }

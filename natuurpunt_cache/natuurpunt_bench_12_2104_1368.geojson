@@ -109,6 +109,11 @@
    "id": "node/3087751188",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "black",
+    "direction": "35",
+    "material": "metal",
+    "survey:date": "2022-05-15",
     "id": "node/3087751188",
     "_lat": "51.164472",
     "_lon": "4.9734907",
@@ -117,11 +122,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Gilbert54",
-    "_last_edit:contributor:uid": 685580,
-    "_last_edit:changeset": 25562124,
-    "_last_edit:timestamp": "2014-09-20T15:50:07Z",
-    "_version_number": 1,
+    "_direction:numerical": 35,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 121065229,
+    "_last_edit:timestamp": "2022-05-16T18:50:09Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -140,6 +147,11 @@
    "id": "node/3087751191",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "black",
+    "direction": "115",
+    "material": "metal",
+    "survey:date": "2022-05-15",
     "id": "node/3087751191",
     "_lat": "51.1644881",
     "_lon": "4.9734806",
@@ -148,11 +160,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Gilbert54",
-    "_last_edit:contributor:uid": 685580,
-    "_last_edit:changeset": 25562124,
-    "_last_edit:timestamp": "2014-09-20T15:50:07Z",
-    "_version_number": 1,
+    "_direction:numerical": 115,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 121065229,
+    "_last_edit:timestamp": "2022-05-16T18:50:09Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -7277,6 +7291,45 @@
    },
    "_lon": 5.0018368,
    "_lat": 51.1623615
+  },
+  {
+   "type": "Feature",
+   "id": "node/9745106448",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "black",
+    "direction": "205",
+    "image": "https://i.imgur.com/M3qntPw.jpg",
+    "material": "metal",
+    "survey:date": "2022-05-15",
+    "id": "node/9745106448",
+    "_lat": "51.163977",
+    "_lon": "4.9751425",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 205,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 121065229,
+    "_last_edit:timestamp": "2022-05-16T18:50:09Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9751425,
+     51.163977
+    ]
+   },
+   "_lon": 4.9751425,
+   "_lat": 51.163977
   }
  ]
 }
