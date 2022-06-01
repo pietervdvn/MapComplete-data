@@ -3231,6 +3231,107 @@
   },
   {
    "type": "Feature",
+   "id": "way/1065461236",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "id": "way/1065461236",
+    "_lat": "50.81009555",
+    "_lon": "4.3535706",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "4.145250037388298",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jhowie_Nitnek",
+    "_last_edit:contributor:uid": 10209781,
+    "_last_edit:changeset": 121757067,
+    "_last_edit:timestamp": "2022-05-31T09:13:41Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3535591,
+      50.8100861
+     ],
+     [
+      4.3535545,
+      50.8100901
+     ],
+     [
+      4.3535546,
+      50.810096
+     ],
+     [
+      4.3535593,
+      50.8101019
+     ],
+     [
+      4.3535641,
+      50.8101038
+     ],
+     [
+      4.3535699,
+      50.810105
+     ],
+     [
+      4.3535793,
+      50.8101039
+     ],
+     [
+      4.3535867,
+      50.8100996
+     ]
+    ]
+   },
+   "_lon": 4.3535706,
+   "_lat": 50.81009555
+  },
+  {
+   "type": "Feature",
+   "id": "way/1065479663",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "material": "wood",
+    "id": "way/1065479663",
+    "_lat": "50.833935999999994",
+    "_lon": "4.37949815",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "8.906316377670242",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "bxl-forever",
+    "_last_edit:contributor:uid": 2644288,
+    "_last_edit:changeset": 121759675,
+    "_last_edit:timestamp": "2022-05-31T10:02:18Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3795275,
+      50.8339715
+     ],
+     [
+      4.3794688,
+      50.8339005
+     ]
+    ]
+   },
+   "_lon": 4.37949815,
+   "_lat": 50.833935999999994
+  },
+  {
+   "type": "Feature",
    "id": "node/350342346",
    "properties": {
     "amenity": "bench",
@@ -12552,6 +12653,7 @@
    "id": "node/4666275666",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
     "id": "node/4666275666",
     "_lat": "50.8464967",
     "_lon": "4.3548666",
@@ -12560,11 +12662,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "bozolo",
-    "_last_edit:contributor:uid": 8177389,
-    "_last_edit:changeset": 58715490,
-    "_last_edit:timestamp": "2018-05-05T20:11:11Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "millup",
+    "_last_edit:contributor:uid": 12035222,
+    "_last_edit:changeset": 121770073,
+    "_last_edit:timestamp": "2022-05-31T13:55:04Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -43796,6 +43898,104 @@
    },
    "_lon": 4.3103241,
    "_lat": 50.8471171
+  },
+  {
+   "type": "Feature",
+   "id": "node/9784918853",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "id": "node/9784918853",
+    "_lat": "50.8097644",
+    "_lon": "4.3540542",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jhowie_Nitnek",
+    "_last_edit:contributor:uid": 10209781,
+    "_last_edit:changeset": 121757067,
+    "_last_edit:timestamp": "2022-05-31T09:13:41Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3540542,
+     50.8097644
+    ]
+   },
+   "_lon": 4.3540542,
+   "_lat": 50.8097644
+  },
+  {
+   "type": "Feature",
+   "id": "node/9785097609",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "material": "wood",
+    "id": "node/9785097609",
+    "_lat": "50.8338633",
+    "_lon": "4.3795645",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "bxl-forever",
+    "_last_edit:contributor:uid": 2644288,
+    "_last_edit:changeset": 121759767,
+    "_last_edit:timestamp": "2022-05-31T10:03:55Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3795645,
+     50.8338633
+    ]
+   },
+   "_lon": 4.3795645,
+   "_lat": 50.8338633
+  },
+  {
+   "type": "Feature",
+   "id": "node/9785097610",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "material": "wood",
+    "id": "node/9785097610",
+    "_lat": "50.8338734",
+    "_lon": "4.379533",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "bxl-forever",
+    "_last_edit:contributor:uid": 2644288,
+    "_last_edit:changeset": 121759767,
+    "_last_edit:timestamp": "2022-05-31T10:03:55Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.379533,
+     50.8338734
+    ]
+   },
+   "_lon": 4.379533,
+   "_lat": 50.8338734
   }
  ]
 }
