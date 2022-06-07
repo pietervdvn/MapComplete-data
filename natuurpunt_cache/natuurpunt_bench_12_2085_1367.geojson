@@ -1875,31 +1875,34 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "image": "https://i.imgur.com/0zvKpRQ.jpg",
+    "material": "metal",
+    "survey:date": "2022-06-06",
     "id": "node/8880054930",
-    "_lat": "51.1921883",
-    "_lon": "3.304267",
+    "_lat": "51.1921715",
+    "_lon": "3.3042992",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "TeamP8",
-    "_last_edit:contributor:uid": 718373,
-    "_last_edit:changeset": 107206133,
-    "_last_edit:timestamp": "2021-06-30T12:26:07Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 122037507,
+    "_last_edit:timestamp": "2022-06-06T18:15:04Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.304267,
-     51.1921883
+     3.3042992,
+     51.1921715
     ]
    },
-   "_lon": 3.304267,
-   "_lat": 51.1921883
+   "_lon": 3.3042992,
+   "_lat": 51.1921715
   },
   {
    "type": "Feature",
@@ -2032,6 +2035,7 @@
    "id": "node/9516604255",
    "properties": {
     "amenity": "bench",
+    "fixme": "resurvey",
     "id": "node/9516604255",
     "_lat": "51.1823313",
     "_lon": "3.3190831",
@@ -2040,11 +2044,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "LMoeyaert",
-    "_last_edit:contributor:uid": 13678430,
-    "_last_edit:changeset": 117566956,
-    "_last_edit:timestamp": "2022-02-18T14:10:30Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 122038703,
+    "_last_edit:timestamp": "2022-06-06T18:34:05Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2170,6 +2174,40 @@
    },
    "_lon": 3.2523206,
    "_lat": 51.2146959
+  },
+  {
+   "type": "Feature",
+   "id": "node/9799359169",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/N9kpuqh.jpg",
+    "survey:date": "2022-06-06",
+    "id": "node/9799359169",
+    "_lat": "51.1881171",
+    "_lon": "3.3261625",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 122037507,
+    "_last_edit:timestamp": "2022-06-06T17:58:13Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.3261625,
+     51.1881171
+    ]
+   },
+   "_lon": 3.3261625,
+   "_lat": 51.1881171
   }
  ]
 }

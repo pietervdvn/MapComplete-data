@@ -319,37 +319,6 @@
   },
   {
    "type": "Feature",
-   "id": "node/5480332723",
-   "properties": {
-    "amenity": "bench",
-    "id": "node/5480332723",
-    "_lat": "51.2520291",
-    "_lon": "4.6601608",
-    "_layer": "bench",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "raeymar",
-    "_last_edit:contributor:uid": 1743794,
-    "_last_edit:changeset": 57209982,
-    "_last_edit:timestamp": "2018-03-15T12:20:13Z",
-    "_version_number": 1,
-    "_geometry:type": "Point",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.6601608,
-     51.2520291
-    ]
-   },
-   "_lon": 4.6601608,
-   "_lat": 51.2520291
-  },
-  {
-   "type": "Feature",
    "id": "node/5480332724",
    "properties": {
     "amenity": "bench",
@@ -539,6 +508,7 @@
    "id": "node/7776107170",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
     "id": "node/7776107170",
     "_lat": "51.2554588",
     "_lon": "4.6704822",
@@ -547,11 +517,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "deurenkletser",
-    "_last_edit:contributor:uid": 295035,
-    "_last_edit:changeset": 88822708,
-    "_last_edit:timestamp": "2020-08-01T19:04:04Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "staf",
+    "_last_edit:contributor:uid": 377797,
+    "_last_edit:changeset": 122013656,
+    "_last_edit:timestamp": "2022-06-06T09:10:54Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1215,6 +1185,38 @@
    },
    "_lon": 4.7410028,
    "_lat": 51.2746813
+  },
+  {
+   "type": "Feature",
+   "id": "node/9798053676",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "id": "node/9798053676",
+    "_lat": "51.2528517",
+    "_lon": "4.6590709",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "staf",
+    "_last_edit:contributor:uid": 377797,
+    "_last_edit:changeset": 122010911,
+    "_last_edit:timestamp": "2022-06-06T08:15:13Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6590709,
+     51.2528517
+    ]
+   },
+   "_lon": 4.6590709,
+   "_lat": 51.2528517
   }
  ]
 }
