@@ -340,8 +340,12 @@
    "id": "node/3838168669",
    "properties": {
     "board_type": "history",
+    "direction": "270",
+    "image": "https://cars.muscleboykanan.com/a/83010.jpg",
     "information": "board",
     "name": "De Dorpsweide",
+    "operator": "Stad Sint-Truiden",
+    "source": "osm notes",
     "tourism": "information",
     "id": "node/3838168669",
     "_lat": "50.793304",
@@ -351,11 +355,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 115620578,
-    "_last_edit:timestamp": "2021-12-31T19:28:39Z",
-    "_version_number": 2,
+    "_direction:numerical": 270,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 122318876,
+    "_last_edit:timestamp": "2022-06-13T10:41:40Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -401,6 +407,45 @@
    },
    "_lon": 5.1238327,
    "_lat": 50.84151
+  },
+  {
+   "type": "Feature",
+   "id": "node/9814332217",
+   "properties": {
+    "board_type": "poem",
+    "direction": "180",
+    "image": "https://cars.muscleboykanan.com/a/83009.jpg",
+    "information": "board",
+    "name": "Onderweg",
+    "source": "osm notes",
+    "tourism": "information",
+    "id": "node/9814332217",
+    "_lat": "50.7955928",
+    "_lon": "5.1828286",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 180,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "jozin-belgium",
+    "_last_edit:contributor:uid": 1947314,
+    "_last_edit:changeset": 122318876,
+    "_last_edit:timestamp": "2022-06-13T10:41:40Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.1828286,
+     50.7955928
+    ]
+   },
+   "_lon": 5.1828286,
+   "_lat": 50.7955928
   }
  ]
 }
