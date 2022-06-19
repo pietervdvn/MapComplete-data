@@ -2076,6 +2076,10 @@
    "id": "node/447080832",
    "properties": {
     "amenity": "bench",
+    "colour": "brown",
+    "direction": "200",
+    "material": "wood",
+    "seats": "2",
     "id": "node/447080832",
     "_lat": "50.8697933",
     "_lon": "4.7128087",
@@ -2084,11 +2088,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "toeklk",
-    "_last_edit:contributor:uid": 219908,
-    "_last_edit:changeset": 11403718,
-    "_last_edit:timestamp": "2012-04-24T10:40:05Z",
-    "_version_number": 2,
+    "_direction:numerical": 200,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 122544091,
+    "_last_edit:timestamp": "2022-06-18T12:01:11Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -25030,6 +25036,161 @@
    },
    "_lon": 4.7058179,
    "_lat": 50.8859139
+  },
+  {
+   "type": "Feature",
+   "id": "node/9828188808",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "100",
+    "lit": "yes",
+    "material": "wood",
+    "seats": "2",
+    "id": "node/9828188808",
+    "_lat": "50.8701356",
+    "_lon": "4.7107495",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 100,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 122544091,
+    "_last_edit:timestamp": "2022-06-18T12:01:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7107495,
+     50.8701356
+    ]
+   },
+   "_lon": 4.7107495,
+   "_lat": 50.8701356
+  },
+  {
+   "type": "Feature",
+   "id": "node/9828188809",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "220",
+    "material": "wood",
+    "seats": "2",
+    "id": "node/9828188809",
+    "_lat": "50.870152",
+    "_lon": "4.7117912",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 220,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 122544091,
+    "_last_edit:timestamp": "2022-06-18T12:01:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7117912,
+     50.870152
+    ]
+   },
+   "_lon": 4.7117912,
+   "_lat": 50.870152
+  },
+  {
+   "type": "Feature",
+   "id": "node/9828188811",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "140",
+    "lit": "yes",
+    "material": "wood",
+    "seats": "2",
+    "id": "node/9828188811",
+    "_lat": "50.8701768",
+    "_lon": "4.7107907",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 140,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 122544091,
+    "_last_edit:timestamp": "2022-06-18T12:01:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7107907,
+     50.8701768
+    ]
+   },
+   "_lon": 4.7107907,
+   "_lat": 50.8701768
+  },
+  {
+   "type": "Feature",
+   "id": "node/9828188815",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "170",
+    "lit": "yes",
+    "material": "wood",
+    "seats": "2",
+    "id": "node/9828188815",
+    "_lat": "50.8702373",
+    "_lon": "4.7113232",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 170,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "cimm",
+    "_last_edit:contributor:uid": 3921,
+    "_last_edit:changeset": 122544091,
+    "_last_edit:timestamp": "2022-06-18T12:01:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7113232,
+     50.8702373
+    ]
+   },
+   "_lon": 4.7113232,
+   "_lat": 50.8702373
   }
  ]
 }
