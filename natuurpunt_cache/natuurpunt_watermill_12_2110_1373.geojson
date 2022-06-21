@@ -3,35 +3,110 @@
  "features": [
   {
    "type": "Feature",
-   "id": "node/634803406",
+   "id": "relation/14274833",
    "properties": {
+    "OnroerendErfgoed:criteria": "BE",
+    "addr:city": "Bilzen",
+    "addr:country": "BE",
+    "addr:housenumber": "6",
+    "addr:street": "Rentfortstraat",
+    "building": "yes",
+    "heritage": "4",
+    "heritage:operator": "OnroerendErfgoed",
+    "heritage:website": "https://inventaris.onroerenderfgoed.be/aanduidingsobjecten/2451",
+    "image": "File:Rentfortmolen - Bilzen.jpg",
     "man_made": "watermill",
     "name": "Renfortmolen",
-    "id": "node/634803406",
-    "_lat": "50.8925819",
-    "_lon": "5.4973772",
+    "ref:OnroerendErfgoed": "2451",
+    "start_date": "1862",
+    "type": "multipolygon",
+    "website": "https://www.molenechos.org/molen.php?AdvSearch=268",
+    "wikipedia": "nl:Rentfortmolen",
+    "id": "relation/14274833",
+    "_lat": "50.892513300000005",
+    "_lon": "5.49760615",
     "_layer": "watermill",
-    "_surface": "0",
+    "_surface": "554.0323781056521",
     "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 94659397,
-    "_last_edit:timestamp": "2020-11-23T20:05:53Z",
-    "_version_number": 3,
-    "_geometry:type": "Point",
+    "_length": "154.2120577108847",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "Eebie",
+    "_last_edit:contributor:uid": 715684,
+    "_last_edit:changeset": 122616770,
+    "_last_edit:timestamp": "2022-06-20T11:05:19Z",
+    "_version_number": 1,
+    "_geometry:type": "Polygon",
     "_country": "be"
    },
    "geometry": {
-    "type": "Point",
+    "type": "Polygon",
     "coordinates": [
-     5.4973772,
-     50.8925819
+     [
+      [
+       5.4974891,
+       50.8924771
+      ],
+      [
+       5.4976145,
+       50.8923621
+      ],
+      [
+       5.4977231,
+       50.8924027
+      ],
+      [
+       5.4978143,
+       50.8924082
+      ],
+      [
+       5.4978204,
+       50.8924463
+      ],
+      [
+       5.4978331,
+       50.8924488
+      ],
+      [
+       5.4978284,
+       50.8926645
+      ],
+      [
+       5.497697,
+       50.8926599
+      ],
+      [
+       5.4973792,
+       50.8926277
+      ],
+      [
+       5.4974127,
+       50.8925507
+      ],
+      [
+       5.497699,
+       50.8925753
+      ],
+      [
+       5.4977024,
+       50.8924606
+      ],
+      [
+       5.4976125,
+       50.8924323
+      ],
+      [
+       5.4975367,
+       50.8925004
+      ],
+      [
+       5.4974891,
+       50.8924771
+      ]
+     ]
     ]
    },
-   "_lon": 5.4973772,
-   "_lat": 50.8925819
+   "_lon": 5.49760615,
+   "_lat": 50.892513300000005
   },
   {
    "type": "Feature",
