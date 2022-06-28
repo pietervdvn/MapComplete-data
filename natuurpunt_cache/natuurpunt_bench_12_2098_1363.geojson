@@ -76,7 +76,7 @@
     "backrest": "yes",
     "direction": "11",
     "material": "wood",
-    "seats": "6",
+    "seats": "3",
     "id": "node/2328471981",
     "_lat": "51.4009473",
     "_lon": "4.455626",
@@ -87,11 +87,11 @@
     "_length:km": "0.0",
     "_direction:numerical": 11,
     "_direction:leftright": "right",
-    "_last_edit:contributor": "tissie",
-    "_last_edit:contributor:uid": 11544291,
-    "_last_edit:changeset": 121576404,
-    "_last_edit:timestamp": "2022-05-27T13:20:13Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "A127",
+    "_last_edit:contributor:uid": 9374269,
+    "_last_edit:changeset": 122829100,
+    "_last_edit:timestamp": "2022-06-25T08:30:30Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2512,6 +2512,76 @@
    },
    "_lon": 4.4416509,
    "_lat": 51.4027407
+  },
+  {
+   "type": "Feature",
+   "id": "node/9845899905",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "11",
+    "material": "wood",
+    "seats": "3",
+    "id": "node/9845899905",
+    "_lat": "51.4009483",
+    "_lon": "4.4556149",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 11,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "A127",
+    "_last_edit:contributor:uid": 9374269,
+    "_last_edit:changeset": 122829100,
+    "_last_edit:timestamp": "2022-06-25T08:30:30Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4556149,
+     51.4009483
+    ]
+   },
+   "_lon": 4.4556149,
+   "_lat": 51.4009483
+  },
+  {
+   "type": "Feature",
+   "id": "node/9845953069",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "mapillary": "185530683814950",
+    "id": "node/9845953069",
+    "_lat": "51.4178565",
+    "_lon": "4.4190373",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "A127",
+    "_last_edit:contributor:uid": 9374269,
+    "_last_edit:changeset": 122829968,
+    "_last_edit:timestamp": "2022-06-25T09:01:53Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4190373,
+     51.4178565
+    ]
+   },
+   "_lon": 4.4190373,
+   "_lat": 51.4178565
   }
  ]
 }
