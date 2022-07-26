@@ -36,6 +36,79 @@
    "_lon": 2.7417986,
    "_lat": 50.455234,
    "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/4063862240",
+   "properties": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "fee": "no",
+    "id": "node/4063862240",
+    "_lat": "50.4485272",
+    "_lon": "2.7384949",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Bernard59118",
+    "_last_edit:contributor:uid": 136303,
+    "_last_edit:changeset": 37879699,
+    "_last_edit:timestamp": "2016-03-16T18:42:11Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "fr",
+    "_closest_other_drinking_water": "{\"id\":\"node/4747453265\",\"distance\":\"27.64621123810322\"}",
+    "_closest_other_drinking_water_id": "node/4747453265",
+    "_closest_other_drinking_water_distance": "27"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7384949,
+     50.4485272
+    ]
+   },
+   "_lon": 2.7384949,
+   "_lat": 50.4485272,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/4747453265",
+   "properties": {
+    "amenity": "water_point",
+    "drinking_water": "yes",
+    "id": "node/4747453265",
+    "_lat": "50.4482828",
+    "_lon": "2.7385666",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Bernard59118",
+    "_last_edit:contributor:uid": 136303,
+    "_last_edit:changeset": 47048191,
+    "_last_edit:timestamp": "2017-03-21T18:51:14Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "fr",
+    "_closest_other_drinking_water": "{\"id\":\"node/4063862240\",\"distance\":\"27.64621123810322\"}",
+    "_closest_other_drinking_water_id": "node/4063862240",
+    "_closest_other_drinking_water_distance": "27"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7385666,
+     50.4482828
+    ]
+   },
+   "_lon": 2.7385666,
+   "_lat": 50.4482828,
+   "_is_patched": true
   }
  ]
 }

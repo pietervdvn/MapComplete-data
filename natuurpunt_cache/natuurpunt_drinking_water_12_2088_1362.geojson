@@ -3,6 +3,141 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/78610062",
+   "properties": {
+    "cabins": "yes",
+    "caravans": "yes",
+    "contact:email": "info@stadscampingzeeland.nl",
+    "contact:phone": "+31 118 856550",
+    "contact:website": "http://stadscampingzeeland.nl/",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "motor_vehicle": "yes",
+    "name": "Stadscamping Zeeland",
+    "source": "3dShapes",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "id": "way/78610062",
+    "_lat": "51.49679745",
+    "_lon": "3.5962073500000002",
+    "_layer": "drinking_water",
+    "_surface": "36541.62824616988",
+    "_surface:ha": "3.6",
+    "_length": "816.0626808225725",
+    "_length:km": "0.8",
+    "_last_edit:contributor": "AdVerburg",
+    "_last_edit:contributor:uid": 2831457,
+    "_last_edit:changeset": 67717593,
+    "_last_edit:timestamp": "2019-03-02T16:23:57Z",
+    "_version_number": 5,
+    "_geometry:type": "Polygon",
+    "_country": "nl",
+    "_closest_other_drinking_water": "{\"id\":\"way/674086513\",\"distance\":\"14.207600610371454\"}",
+    "_closest_other_drinking_water_id": "way/674086513",
+    "_closest_other_drinking_water_distance": "14"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.5972598,
+       51.4968316
+      ],
+      [
+       3.59723,
+       51.4969346
+      ],
+      [
+       3.5968333,
+       51.4981625
+      ],
+      [
+       3.5948334,
+       51.4977761
+      ],
+      [
+       3.5949404,
+       51.4974943
+      ],
+      [
+       3.5953637,
+       51.4966198
+      ],
+      [
+       3.5959382,
+       51.4954324
+      ],
+      [
+       3.5966532,
+       51.4955828
+      ],
+      [
+       3.5967168,
+       51.4955708
+      ],
+      [
+       3.5967588,
+       51.495537
+      ],
+      [
+       3.5975813,
+       51.4957078
+      ],
+      [
+       3.5973183,
+       51.4966269
+      ],
+      [
+       3.5972598,
+       51.4968316
+      ]
+     ]
+    ]
+   },
+   "_lon": 3.5962073500000002,
+   "_lat": 51.49679745,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/5292257353",
+   "properties": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "id": "node/5292257353",
+    "_lat": "51.4647023",
+    "_lon": "3.5952722",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Rabieluh",
+    "_last_edit:contributor:uid": 5011966,
+    "_last_edit:changeset": 61767350,
+    "_last_edit:timestamp": "2018-08-18T10:53:00Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "nl",
+    "_closest_other_drinking_water": "{\"id\":\"node/6223484216\",\"distance\":\"7.49416762792781\"}",
+    "_closest_other_drinking_water_id": "node/6223484216",
+    "_closest_other_drinking_water_distance": "7"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5952722,
+     51.4647023
+    ]
+   },
+   "_lon": 3.5952722,
+   "_lat": 51.4647023,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
    "id": "node/9017899843",
    "properties": {
     "access": "yes",
@@ -74,6 +209,196 @@
    },
    "_lon": 3.5246278,
    "_lat": 51.4688296,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/9041515395",
+   "properties": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "id": "node/9041515395",
+    "_lat": "51.4688318",
+    "_lon": "3.5258644",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "V-Li",
+    "_last_edit:contributor:uid": 84637,
+    "_last_edit:changeset": 110355039,
+    "_last_edit:timestamp": "2021-08-27T18:37:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "nl",
+    "_closest_other_drinking_water": "{\"id\":\"node/9041515398\",\"distance\":\"16.17970293015165\"}",
+    "_closest_other_drinking_water_id": "node/9041515398",
+    "_closest_other_drinking_water_distance": "16"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5258644,
+     51.4688318
+    ]
+   },
+   "_lon": 3.5258644,
+   "_lat": 51.4688318,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/9041515398",
+   "properties": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "id": "node/9041515398",
+    "_lat": "51.4689179",
+    "_lon": "3.5260527",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "V-Li",
+    "_last_edit:contributor:uid": 84637,
+    "_last_edit:changeset": 110355039,
+    "_last_edit:timestamp": "2021-08-27T18:37:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "nl",
+    "_closest_other_drinking_water": "{\"id\":\"node/9041515400\",\"distance\":\"15.194392300314831\"}",
+    "_closest_other_drinking_water_id": "node/9041515400",
+    "_closest_other_drinking_water_distance": "15"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5260527,
+     51.4689179
+    ]
+   },
+   "_lon": 3.5260527,
+   "_lat": 51.4689179,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/9041515400",
+   "properties": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "id": "node/9041515400",
+    "_lat": "51.4689987",
+    "_lon": "3.5262296",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "V-Li",
+    "_last_edit:contributor:uid": 84637,
+    "_last_edit:changeset": 110355039,
+    "_last_edit:timestamp": "2021-08-27T18:37:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "nl",
+    "_closest_other_drinking_water": "{\"id\":\"node/9041515398\",\"distance\":\"15.194392300314831\"}",
+    "_closest_other_drinking_water_id": "node/9041515398",
+    "_closest_other_drinking_water_distance": "15"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5262296,
+     51.4689987
+    ]
+   },
+   "_lon": 3.5262296,
+   "_lat": 51.4689987,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/9041515402",
+   "properties": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "id": "node/9041515402",
+    "_lat": "51.469081",
+    "_lon": "3.5264067",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "V-Li",
+    "_last_edit:contributor:uid": 84637,
+    "_last_edit:changeset": 110355039,
+    "_last_edit:timestamp": "2021-08-27T18:37:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "nl",
+    "_closest_other_drinking_water": "{\"id\":\"node/9041515400\",\"distance\":\"15.304693922946312\"}",
+    "_closest_other_drinking_water_id": "node/9041515400",
+    "_closest_other_drinking_water_distance": "15"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5264067,
+     51.469081
+    ]
+   },
+   "_lon": 3.5264067,
+   "_lat": 51.469081,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/9041515404",
+   "properties": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "fee": "no",
+    "man_made": "water_tap",
+    "id": "node/9041515404",
+    "_lat": "51.4691671",
+    "_lon": "3.5265873",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "V-Li",
+    "_last_edit:contributor:uid": 84637,
+    "_last_edit:changeset": 110355039,
+    "_last_edit:timestamp": "2021-08-27T18:37:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "nl",
+    "_closest_other_drinking_water": "{\"id\":\"node/9041515402\",\"distance\":\"15.752844931797458\"}",
+    "_closest_other_drinking_water_id": "node/9041515402",
+    "_closest_other_drinking_water_distance": "15"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5265873,
+     51.4691671
+    ]
+   },
+   "_lon": 3.5265873,
+   "_lat": 51.4691671,
    "_is_patched": true
   },
   {

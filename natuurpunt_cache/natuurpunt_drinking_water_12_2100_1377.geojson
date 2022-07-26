@@ -3,6 +3,126 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/479073361",
+   "properties": {
+    "access": "no",
+    "building": "yes",
+    "drinking_water": "yes",
+    "natural": "spring",
+    "operator": "IECBW",
+    "id": "way/479073361",
+    "_lat": "50.628323800000004",
+    "_lon": "4.60075595",
+    "_layer": "drinking_water",
+    "_surface": "10.0808509548813",
+    "_surface:ha": "0",
+    "_length": "12.752948015777411",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "boskoyevsky",
+    "_last_edit:contributor:uid": 117792,
+    "_last_edit:changeset": 90490002,
+    "_last_edit:timestamp": "2020-09-06T18:37:06Z",
+    "_version_number": 3,
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_closest_other_drinking_water": "{\"id\":\"way/479073362\",\"distance\":\"23.319826649978104\"}",
+    "_closest_other_drinking_water_id": "way/479073362",
+    "_closest_other_drinking_water_distance": "23"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.600744,
+       50.6283427
+      ],
+      [
+       4.6007243,
+       50.6283202
+      ],
+      [
+       4.6007679,
+       50.6283049
+      ],
+      [
+       4.6007876,
+       50.6283274
+      ],
+      [
+       4.600744,
+       50.6283427
+      ]
+     ]
+    ]
+   },
+   "_lon": 4.60075595,
+   "_lat": 50.628323800000004,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "way/479073362",
+   "properties": {
+    "access": "no",
+    "building": "yes",
+    "drinking_water": "yes",
+    "man_made": "pumping_station",
+    "natural": "spring",
+    "operator": "IECBW",
+    "pumping_station": "water",
+    "id": "way/479073362",
+    "_lat": "50.628367499999996",
+    "_lon": "4.6010793",
+    "_layer": "drinking_water",
+    "_surface": "42.05833608869339",
+    "_surface:ha": "0",
+    "_length": "26.14742377581019",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "boskoyevsky",
+    "_last_edit:contributor:uid": 117792,
+    "_last_edit:changeset": 90490002,
+    "_last_edit:timestamp": "2020-09-06T18:37:06Z",
+    "_version_number": 3,
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_closest_other_drinking_water": "{\"id\":\"way/479073361\",\"distance\":\"23.3198266499781\"}",
+    "_closest_other_drinking_water_id": "way/479073361",
+    "_closest_other_drinking_water_distance": "23"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.6010343,
+       50.6283983
+      ],
+      [
+       4.6010444,
+       50.6283319
+      ],
+      [
+       4.6011243,
+       50.6283368
+      ],
+      [
+       4.6011142,
+       50.6284031
+      ],
+      [
+       4.6010343,
+       50.6283983
+      ]
+     ]
+    ]
+   },
+   "_lon": 4.6010793,
+   "_lat": 50.628367499999996,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
    "id": "node/5562062874",
    "properties": {
     "amenity": "drinking_water",

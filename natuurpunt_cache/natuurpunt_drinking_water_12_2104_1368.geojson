@@ -3,6 +3,42 @@
  "features": [
   {
    "type": "Feature",
+   "id": "node/3765762488",
+   "properties": {
+    "drinking_water": "yes",
+    "man_made": "water_tap",
+    "id": "node/3765762488",
+    "_lat": "51.1622084",
+    "_lon": "5.0017632",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Dolar",
+    "_last_edit:contributor:uid": 330501,
+    "_last_edit:changeset": 34352031,
+    "_last_edit:timestamp": "2015-09-30T17:38:05Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be",
+    "_closest_other_drinking_water": "{\"id\":\"node/9677061430\",\"distance\":\"17.780773667942828\"}",
+    "_closest_other_drinking_water_id": "node/9677061430",
+    "_closest_other_drinking_water_distance": "17"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0017632,
+     51.1622084
+    ]
+   },
+   "_lon": 5.0017632,
+   "_lat": 51.1622084,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
    "id": "node/5617850391",
    "properties": {
     "amenity": "drinking_water",
@@ -117,6 +153,51 @@
    },
    "_lon": 4.9888208,
    "_lat": 51.1638865,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "node/9023828325",
+   "properties": {
+    "access": "yes",
+    "amenity": "water_point",
+    "charge": "0.50 EUR",
+    "drinking_water": "yes",
+    "fee": "yes",
+    "mapillary": "907093300158276",
+    "opening_hours": "24/7",
+    "operator": "Stad Geel",
+    "payment:coins": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "id": "node/9023828325",
+    "_lat": "51.157335",
+    "_lon": "4.9909606",
+    "_layer": "drinking_water",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 110006776,
+    "_last_edit:timestamp": "2021-08-20T21:18:52Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be",
+    "_closest_other_drinking_water": "{\"id\":\"way/301403946\",\"distance\":\"23.864408203438046\"}",
+    "_closest_other_drinking_water_id": "way/301403946",
+    "_closest_other_drinking_water_distance": "23"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9909606,
+     51.157335
+    ]
+   },
+   "_lon": 4.9909606,
+   "_lat": 51.157335,
    "_is_patched": true
   },
   {
@@ -238,42 +319,6 @@
    },
    "_lon": 4.9716191,
    "_lat": 51.1699401,
-   "_is_patched": true
-  },
-  {
-   "type": "Feature",
-   "id": "node/9907134265",
-   "properties": {
-    "amenity": "drinking_water",
-    "name": "Water drain / refill station for campers",
-    "id": "node/9907134265",
-    "_lat": "51.1263084",
-    "_lon": "4.942656",
-    "_layer": "drinking_water",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Leon_man",
-    "_last_edit:contributor:uid": 15907336,
-    "_last_edit:changeset": 124000302,
-    "_last_edit:timestamp": "2022-07-24T08:30:37Z",
-    "_version_number": 1,
-    "_geometry:type": "Point",
-    "_country": "be",
-    "_closest_other_drinking_water": "{\"id\":\"way/302313372\",\"distance\":\"77.97816385085403\"}",
-    "_closest_other_drinking_water_id": "way/302313372",
-    "_closest_other_drinking_water_distance": "77"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.942656,
-     51.1263084
-    ]
-   },
-   "_lon": 4.942656,
-   "_lat": 51.1263084,
    "_is_patched": true
   }
  ]
