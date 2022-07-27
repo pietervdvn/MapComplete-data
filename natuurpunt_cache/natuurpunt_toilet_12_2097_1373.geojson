@@ -190,6 +190,7 @@
    "properties": {
     "access": "customers",
     "amenity": "toilets",
+    "door:width": "86 cm",
     "fee": "no",
     "female": "yes",
     "image": "https://i.imgur.com/rVxcIvd.jpg",
@@ -208,9 +209,9 @@
     "_length:km": "0.1",
     "_last_edit:contributor": "Robin van der Linde",
     "_last_edit:contributor:uid": 5093765,
-    "_last_edit:changeset": 123892891,
-    "_last_edit:timestamp": "2022-07-21T12:44:59Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 124087760,
+    "_last_edit:timestamp": "2022-07-26T10:04:15Z",
+    "_version_number": 2,
     "_geometry:type": "Polygon",
     "_country": "be"
    },
@@ -331,120 +332,6 @@
    },
    "_lon": 4.3496156500000005,
    "_lat": 50.86585335
-  },
-  {
-   "type": "Feature",
-   "id": "way/1081129259",
-   "properties": {
-    "accessible": "yes",
-    "amenity": "toilets",
-    "indoor": "level",
-    "level": "1",
-    "main_door": "94 cm",
-    "toilet-door": "86 cm",
-    "id": "way/1081129259",
-    "_lat": "50.865997199999995",
-    "_lon": "4.35032455",
-    "_layer": "toilet",
-    "_surface": "157.78047458235227",
-    "_surface:ha": "0",
-    "_length": "51.118238104103256",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "bxl-forever",
-    "_last_edit:contributor:uid": 2644288,
-    "_last_edit:changeset": 124056395,
-    "_last_edit:timestamp": "2022-07-25T14:55:56Z",
-    "_version_number": 4,
-    "_geometry:type": "Polygon",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3502093,
-       50.8659572
-      ],
-      [
-       4.3503397,
-       50.8659153
-      ],
-      [
-       4.3504398,
-       50.8660367
-      ],
-      [
-       4.3503071,
-       50.8660791
-      ],
-      [
-       4.3502093,
-       50.8659572
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.35032455,
-   "_lat": 50.865997199999995
-  },
-  {
-   "type": "Feature",
-   "id": "way/1081133154",
-   "properties": {
-    "accessible": "yes",
-    "amenity": "toilets",
-    "female": "yes",
-    "indoor": "level",
-    "level": "1",
-    "main_door_width": "94cm",
-    "male": "no",
-    "toilet_door_width": "86 cm",
-    "id": "way/1081133154",
-    "_lat": "50.866198600000004",
-    "_lon": "4.3497227",
-    "_layer": "toilet",
-    "_surface": "162.55229932897163",
-    "_surface:ha": "0",
-    "_length": "51.86989129549464",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "bxl-forever",
-    "_last_edit:contributor:uid": 2644288,
-    "_last_edit:changeset": 124056395,
-    "_last_edit:timestamp": "2022-07-25T14:55:56Z",
-    "_version_number": 2,
-    "_geometry:type": "Polygon",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3497016,
-       50.8662823
-      ],
-      [
-       4.3496051,
-       50.866162
-      ],
-      [
-       4.3497303,
-       50.8661149
-      ],
-      [
-       4.3498403,
-       50.8662385
-      ],
-      [
-       4.3497016,
-       50.8662823
-      ]
-     ]
-    ]
-   },
-   "_lon": 4.3497227,
-   "_lat": 50.866198600000004
   },
   {
    "type": "Feature",
@@ -2389,6 +2276,7 @@
     "access": "no",
     "amenity": "toilets",
     "changing_table": "no",
+    "door:width": "93 cm",
     "level": "2",
     "toilets:handwashing": "yes",
     "wheelchair": "yes",
@@ -2402,9 +2290,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "Robin van der Linde",
     "_last_edit:contributor:uid": 5093765,
-    "_last_edit:changeset": 123806448,
-    "_last_edit:timestamp": "2022-07-19T12:37:41Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 124084271,
+    "_last_edit:timestamp": "2022-07-26T08:49:56Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2417,38 +2305,6 @@
    },
    "_lon": 4.356063,
    "_lat": 50.8605468
-  },
-  {
-   "type": "Feature",
-   "id": "node/9897445224",
-   "properties": {
-    "amenity": "toilets",
-    "wheelchair": "yes",
-    "id": "node/9897445224",
-    "_lat": "50.8605381",
-    "_lon": "4.3559413",
-    "_layer": "toilet",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Robin van der Linde",
-    "_last_edit:contributor:uid": 5093765,
-    "_last_edit:changeset": 123806886,
-    "_last_edit:timestamp": "2022-07-19T12:45:01Z",
-    "_version_number": 1,
-    "_geometry:type": "Point",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     4.3559413,
-     50.8605381
-    ]
-   },
-   "_lon": 4.3559413,
-   "_lat": 50.8605381
   },
   {
    "type": "Feature",

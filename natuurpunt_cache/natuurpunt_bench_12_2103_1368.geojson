@@ -661,31 +661,35 @@
    "id": "node/8461257261",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "gray",
+    "image": "https://i.imgur.com/FjcCItN.jpg",
+    "survey:date": "2022-07-26",
     "id": "node/8461257261",
-    "_lat": "51.1573685",
-    "_lon": "4.8588967",
+    "_lat": "51.157423",
+    "_lon": "4.8587267",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Lokaal bestuur Olen",
-    "_last_edit:contributor:uid": 12279833,
-    "_last_edit:changeset": 100054794,
-    "_last_edit:timestamp": "2021-02-26T13:43:43Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 124115971,
+    "_last_edit:timestamp": "2022-07-26T23:23:20Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.8588967,
-     51.1573685
+     4.8587267,
+     51.157423
     ]
    },
-   "_lon": 4.8588967,
-   "_lat": 51.1573685
+   "_lon": 4.8587267,
+   "_lat": 51.157423
   },
   {
    "type": "Feature",
@@ -1912,6 +1916,45 @@
    },
    "_lon": 4.8936244,
    "_lat": 51.1724992
+  },
+  {
+   "type": "Feature",
+   "id": "node/9912665922",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "gray",
+    "direction": "190",
+    "image": "https://i.imgur.com/iQlAvww.jpg",
+    "material": "plastic",
+    "survey:date": "2022-07-26",
+    "id": "node/9912665922",
+    "_lat": "51.1552668",
+    "_lon": "4.8598536",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 190,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 124115971,
+    "_last_edit:timestamp": "2022-07-26T23:23:20Z",
+    "_version_number": 7,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8598536,
+     51.1552668
+    ]
+   },
+   "_lon": 4.8598536,
+   "_lat": 51.1552668
   }
  ]
 }
