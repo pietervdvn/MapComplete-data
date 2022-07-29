@@ -3,6 +3,113 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/1082013000",
+   "properties": {
+    "access": "customers",
+    "amenity": "toilets",
+    "building": "yes",
+    "id": "way/1082013000",
+    "_lat": "50.74792195",
+    "_lon": "3.5296268",
+    "_layer": "toilet",
+    "_surface": "15.125942177335899",
+    "_surface:ha": "0",
+    "_length": "16.240678012079442",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "magiraud",
+    "_last_edit:contributor:uid": 65155,
+    "_last_edit:changeset": 124171529,
+    "_last_edit:timestamp": "2022-07-28T07:49:48Z",
+    "_version_number": 1,
+    "_geometry:type": "Polygon",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.5295879,
+       50.7479328
+      ],
+      [
+       3.5295915,
+       50.747907
+      ],
+      [
+       3.5296657,
+       50.7479111
+      ],
+      [
+       3.5296621,
+       50.7479369
+      ],
+      [
+       3.5295879,
+       50.7479328
+      ]
+     ]
+    ]
+   },
+   "_lon": 3.5296268,
+   "_lat": 50.74792195
+  },
+  {
+   "type": "Feature",
+   "id": "way/1082013013",
+   "properties": {
+    "access": "customers",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "pitlatrine",
+    "id": "way/1082013013",
+    "_lat": "50.74807715",
+    "_lon": "3.5289383",
+    "_layer": "toilet",
+    "_surface": "1.8770934709273532",
+    "_surface:ha": "0",
+    "_length": "5.658679646545862",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "magiraud",
+    "_last_edit:contributor:uid": 65155,
+    "_last_edit:changeset": 124171529,
+    "_last_edit:timestamp": "2022-07-28T07:49:48Z",
+    "_version_number": 1,
+    "_geometry:type": "Polygon",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.5289257,
+       50.7480819
+      ],
+      [
+       3.5289257,
+       50.7480724
+      ],
+      [
+       3.5289509,
+       50.7480724
+      ],
+      [
+       3.5289509,
+       50.7480819
+      ],
+      [
+       3.5289257,
+       50.7480819
+      ]
+     ]
+    ]
+   },
+   "_lon": 3.5289383,
+   "_lat": 50.74807715
+  },
+  {
+   "type": "Feature",
    "id": "node/6938139906",
    "properties": {
     "amenity": "toilets",

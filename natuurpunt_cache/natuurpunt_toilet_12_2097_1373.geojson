@@ -200,12 +200,12 @@
     "toilets:position": "seated;urinal",
     "wheelchair": "yes",
     "id": "way/1080274438",
-    "_lat": "50.8665233",
-    "_lon": "4.35008955",
+    "_lat": "50.8665246",
+    "_lon": "4.3500892",
     "_layer": "toilet",
-    "_surface": "136.92793957191762",
+    "_surface": "135.03549617126504",
     "_surface:ha": "0",
-    "_length": "52.571096367086355",
+    "_length": "51.996425734132806",
     "_length:km": "0.1",
     "_last_edit:contributor": "Robin van der Linde",
     "_last_edit:contributor:uid": 5093765,
@@ -220,24 +220,24 @@
     "coordinates": [
      [
       [
-       4.3499828,
-       50.8664747
+       4.3499821,
+       50.8664776
       ],
       [
-       4.350027,
-       50.8664604
+       4.3500286,
+       50.8664633
       ],
       [
-       4.3500729,
-       50.8664455
+       4.3500747,
+       50.8664481
       ],
       [
-       4.350121,
-       50.866505
+       4.3501211,
+       50.8665071
       ],
       [
-       4.3501499,
-       50.8664956
+       4.3501502,
+       50.8664977
       ],
       [
        4.3501963,
@@ -256,18 +256,18 @@
        50.8665436
       ],
       [
-       4.3500308,
-       50.8665341
+       4.3500279,
+       50.8665361
       ],
       [
-       4.3499828,
-       50.8664747
+       4.3499821,
+       50.8664776
       ]
      ]
     ]
    },
-   "_lon": 4.35008955,
-   "_lat": 50.8665233
+   "_lon": 4.3500892,
+   "_lat": 50.8665246
   },
   {
    "type": "Feature",
@@ -275,14 +275,18 @@
    "properties": {
     "access": "customers",
     "amenity": "toilets",
+    "changing_table": "no",
     "door:width": "0.90 m",
+    "fee": "no",
     "image": "https://i.imgur.com/9yaiiLW.jpg",
     "image:0": "https://i.imgur.com/z13SbJ5.jpg",
     "indoor": "room",
     "level": "0",
     "room": "toilets",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
     "toilets:position": "seated",
-    "wheelchair": "yes",
+    "wheelchair": "designated",
     "id": "way/1080274440",
     "_lat": "50.86585335",
     "_lon": "4.3496156500000005",
@@ -291,11 +295,11 @@
     "_surface:ha": "0",
     "_length": "12.133902452436034",
     "_length:km": "0.0",
-    "_last_edit:contributor": "IAmAlexRebai",
-    "_last_edit:contributor:uid": 16587324,
-    "_last_edit:changeset": 124043304,
-    "_last_edit:timestamp": "2022-07-25T09:50:47Z",
-    "_version_number": 4,
+    "_last_edit:contributor": "Robin van der Linde",
+    "_last_edit:contributor:uid": 5093765,
+    "_last_edit:changeset": 124184509,
+    "_last_edit:timestamp": "2022-07-28T12:28:50Z",
+    "_version_number": 6,
     "_geometry:type": "Polygon",
     "_country": "be"
    },
@@ -1659,6 +1663,7 @@
    "properties": {
     "amenity": "toilets",
     "changing_table": "no",
+    "fee": "no",
     "male": "yes",
     "toilets:position": "urinal",
     "wheelchair": "no",
@@ -1670,11 +1675,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "JuanjoMC",
-    "_last_edit:contributor:uid": 9414587,
-    "_last_edit:changeset": 103070042,
-    "_last_edit:timestamp": "2021-04-16T15:51:20Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "Barbell4116",
+    "_last_edit:contributor:uid": 16518693,
+    "_last_edit:changeset": 124193643,
+    "_last_edit:timestamp": "2022-07-28T16:06:04Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2198,10 +2203,7 @@
     "access": "yes",
     "amenity": "toilets",
     "changing_table": "yes",
-    "charge": "€1.00",
-    "fee": "yes",
-    "payment:cards": "yes",
-    "payment:cash": "yes",
+    "fee": "no",
     "toilets:handwashing": "yes",
     "toilets:paper_supplied": "yes",
     "toilets:position": "seated;urinal",
@@ -2214,11 +2216,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 118976363,
-    "_last_edit:timestamp": "2022-03-27T10:54:29Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "joost schouppe",
+    "_last_edit:contributor:uid": 67832,
+    "_last_edit:changeset": 124204607,
+    "_last_edit:timestamp": "2022-07-28T21:41:14Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
