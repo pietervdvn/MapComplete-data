@@ -1509,6 +1509,10 @@
    "id": "node/1962841999",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
     "id": "node/1962841999",
     "_lat": "50.7480952",
     "_lon": "6.2269345",
@@ -1517,11 +1521,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "openstreetmapper123",
-    "_last_edit:contributor:uid": 750428,
-    "_last_edit:changeset": 13480908,
-    "_last_edit:timestamp": "2012-10-13T16:16:34Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 124232788,
+    "_last_edit:timestamp": "2022-07-29T13:49:12Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "de"
    },
@@ -8781,6 +8785,41 @@
    },
    "_lon": 6.227286,
    "_lat": 50.7872061
+  },
+  {
+   "type": "Feature",
+   "id": "node/9919280616",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/9919280616",
+    "_lat": "50.7480723",
+    "_lon": "6.2269296",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 124232788,
+    "_last_edit:timestamp": "2022-07-29T13:49:12Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "de"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.2269296,
+     50.7480723
+    ]
+   },
+   "_lon": 6.2269296,
+   "_lat": 50.7480723
   }
  ]
 }
