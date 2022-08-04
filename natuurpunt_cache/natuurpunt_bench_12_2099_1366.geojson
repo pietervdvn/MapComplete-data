@@ -1139,6 +1139,7 @@
    "id": "node/4595156567",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
     "id": "node/4595156567",
     "_lat": "51.2634302",
     "_lon": "4.5508357",
@@ -1147,11 +1148,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "M!dgard",
-    "_last_edit:contributor:uid": 763799,
-    "_last_edit:changeset": 44987677,
-    "_last_edit:timestamp": "2017-01-07T20:29:12Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 124453940,
+    "_last_edit:timestamp": "2022-08-03T21:22:21Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -3750,6 +3751,42 @@
    },
    "_lon": 4.564698,
    "_lat": 51.2383508
+  },
+  {
+   "type": "Feature",
+   "id": "node/9930595731",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "colour": "brown",
+    "inscription": "Om even op adem te komen | Ymke Van de Velde",
+    "inscription_1": "Omdat gezinnen belangrijk zijn. | Gezinsbod 's-Gravenwezel",
+    "material": "wood;metal",
+    "id": "node/9930595731",
+    "_lat": "51.2628221",
+    "_lon": "4.5554383",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 124457633,
+    "_last_edit:timestamp": "2022-08-04T01:09:52Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.5554383,
+     51.2628221
+    ]
+   },
+   "_lon": 4.5554383,
+   "_lat": 51.2628221
   }
  ]
 }
