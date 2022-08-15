@@ -383,58 +383,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/979881629",
-   "properties": {
-    "amenity": "toilets",
-    "building": "yes",
-    "id": "way/979881629",
-    "_lat": "51.5624806",
-    "_lon": "3.5443988500000003",
-    "_layer": "toilet",
-    "_surface": "82.21420005636853",
-    "_surface:ha": "0",
-    "_length": "37.651871953272185",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "klimpetje",
-    "_last_edit:contributor:uid": 273069,
-    "_last_edit:changeset": 110765542,
-    "_last_edit:timestamp": "2021-09-05T21:05:27Z",
-    "_version_number": 1,
-    "_geometry:type": "Polygon",
-    "_country": "nl"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       3.5444321,
-       51.5625391
-      ],
-      [
-       3.5443009,
-       51.5624688
-      ],
-      [
-       3.5443656,
-       51.5624221
-      ],
-      [
-       3.5444968,
-       51.5624925
-      ],
-      [
-       3.5444321,
-       51.5625391
-      ]
-     ]
-    ]
-   },
-   "_lon": 3.5443988500000003,
-   "_lat": 51.5624806
-  },
-  {
-   "type": "Feature",
    "id": "node/2262047797",
    "properties": {
     "amenity": "toilets",
@@ -463,6 +411,43 @@
    },
    "_lon": 3.5159166,
    "_lat": 51.5555933
+  },
+  {
+   "type": "Feature",
+   "id": "node/9953428683",
+   "properties": {
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "level": "0",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "unisex": "yes",
+    "id": "node/9953428683",
+    "_lat": "51.5625225",
+    "_lon": "3.5444228",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Schramme",
+    "_last_edit:contributor:uid": 13382,
+    "_last_edit:changeset": 124902405,
+    "_last_edit:timestamp": "2022-08-14T20:20:04Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "nl"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5444228,
+     51.5625225
+    ]
+   },
+   "_lon": 3.5444228,
+   "_lat": 51.5625225
   }
  ]
 }
