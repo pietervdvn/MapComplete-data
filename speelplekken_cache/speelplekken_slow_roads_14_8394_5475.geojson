@@ -566,19 +566,20 @@
     "oneway:bicycle": "no",
     "oneway:mofa": "no",
     "oneway:speed_pedelec": "no",
+    "source:maxspeed": "BE:living_street",
     "id": "way/22997908",
-    "_lat": "51.137333999999996",
-    "_lon": "4.44556835",
+    "_lat": "51.13712735",
+    "_lon": "4.4449692",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "103.91624985550287",
-    "_length:km": "0.1",
+    "_length": "199.84534485813128",
+    "_length:km": "0.2",
     "_last_edit:contributor": "A127",
     "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 124880561,
-    "_last_edit:timestamp": "2022-08-14T09:51:45Z",
-    "_version_number": 13,
+    "_last_edit:changeset": 124959989,
+    "_last_edit:timestamp": "2022-08-16T08:34:43Z",
+    "_version_number": 15,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -597,17 +598,41 @@
      [
       4.4448905,
       51.1371405
+     ],
+     [
+      4.444805,
+      51.1371172
+     ],
+     [
+      4.444517,
+      51.1370388
+     ],
+     [
+      4.4440925,
+      51.1369132
+     ],
+     [
+      4.4440429,
+      51.1368947
+     ],
+     [
+      4.4437414,
+      51.1367507
+     ],
+     [
+      4.4436922,
+      51.1367272
      ]
     ]
    },
-   "_lon": 4.44556835,
-   "_lat": 51.137333999999996,
+   "_lon": 4.4449692,
+   "_lat": 51.13712735,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1375275,
     "maxLon": 4.4462462,
-    "minLat": 51.1371405,
-    "minLon": 4.4448905
+    "minLat": 51.1367272,
+    "minLon": 4.4436922
    }
   },
   {
@@ -975,6 +1000,7 @@
     "oneway:bicycle": "no",
     "oneway:mofa": "no",
     "oneway:speed_pedelec": "no",
+    "source:maxspeed": "BE:living_street",
     "id": "way/32746876",
     "_lat": "51.13682545",
     "_lon": "4.44600165",
@@ -983,11 +1009,11 @@
     "_surface:ha": "0",
     "_length": "112.03288666736562",
     "_length:km": "0.1",
-    "_last_edit:contributor": "H4N5-antw",
-    "_last_edit:contributor:uid": 10846743,
-    "_last_edit:changeset": 124197340,
-    "_last_edit:timestamp": "2022-07-28T17:48:40Z",
-    "_version_number": 6,
+    "_last_edit:contributor": "A127",
+    "_last_edit:contributor:uid": 9374269,
+    "_last_edit:changeset": 124959958,
+    "_last_edit:timestamp": "2022-08-16T08:33:58Z",
+    "_version_number": 7,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1794,6 +1820,7 @@
     "oneway:bicycle": "no",
     "oneway:mofa": "no",
     "oneway:speed_pedelec": "no",
+    "source:maxspeed": "BE:living_street",
     "id": "way/342760745",
     "_lat": "51.1367063",
     "_lon": "4.4436484",
@@ -1804,9 +1831,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "A127",
     "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 124880561,
-    "_last_edit:timestamp": "2022-08-14T09:51:45Z",
-    "_version_number": 10,
+    "_last_edit:changeset": 124959989,
+    "_last_edit:timestamp": "2022-08-16T08:35:20Z",
+    "_version_number": 11,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4475,7 +4502,7 @@
     "maxspeed": "20",
     "name": "Leiaard",
     "oneway": "no",
-    "source": "GRB",
+    "source:maxspeed": "BE:living_street",
     "id": "way/686964649",
     "_lat": "51.1302759",
     "_lon": "4.4419322",
@@ -4486,9 +4513,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "A127",
     "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 70123244,
-    "_last_edit:timestamp": "2019-05-10T20:01:57Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 124960075,
+    "_last_edit:timestamp": "2022-08-16T08:36:54Z",
+    "_version_number": 4,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4571,7 +4598,7 @@
     "maxspeed": "20",
     "name": "Leiaard",
     "oneway": "no",
-    "source": "GRB",
+    "source:maxspeed": "BE:living_street",
     "id": "way/686964651",
     "_lat": "51.13040705",
     "_lon": "4.4421821999999995",
@@ -4582,9 +4609,9 @@
     "_length:km": "0.1",
     "_last_edit:contributor": "A127",
     "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 82011463,
-    "_last_edit:timestamp": "2020-03-10T14:10:35Z",
-    "_version_number": 4,
+    "_last_edit:changeset": 124960075,
+    "_last_edit:timestamp": "2022-08-16T08:36:54Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4637,7 +4664,7 @@
     "maxspeed": "20",
     "name": "Leiaard",
     "oneway": "no",
-    "source": "GRB",
+    "source:maxspeed": "BE:living_street",
     "id": "way/689219019",
     "_lat": "51.13088855",
     "_lon": "4.44131145",
@@ -4648,9 +4675,9 @@
     "_length:km": "0.1",
     "_last_edit:contributor": "A127",
     "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 96805940,
-    "_last_edit:timestamp": "2021-01-02T12:51:48Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 124960075,
+    "_last_edit:timestamp": "2022-08-16T08:36:54Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4914,77 +4941,6 @@
     "maxLon": 4.451106,
     "minLat": 51.1278822,
     "minLon": 4.4505801
-   }
-  },
-  {
-   "type": "Feature",
-   "id": "way/788301588",
-   "properties": {
-    "highway": "living_street",
-    "maxspeed": "20",
-    "name": "Nieuwstraat",
-    "oneway": "yes",
-    "oneway:bicycle": "no",
-    "oneway:mofa": "no",
-    "oneway:speed_pedelec": "no",
-    "id": "way/788301588",
-    "_lat": "51.136933850000005",
-    "_lon": "4.44429135",
-    "_layer": "slow_roads",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "95.92909500262839",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "A127",
-    "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 124880561,
-    "_last_edit:timestamp": "2022-08-14T09:51:45Z",
-    "_version_number": 3,
-    "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.4448905,
-      51.1371405
-     ],
-     [
-      4.444805,
-      51.1371172
-     ],
-     [
-      4.444517,
-      51.1370388
-     ],
-     [
-      4.4440925,
-      51.1369132
-     ],
-     [
-      4.4440429,
-      51.1368947
-     ],
-     [
-      4.4437414,
-      51.1367507
-     ],
-     [
-      4.4436922,
-      51.1367272
-     ]
-    ]
-   },
-   "_lon": 4.44429135,
-   "_lat": 51.136933850000005,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1371405,
-    "maxLon": 4.4448905,
-    "minLat": 51.1367272,
-    "minLon": 4.4436922
    }
   },
   {
