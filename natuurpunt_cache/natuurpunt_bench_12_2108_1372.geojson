@@ -7072,6 +7072,8 @@
     "colour": "gray",
     "direction": "205",
     "image": "https://i.imgur.com/6BiZnhI.jpg",
+    "material": "wood",
+    "seats": "4",
     "survey:date": "2022-06-08",
     "id": "node/9803202605",
     "_lat": "50.935771",
@@ -7083,11 +7085,11 @@
     "_length:km": "0.0",
     "_direction:numerical": 205,
     "_direction:leftright": "left",
-    "_last_edit:contributor": "dentonny",
-    "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 122102126,
-    "_last_edit:timestamp": "2022-06-08T07:23:43Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125153091,
+    "_last_edit:timestamp": "2022-08-20T15:47:47Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -7913,6 +7915,74 @@
    },
    "_lon": 5.3521602,
    "_lat": 50.9354025
+  },
+  {
+   "type": "Feature",
+   "id": "node/9966234637",
+   "properties": {
+    "amenity": "bench",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/9966234637",
+    "_lat": "50.9322077",
+    "_lon": "5.3125287",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125153091,
+    "_last_edit:timestamp": "2022-08-20T15:47:47Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3125287,
+     50.9322077
+    ]
+   },
+   "_lon": 5.3125287,
+   "_lat": 50.9322077
+  },
+  {
+   "type": "Feature",
+   "id": "node/9966234639",
+   "properties": {
+    "amenity": "bench",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/9966234639",
+    "_lat": "50.9321697",
+    "_lon": "5.3124487",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125153091,
+    "_last_edit:timestamp": "2022-08-20T15:47:47Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3124487,
+     50.9321697
+    ]
+   },
+   "_lon": 5.3124487,
+   "_lat": 50.9321697
   }
  ]
 }
