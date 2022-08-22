@@ -417,37 +417,6 @@
   },
   {
    "type": "Feature",
-   "id": "node/5799412668",
-   "properties": {
-    "amenity": "toilets",
-    "id": "node/5799412668",
-    "_lat": "50.5837494",
-    "_lon": "3.8833886",
-    "_layer": "toilet",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "whatismoss",
-    "_last_edit:contributor:uid": 8427311,
-    "_last_edit:changeset": 61236224,
-    "_last_edit:timestamp": "2018-07-31T17:14:10Z",
-    "_version_number": 1,
-    "_geometry:type": "Point",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.8833886,
-     50.5837494
-    ]
-   },
-   "_lon": 3.8833886,
-   "_lat": 50.5837494
-  },
-  {
-   "type": "Feature",
    "id": "node/5995972304",
    "properties": {
     "amenity": "toilets",
@@ -482,31 +451,32 @@
    "id": "node/5995972311",
    "properties": {
     "amenity": "toilets",
+    "male": "yes",
     "id": "node/5995972311",
-    "_lat": "50.5855102",
-    "_lon": "3.8923183",
+    "_lat": "50.5854948",
+    "_lon": "3.8923505",
     "_layer": "toilet",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "joost schouppe",
-    "_last_edit:contributor:uid": 67832,
-    "_last_edit:changeset": 63650986,
-    "_last_edit:timestamp": "2018-10-18T16:02:38Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 125171667,
+    "_last_edit:timestamp": "2022-08-21T07:40:52Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.8923183,
-     50.5855102
+     3.8923505,
+     50.5854948
     ]
    },
-   "_lon": 3.8923183,
-   "_lat": 50.5855102
+   "_lon": 3.8923505,
+   "_lat": 50.5854948
   },
   {
    "type": "Feature",
@@ -550,6 +520,12 @@
    "id": "node/9653632917",
    "properties": {
     "amenity": "toilets",
+    "changing_table": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "wheelchair": "yes",
     "id": "node/9653632917",
     "_lat": "50.5832528",
     "_lon": "3.8845357",
@@ -558,11 +534,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Maartenvb",
-    "_last_edit:contributor:uid": 6769894,
-    "_last_edit:changeset": 119499293,
-    "_last_edit:timestamp": "2022-04-09T10:46:07Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 125171828,
+    "_last_edit:timestamp": "2022-08-21T07:46:18Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -575,6 +551,38 @@
    },
    "_lon": 3.8845357,
    "_lat": 50.5832528
+  },
+  {
+   "type": "Feature",
+   "id": "node/9967168886",
+   "properties": {
+    "amenity": "toilets",
+    "female": "yes",
+    "id": "node/9967168886",
+    "_lat": "50.5854075",
+    "_lon": "3.8922842",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 125171667,
+    "_last_edit:timestamp": "2022-08-21T07:40:52Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.8922842,
+     50.5854075
+    ]
+   },
+   "_lon": 3.8922842,
+   "_lat": 50.5854075
   }
  ]
 }
