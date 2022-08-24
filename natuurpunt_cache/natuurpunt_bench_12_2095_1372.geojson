@@ -1375,6 +1375,10 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "brown",
+    "direction": "331",
+    "material": "wood",
+    "seats": "3",
     "id": "node/6463671996",
     "_lat": "50.9210376",
     "_lon": "4.2122384",
@@ -1383,11 +1387,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 98446409,
-    "_last_edit:timestamp": "2021-01-31T12:40:37Z",
-    "_version_number": 3,
+    "_direction:numerical": 331,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jospyck",
+    "_last_edit:contributor:uid": 12128135,
+    "_last_edit:changeset": 125271461,
+    "_last_edit:timestamp": "2022-08-23T13:10:36Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1406,6 +1412,11 @@
    "id": "node/6463671997",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "324",
+    "material": "wood",
+    "seats": "3",
     "id": "node/6463671997",
     "_lat": "50.9172917",
     "_lon": "4.204991",
@@ -1414,11 +1425,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "geertivp",
-    "_last_edit:contributor:uid": 1441075,
-    "_last_edit:changeset": 70098424,
-    "_last_edit:timestamp": "2019-05-10T07:15:18Z",
-    "_version_number": 1,
+    "_direction:numerical": 324,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "jospyck",
+    "_last_edit:contributor:uid": 12128135,
+    "_last_edit:changeset": 125236996,
+    "_last_edit:timestamp": "2022-08-22T17:09:12Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2004,8 +2017,8 @@
     "material": "wood",
     "seats": "3",
     "id": "node/9501026177",
-    "_lat": "50.9045053",
-    "_lon": "4.2053054",
+    "_lat": "50.9044982",
+    "_lon": "4.2052779",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
@@ -2015,21 +2028,21 @@
     "_direction:leftright": "right",
     "_last_edit:contributor": "jospyck",
     "_last_edit:contributor:uid": 12128135,
-    "_last_edit:changeset": 117329143,
-    "_last_edit:timestamp": "2022-02-12T16:59:26Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 125271461,
+    "_last_edit:timestamp": "2022-08-23T13:23:22Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.2053054,
-     50.9045053
+     4.2052779,
+     50.9044982
     ]
    },
-   "_lon": 4.2053054,
-   "_lat": 50.9045053
+   "_lon": 4.2052779,
+   "_lat": 50.9044982
   },
   {
    "type": "Feature",
@@ -2365,6 +2378,44 @@
    },
    "_lon": 4.1756851,
    "_lat": 50.9422454
+  },
+  {
+   "type": "Feature",
+   "id": "node/9972386392",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "72",
+    "material": "wood",
+    "seats": "3",
+    "id": "node/9972386392",
+    "_lat": "50.9054681",
+    "_lon": "4.2085873",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 72,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "jospyck",
+    "_last_edit:contributor:uid": 12128135,
+    "_last_edit:changeset": 125271461,
+    "_last_edit:timestamp": "2022-08-23T13:24:42Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.2085873,
+     50.9054681
+    ]
+   },
+   "_lon": 4.2085873,
+   "_lat": 50.9054681
   }
  ]
 }
