@@ -733,6 +733,7 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "image": "https://i.imgur.com/UjgoLCK.jpg",
     "id": "node/3964387512",
     "_lat": "50.9780409",
     "_lon": "3.6918271",
@@ -743,9 +744,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "vjyblauw",
     "_last_edit:contributor:uid": 2844254,
-    "_last_edit:changeset": 124213815,
-    "_last_edit:timestamp": "2022-07-29T06:34:12Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 125669771,
+    "_last_edit:timestamp": "2022-09-01T19:53:47Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1843,6 +1844,74 @@
    },
    "_lon": 3.7416346,
    "_lat": 51.0133649
+  },
+  {
+   "type": "Feature",
+   "id": "node/9992545339",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "image": "https://i.imgur.com/hX8Gbw2.jpg",
+    "material": "wood",
+    "id": "node/9992545339",
+    "_lat": "50.9674459",
+    "_lon": "3.7020155",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "vjyblauw",
+    "_last_edit:contributor:uid": 2844254,
+    "_last_edit:changeset": 125669771,
+    "_last_edit:timestamp": "2022-09-01T19:40:10Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.7020155,
+     50.9674459
+    ]
+   },
+   "_lon": 3.7020155,
+   "_lat": 50.9674459
+  },
+  {
+   "type": "Feature",
+   "id": "node/9993453176",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/WH7XzSn.jpg",
+    "material": "plastic",
+    "id": "node/9993453176",
+    "_lat": "50.9585095",
+    "_lon": "3.6947655",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "vjyblauw",
+    "_last_edit:contributor:uid": 2844254,
+    "_last_edit:changeset": 125669771,
+    "_last_edit:timestamp": "2022-09-01T19:41:51Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.6947655,
+     50.9585095
+    ]
+   },
+   "_lon": 3.6947655,
+   "_lat": 50.9585095
   }
  ]
 }
