@@ -1815,6 +1815,7 @@
     "motorcar": "no",
     "motorcycle": "no",
     "name": "Herman Vosstraat",
+    "smoothness": "intermediate",
     "surface": "paving_stones",
     "id": "way/4353173",
     "_lat": "51.18570985",
@@ -1824,11 +1825,11 @@
     "_surface:ha": "0",
     "_length": "421.7036097460661",
     "_length:km": "0.4",
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 119862798,
-    "_last_edit:timestamp": "2022-04-18T14:42:35Z",
-    "_version_number": 10,
+    "_last_edit:contributor": "Jens V",
+    "_last_edit:contributor:uid": 357576,
+    "_last_edit:changeset": 125690423,
+    "_last_edit:timestamp": "2022-09-02T09:54:24Z",
+    "_version_number": 11,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -2015,7 +2016,7 @@
    "properties": {
     "bicycle": "yes",
     "highway": "path",
-    "surface": "gravel",
+    "surface": "compacted",
     "vehicle": "no",
     "id": "way/24699652",
     "_lat": "51.1909596",
@@ -2025,11 +2026,11 @@
     "_surface:ha": "0",
     "_length": "264.1747986236191",
     "_length:km": "0.3",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 89774824,
-    "_last_edit:timestamp": "2020-08-22T09:12:54Z",
-    "_version_number": 8,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 125660594,
+    "_last_edit:timestamp": "2022-09-01T15:04:38Z",
+    "_version_number": 9,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -2267,7 +2268,7 @@
    "properties": {
     "bicycle": "yes",
     "highway": "path",
-    "surface": "gravel",
+    "surface": "compacted",
     "vehicle": "no",
     "id": "way/24699702",
     "_lat": "51.18998605",
@@ -2277,11 +2278,11 @@
     "_surface:ha": "0",
     "_length": "76.68154663289195",
     "_length:km": "0.1",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 89774609,
-    "_last_edit:timestamp": "2020-08-22T09:05:33Z",
-    "_version_number": 10,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 125660594,
+    "_last_edit:timestamp": "2022-09-01T15:04:38Z",
+    "_version_number": 11,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -2707,7 +2708,7 @@
    "properties": {
     "bicycle": "yes",
     "highway": "path",
-    "surface": "gravel",
+    "surface": "compacted",
     "vehicle": "no",
     "id": "way/26494920",
     "_lat": "51.1906027",
@@ -2717,11 +2718,11 @@
     "_surface:ha": "0",
     "_length": "444.8312789847041",
     "_length:km": "0.4",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 89781344,
-    "_last_edit:timestamp": "2020-08-22T13:23:29Z",
-    "_version_number": 7,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 125660594,
+    "_last_edit:timestamp": "2022-09-01T15:04:38Z",
+    "_version_number": 8,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -10246,7 +10247,13 @@
    },
    "_lon": 4.41663675,
    "_lat": 51.18160095,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1820334,
+    "maxLon": 4.417433,
+    "minLat": 51.1811685,
+    "minLon": 4.4158405
+   }
   },
   {
    "type": "Feature",
@@ -10865,7 +10872,13 @@
    },
    "_lon": 4.416612349999999,
    "_lat": 51.181275799999995,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1812943,
+    "maxLon": 4.4168065,
+    "minLat": 51.1812573,
+    "minLon": 4.4164182
+   }
   },
   {
    "type": "Feature",
@@ -11104,12 +11117,12 @@
     "footway": "crossing",
     "highway": "footway",
     "id": "way/1083608553",
-    "_lat": "51.1846771",
-    "_lon": "4.41815335",
+    "_lat": "51.184669850000006",
+    "_lon": "4.41814195",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "11.804387478873215",
+    "_length": "14.06821656562577",
     "_length:km": "0.0",
     "_last_edit:contributor": "km2bp",
     "_last_edit:contributor:uid": 3610826,
@@ -11124,8 +11137,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4180939,
-      51.1846393
+      4.4180711,
+      51.1846248
      ],
      [
       4.4181706,
@@ -11137,14 +11150,119 @@
      ]
     ]
    },
-   "_lon": 4.41815335,
-   "_lat": 51.1846771,
+   "_lon": 4.41814195,
+   "_lat": 51.184669850000006,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1847149,
     "maxLon": 4.4182128,
-    "minLat": 51.1846393,
-    "minLon": 4.4180939
+    "minLat": 51.1846248,
+    "minLon": 4.4180711
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1090927661",
+   "properties": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway",
+    "id": "way/1090927661",
+    "_lat": "51.1796861",
+    "_lon": "4.43294785",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "17.811432383388482",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jens V",
+    "_last_edit:contributor:uid": 357576,
+    "_last_edit:changeset": 125643231,
+    "_last_edit:timestamp": "2022-09-01T08:12:04Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4330237,
+      51.1796251
+     ],
+     [
+      4.4329622,
+      51.1796448
+     ],
+     [
+      4.4329492,
+      51.1796595
+     ],
+     [
+      4.4329034,
+      51.1797114
+     ],
+     [
+      4.432872,
+      51.1797471
+     ]
+    ]
+   },
+   "_lon": 4.43294785,
+   "_lat": 51.1796861,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1797471,
+    "maxLon": 4.4330237,
+    "minLat": 51.1796251,
+    "minLon": 4.432872
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1090927662",
+   "properties": {
+    "bicycle": "dismount",
+    "highway": "footway",
+    "id": "way/1090927662",
+    "_lat": "51.17980195",
+    "_lon": "4.432803",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "15.534687976366877",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jens V",
+    "_last_edit:contributor:uid": 357576,
+    "_last_edit:changeset": 125643231,
+    "_last_edit:timestamp": "2022-09-01T08:12:04Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.432734,
+      51.1798568
+     ],
+     [
+      4.432872,
+      51.1797471
+     ]
+    ]
+   },
+   "_lon": 4.432803,
+   "_lat": 51.17980195,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1798568,
+    "maxLon": 4.432872,
+    "minLat": 51.1797471,
+    "minLon": 4.432734
    }
   },
   {
@@ -11391,6 +11509,7 @@
     "motorcar": "no",
     "motorcycle": "no",
     "name": "Herman Vosstraat",
+    "smoothness": "intermediate",
     "surface": "paving_stones",
     "id": "way/4353173",
     "_lat": "51.18570985",
@@ -11400,11 +11519,11 @@
     "_surface:ha": "0",
     "_length": "421.7036097460661",
     "_length:km": "0.4",
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 119862798,
-    "_last_edit:timestamp": "2022-04-18T14:42:35Z",
-    "_version_number": 10,
+    "_last_edit:contributor": "Jens V",
+    "_last_edit:contributor:uid": 357576,
+    "_last_edit:changeset": 125690423,
+    "_last_edit:timestamp": "2022-09-02T09:54:24Z",
+    "_version_number": 11,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
