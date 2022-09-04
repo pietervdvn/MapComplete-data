@@ -99,6 +99,7 @@
    "type": "Feature",
    "id": "node/3192264061",
    "properties": {
+    "bench": "yes",
     "leisure": "picnic_table",
     "id": "node/3192264061",
     "_lat": "50.9616485",
@@ -108,11 +109,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 114976726,
-    "_last_edit:timestamp": "2021-12-15T19:20:03Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 125749320,
+    "_last_edit:timestamp": "2022-09-03T18:34:41Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -290,32 +291,36 @@
    "type": "Feature",
    "id": "node/7057151376",
    "properties": {
+    "bench": "yes",
+    "image": "https://i.imgur.com/ChULT6hh.jpg",
     "leisure": "picnic_table",
+    "mapillary": "929075388049789",
+    "survey:date": "2022-09-02",
     "id": "node/7057151376",
-    "_lat": "50.9625113",
-    "_lon": "5.3741406",
+    "_lat": "50.962514",
+    "_lon": "5.3741871",
     "_layer": "picnic_table",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 78417077,
-    "_last_edit:timestamp": "2019-12-14T20:37:42Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 125747502,
+    "_last_edit:timestamp": "2022-09-03T17:38:53Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.3741406,
-     50.9625113
+     5.3741871,
+     50.962514
     ]
    },
-   "_lon": 5.3741406,
-   "_lat": 50.9625113
+   "_lon": 5.3741871,
+   "_lat": 50.962514
   },
   {
    "type": "Feature",
@@ -775,6 +780,40 @@
    },
    "_lon": 5.3717137,
    "_lat": 50.9916499
+  },
+  {
+   "type": "Feature",
+   "id": "node/9998066339",
+   "properties": {
+    "bench": "yes",
+    "leisure": "picnic_table",
+    "mapillary": "1056366168352425",
+    "survey:date": "2022-09-02",
+    "id": "node/9998066339",
+    "_lat": "50.9610239",
+    "_lon": "5.3732163",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 125747502,
+    "_last_edit:timestamp": "2022-09-03T17:38:53Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3732163,
+     50.9610239
+    ]
+   },
+   "_lon": 5.3732163,
+   "_lat": 50.9610239
   }
  ]
 }

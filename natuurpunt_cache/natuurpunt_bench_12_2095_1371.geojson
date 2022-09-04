@@ -471,7 +471,9 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
-    "seats": "3",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
     "id": "node/3199782152",
     "_lat": "50.9738203",
     "_lon": "4.1633872",
@@ -480,11 +482,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "TAA",
-    "_last_edit:contributor:uid": 69418,
-    "_last_edit:changeset": 26949010,
-    "_last_edit:timestamp": "2014-11-22T11:16:52Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125751470,
+    "_last_edit:timestamp": "2022-09-03T19:43:11Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -638,30 +640,30 @@
     "backrest": "yes",
     "seats": "3",
     "id": "node/3200231522",
-    "_lat": "50.9778084",
-    "_lon": "4.1778426",
+    "_lat": "50.9778008",
+    "_lon": "4.1781523",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "TAA",
-    "_last_edit:contributor:uid": 69418,
-    "_last_edit:changeset": 26956311,
-    "_last_edit:timestamp": "2014-11-22T17:22:09Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125750007,
+    "_last_edit:timestamp": "2022-09-03T18:56:06Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.1778426,
-     50.9778084
+     4.1781523,
+     50.9778008
     ]
    },
-   "_lon": 4.1778426,
-   "_lat": 50.9778084
+   "_lon": 4.1781523,
+   "_lat": 50.9778008
   },
   {
    "type": "Feature",
@@ -2074,6 +2076,7 @@
     "colour": "brown",
     "direction": "330",
     "material": "wood",
+    "seats": "4",
     "id": "node/9770782535",
     "_lat": "50.9696709",
     "_lon": "4.15138",
@@ -2084,11 +2087,11 @@
     "_length:km": "0.0",
     "_direction:numerical": 330,
     "_direction:leftright": "left",
-    "_last_edit:contributor": "pi11",
-    "_last_edit:contributor:uid": 12066190,
-    "_last_edit:changeset": 121495216,
-    "_last_edit:timestamp": "2022-05-25T22:42:16Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125751470,
+    "_last_edit:timestamp": "2022-09-03T19:43:11Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2330,6 +2333,216 @@
    },
    "_lon": 4.1700297,
    "_lat": 50.963355
+  },
+  {
+   "type": "Feature",
+   "id": "node/9997028762",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "gray",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/9997028762",
+    "_lat": "50.9758071",
+    "_lon": "4.2104162",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125730746,
+    "_last_edit:timestamp": "2022-09-03T10:12:36Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.2104162,
+     50.9758071
+    ]
+   },
+   "_lon": 4.2104162,
+   "_lat": 50.9758071
+  },
+  {
+   "type": "Feature",
+   "id": "node/9998227438",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "plastic",
+    "seats": "4",
+    "id": "node/9998227438",
+    "_lat": "50.9775008",
+    "_lon": "4.1741213",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125750007,
+    "_last_edit:timestamp": "2022-09-03T18:56:06Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1741213,
+     50.9775008
+    ]
+   },
+   "_lon": 4.1741213,
+   "_lat": 50.9775008
+  },
+  {
+   "type": "Feature",
+   "id": "node/9998227451",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "6",
+    "id": "node/9998227451",
+    "_lat": "50.9763638",
+    "_lon": "4.1824196",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125750007,
+    "_last_edit:timestamp": "2022-09-03T18:56:06Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1824196,
+     50.9763638
+    ]
+   },
+   "_lon": 4.1824196,
+   "_lat": 50.9763638
+  },
+  {
+   "type": "Feature",
+   "id": "node/9998336148",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/9998336148",
+    "_lat": "50.967711",
+    "_lon": "4.1456961",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125751470,
+    "_last_edit:timestamp": "2022-09-03T19:43:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1456961,
+     50.967711
+    ]
+   },
+   "_lon": 4.1456961,
+   "_lat": 50.967711
+  },
+  {
+   "type": "Feature",
+   "id": "node/9998336150",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/9998336150",
+    "_lat": "50.9701696",
+    "_lon": "4.1528028",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125751470,
+    "_last_edit:timestamp": "2022-09-03T19:43:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1528028,
+     50.9701696
+    ]
+   },
+   "_lon": 4.1528028,
+   "_lat": 50.9701696
+  },
+  {
+   "type": "Feature",
+   "id": "node/9998336160",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/9998336160",
+    "_lat": "50.9709254",
+    "_lon": "4.1549698",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125751470,
+    "_last_edit:timestamp": "2022-09-03T19:43:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1549698,
+     50.9709254
+    ]
+   },
+   "_lon": 4.1549698,
+   "_lat": 50.9709254
   }
  ]
 }
