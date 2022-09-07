@@ -1817,8 +1817,10 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "brown",
     "image": "https://i.imgur.com/kr69p4z.jpg",
     "material": "plastic",
+    "seats": "4",
     "id": "node/9905342226",
     "_lat": "51.0133649",
     "_lon": "3.7416346",
@@ -1827,11 +1829,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "vjyblauw",
-    "_last_edit:contributor:uid": 2844254,
-    "_last_edit:changeset": 124202607,
-    "_last_edit:timestamp": "2022-07-28T20:32:14Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125843083,
+    "_last_edit:timestamp": "2022-09-06T07:12:27Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1912,6 +1914,41 @@
    },
    "_lon": 3.6947655,
    "_lat": 50.9585095
+  },
+  {
+   "type": "Feature",
+   "id": "node/10004315359",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/10004315359",
+    "_lat": "50.9893454",
+    "_lon": "3.7628448",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "nurdafur",
+    "_last_edit:contributor:uid": 3172019,
+    "_last_edit:changeset": 125860785,
+    "_last_edit:timestamp": "2022-09-06T13:58:08Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.7628448,
+     50.9893454
+    ]
+   },
+   "_lon": 3.7628448,
+   "_lat": 50.9893454
   }
  ]
 }
