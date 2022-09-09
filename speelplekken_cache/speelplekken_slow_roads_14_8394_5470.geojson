@@ -66,12 +66,12 @@
    "properties": {
     "highway": "footway",
     "id": "way/4310292",
-    "_lat": "51.195050800000004",
-    "_lon": "4.44449805",
+    "_lat": "51.19505005",
+    "_lon": "4.44449245",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "14.061510091771025",
+    "_length": "13.32619213890433",
     "_length:km": "0.0",
     "_last_edit:contributor": "JanFi",
     "_last_edit:contributor:uid": 672253,
@@ -86,8 +86,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4445826,
-      51.1950853
+      4.4445714,
+      51.1950838
      ],
      [
       4.4445039,
@@ -99,12 +99,12 @@
      ]
     ]
    },
-   "_lon": 4.44449805,
-   "_lat": 51.195050800000004,
+   "_lon": 4.44449245,
+   "_lat": 51.19505005,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1950853,
-    "maxLon": 4.4445826,
+    "maxLat": 51.1950838,
+    "maxLon": 4.4445714,
     "minLat": 51.1950163,
     "minLon": 4.4444135
    }
@@ -3226,6 +3226,58 @@
     "maxLon": 4.4516753,
     "minLat": 51.2021413,
     "minLon": 4.4501785
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/686465133",
+   "properties": {
+    "bicycle": "yes",
+    "highway": "footway",
+    "segregated": "no",
+    "surface": "asphalt",
+    "id": "way/686465133",
+    "_lat": "51.20138365",
+    "_lon": "4.4501302",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "13.908108807517696",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 125942356,
+    "_last_edit:timestamp": "2022-09-08T12:59:56Z",
+    "_version_number": 8,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.45023,
+      51.2013845
+     ],
+     [
+      4.4501263,
+      51.2013838
+     ],
+     [
+      4.4500304,
+      51.2013828
+     ]
+    ]
+   },
+   "_lon": 4.4501302,
+   "_lat": 51.20138365,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.2013845,
+    "maxLon": 4.45023,
+    "minLat": 51.2013828,
+    "minLon": 4.4500304
    }
   },
   {
