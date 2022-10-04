@@ -227,6 +227,7 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "image": "https://i.imgur.com/22m7DNS.jpg",
     "id": "node/8596290427",
     "_lat": "50.7143645",
     "_lon": "3.3628315",
@@ -237,9 +238,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "vjyblauw",
     "_last_edit:contributor:uid": 2844254,
-    "_last_edit:changeset": 120747322,
-    "_last_edit:timestamp": "2022-05-09T12:40:36Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 126956214,
+    "_last_edit:timestamp": "2022-10-03T20:19:39Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -291,9 +292,10 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "image": "https://i.imgur.com/neS3Ymz.jpg",
     "id": "node/8695280108",
-    "_lat": "50.6845712",
-    "_lon": "3.348037",
+    "_lat": "50.6845283",
+    "_lon": "3.3480139",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
@@ -301,21 +303,21 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "vjyblauw",
     "_last_edit:contributor:uid": 2844254,
-    "_last_edit:changeset": 104082772,
-    "_last_edit:timestamp": "2021-05-03T23:07:49Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 126956214,
+    "_last_edit:timestamp": "2022-10-03T20:51:41Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     3.348037,
-     50.6845712
+     3.3480139,
+     50.6845283
     ]
    },
-   "_lon": 3.348037,
-   "_lat": 50.6845712
+   "_lon": 3.3480139,
+   "_lat": 50.6845283
   },
   {
    "type": "Feature",
@@ -387,6 +389,9 @@
    "id": "node/10008212107",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/T1uqdKD.jpg",
+    "material": "wood",
     "id": "node/10008212107",
     "_lat": "50.7195641",
     "_lon": "3.3658766",
@@ -397,9 +402,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "vjyblauw",
     "_last_edit:contributor:uid": 2844254,
-    "_last_edit:changeset": 125929514,
-    "_last_edit:timestamp": "2022-09-08T07:20:09Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 126957492,
+    "_last_edit:timestamp": "2022-10-03T20:16:35Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -418,6 +423,8 @@
    "id": "node/10008280106",
    "properties": {
     "amenity": "bench",
+    "image": "https://i.imgur.com/qWiZJ17.jpg",
+    "material": "wood",
     "id": "node/10008280106",
     "_lat": "50.7212198",
     "_lon": "3.3668603",
@@ -428,9 +435,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "vjyblauw",
     "_last_edit:contributor:uid": 2844254,
-    "_last_edit:changeset": 125930207,
-    "_last_edit:timestamp": "2022-09-08T07:36:40Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 126957492,
+    "_last_edit:timestamp": "2022-10-03T20:16:35Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -443,6 +450,72 @@
    },
    "_lon": 3.3668603,
    "_lat": 50.7212198
+  },
+  {
+   "type": "Feature",
+   "id": "node/10073787799",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/ShRuMck.jpg",
+    "id": "node/10073787799",
+    "_lat": "50.7076085",
+    "_lon": "3.3605209",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "vjyblauw",
+    "_last_edit:contributor:uid": 2844254,
+    "_last_edit:changeset": 126956214,
+    "_last_edit:timestamp": "2022-10-03T20:29:57Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.3605209,
+     50.7076085
+    ]
+   },
+   "_lon": 3.3605209,
+   "_lat": 50.7076085
+  },
+  {
+   "type": "Feature",
+   "id": "node/10073798588",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/k5b65ft.jpg",
+    "id": "node/10073798588",
+    "_lat": "50.6929296",
+    "_lon": "3.3440664",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "vjyblauw",
+    "_last_edit:contributor:uid": 2844254,
+    "_last_edit:changeset": 126956214,
+    "_last_edit:timestamp": "2022-10-03T20:50:01Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.3440664,
+     50.6929296
+    ]
+   },
+   "_lon": 3.3440664,
+   "_lat": 50.6929296
   }
  ]
 }
