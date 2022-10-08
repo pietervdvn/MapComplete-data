@@ -90,6 +90,8 @@
    "properties": {
     "amenity": "toilets",
     "building": "yes",
+    "fee": "no",
+    "wheelchair": "yes",
     "id": "way/378208441",
     "_lat": "50.58592205",
     "_lon": "3.8848363",
@@ -98,11 +100,11 @@
     "_surface:ha": "0",
     "_length": "32.224878546163396",
     "_length:km": "0.0",
-    "_last_edit:contributor": "metatech",
-    "_last_edit:contributor:uid": 1545711,
-    "_last_edit:changeset": 35064716,
-    "_last_edit:timestamp": "2015-11-03T20:34:12Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "jerodev",
+    "_last_edit:contributor:uid": 11393207,
+    "_last_edit:changeset": 127143809,
+    "_last_edit:timestamp": "2022-10-07T10:14:42Z",
+    "_version_number": 3,
     "_geometry:type": "Polygon",
     "_country": "be"
    },
@@ -172,6 +174,8 @@
    "id": "node/3816173832",
    "properties": {
     "amenity": "toilets",
+    "check_date": "2022-10-07",
+    "fee": "no",
     "id": "node/3816173832",
     "_lat": "50.5851914",
     "_lon": "3.8897344",
@@ -180,11 +184,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "metatech",
-    "_last_edit:contributor:uid": 1545711,
-    "_last_edit:changeset": 35064716,
-    "_last_edit:timestamp": "2015-11-03T20:34:12Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "jerodev",
+    "_last_edit:contributor:uid": 11393207,
+    "_last_edit:changeset": 127152338,
+    "_last_edit:timestamp": "2022-10-07T13:12:08Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -290,37 +294,6 @@
    },
    "_lon": 3.8902195,
    "_lat": 50.5829216
-  },
-  {
-   "type": "Feature",
-   "id": "node/4194066203",
-   "properties": {
-    "amenity": "toilets",
-    "id": "node/4194066203",
-    "_lat": "50.5855506",
-    "_lon": "3.8854634",
-    "_layer": "toilet",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "metatech",
-    "_last_edit:contributor:uid": 1545711,
-    "_last_edit:changeset": 50630171,
-    "_last_edit:timestamp": "2017-07-27T21:01:25Z",
-    "_version_number": 2,
-    "_geometry:type": "Point",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.8854634,
-     50.5855506
-    ]
-   },
-   "_lon": 3.8854634,
-   "_lat": 50.5855506
   },
   {
    "type": "Feature",
