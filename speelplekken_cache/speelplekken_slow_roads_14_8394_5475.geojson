@@ -966,14 +966,14 @@
     "maxspeed": "20",
     "name": "Noordstraat",
     "id": "way/32746842",
-    "_lat": "51.13687175",
-    "_lon": "4.4450859000000005",
+    "_lat": "51.1368825",
+    "_lon": "4.44508115",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "65.69317142874993",
+    "_length": "63.24421511021125",
     "_length:km": "0.1",
-    "_direction:centerpoint": 155.47697553543713,
+    "_direction:centerpoint": 155.12435084271735,
     "_last_edit:contributor": "A127",
     "_last_edit:contributor:uid": 9374269,
     "_last_edit:changeset": 99472674,
@@ -991,18 +991,18 @@
       51.1371405
      ],
      [
-      4.4452813,
-      51.136603
+      4.4452718,
+      51.1366245
      ]
     ]
    },
-   "_lon": 4.4450859000000005,
-   "_lat": 51.13687175,
+   "_lon": 4.44508115,
+   "_lat": 51.1368825,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1371405,
-    "maxLon": 4.4452813,
-    "minLat": 51.136603,
+    "maxLon": 4.4452718,
+    "minLat": 51.1366245,
     "minLon": 4.4448905
    }
   },
@@ -1019,19 +1019,19 @@
     "oneway:speed_pedelec": "no",
     "source:maxspeed": "BE:living_street",
     "id": "way/32746876",
-    "_lat": "51.13682545",
-    "_lon": "4.44600165",
+    "_lat": "51.136836200000005",
+    "_lon": "4.445996900000001",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "112.03288666736562",
+    "_length": "111.80044315025343",
     "_length:km": "0.1",
-    "_direction:centerpoint": 63.795380803365916,
-    "_last_edit:contributor": "A127",
-    "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 124959958,
-    "_last_edit:timestamp": "2022-08-16T08:33:58Z",
-    "_version_number": 7,
+    "_direction:centerpoint": 64.30648534925044,
+    "_last_edit:contributor": "Michel Stuyts",
+    "_last_edit:contributor:uid": 62284,
+    "_last_edit:changeset": 127397033,
+    "_last_edit:timestamp": "2022-10-12T07:16:26Z",
+    "_version_number": 8,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1040,8 +1040,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4452813,
-      51.136603
+      4.4452718,
+      51.1366245
+     ],
+     [
+      4.445343,
+      51.1366316
      ],
      [
       4.446722,
@@ -1049,14 +1053,14 @@
      ]
     ]
    },
-   "_lon": 4.44600165,
-   "_lat": 51.13682545,
+   "_lon": 4.445996900000001,
+   "_lat": 51.136836200000005,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1370479,
     "maxLon": 4.446722,
-    "minLat": 51.136603,
-    "minLon": 4.4452813
+    "minLat": 51.1366245,
+    "minLon": 4.4452718
    }
   },
   {
@@ -1334,6 +1338,87 @@
   },
   {
    "type": "Feature",
+   "id": "way/104776221",
+   "properties": {
+    "highway": "living_street",
+    "maxspeed": "30",
+    "name": "Schoolstraat",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "oneway:mofa": "no",
+    "oneway:speed_pedelec": "no",
+    "source:maxspeed": "BE:zone30",
+    "id": "way/104776221",
+    "_lat": "51.1365",
+    "_lon": "4.4444382000000004",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "143.29229943089942",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 64.85921162216222,
+    "_last_edit:contributor": "Michel Stuyts",
+    "_last_edit:contributor:uid": 62284,
+    "_last_edit:changeset": 127400599,
+    "_last_edit:timestamp": "2022-10-12T08:47:17Z",
+    "_version_number": 9,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4436046,
+      51.1366854
+     ],
+     [
+      4.4436536,
+      51.1366498
+     ],
+     [
+      4.4436789,
+      51.1366314
+     ],
+     [
+      4.4440784,
+      51.1363202
+     ],
+     [
+      4.4441186,
+      51.1363146
+     ],
+     [
+      4.4441633,
+      51.1363194
+     ],
+     [
+      4.4442311,
+      51.1363407
+     ],
+     [
+      4.4451874,
+      51.1366223
+     ],
+     [
+      4.4452718,
+      51.1366245
+     ]
+    ]
+   },
+   "_lon": 4.4444382000000004,
+   "_lat": 51.1365,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1366854,
+    "maxLon": 4.4452718,
+    "minLat": 51.1363146,
+    "minLon": 4.4436046
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/115887401",
    "properties": {
     "bicycle": "designated",
@@ -1449,14 +1534,14 @@
    "properties": {
     "highway": "footway",
     "id": "way/146195766",
-    "_lat": "51.13650585",
-    "_lon": "4.4452196",
+    "_lat": "51.1365166",
+    "_lon": "4.44521485",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "23.353951095802586",
+    "_length": "25.300120069489115",
     "_length:km": "0.0",
-    "_direction:centerpoint": -154.2406121631513,
+    "_direction:centerpoint": -159.91703583561403,
     "_last_edit:contributor": "Jurion_style",
     "_last_edit:contributor:uid": 5209065,
     "_last_edit:changeset": 45567483,
@@ -1470,8 +1555,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4452813,
-      51.136603
+      4.4452718,
+      51.1366245
      ],
      [
       4.4451904,
@@ -1483,12 +1568,12 @@
      ]
     ]
    },
-   "_lon": 4.4452196,
-   "_lat": 51.13650585,
+   "_lon": 4.44521485,
+   "_lat": 51.1365166,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.136603,
-    "maxLon": 4.4452813,
+    "maxLat": 51.1366245,
+    "maxLon": 4.4452718,
     "minLat": 51.1364087,
     "minLon": 4.4451579
    }
@@ -2055,13 +2140,13 @@
     "highway": "footway",
     "id": "way/355235475",
     "_lat": "51.13628405",
-    "_lon": "4.44470725",
+    "_lon": "4.4446945",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "78.6943555858432",
+    "_length": "82.18445033022826",
     "_length:km": "0.1",
-    "_direction:centerpoint": -136.20397348865865,
+    "_direction:centerpoint": -136.20397462513247,
     "_last_edit:contributor": "Globelotter",
     "_last_edit:contributor:uid": 6141733,
     "_last_edit:changeset": 103781338,
@@ -2091,19 +2176,19 @@
       51.1361594
      ],
      [
-      4.4442566,
-      51.1363124
+      4.4442311,
+      51.1363407
      ]
     ]
    },
-   "_lon": 4.44470725,
+   "_lon": 4.4446945,
    "_lat": 51.13628405,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1364087,
     "maxLon": 4.4451579,
     "minLat": 51.1361594,
-    "minLon": 4.4442566
+    "minLon": 4.4442311
    }
   },
   {
@@ -4975,6 +5060,67 @@
     "maxLon": 4.4421601,
     "minLat": 51.1367665,
     "minLon": 4.4418561
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/757824293",
+   "properties": {
+    "highway": "living_street",
+    "maxspeed": "30",
+    "name": "Nieuwstraat",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "oneway:mofa": "no",
+    "oneway:speed_pedelec": "no",
+    "source:maxspeed": "BE:zone30",
+    "id": "way/757824293",
+    "_lat": "51.1364029",
+    "_lon": "4.4430876999999995",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "96.19970595903096",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -128.03806886673388,
+    "_last_edit:contributor": "Michel Stuyts",
+    "_last_edit:contributor:uid": 62284,
+    "_last_edit:changeset": 127400599,
+    "_last_edit:timestamp": "2022-10-12T08:47:17Z",
+    "_version_number": 4,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4436046,
+      51.1366854
+     ],
+     [
+      4.4435255,
+      51.1366466
+     ],
+     [
+      4.4427337,
+      51.1362579
+     ],
+     [
+      4.4425708,
+      51.1361204
+     ]
+    ]
+   },
+   "_lon": 4.4430876999999995,
+   "_lat": 51.1364029,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1366854,
+    "maxLon": 4.4436046,
+    "minLat": 51.1361204,
+    "minLon": 4.4425708
    }
   },
   {
