@@ -86,10 +86,75 @@
   },
   {
    "type": "Feature",
+   "id": "way/150696150",
+   "properties": {
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "lit": "yes",
+    "name": "Selbstraat",
+    "segregated": "no",
+    "surface": "asphalt",
+    "id": "way/150696150",
+    "_lat": "51.1649983",
+    "_lon": "4.4969544",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "229.03572940353044",
+    "_length:km": "0.2",
+    "_direction:centerpoint": -15.308587842415584,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191073,
+    "_last_edit:timestamp": "2022-10-28T20:54:51Z",
+    "_version_number": 7,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4974019,
+      51.1640092
+     ],
+     [
+      4.4973815,
+      51.1640263
+     ],
+     [
+      4.4970777,
+      51.1646338
+     ],
+     [
+      4.4965069,
+      51.1659414
+     ],
+     [
+      4.4965097,
+      51.1659874
+     ]
+    ]
+   },
+   "_lon": 4.4969544,
+   "_lat": 51.1649983,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1659874,
+    "maxLon": 4.4974019,
+    "minLat": 51.1640092,
+    "minLon": 4.4965069
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/150696151",
    "properties": {
     "bicycle": "yes",
-    "highway": "footway",
+    "highway": "path",
+    "horse": "no",
     "lit": "yes",
     "name": "Smalleweg",
     "segregated": "no",
@@ -103,11 +168,11 @@
     "_length": "188.24277125215312",
     "_length:km": "0.2",
     "_direction:centerpoint": 177.3313159642715,
-    "_last_edit:contributor": "KurtEnKristel",
-    "_last_edit:contributor:uid": 13801441,
-    "_last_edit:changeset": 119035322,
-    "_last_edit:timestamp": "2022-03-28T18:45:47Z",
-    "_version_number": 11,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191073,
+    "_last_edit:timestamp": "2022-10-28T20:54:51Z",
+    "_version_number": 12,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -396,11 +461,62 @@
   },
   {
    "type": "Feature",
+   "id": "way/5073833",
+   "properties": {
+    "highway": "path",
+    "mofa": "yes",
+    "id": "way/5073833",
+    "_lat": "51.16060575",
+    "_lon": "4.4871013",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "148.01865221361004",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 59.99874684754933,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 6,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4861812,
+      51.1602741
+     ],
+     [
+      4.4879465,
+      51.1609133
+     ],
+     [
+      4.4880214,
+      51.1609374
+     ]
+    ]
+   },
+   "_lon": 4.4871013,
+   "_lat": 51.16060575,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1609374,
+    "maxLon": 4.4880214,
+    "minLat": 51.1602741,
+    "minLon": 4.4861812
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/5073838",
    "properties": {
     "bicycle": "permissive",
     "foot": "permissive",
-    "highway": "footway",
+    "highway": "track",
     "name": "Lintacker",
     "surface": "unpaved",
     "vehicle": "private",
@@ -413,11 +529,11 @@
     "_length": "346.86351721972227",
     "_length:km": "0.3",
     "_direction:centerpoint": 63.24431459022669,
-    "_last_edit:contributor": "WoutLever",
-    "_last_edit:contributor:uid": 6521774,
-    "_last_edit:changeset": 53541855,
-    "_last_edit:timestamp": "2017-11-05T23:25:46Z",
-    "_version_number": 7,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 8,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -454,7 +570,8 @@
    "id": "way/25878677",
    "properties": {
     "bicycle": "yes",
-    "highway": "footway",
+    "highway": "path",
+    "horse": "no",
     "lit": "yes",
     "name": "Selbstraat",
     "surface": "asphalt",
@@ -467,11 +584,11 @@
     "_length": "55.94829198188786",
     "_length:km": "0.1",
     "_direction:centerpoint": -15.64371400036336,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 100292492,
-    "_last_edit:timestamp": "2021-03-02T16:20:04Z",
-    "_version_number": 7,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191073,
+    "_last_edit:timestamp": "2022-10-28T20:54:51Z",
+    "_version_number": 8,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1003,7 +1120,9 @@
    "type": "Feature",
    "id": "way/32819712",
    "properties": {
-    "highway": "footway",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
     "id": "way/32819712",
     "_lat": "51.1641852",
     "_lon": "4.49455485",
@@ -1013,11 +1132,11 @@
     "_length": "81.484790851787",
     "_length:km": "0.1",
     "_direction:centerpoint": 38.33586526613073,
-    "_last_edit:contributor": "lodde1949",
-    "_last_edit:contributor:uid": 138772,
-    "_last_edit:changeset": 7546608,
-    "_last_edit:timestamp": "2011-03-13T15:48:01Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191073,
+    "_last_edit:timestamp": "2022-10-28T20:54:51Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1106,10 +1225,75 @@
   },
   {
    "type": "Feature",
+   "id": "way/150696150",
+   "properties": {
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "lit": "yes",
+    "name": "Selbstraat",
+    "segregated": "no",
+    "surface": "asphalt",
+    "id": "way/150696150",
+    "_lat": "51.1649983",
+    "_lon": "4.4969544",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "229.03572940353044",
+    "_length:km": "0.2",
+    "_direction:centerpoint": -15.308587842415584,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191073,
+    "_last_edit:timestamp": "2022-10-28T20:54:51Z",
+    "_version_number": 7,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4974019,
+      51.1640092
+     ],
+     [
+      4.4973815,
+      51.1640263
+     ],
+     [
+      4.4970777,
+      51.1646338
+     ],
+     [
+      4.4965069,
+      51.1659414
+     ],
+     [
+      4.4965097,
+      51.1659874
+     ]
+    ]
+   },
+   "_lon": 4.4969544,
+   "_lat": 51.1649983,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1659874,
+    "maxLon": 4.4974019,
+    "minLat": 51.1640092,
+    "minLon": 4.4965069
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/150696151",
    "properties": {
     "bicycle": "yes",
-    "highway": "footway",
+    "highway": "path",
+    "horse": "no",
     "lit": "yes",
     "name": "Smalleweg",
     "segregated": "no",
@@ -1123,11 +1307,11 @@
     "_length": "188.24277125215312",
     "_length:km": "0.2",
     "_direction:centerpoint": 177.3313159642715,
-    "_last_edit:contributor": "KurtEnKristel",
-    "_last_edit:contributor:uid": 13801441,
-    "_last_edit:changeset": 119035322,
-    "_last_edit:timestamp": "2022-03-28T18:45:47Z",
-    "_version_number": 11,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191073,
+    "_last_edit:timestamp": "2022-10-28T20:54:51Z",
+    "_version_number": 12,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -2979,7 +3163,10 @@
    "id": "way/538609947",
    "properties": {
     "bicycle": "designated",
-    "highway": "pedestrian",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "note": "bord uit F99 serie : voet + fiets",
     "smoothness": "excellent",
     "surface": "concrete",
     "id": "way/538609947",
@@ -2991,11 +3178,11 @@
     "_length": "32.956191599277375",
     "_length:km": "0.0",
     "_direction:centerpoint": 50.50099268535763,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 4,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3049,26 +3236,29 @@
    "properties": {
     "bicycle": "designated",
     "dog": "no",
-    "highway": "pedestrian",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
     "lit": "yes",
+    "note": "bord uit F99 serie : voet + fiets",
     "segregated": "no",
     "smoothness": "excellent",
     "surface": "concrete",
     "traffic_sign": "BE:D10",
     "id": "way/538609948",
-    "_lat": "51.16377855",
-    "_lon": "4.49128145",
+    "_lat": "51.163787400000004",
+    "_lon": "4.4913202000000005",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "242.21283132818428",
+    "_length": "247.41853884272336",
     "_length:km": "0.2",
-    "_direction:centerpoint": 82.24796350572655,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 7,
+    "_direction:centerpoint": 82.24797877859002,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 8,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3129,17 +3319,21 @@
       51.1642525
      ],
      [
-      4.4923461,
-      51.1643126
+      4.4923567,
+      51.1643026
+     ],
+     [
+      4.4924236,
+      51.1643303
      ]
     ]
    },
-   "_lon": 4.49128145,
-   "_lat": 51.16377855,
+   "_lon": 4.4913202000000005,
+   "_lat": 51.163787400000004,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1643126,
-    "maxLon": 4.4923461,
+    "maxLat": 51.1643303,
+    "maxLon": 4.4924236,
     "minLat": 51.1632445,
     "minLon": 4.4902168
    }
@@ -3222,8 +3416,13 @@
    "type": "Feature",
    "id": "way/538943031",
    "properties": {
+    "bicycle": "yes",
     "dog": "no",
-    "highway": "footway",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "surface": "gravel",
     "id": "way/538943031",
     "_lat": "51.1635249",
@@ -3234,11 +3433,11 @@
     "_length": "80.25636264331456",
     "_length:km": "0.1",
     "_direction:centerpoint": -102.8912629156878,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 4,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3276,6 +3475,62 @@
     "maxLon": 4.4923749,
     "minLat": 51.1633889,
     "minLon": 4.491342
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/540268387",
+   "properties": {
+    "highway": "path",
+    "surface": "paved",
+    "width": "1.8",
+    "id": "way/540268387",
+    "_lat": "51.1582685",
+    "_lon": "4.493714349999999",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "125.84438535158021",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -27.88617616849107,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 3,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.494159,
+      51.1577784
+     ],
+     [
+      4.4941463,
+      51.1577934
+     ],
+     [
+      4.4934152,
+      51.1586599
+     ],
+     [
+      4.4932697,
+      51.1587586
+     ]
+    ]
+   },
+   "_lon": 4.493714349999999,
+   "_lat": 51.1582685,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1587586,
+    "maxLon": 4.494159,
+    "minLat": 51.1577784,
+    "minLon": 4.4932697
    }
   },
   {
@@ -3385,13 +3640,13 @@
     "highway": "footway",
     "id": "way/581980366",
     "_lat": "51.163799",
-    "_lon": "4.49344795",
+    "_lon": "4.49343775",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "32.59081263411104",
+    "_length": "34.04681503417994",
     "_length:km": "0.0",
-    "_direction:centerpoint": 39.628094772353215,
+    "_direction:centerpoint": 39.62809411245815,
     "_last_edit:contributor": "StijnRR",
     "_last_edit:contributor:uid": 911613,
     "_last_edit:changeset": 58269661,
@@ -3405,8 +3660,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4932808,
-      51.1637122
+      4.4932604,
+      51.1637172
      ],
      [
       4.4933794,
@@ -3426,14 +3681,14 @@
      ]
     ]
    },
-   "_lon": 4.49344795,
+   "_lon": 4.49343775,
    "_lat": 51.163799,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1638879,
     "maxLon": 4.4936151,
     "minLat": 51.1637101,
-    "minLon": 4.4932808
+    "minLon": 4.4932604
    }
   },
   {
@@ -3539,7 +3794,7 @@
    "id": "way/683557145",
    "properties": {
     "foot": "yes",
-    "highway": "footway",
+    "highway": "path",
     "id": "way/683557145",
     "_lat": "51.157794499999994",
     "_lon": "4.4942954",
@@ -3549,11 +3804,11 @@
     "_length": "27.825753871791246",
     "_length:km": "0.0",
     "_direction:centerpoint": 65.4748116117596,
-    "_last_edit:contributor": "KurtEnKristel",
-    "_last_edit:contributor:uid": 13801441,
-    "_last_edit:changeset": 119034884,
-    "_last_edit:timestamp": "2022-03-28T18:34:06Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3825,8 +4080,11 @@
    "id": "way/868840588",
    "properties": {
     "bicycle": "designated",
-    "highway": "pedestrian",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
     "lit": "yes",
+    "note": "bord uit F99 serie : voet + fiets",
     "segregated": "no",
     "smoothness": "excellent",
     "surface": "concrete",
@@ -3840,11 +4098,11 @@
     "_length": "79.27555668749531",
     "_length:km": "0.1",
     "_direction:centerpoint": -59.82982513046815,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 4,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3897,8 +4155,11 @@
    "id": "way/868840589",
    "properties": {
     "bicycle": "designated",
-    "highway": "pedestrian",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
     "lit": "yes",
+    "note": "bord uit F99 serie : voet + fiets",
     "segregated": "no",
     "smoothness": "excellent",
     "surface": "concrete",
@@ -3912,11 +4173,11 @@
     "_length": "34.029919791333015",
     "_length:km": "0.0",
     "_direction:centerpoint": 73.83517081936515,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 4,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4500,23 +4761,26 @@
   },
   {
    "type": "Feature",
-   "id": "way/913125037",
+   "id": "way/913125035",
    "properties": {
-    "highway": "pedestrian",
-    "id": "way/913125037",
-    "_lat": "51.157761199999996",
-    "_lon": "4.492241",
+    "highway": "path",
+    "horse": "no",
+    "surface": "concrete",
+    "width": "3.7",
+    "id": "way/913125035",
+    "_lat": "51.15794485",
+    "_lon": "4.491736100000001",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "41.032844831209154",
-    "_length:km": "0.0",
-    "_direction:centerpoint": -130.43552833462127,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 100339147,
-    "_last_edit:timestamp": "2021-03-03T10:03:04Z",
-    "_version_number": 1,
+    "_length": "155.11115145325806",
+    "_length:km": "0.2",
+    "_direction:centerpoint": 152.95688675417793,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4525,8 +4789,69 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4924785,
-      51.1578686
+      4.4912089,
+      51.1585533
+     ],
+     [
+      4.4912971,
+      51.1585217
+     ],
+     [
+      4.4920035,
+      51.1576538
+     ],
+     [
+      4.4920351,
+      51.1576124
+     ],
+     [
+      4.4922633,
+      51.1573364
+     ]
+    ]
+   },
+   "_lon": 4.491736100000001,
+   "_lat": 51.15794485,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1585533,
+    "maxLon": 4.4922633,
+    "minLat": 51.1573364,
+    "minLon": 4.4912089
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/913125037",
+   "properties": {
+    "highway": "path",
+    "horse": "no",
+    "surface": "paved",
+    "width": "3.7",
+    "id": "way/913125037",
+    "_lat": "51.1577542",
+    "_lon": "4.4922486",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "41.30504197950115",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -130.43552858255535,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4924937,
+      51.1578546
      ],
      [
       4.4922677,
@@ -4538,21 +4863,79 @@
      ]
     ]
    },
-   "_lon": 4.492241,
-   "_lat": 51.157761199999996,
+   "_lon": 4.4922486,
+   "_lat": 51.1577542,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1578686,
-    "maxLon": 4.4924785,
+    "maxLat": 51.1578546,
+    "maxLon": 4.4924937,
     "minLat": 51.1576538,
     "minLon": 4.4920035
    }
   },
   {
    "type": "Feature",
+   "id": "way/913125039",
+   "properties": {
+    "highway": "path",
+    "horse": "no",
+    "surface": "grass",
+    "width": "5",
+    "id": "way/913125039",
+    "_lat": "51.1572115",
+    "_lon": "4.4914932",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "84.3097844640657",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -133.3815974619534,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4918518,
+      51.1574904
+     ],
+     [
+      4.4911346,
+      51.1570653
+     ],
+     [
+      4.4912022,
+      51.1569326
+     ]
+    ]
+   },
+   "_lon": 4.4914932,
+   "_lat": 51.1572115,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1574904,
+    "maxLon": 4.4918518,
+    "minLat": 51.1569326,
+    "minLon": 4.4911346
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/914772693",
    "properties": {
-    "highway": "footway",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "id": "way/914772693",
     "_lat": "51.1640331",
     "_lon": "4.4911444",
@@ -4562,11 +4945,11 @@
     "_length": "70.82778075069027",
     "_length:km": "0.1",
     "_direction:centerpoint": 76.04826171221539,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 4,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4610,7 +4993,12 @@
    "type": "Feature",
    "id": "way/914772696",
    "properties": {
-    "highway": "pedestrian",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "id": "way/914772696",
     "_lat": "51.1637474",
     "_lon": "4.49142445",
@@ -4620,11 +5008,11 @@
     "_length": "20.914006019294312",
     "_length:km": "0.0",
     "_direction:centerpoint": 167.46403015126708,
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 100652383,
-    "_last_edit:timestamp": "2021-03-08T17:06:51Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4706,8 +5094,12 @@
    "type": "Feature",
    "id": "way/914772702",
    "properties": {
-    "highway": "footway",
-    "smoothness": "excellent",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "surface": "concrete",
     "id": "way/914772702",
     "_lat": "51.164221850000004",
@@ -4718,11 +5110,11 @@
     "_length": "20.06827676423508",
     "_length:km": "0.0",
     "_direction:centerpoint": 165.717826982858,
-    "_last_edit:contributor": "KurtEnKristel",
-    "_last_edit:contributor:uid": 13801441,
-    "_last_edit:changeset": 123660061,
-    "_last_edit:timestamp": "2022-07-15T15:59:57Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4867,7 +5259,12 @@
    "type": "Feature",
    "id": "way/914789778",
    "properties": {
-    "highway": "footway",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "id": "way/914789778",
     "_lat": "51.1639912",
     "_lon": "4.49214075",
@@ -4877,11 +5274,11 @@
     "_length": "13.6959265815517",
     "_length:km": "0.0",
     "_direction:centerpoint": -106.35554084275932,
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 100655498,
-    "_last_edit:timestamp": "2021-03-08T18:17:47Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4917,7 +5314,12 @@
    "type": "Feature",
    "id": "way/914789779",
    "properties": {
-    "highway": "footway",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "id": "way/914789779",
     "_lat": "51.163697",
     "_lon": "4.4923591",
@@ -4927,11 +5329,11 @@
     "_length": "8.32518164728977",
     "_length:km": "0.0",
     "_direction:centerpoint": -15.347669027066233,
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 100655498,
-    "_last_edit:timestamp": "2021-03-08T18:17:47Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -4963,7 +5365,12 @@
    "type": "Feature",
    "id": "way/914809914",
    "properties": {
-    "highway": "pedestrian",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "id": "way/914809914",
     "_lat": "51.16432425",
     "_lon": "4.49097235",
@@ -4973,11 +5380,11 @@
     "_length": "18.060724208620776",
     "_length:km": "0.0",
     "_direction:centerpoint": 162.72864289386104,
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 100658676,
-    "_last_edit:timestamp": "2021-03-08T19:35:05Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -5009,7 +5416,12 @@
    "type": "Feature",
    "id": "way/914809915",
    "properties": {
-    "highway": "footway",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "surface": "fine_gravel",
     "id": "way/914809915",
     "_lat": "51.16452795",
@@ -5020,11 +5432,11 @@
     "_length": "147.53820289113852",
     "_length:km": "0.1",
     "_direction:centerpoint": -104.16534593078552,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 4,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -5060,9 +5472,13 @@
    "type": "Feature",
    "id": "way/914950668",
    "properties": {
-    "highway": "footway",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
     "incline": "5%",
     "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "surface": "gravel",
     "width": "1.5",
     "id": "way/914950668",
@@ -5074,11 +5490,11 @@
     "_length": "26.74320615057983",
     "_length:km": "0.0",
     "_direction:centerpoint": -13.664171331646113,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -5159,8 +5575,13 @@
    "type": "Feature",
    "id": "way/914950670",
    "properties": {
+    "bicycle": "yes",
     "dog": "no",
-    "highway": "footway",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "surface": "gravel",
     "id": "way/914950670",
     "_lat": "51.1633304",
@@ -5171,11 +5592,11 @@
     "_length": "51.41895433202777",
     "_length:km": "0.1",
     "_direction:centerpoint": -104.65591494763677,
-    "_last_edit:contributor": "KurtEnKristel",
-    "_last_edit:contributor:uid": 13801441,
-    "_last_edit:changeset": 123660061,
-    "_last_edit:timestamp": "2022-07-15T15:59:57Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -5207,8 +5628,13 @@
    "type": "Feature",
    "id": "way/914950671",
    "properties": {
-    "highway": "footway",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
     "incline": "5%",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "surface": "gravel",
     "width": "1.5",
     "id": "way/914950671",
@@ -5220,11 +5646,11 @@
     "_length": "23.90859080802785",
     "_length:km": "0.0",
     "_direction:centerpoint": -13.355324471628332,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -5256,7 +5682,12 @@
    "type": "Feature",
    "id": "way/914950672",
    "properties": {
-    "highway": "pedestrian",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "note": "bord uit de F99 serie",
+    "smoothness": "good",
     "surface": "fine_gravel",
     "id": "way/914950672",
     "_lat": "51.1644918",
@@ -5267,11 +5698,11 @@
     "_length": "20.512674050715624",
     "_length:km": "0.0",
     "_direction:centerpoint": 167.35462591113378,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 101523610,
-    "_last_edit:timestamp": "2021-03-22T18:39:21Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 128191007,
+    "_last_edit:timestamp": "2022-10-28T20:52:07Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
