@@ -1727,23 +1727,24 @@
    "id": "way/79377055",
    "properties": {
     "bicycle": "yes",
+    "foot": "yes",
     "highway": "footway",
     "motor_vehicle": "no",
     "surface": "unpaved",
     "id": "way/79377055",
-    "_lat": "51.1389399",
-    "_lon": "4.4513433",
+    "_lat": "51.13896545",
+    "_lon": "4.4513104000000006",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "164.0259916887718",
+    "_length": "156.72112699630154",
     "_length:km": "0.2",
-    "_direction:centerpoint": -32.532002844494045,
-    "_last_edit:contributor": "A127",
-    "_last_edit:contributor:uid": 9374269,
-    "_last_edit:changeset": 97607502,
-    "_last_edit:timestamp": "2021-01-16T14:53:30Z",
-    "_version_number": 4,
+    "_direction:centerpoint": -33.40718309187825,
+    "_last_edit:contributor": "THIB2002002",
+    "_last_edit:contributor:uid": 17236204,
+    "_last_edit:changeset": 128208699,
+    "_last_edit:timestamp": "2022-10-29T12:16:46Z",
+    "_version_number": 5,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1752,8 +1753,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4517783,
-      51.1382974
+      4.4517125,
+      51.1383485
      ],
      [
       4.4514047,
@@ -1785,13 +1786,13 @@
      ]
     ]
    },
-   "_lon": 4.4513433,
-   "_lat": 51.1389399,
+   "_lon": 4.4513104000000006,
+   "_lat": 51.13896545,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1395824,
-    "maxLon": 4.4517783,
-    "minLat": 51.1382974,
+    "maxLon": 4.4517125,
+    "minLat": 51.1383485,
     "minLon": 4.4509083
    }
   },
@@ -4470,6 +4471,58 @@
     "maxLon": 4.444162,
     "minLat": 51.1477954,
     "minLon": 4.4441456
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1107955630",
+   "properties": {
+    "crossing": "traffic_signals",
+    "footway": "crossing",
+    "highway": "footway",
+    "id": "way/1107955630",
+    "_lat": "51.1383755",
+    "_lon": "4.45193835",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "13.128838901047345",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 140.3731182264355,
+    "_last_edit:contributor": "THIB2002002",
+    "_last_edit:contributor:uid": 17236204,
+    "_last_edit:changeset": 128208978,
+    "_last_edit:timestamp": "2022-10-29T12:24:02Z",
+    "_version_number": 2,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4518784,
+      51.138421
+     ],
+     [
+      4.4519368,
+      51.1383766
+     ],
+     [
+      4.4519983,
+      51.13833
+     ]
+    ]
+   },
+   "_lon": 4.45193835,
+   "_lat": 51.1383755,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.138421,
+    "maxLon": 4.4519983,
+    "minLat": 51.13833,
+    "minLon": 4.4518784
    }
   },
   {
