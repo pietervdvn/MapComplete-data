@@ -130,6 +130,9 @@
    "id": "node/7199883102",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "image": "https://i.imgur.com/UOCSOv6.jpg",
+    "survey:date": "2022-10-29",
     "id": "node/7199883102",
     "_lat": "50.8591394",
     "_lon": "2.6231976",
@@ -138,11 +141,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "cimm",
-    "_last_edit:contributor:uid": 3921,
-    "_last_edit:changeset": 80787803,
-    "_last_edit:timestamp": "2020-02-10T09:47:10Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 128327709,
+    "_last_edit:timestamp": "2022-11-01T06:57:20Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -188,6 +191,39 @@
    },
    "_lon": 2.6206201,
    "_lat": 50.8616286
+  },
+  {
+   "type": "Feature",
+   "id": "node/10146650329",
+   "properties": {
+    "amenity": "bench",
+    "seats": "3",
+    "survey:date": "2022-10-29",
+    "id": "node/10146650329",
+    "_lat": "50.8617188",
+    "_lon": "2.6210352",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "L'imaginaire",
+    "_last_edit:contributor:uid": 654234,
+    "_last_edit:changeset": 128329964,
+    "_last_edit:timestamp": "2022-11-01T07:50:07Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.6210352,
+     50.8617188
+    ]
+   },
+   "_lon": 2.6210352,
+   "_lat": 50.8617188
   }
  ]
 }
