@@ -3594,6 +3594,55 @@
   },
   {
    "type": "Feature",
+   "id": "way/1110108624",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "colour": "grey",
+    "material": "concrete",
+    "id": "way/1110108624",
+    "_lat": "50.83301845",
+    "_lon": "4.34041785",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "3.6276327486202544",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -126.6298374207537,
+    "_last_edit:contributor": "elucci",
+    "_last_edit:contributor:uid": 12638075,
+    "_last_edit:changeset": 128455137,
+    "_last_edit:timestamp": "2022-11-03T20:42:50Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3404388,
+      50.8330279
+     ],
+     [
+      4.3404238,
+      50.8330199
+     ],
+     [
+      4.3404123,
+      50.8330145
+     ],
+     [
+      4.3403969,
+      50.833009
+     ]
+    ]
+   },
+   "_lon": 4.34041785,
+   "_lat": 50.83301845
+  },
+  {
+   "type": "Feature",
    "id": "node/350342346",
    "properties": {
     "amenity": "bench",
@@ -45785,6 +45834,7 @@
    "id": "node/10066495184",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
     "id": "node/10066495184",
     "_lat": "50.8330493",
     "_lon": "4.3477706",
@@ -45793,11 +45843,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "RaphaelPasloin",
-    "_last_edit:contributor:uid": 7421884,
-    "_last_edit:changeset": 126853947,
-    "_last_edit:timestamp": "2022-10-01T10:02:33Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Raphaëlstreetcomplete",
+    "_last_edit:contributor:uid": 16794559,
+    "_last_edit:changeset": 128429148,
+    "_last_edit:timestamp": "2022-11-03T09:48:38Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -47924,6 +47974,76 @@
    },
    "_lon": 4.3535626,
    "_lat": 50.8373254
+  },
+  {
+   "type": "Feature",
+   "id": "node/10155696041",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "1",
+    "id": "node/10155696041",
+    "_lat": "50.8278804",
+    "_lon": "4.3370565",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "elucci",
+    "_last_edit:contributor:uid": 12638075,
+    "_last_edit:changeset": 128457954,
+    "_last_edit:timestamp": "2022-11-03T22:24:38Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3370565,
+     50.8278804
+    ]
+   },
+   "_lon": 4.3370565,
+   "_lat": 50.8278804
+  },
+  {
+   "type": "Feature",
+   "id": "node/10155696042",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "seats": "1",
+    "id": "node/10155696042",
+    "_lat": "50.8278811",
+    "_lon": "4.3370408",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "elucci",
+    "_last_edit:contributor:uid": 12638075,
+    "_last_edit:changeset": 128457954,
+    "_last_edit:timestamp": "2022-11-03T22:24:38Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3370408,
+     50.8278811
+    ]
+   },
+   "_lon": 4.3370408,
+   "_lat": 50.8278811
   }
  ]
 }
