@@ -3,6 +3,96 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/23954580",
+   "properties": {
+    "addr:city": "Berg en Terblijt",
+    "addr:housenumber": "171",
+    "addr:postcode": "6325AD",
+    "addr:street": "Rijksweg",
+    "caravans": "yes",
+    "drinking_water": "yes",
+    "email": "info@campingdecauberg.nl",
+    "name": "Camping De Cauberg",
+    "phone": "+31 43 6012344",
+    "tents": "yes",
+    "tourism": "camp_site",
+    "website": "https://www.campingdecauberg.nl",
+    "id": "way/23954580",
+    "_lat": "50.857175999999995",
+    "_lon": "5.819077",
+    "_layer": "drinking_water",
+    "_surface": "9882.867199951888",
+    "_surface:ha": "0.9",
+    "_length": "405.93486865903975",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "BroemBroem",
+    "_last_edit:contributor:uid": 8172935,
+    "_last_edit:changeset": 128550873,
+    "_last_edit:timestamp": "2022-11-06T11:21:56Z",
+    "_version_number": 10,
+    "_geometry:type": "Polygon",
+    "_country": "nl",
+    "_closest_other_drinking_water": "{\"id\":\"node/8914551409\",\"distance\":\"208.49290201826227\"}",
+    "_closest_other_drinking_water_id": "node/8914551409",
+    "_closest_other_drinking_water_distance": "208"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.8185433,
+       50.8575062
+      ],
+      [
+       5.8184904,
+       50.8572576
+      ],
+      [
+       5.8183546,
+       50.8567238
+      ],
+      [
+       5.8186183,
+       50.8566861
+      ],
+      [
+       5.819103,
+       50.8566217
+      ],
+      [
+       5.8194438,
+       50.8565811
+      ],
+      [
+       5.8197994,
+       50.8576835
+      ],
+      [
+       5.8195587,
+       50.8577022
+      ],
+      [
+       5.8185954,
+       50.8577709
+      ],
+      [
+       5.8185842,
+       50.8577344
+      ],
+      [
+       5.8185433,
+       50.8575062
+      ]
+     ]
+    ]
+   },
+   "_lon": 5.819077,
+   "_lat": 50.857175999999995,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
    "id": "node/4782718917",
    "properties": {
     "amenity": "drinking_water",
