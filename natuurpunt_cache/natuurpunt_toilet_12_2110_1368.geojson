@@ -3,37 +3,63 @@
  "features": [
   {
    "type": "Feature",
-   "id": "node/9667627881",
+   "id": "way/1113714323",
    "properties": {
-    "access": "yes",
     "amenity": "toilets",
+    "building": "yes",
+    "drinking_water": "yes",
     "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "operator": "Breugelhoeve",
+    "source:geometry:date": "2019-06-28",
+    "source:geometry:ref": "Gbg/6640721",
     "wheelchair": "yes",
-    "id": "node/9667627881",
-    "_lat": "51.1329705",
-    "_lon": "5.4537115",
+    "id": "way/1113714323",
+    "_lat": "51.1667113",
+    "_lon": "5.5052363",
     "_layer": "toilet",
-    "_surface": "0",
+    "_surface": "21.893856559749654",
     "_surface:ha": "0",
-    "_length": "0",
+    "_length": "23.00968699722369",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StadPeer",
-    "_last_edit:contributor:uid": 15586828,
-    "_last_edit:changeset": 119954954,
-    "_last_edit:timestamp": "2022-04-20T13:28:17Z",
-    "_version_number": 4,
-    "_geometry:type": "Point",
+    "_last_edit:contributor": "Eebie",
+    "_last_edit:contributor:uid": 715684,
+    "_last_edit:changeset": 128998568,
+    "_last_edit:timestamp": "2022-11-16T15:48:28Z",
+    "_version_number": 2,
+    "_geometry:type": "Polygon",
     "_country": "be"
    },
    "geometry": {
-    "type": "Point",
+    "type": "Polygon",
     "coordinates": [
-     5.4537115,
-     51.1329705
+     [
+      [
+       5.5051705,
+       51.1667208
+      ],
+      [
+       5.5052861,
+       51.1666827
+      ],
+      [
+       5.5053021,
+       51.1667018
+      ],
+      [
+       5.5051865,
+       51.1667399
+      ],
+      [
+       5.5051705,
+       51.1667208
+      ]
+     ]
     ]
    },
-   "_lon": 5.4537115,
-   "_lat": 51.1329705
+   "_lon": 5.5052363,
+   "_lat": 51.1667113
   }
  ]
 }
