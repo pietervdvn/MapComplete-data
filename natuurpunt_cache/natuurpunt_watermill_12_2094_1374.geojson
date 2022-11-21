@@ -95,12 +95,13 @@
   },
   {
    "type": "Feature",
-   "id": "node/1376719057",
+   "id": "way/1115732588",
    "properties": {
     "OnroerendErfgoed:criteria": "M",
     "addr:city": "Neigem",
     "addr:housenumber": "69",
     "addr:street": "Brusselseheerweg",
+    "building": "house",
     "disused": "yes",
     "heritage:operator": "OnroerendErfgoed",
     "heritage:website": "https://inventaris.onroerenderfgoed.be/dibe/relict/9447",
@@ -109,31 +110,109 @@
     "name": "Korenwatermolen",
     "ref:OnroerendErfgoed": "9447",
     "source": "local_knowledge",
-    "id": "node/1376719057",
-    "_lat": "50.8020477",
-    "_lon": "4.057645",
+    "source:geometry:date": "2016-04-20",
+    "source:geometry:ref": "Gbg/5557572",
+    "id": "way/1115732588",
+    "_lat": "50.802170700000005",
+    "_lon": "4.0576363",
     "_layer": "watermill",
-    "_surface": "0",
+    "_surface": "514.1421969276207",
     "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "joost schouppe",
-    "_last_edit:contributor:uid": 67832,
-    "_last_edit:changeset": 18685003,
-    "_last_edit:timestamp": "2013-11-02T23:17:49Z",
-    "_version_number": 3,
-    "_geometry:type": "Point",
+    "_length": "115.17413136503383",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 129160650,
+    "_last_edit:timestamp": "2022-11-20T15:34:39Z",
+    "_version_number": 1,
+    "_geometry:type": "Polygon",
     "_country": "be"
    },
    "geometry": {
-    "type": "Point",
+    "type": "Polygon",
     "coordinates": [
-     4.057645,
-     50.8020477
+     [
+      [
+       4.0574495,
+       50.8021046
+      ],
+      [
+       4.0575488,
+       50.8020707
+      ],
+      [
+       4.0575429,
+       50.8020648
+      ],
+      [
+       4.0576058,
+       50.8020358
+      ],
+      [
+       4.0576037,
+       50.8020335
+      ],
+      [
+       4.0577246,
+       50.8019827
+      ],
+      [
+       4.0577953,
+       50.8020664
+      ],
+      [
+       4.0577826,
+       50.8020724
+      ],
+      [
+       4.0578231,
+       50.8021106
+      ],
+      [
+       4.0578108,
+       50.8021157
+      ],
+      [
+       4.0576731,
+       50.8021738
+      ],
+      [
+       4.0577847,
+       50.8022884
+      ],
+      [
+       4.0577813,
+       50.80229
+      ],
+      [
+       4.0578093,
+       50.8023178
+      ],
+      [
+       4.057704,
+       50.8023587
+      ],
+      [
+       4.0576411,
+       50.8022959
+      ],
+      [
+       4.0575657,
+       50.8022206
+      ],
+      [
+       4.0575525,
+       50.8022075
+      ],
+      [
+       4.0574495,
+       50.8021046
+      ]
+     ]
     ]
    },
-   "_lon": 4.057645,
-   "_lat": 50.8020477
+   "_lon": 4.0576363,
+   "_lat": 50.802170700000005
   }
  ]
 }
