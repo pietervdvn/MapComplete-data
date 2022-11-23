@@ -177,24 +177,27 @@
     "addr:street": "Schootstraat",
     "alt_name": "Kluismolen",
     "building": "residential",
+    "image": "File:Bree Schootstraat 64 - 165795 - onroerenderfgoed.jpg",
     "man_made": "watermill",
     "name": "Watermolen van Schoot",
     "old_name": "Molen van Mariëndal",
+    "source:geometry:date": "2012-12-17",
+    "source:geometry:ref": "Gbg/4004133",
     "wikidata": "Q2303307",
     "wikipedia:nl": "Kluismolen",
     "id": "way/209380176",
-    "_lat": "51.15960095",
-    "_lon": "5.5822160499999995",
+    "_lat": "51.15960355",
+    "_lon": "5.582214199999999",
     "_layer": "watermill",
-    "_surface": "125.46838067092186",
+    "_surface": "124.337008547741",
     "_surface:ha": "0",
-    "_length": "48.89894355372472",
+    "_length": "48.66814759157717",
     "_length:km": "0.0",
-    "_last_edit:contributor": "L'imaginaire",
-    "_last_edit:contributor:uid": 654234,
-    "_last_edit:changeset": 87890576,
-    "_last_edit:timestamp": "2020-07-12T22:17:43Z",
-    "_version_number": 5,
+    "_last_edit:contributor": "Eebie",
+    "_last_edit:contributor:uid": 715684,
+    "_last_edit:changeset": 129239164,
+    "_last_edit:timestamp": "2022-11-22T13:06:15Z",
+    "_version_number": 7,
     "_geometry:type": "Polygon",
     "_country": "be"
    },
@@ -203,46 +206,70 @@
     "coordinates": [
      [
       [
-       5.5821898,
+       5.5821247,
+       51.159588
+      ],
+      [
+       5.5821876,
        51.1595789
       ],
       [
-       5.5821797,
-       51.1595495
+       5.5821833,
+       51.1595655
       ],
       [
-       5.5822815,
-       51.1595357
+       5.5821876,
+       51.1595648
       ],
       [
-       5.5823091,
-       51.1596157
+       5.5821827,
+       51.1595512
       ],
       [
-       5.5822744,
-       51.1596204
+       5.5822778,
+       51.1595368
       ],
       [
-       5.5822835,
-       51.1596498
+       5.5822832,
+       51.1595523
       ],
       [
-       5.5821473,
-       51.1596662
+       5.5822878,
+       51.1595516
       ],
       [
-       5.582123,
-       51.159587
+       5.5823037,
+       51.1596023
       ],
       [
-       5.5821898,
-       51.1595789
+       5.5822993,
+       51.159603
+      ],
+      [
+       5.5823035,
+       51.1596175
+      ],
+      [
+       5.582273,
+       51.1596221
+      ],
+      [
+       5.582283,
+       51.1596506
+      ],
+      [
+       5.5821521,
+       51.1596703
+      ],
+      [
+       5.5821247,
+       51.159588
       ]
      ]
     ]
    },
-   "_lon": 5.5822160499999995,
-   "_lat": 51.15960095
+   "_lon": 5.582214199999999,
+   "_lat": 51.15960355
   },
   {
    "type": "Feature",
@@ -260,11 +287,14 @@
     "heritage": "4",
     "heritage:operator": "OnroerendErfgoed",
     "heritage:website": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/70783",
+    "historic": "yes",
+    "image": "File:Bree Genattestraat 39 - 165688 - onroerenderfgoed.jpg",
     "man_made": "watermill",
     "name": "Ghen-Aamolen",
     "ref:OnroerendErfgoed": "70783",
     "start_date": "C13",
     "wikidata": "Q1821224",
+    "wikimedia_commons": "Category:Genamolen",
     "wikipedia": "nl:Ghen-Aamolen",
     "id": "way/209380184",
     "_lat": "51.1628121",
@@ -274,11 +304,11 @@
     "_surface:ha": "0",
     "_length": "75.3925644789445",
     "_length:km": "0.1",
-    "_last_edit:contributor": "L'imaginaire",
-    "_last_edit:contributor:uid": 654234,
-    "_last_edit:changeset": 87890576,
-    "_last_edit:timestamp": "2020-07-12T22:17:29Z",
-    "_version_number": 7,
+    "_last_edit:contributor": "Eebie",
+    "_last_edit:contributor:uid": 715684,
+    "_last_edit:changeset": 129238606,
+    "_last_edit:timestamp": "2022-11-22T12:51:34Z",
+    "_version_number": 8,
     "_geometry:type": "Polygon",
     "_country": "be"
    },
@@ -440,15 +470,25 @@
    "type": "Feature",
    "id": "way/689766985",
    "properties": {
+    "OnroerendErfgoed:criteria": "BE",
     "addr:city": "Beek",
     "addr:housename": "Abroxmolen",
     "addr:housenumber": "41",
     "addr:postcode": "3960",
     "addr:street": "Abroxweg",
     "building": "yes",
+    "description": "Voormalige watermolen (olie- en graanmolen) Voormalige watermolen (olie- en graanmolen)",
+    "heritage:operator": "OnroerendErfgoed",
+    "heritage:website": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/70779",
+    "historic": "yes",
+    "image": "File:Bree Abroxweg 41 - 164244 - onroerenderfgoed.jpg",
     "man_made": "watermill",
     "name": "Abroxmolen",
+    "ref:OnroerendErfgoed": "70779",
+    "start_date": "Before 1775",
     "wikidata": "Q2331646",
+    "wikimedia_commons": "Category:Abroxmolen",
+    "wikipedia": "nl:Abroxmolen",
     "wikipedia:nl": "Abroxmolen",
     "id": "way/689766985",
     "_lat": "51.1662764",
@@ -458,11 +498,11 @@
     "_surface:ha": "0",
     "_length": "35.00550033163534",
     "_length:km": "0.0",
-    "_last_edit:contributor": "L'imaginaire",
-    "_last_edit:contributor:uid": 654234,
-    "_last_edit:changeset": 87890576,
-    "_last_edit:timestamp": "2020-07-12T22:17:44Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "Eebie",
+    "_last_edit:contributor:uid": 715684,
+    "_last_edit:changeset": 129238008,
+    "_last_edit:timestamp": "2022-11-22T12:37:28Z",
+    "_version_number": 3,
     "_geometry:type": "Polygon",
     "_country": "be"
    },
