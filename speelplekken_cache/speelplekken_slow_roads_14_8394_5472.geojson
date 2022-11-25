@@ -1832,14 +1832,14 @@
     "name": "IJzerenweglei",
     "note": "dit is vanuit noorden een 'doodlopende weg behalve voet/fiets', geen blauw fietspad bordje",
     "id": "way/55966309",
-    "_lat": "51.1764615",
-    "_lon": "4.4558121",
+    "_lat": "51.176353899999995",
+    "_lon": "4.4556431",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "320.00800783399643",
+    "_length": "286.4308823238998",
     "_length:km": "0.3",
-    "_direction:centerpoint": -134.52838213601385,
+    "_direction:centerpoint": -134.35855765287076,
     "_last_edit:contributor": "H4N5-antw",
     "_last_edit:contributor:uid": 10846743,
     "_last_edit:changeset": 129246837,
@@ -1853,8 +1853,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.4574379,
-      51.1774764
+      4.4570999,
+      51.1772612
      ],
      [
       4.4552467,
@@ -1874,12 +1874,12 @@
      ]
     ]
    },
-   "_lon": 4.4558121,
-   "_lat": 51.1764615,
+   "_lon": 4.4556431,
+   "_lat": 51.176353899999995,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1774764,
-    "maxLon": 4.4574379,
+    "maxLat": 51.1772612,
+    "maxLon": 4.4570999,
     "minLat": 51.1754466,
     "minLon": 4.4541863
    }
@@ -6853,6 +6853,85 @@
     "maxLon": 4.4559724,
     "minLat": 51.1725676,
     "minLon": 4.4557492
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/943949025",
+   "properties": {
+    "bicycle": "designated",
+    "foot": "designated",
+    "highway": "path",
+    "name": "IJzerenweglei",
+    "segregated": "no",
+    "surface": "concrete",
+    "id": "way/943949025",
+    "_lat": "51.1756242",
+    "_lon": "4.45426655",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "42.90609789111643",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 33.19244553688849,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 129286433,
+    "_last_edit:timestamp": "2022-11-23T15:14:06Z",
+    "_version_number": 3,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4541863,
+      51.1754466
+     ],
+     [
+      4.4541921,
+      51.1754745
+     ],
+     [
+      4.4541989,
+      51.1754812
+     ],
+     [
+      4.4542657,
+      51.1755467
+     ],
+     [
+      4.4543425,
+      51.1756203
+     ],
+     [
+      4.4543468,
+      51.1756798
+     ],
+     [
+      4.4543212,
+      51.1757486
+     ],
+     [
+      4.4543254,
+      51.1757814
+     ],
+     [
+      4.4543332,
+      51.1758018
+     ]
+    ]
+   },
+   "_lon": 4.45426655,
+   "_lat": 51.1756242,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1758018,
+    "maxLon": 4.4543468,
+    "minLat": 51.1754466,
+    "minLon": 4.4541863
    }
   },
   {
