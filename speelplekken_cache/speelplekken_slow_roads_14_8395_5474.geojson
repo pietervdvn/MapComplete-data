@@ -630,6 +630,57 @@
   },
   {
    "type": "Feature",
+   "id": "way/27049273",
+   "properties": {
+    "created_by": "Potlatch 0.10f",
+    "cutting": "yes",
+    "highway": "path",
+    "motorcar": "no",
+    "surface": "paving_stones",
+    "tracktype": "grade1",
+    "id": "way/27049273",
+    "_lat": "51.14324155",
+    "_lon": "4.46532605",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "46.51565526135591",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 11.65470932562776,
+    "_last_edit:contributor": "orchi_osm",
+    "_last_edit:contributor:uid": 8887512,
+    "_last_edit:changeset": 110693884,
+    "_last_edit:timestamp": "2021-09-03T19:46:02Z",
+    "_version_number": 3,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4652587,
+      51.1430367
+     ],
+     [
+      4.4653934,
+      51.1434464
+     ]
+    ]
+   },
+   "_lon": 4.46532605,
+   "_lat": 51.14324155,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1434464,
+    "maxLon": 4.4653934,
+    "minLat": 51.1430367,
+    "minLon": 4.4652587
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/27049281",
    "properties": {
     "highway": "path",
@@ -3610,6 +3661,53 @@
     "maxLon": 4.4769836,
     "minLat": 51.1427821,
     "minLon": 4.4769618
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/315883733",
+   "properties": {
+    "highway": "footway",
+    "surface": "paving_stones",
+    "id": "way/315883733",
+    "_lat": "51.143082",
+    "_lon": "4.48039595",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "1.3529891834881984",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -95.65980375984698,
+    "_last_edit:contributor": "escada",
+    "_last_edit:contributor:uid": 436365,
+    "_last_edit:changeset": 27260681,
+    "_last_edit:timestamp": "2014-12-05T12:00:45Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4804056,
+      51.1430826
+     ],
+     [
+      4.4803863,
+      51.1430814
+     ]
+    ]
+   },
+   "_lon": 4.48039595,
+   "_lat": 51.143082,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1430826,
+    "maxLon": 4.4804056,
+    "minLat": 51.1430814,
+    "minLon": 4.4803863
    }
   },
   {
