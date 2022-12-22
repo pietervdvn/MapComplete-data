@@ -392,7 +392,7 @@
    "type": "Feature",
    "id": "node/9837307625",
    "properties": {
-    "board_type": "history",
+    "board_type": "architecture;history",
     "information": "board",
     "language:en": "yes",
     "language:fr": "yes",
@@ -401,6 +401,8 @@
     "name:en": "The Barrier",
     "name:fr": "La Barrière de Saint-Gilles",
     "name:nl": "De Bareel",
+    "operator": "Commune de Saint-Gilles - Gemeente Sint-Gillis",
+    "subject:wikidata": "Q2885662",
     "tourism": "information",
     "id": "node/9837307625",
     "_lat": "50.8261903",
@@ -412,9 +414,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "elucci",
     "_last_edit:contributor:uid": 12638075,
-    "_last_edit:changeset": 122686356,
-    "_last_edit:timestamp": "2022-06-21T21:25:51Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 130351671,
+    "_last_edit:timestamp": "2022-12-21T23:19:24Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1570,6 +1572,45 @@
    },
    "_lon": 4.3412326,
    "_lat": 50.82691
+  },
+  {
+   "type": "Feature",
+   "id": "node/10279064599",
+   "properties": {
+    "board_type": "history",
+    "colour": "gold",
+    "information": "board",
+    "language:fr": "yes",
+    "language:nl": "yes",
+    "name": "Victor de Laveleye",
+    "subject:wikidata": "Q2353930",
+    "subject:wikipedia": "fr:Victor de Laveleye",
+    "tourism": "information",
+    "id": "node/10279064599",
+    "_lat": "50.8260446",
+    "_lon": "4.3457768",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "elucci",
+    "_last_edit:contributor:uid": 12638075,
+    "_last_edit:changeset": 130351671,
+    "_last_edit:timestamp": "2022-12-21T23:19:24Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3457768,
+     50.8260446
+    ]
+   },
+   "_lon": 4.3457768,
+   "_lat": 50.8260446
   }
  ]
 }

@@ -723,6 +723,9 @@
    "id": "node/8082150470",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "material": "wood",
+    "seats": "3",
     "id": "node/8082150470",
     "_lat": "50.503492",
     "_lon": "4.1123181",
@@ -731,11 +734,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Céline Peeters",
-    "_last_edit:contributor:uid": 11968027,
-    "_last_edit:changeset": 93560640,
-    "_last_edit:timestamp": "2020-11-04T19:59:55Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "phenric",
+    "_last_edit:contributor:uid": 6826521,
+    "_last_edit:changeset": 130324969,
+    "_last_edit:timestamp": "2022-12-21T10:16:58Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1514,6 +1517,74 @@
    },
    "_lon": 4.0628513,
    "_lat": 50.4869922
+  },
+  {
+   "type": "Feature",
+   "id": "node/10277662842",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "material": "wood",
+    "seats": "3",
+    "id": "node/10277662842",
+    "_lat": "50.5040799",
+    "_lon": "4.1128867",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "phenric",
+    "_last_edit:contributor:uid": 6826521,
+    "_last_edit:changeset": 130324783,
+    "_last_edit:timestamp": "2022-12-21T10:12:18Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1128867,
+     50.5040799
+    ]
+   },
+   "_lon": 4.1128867,
+   "_lat": 50.5040799
+  },
+  {
+   "type": "Feature",
+   "id": "node/10277675574",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "material": "wood",
+    "seats": "3",
+    "id": "node/10277675574",
+    "_lat": "50.5033218",
+    "_lon": "4.1130921",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "phenric",
+    "_last_edit:contributor:uid": 6826521,
+    "_last_edit:changeset": 130324969,
+    "_last_edit:timestamp": "2022-12-21T10:16:58Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.1130921,
+     50.5033218
+    ]
+   },
+   "_lon": 4.1130921,
+   "_lat": 50.5033218
   }
  ]
 }
