@@ -115,35 +115,62 @@
   },
   {
    "type": "Feature",
-   "id": "node/8314983083",
+   "id": "way/1125643806",
    "properties": {
     "access": "yes",
     "amenity": "toilets",
-    "id": "node/8314983083",
-    "_lat": "50.9634124",
-    "_lon": "5.4968649",
+    "building": "yes",
+    "description": "Automatisch zelfreinigend toilet",
+    "fee": "yes",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated",
+    "wheelchair": "yes",
+    "id": "way/1125643806",
+    "_lat": "50.96341645",
+    "_lon": "5.4968711",
     "_layer": "toilet",
-    "_surface": "0",
+    "_surface": "7.289593549963349",
     "_surface:ha": "0",
-    "_length": "0",
+    "_length": "11.25284954265646",
     "_length:km": "0.0",
-    "_last_edit:contributor": "BREKO",
-    "_last_edit:contributor:uid": 11320999,
-    "_last_edit:changeset": 129321956,
-    "_last_edit:timestamp": "2022-11-24T11:56:35Z",
-    "_version_number": 2,
-    "_geometry:type": "Point",
+    "_last_edit:contributor": "Eebie",
+    "_last_edit:contributor:uid": 715684,
+    "_last_edit:changeset": 130650673,
+    "_last_edit:timestamp": "2022-12-29T15:13:37Z",
+    "_version_number": 1,
+    "_geometry:type": "Polygon",
     "_country": "be"
    },
    "geometry": {
-    "type": "Point",
+    "type": "Polygon",
     "coordinates": [
-     5.4968649,
-     50.9634124
+     [
+      [
+       5.4968454,
+       50.9634256
+      ],
+      [
+       5.4968452,
+       50.9634075
+      ],
+      [
+       5.4968968,
+       50.9634073
+      ],
+      [
+       5.496897,
+       50.9634254
+      ],
+      [
+       5.4968454,
+       50.9634256
+      ]
+     ]
     ]
    },
-   "_lon": 5.4968649,
-   "_lat": 50.9634124
+   "_lon": 5.4968711,
+   "_lat": 50.96341645
   },
   {
    "type": "Feature",
@@ -262,10 +289,14 @@
     "access": "yes",
     "amenity": "toilets",
     "capacity:seated": "5",
+    "changing_table": "yes",
     "fee": "yes",
+    "female": "yes",
+    "male": "yes",
     "toilets:handwashing": "yes",
     "toilets:paper_supplied": "yes",
     "toilets:position": "seated",
+    "wheelchair": "yes",
     "id": "node/10292340075",
     "_lat": "50.9652416",
     "_lon": "5.5055585",
@@ -276,9 +307,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "Eebie",
     "_last_edit:contributor:uid": 715684,
-    "_last_edit:changeset": 130622422,
-    "_last_edit:timestamp": "2022-12-28T23:47:52Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 130636513,
+    "_last_edit:timestamp": "2022-12-29T10:01:03Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -291,6 +322,44 @@
    },
    "_lon": 5.5055585,
    "_lat": 50.9652416
+  },
+  {
+   "type": "Feature",
+   "id": "node/10293012204",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "capacity:seated": "10",
+    "capacity:urinal": "4",
+    "description": "dagelijks gereinigd",
+    "toilets:handwashing": "yes",
+    "toilets:paper_supplied": "yes",
+    "toilets:position": "seated;urinal",
+    "id": "node/10293012204",
+    "_lat": "50.9649519",
+    "_lon": "5.4949424",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Eebie",
+    "_last_edit:contributor:uid": 715684,
+    "_last_edit:changeset": 130640578,
+    "_last_edit:timestamp": "2022-12-29T11:31:36Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4949424,
+     50.9649519
+    ]
+   },
+   "_lon": 5.4949424,
+   "_lat": 50.9649519
   }
  ]
 }
