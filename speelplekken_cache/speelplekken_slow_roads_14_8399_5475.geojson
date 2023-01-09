@@ -449,6 +449,7 @@
    "type": "Feature",
    "id": "way/23006468",
    "properties": {
+    "bicycle": "yes",
     "bicycle:conditional": "yes @ (Mo-Sa 00:00-24:00)",
     "highway": "footway",
     "lit": "yes",
@@ -461,14 +462,14 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "501.07069783389056",
+    "_length": "500.44098479641394",
     "_length:km": "0.5",
-    "_direction:centerpoint": 21.013632734329654,
-    "_last_edit:contributor": "stijneman",
-    "_last_edit:contributor:uid": 289401,
-    "_last_edit:changeset": 126786494,
-    "_last_edit:timestamp": "2022-09-29T15:42:37Z",
-    "_version_number": 19,
+    "_direction:centerpoint": 19.054255061781177,
+    "_last_edit:contributor": "Der Bierpuncheur",
+    "_last_edit:contributor:uid": 6842005,
+    "_last_edit:changeset": 130972254,
+    "_last_edit:timestamp": "2023-01-07T08:35:12Z",
+    "_version_number": 20,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -483,6 +484,10 @@
      [
       4.5627993,
       51.1310814
+     ],
+     [
+      4.5628154,
+      51.1313059
      ],
      [
       4.5628441,
@@ -501,24 +506,28 @@
       51.1321479
      ],
      [
-      4.5630097,
-      51.1324007
+      4.5630318,
+      51.1324005
      ],
      [
-      4.563059,
-      51.132566
+      4.5630787,
+      51.1325688
      ],
      [
-      4.5632271,
-      51.1329671
+      4.5632527,
+      51.1329756
      ],
      [
       4.5634345,
       51.1333059
      ],
      [
-      4.5635656,
-      51.1335125
+      4.5635042,
+      51.13341
+     ],
+     [
+      4.5635582,
+      51.1335079
      ],
      [
       4.563649,
@@ -533,12 +542,16 @@
       51.1341308
      ],
      [
-      4.5640141,
-      51.134243
+      4.5640264,
+      51.1342381
      ],
      [
-      4.564221,
-      51.1343974
+      4.5641247,
+      51.1343476
+     ],
+     [
+      4.5642125,
+      51.1343976
      ],
      [
       4.5643069,
@@ -549,12 +562,16 @@
       51.1345715
      ],
      [
-      4.5644043,
-      51.1347062
+      4.5644223,
+      51.1347145
      ],
      [
       4.5645326,
       51.1348161
+     ],
+     [
+      4.5646231,
+      51.1348589
      ],
      [
       4.5648663,
@@ -1428,19 +1445,19 @@
     "vehicle": "permit",
     "vehicle:conditional": "delivery @ (07:00-11:00)",
     "id": "way/29464443",
-    "_lat": "51.1277533",
-    "_lon": "4.567648",
+    "_lat": "51.12768605",
+    "_lon": "4.56756815",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "75.49937391331125",
+    "_length": "56.847974680950095",
     "_length:km": "0.1",
-    "_direction:centerpoint": -143.30650412231915,
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 125169771,
-    "_last_edit:timestamp": "2022-08-21T07:41:13Z",
-    "_version_number": 9,
+    "_direction:centerpoint": -143.30651521995367,
+    "_last_edit:contributor": "s8evq",
+    "_last_edit:contributor:uid": 3710738,
+    "_last_edit:changeset": 131031851,
+    "_last_edit:timestamp": "2023-01-08T21:57:19Z",
+    "_version_number": 10,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1448,10 +1465,6 @@
    "geometry": {
     "type": "LineString",
     "coordinates": [
-     [
-      4.5679721,
-      51.1280251
-     ],
      [
       4.5678124,
       51.1278906
@@ -1466,12 +1479,12 @@
      ]
     ]
    },
-   "_lon": 4.567648,
-   "_lat": 51.1277533,
+   "_lon": 4.56756815,
+   "_lat": 51.12768605,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1280251,
-    "maxLon": 4.5679721,
+    "maxLat": 51.1278906,
+    "maxLon": 4.5678124,
     "minLat": 51.1274815,
     "minLon": 4.5673239
    }
@@ -1491,19 +1504,19 @@
     "vehicle": "permit",
     "vehicle:conditional": "delivery @ (07:00-11:00)",
     "id": "way/29464475",
-    "_lat": "51.127480899999995",
-    "_lon": "4.5681499",
+    "_lat": "51.12740865",
+    "_lon": "4.568065",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "86.3932210998831",
+    "_length": "66.42877278770304",
     "_length:km": "0.1",
-    "_direction:centerpoint": -143.35533189080616,
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 125169771,
-    "_last_edit:timestamp": "2022-08-21T07:39:54Z",
-    "_version_number": 9,
+    "_direction:centerpoint": -143.35534372741859,
+    "_last_edit:contributor": "s8evq",
+    "_last_edit:contributor:uid": 3710738,
+    "_last_edit:changeset": 131031851,
+    "_last_edit:timestamp": "2023-01-08T21:57:19Z",
+    "_version_number": 10,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1511,10 +1524,6 @@
    "geometry": {
     "type": "LineString",
     "coordinates": [
-     [
-      4.5685129,
-      51.1277954
-     ],
      [
       4.5683431,
       51.1276509
@@ -1529,12 +1538,12 @@
      ]
     ]
    },
-   "_lon": 4.5681499,
-   "_lat": 51.127480899999995,
+   "_lon": 4.568065,
+   "_lat": 51.12740865,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1277954,
-    "maxLon": 4.5685129,
+    "maxLat": 51.1276509,
+    "maxLon": 4.5683431,
     "minLat": 51.1271664,
     "minLon": 4.5677869
    }
@@ -1649,19 +1658,19 @@
     "bicycle": "no",
     "highway": "footway",
     "id": "way/31982127",
-    "_lat": "51.13575590000001",
-    "_lon": "4.5631709",
+    "_lat": "51.1357589",
+    "_lon": "4.56317855",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "38.30246861847604",
+    "_length": "37.86771271865173",
     "_length:km": "0.0",
-    "_direction:centerpoint": 125.44614198428398,
-    "_last_edit:contributor": "multimob",
-    "_last_edit:contributor:uid": 14088321,
-    "_last_edit:changeset": 125061914,
-    "_last_edit:timestamp": "2022-08-18T13:09:34Z",
-    "_version_number": 7,
+    "_direction:centerpoint": 129.1729660200127,
+    "_last_edit:contributor": "Der Bierpuncheur",
+    "_last_edit:contributor:uid": 6842005,
+    "_last_edit:changeset": 130971985,
+    "_last_edit:timestamp": "2023-01-07T08:25:14Z",
+    "_version_number": 8,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1670,20 +1679,24 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.5629612,
-      51.135865
+      4.5629765,
+      51.135871
      ],
      [
-      4.5631275,
-      51.1357908
+      4.5630514,
+      51.13584
+     ],
+     [
+      4.5631392,
+      51.1357893
      ],
      [
       4.5631969,
       51.1357598
      ],
      [
-      4.5632912,
-      51.1357174
+      4.5632958,
+      51.1357131
      ],
      [
       4.5633806,
@@ -1691,69 +1704,14 @@
      ]
     ]
    },
-   "_lon": 4.5631709,
-   "_lat": 51.13575590000001,
+   "_lon": 4.56317855,
+   "_lat": 51.1357589,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.135865,
+    "maxLat": 51.135871,
     "maxLon": 4.5633806,
     "minLat": 51.1356468,
-    "minLon": 4.5629612
-   }
-  },
-  {
-   "type": "Feature",
-   "id": "way/31982135",
-   "properties": {
-    "foot": "yes",
-    "highway": "footway",
-    "id": "way/31982135",
-    "_lat": "51.1358836",
-    "_lon": "4.5623621",
-    "_layer": "slow_roads",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "25.590802264039606",
-    "_length:km": "0.0",
-    "_direction:centerpoint": 169.95406429106572,
-    "_last_edit:contributor": "multimob",
-    "_last_edit:contributor:uid": 14088321,
-    "_last_edit:changeset": 125061914,
-    "_last_edit:timestamp": "2022-08-18T13:09:34Z",
-    "_version_number": 5,
-    "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.5622819,
-      51.1359481
-     ],
-     [
-      4.5624161,
-      51.1359504
-     ],
-     [
-      4.5624423,
-      51.1358576
-     ],
-     [
-      4.5623918,
-      51.1358168
-     ]
-    ]
-   },
-   "_lon": 4.5623621,
-   "_lat": 51.1358836,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1359504,
-    "maxLon": 4.5624423,
-    "minLat": 51.1358168,
-    "minLon": 4.5622819
+    "minLon": 4.5629765
    }
   },
   {
@@ -2884,60 +2842,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/553833828",
-   "properties": {
-    "highway": "footway",
-    "id": "way/553833828",
-    "_lat": "51.127376100000006",
-    "_lon": "4.5687595000000005",
-    "_layer": "slow_roads",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "53.599359639979134",
-    "_length:km": "0.1",
-    "_direction:centerpoint": 98.21787252932748,
-    "_last_edit:contributor": "Mr_Johny_Lier",
-    "_last_edit:contributor:uid": 5209815,
-    "_last_edit:changeset": 55531236,
-    "_last_edit:timestamp": "2018-01-17T19:44:02Z",
-    "_version_number": 1,
-    "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.5683794,
-      51.1274105
-     ],
-     [
-      4.5686525,
-      51.1273858
-     ],
-     [
-      4.5689206,
-      51.1273615
-     ],
-     [
-      4.5691396,
-      51.1273417
-     ]
-    ]
-   },
-   "_lon": 4.5687595000000005,
-   "_lat": 51.127376100000006,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1274105,
-    "maxLon": 4.5691396,
-    "minLat": 51.1273417,
-    "minLon": 4.5683794
-   }
-  },
-  {
-   "type": "Feature",
    "id": "way/553833829",
    "properties": {
     "highway": "footway",
@@ -3790,57 +3694,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/1066102701",
-   "properties": {
-    "footway": "crossing",
-    "highway": "footway",
-    "id": "way/1066102701",
-    "_lat": "51.13572524999999",
-    "_lon": "4.56171065",
-    "_layer": "slow_roads",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "6.1471066192389285",
-    "_length:km": "0.0",
-    "_direction:centerpoint": 170.99238513963732,
-    "_last_edit:contributor": "multimob",
-    "_last_edit:contributor:uid": 14088321,
-    "_last_edit:changeset": 125061914,
-    "_last_edit:timestamp": "2022-08-18T13:09:34Z",
-    "_version_number": 2,
-    "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.5617043,
-      51.1357526
-     ],
-     [
-      4.5617115,
-      51.1357241
-     ],
-     [
-      4.561717,
-      51.1356979
-     ]
-    ]
-   },
-   "_lon": 4.56171065,
-   "_lat": 51.13572524999999,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1357526,
-    "maxLon": 4.561717,
-    "minLat": 51.1356979,
-    "minLon": 4.5617043
-   }
-  },
-  {
-   "type": "Feature",
    "id": "way/1075372442",
    "properties": {
     "bicycle:conditional": "yes @ (Mo-Sa 00:00-24:00)",
@@ -4056,9 +3909,9 @@
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "6.4700284226805325",
+    "_length": "6.470031306663276",
     "_length:km": "0.0",
-    "_direction:centerpoint": -8.855604431242833,
+    "_direction:centerpoint": -8.738578946188225,
     "_last_edit:contributor": "multimob",
     "_last_edit:contributor:uid": 14088321,
     "_last_edit:changeset": 125061914,
@@ -4076,8 +3929,8 @@
       51.1357593
      ],
      [
-      4.5623987,
-      51.1357887
+      4.5623991,
+      51.135787
      ],
      [
       4.5623918,
@@ -4101,14 +3954,14 @@
    "properties": {
     "highway": "footway",
     "id": "way/1087219545",
-    "_lat": "51.1357195",
-    "_lon": "4.56242225",
+    "_lat": "51.13571895",
+    "_lon": "4.5624281",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "104.98749726576729",
+    "_length": "105.35964081700806",
     "_length:km": "0.1",
-    "_direction:centerpoint": -98.24365937051373,
+    "_direction:centerpoint": -98.24365724407964,
     "_last_edit:contributor": "multimob",
     "_last_edit:contributor:uid": 14088321,
     "_last_edit:changeset": 125061914,
@@ -4122,8 +3975,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.5631275,
-      51.1357908
+      4.5631392,
+      51.1357893
      ],
      [
       4.5630612,
@@ -4170,8 +4023,8 @@
       51.1356676
      ],
      [
-      4.5617246,
-      51.1356482
+      4.5617287,
+      51.1356486
      ],
      [
       4.561717,
@@ -4179,13 +4032,13 @@
      ]
     ]
    },
-   "_lon": 4.56242225,
-   "_lat": 51.1357195,
+   "_lon": 4.5624281,
+   "_lat": 51.13571895,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1357908,
-    "maxLon": 4.5631275,
-    "minLat": 51.1356482,
+    "maxLat": 51.1357893,
+    "maxLon": 4.5631392,
+    "minLat": 51.1356486,
     "minLon": 4.561717
    }
   },
@@ -4656,6 +4509,116 @@
     "maxLon": 4.5655543,
     "minLat": 51.129258,
     "minLon": 4.5654333
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1128327397",
+   "properties": {
+    "bicycle": "yes",
+    "foot": "designated",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "maxspeed": "walk",
+    "name": "Grachtkant",
+    "surface": "sett",
+    "taxi": "yes",
+    "vehicle": "permit",
+    "vehicle:conditional": "delivery @ (07:00-11:00)",
+    "id": "way/1128327397",
+    "_lat": "51.127723149999994",
+    "_lon": "4.568428",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "19.964448312180064",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -143.5923460428068,
+    "_last_edit:contributor": "s8evq",
+    "_last_edit:contributor:uid": 3710738,
+    "_last_edit:changeset": 131031851,
+    "_last_edit:timestamp": "2023-01-08T21:57:19Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5685129,
+      51.1277954
+     ],
+     [
+      4.5683431,
+      51.1276509
+     ]
+    ]
+   },
+   "_lon": 4.568428,
+   "_lat": 51.127723149999994,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1277954,
+    "maxLon": 4.5685129,
+    "minLat": 51.1276509,
+    "minLon": 4.5683431
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1128327398",
+   "properties": {
+    "bicycle": "yes",
+    "foot": "designated",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "maxspeed": "walk",
+    "name": "Sint-Margaretastraat",
+    "surface": "sett",
+    "taxi": "yes",
+    "vehicle": "permit",
+    "vehicle:conditional": "delivery @ (07:00-11:00)",
+    "id": "way/1128327398",
+    "_lat": "51.12795785",
+    "_lon": "4.56789225",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "18.65139923236115",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -143.30766333862817,
+    "_last_edit:contributor": "s8evq",
+    "_last_edit:contributor:uid": 3710738,
+    "_last_edit:changeset": 131031851,
+    "_last_edit:timestamp": "2023-01-08T21:57:19Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5679721,
+      51.1280251
+     ],
+     [
+      4.5678124,
+      51.1278906
+     ]
+    ]
+   },
+   "_lon": 4.56789225,
+   "_lat": 51.12795785,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1280251,
+    "maxLon": 4.5679721,
+    "minLat": 51.1278906,
+    "minLon": 4.5678124
    }
   },
   {
