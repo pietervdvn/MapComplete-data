@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-01-11T22:54:56Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 97332769,
         "host": "mapcomplete.osm.be",
         "theme": "drinking_water",
         "imagery": "CartoDB.Voyager",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 97332769
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           -3.6786135,
           40.403126
         ]
-      }
+      },
+      "id": 97332769
     },
     {
       "type": "Feature",
@@ -56,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-02-26T09:06:25Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 5,
         "delete": 0,
@@ -64,11 +67,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 100035223,
         "host": "pietervdvn.github.io",
         "theme": "surveillance",
         "imagery": "Stadia.AlidadeSmoothDark",
-        "language": "en"
+        "language": "en",
+        "id": 100035223
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +79,8 @@
           -3.6619207,
           40.5548316
         ]
-      }
+      },
+      "id": 100035223
     },
     {
       "type": "Feature",
@@ -94,6 +98,7 @@
         "imagery_used": "Not reported",
         "date": "2021-03-26T12:35:11Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 3,
         "delete": 0,
@@ -102,11 +107,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 101792066,
         "host": "mapcomplete.osm.be",
-        "theme": "1roadalllanes",
+        "theme": "1roadAlllanes",
         "imagery": "osm",
-        "language": "es"
+        "language": "es",
+        "id": 101792066
       },
       "geometry": {
         "type": "Point",
@@ -114,7 +119,376 @@
           -3.8326445,
           40.343163950000005
         ]
-      }
+      },
+      "id": 101792066
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Erin76",
+        "uid": "8982454",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-08T12:57:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "tertiary"
+          ],
+          "name:etymology:wikidata": [
+            "Q456991",
+            "Q80871",
+            "Q1311305",
+            "Q5993110",
+            "Q1011",
+            "Q9015676",
+            "Q313293",
+            "Q11919404",
+            "Q3314962"
+          ]
+        },
+        "create": 0,
+        "modify": 29,
+        "delete": 0,
+        "area": 0.000281952168560048,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology",
+        "theme": "etymology",
+        "answer": 40,
+        "locale": "nl",
+        "imagery": "osm",
+        "id": 128640087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73116345,
+          40.4752398
+        ]
+      },
+      "id": 128640087
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Erin76",
+        "uid": "8982454",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-08T10:56:34Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q379972",
+            "Q4888662",
+            "Q29179",
+            "Q5432",
+            "Q12091",
+            "Q100233965",
+            "Q849693",
+            "Q783",
+            "Q6161322",
+            "Q25328",
+            "Q297",
+            "Q164294"
+          ]
+        },
+        "create": 0,
+        "modify": 23,
+        "delete": 0,
+        "area": 0.000185584468370021,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology",
+        "theme": "etymology",
+        "answer": 28,
+        "locale": "nl",
+        "imagery": "osm",
+        "id": 128634958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67856075,
+          40.461350550000006
+        ]
+      },
+      "id": 128634958
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9894888777",
+            "osm_id": 9894888777,
+            "reasons": [
+              43
+            ],
+            "version": 1,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          }
+        ],
+        "user": "Cpalaciosh",
+        "uid": "16577158",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #https://llefia.org/arbres/mapcomplete1.json",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-18T09:41:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree_stump"
+          ]
+        },
+        "create": 2,
+        "modify": 0,
+        "delete": 0,
+        "area": 3.39848999849145e-9,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "https://llefia.org/arbres/mapcomplete1.json",
+        "locale": "ca",
+        "imagery": "HDM_HOT",
+        "id": 123754334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64910515,
+          40.55481425
+        ]
+      },
+      "id": 123754334
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "carto_unigis",
+        "uid": "6264047",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T21:19:36Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "primary",
+            "motorway"
+          ],
+          "maxspeed": [
+            "80",
+            "120",
+            "100"
+          ]
+        },
+        "create": 0,
+        "modify": 10,
+        "delete": 0,
+        "area": 0.00153081114747005,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 10,
+        "locale": "es",
+        "imagery": "osm",
+        "id": 126152860
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.50875905,
+          40.40573335
+        ]
+      },
+      "id": 126152860
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "carto_unigis",
+        "uid": "6264047",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-16T13:22:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "primary"
+          ],
+          "maxspeed": [
+            "70",
+            "80"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0000338190854399766,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 2,
+        "locale": "es",
+        "imagery": "osm",
+        "id": 126264538
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5111016,
+          40.4321757
+        ]
+      },
+      "id": 126264538
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 91,
+            "name": "Motorway/trunk geometry modified"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-438525594",
+            "osm_id": 438525594,
+            "reasons": [
+              91
+            ],
+            "version": 4,
+            "primary_tags": {
+              "highway": "motorway"
+            }
+          }
+        ],
+        "user": "carto_unigis",
+        "uid": "6264047",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-19T13:49:27Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "transhuman",
+            "bus",
+            "road"
+          ],
+          "highway": [
+            "residential",
+            "primary",
+            "motorway",
+            "unclassified",
+            "primary_link"
+          ],
+          "maxspeed": [
+            "20",
+            "40",
+            "90",
+            "30",
+            "80",
+            "70",
+            "10",
+            "100",
+            "120"
+          ]
+        },
+        "create": 3,
+        "modify": 31,
+        "delete": 0,
+        "area": 0.0298457415162594,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "split": 5,
+        "theme": "maxspeed",
+        "answer": 25,
+        "locale": "es",
+        "imagery": "osm",
+        "relation-fix": 6,
+        "id": 126375299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5312413,
+          40.472064849999995
+        ]
+      },
+      "id": 126375299
     }
   ]
 }

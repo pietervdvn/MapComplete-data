@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-11-05T09:39:14Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 32,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 113400546,
         "host": "mapcomplete.osm.be",
         "theme": "etymology",
         "answer": 46,
         "imagery": "osm",
-        "language": "it"
+        "language": "it",
+        "id": 113400546
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           8.935956149999999,
           44.40689865
         ]
-      }
+      },
+      "id": 113400546
     },
     {
       "type": "Feature",
@@ -56,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-12-30T10:25:26Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -64,13 +67,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115556947,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "answer": 7,
         "imagery": "osm",
         "language": "en",
-        "change_within_25m": 7
+        "change_within_25m": 7,
+        "id": 115556947
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +81,8 @@
           8.9375362,
           44.4243671
         ]
-      }
+      },
+      "id": 115556947
     },
     {
       "type": "Feature",
@@ -101,6 +105,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-28T22:06:02Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -109,13 +114,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117960826,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "answer": 2,
         "locale": "en",
         "imagery": "CartoDB.Voyager",
-        "change_within_25m": 2
+        "change_within_25m": 2,
+        "id": 117960826
       },
       "geometry": {
         "type": "Point",
@@ -123,7 +128,8 @@
           9.612126150000002,
           44.1681531
         ]
-      }
+      },
+      "id": 117960826
     },
     {
       "type": "Feature",
@@ -155,13 +161,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117978946,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "answer": 1,
         "locale": "en",
         "imagery": "CartoDB.Voyager",
-        "change_within_100m": 1
+        "change_within_100m": 1,
+        "id": 117978946
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +175,131 @@
           9.6101442,
           44.1683316
         ]
-      }
+      },
+      "id": 117978946
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thibault Rommel",
+        "uid": "5846458",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-06T15:30:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "indoor": [
+            "no"
+          ],
+          "highway": [
+            "crossing",
+            "footway"
+          ],
+          "surface": [
+            "asphalt",
+            "sett"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "tactile_paving": [
+            "no"
+          ],
+          "crossing:island": [
+            "no"
+          ],
+          "defibrillator:location:en": [
+            "Outside, on the wall next to the entrance"
+          ]
+        },
+        "create": 1,
+        "modify": 6,
+        "delete": 0,
+        "area": 3.48032436738955,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 10,
+        "locale": "nl",
+        "imagery": "osm",
+        "change_over_5000m": 11,
+        "id": 125864156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0929857,
+          44.45698405
+        ]
+      },
+      "id": 125864156
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Danysan95",
+        "uid": "4425563",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-22T22:05:45Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary",
+            "footway",
+            "residential",
+            "tertiary",
+            "pedestrian"
+          ],
+          "name:etymology:wikidata": [
+            "Q193236",
+            "Q1401",
+            "Q1067"
+          ]
+        },
+        "create": 0,
+        "modify": 27,
+        "delete": 0,
+        "area": 0.0000168325970100164,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 34,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126523316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93489915,
+          44.40459215
+        ]
+      },
+      "id": 126523316
     }
   ]
 }

@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-01-08T18:46:42Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 7,
         "delete": 0,
@@ -25,11 +26,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 97185967,
         "host": "mapcomplete.osm.be",
         "theme": "campersite",
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 97185967
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +38,543 @@
           4.1433869,
           46.39649645
         ]
-      }
+      },
+      "id": 97185967
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T21:21:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ],
+          "direction": [
+            "35",
+            "27"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 5.88479999908434e-10,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_1000m": 2,
+        "id": 128227403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4271802,
+          46.1249002
+        ]
+      },
+      "id": 128227403
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T16:56:44Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "optician"
+          ],
+          "image": [
+            "https://i.imgur.com/P4Pcjhq.jpg"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/shops.html",
+        "theme": "shops",
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 1,
+        "id": 128219649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4228605,
+          46.1262673
+        ]
+      },
+      "id": 128219649
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T16:43:28Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/oYUjoBA.jpg",
+            "https://i.imgur.com/IdL8PiI.jpg"
+          ],
+          "highway": [
+            "street_lamp"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 1.38044699997275e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 2,
+        "change_within_25m": 2,
+        "id": 128219137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4228165500000003,
+          46.12641515
+        ]
+      },
+      "id": 128219137
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T16:38:05Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/tdi3vcV.jpg"
+          ],
+          "highway": [
+            "crossing"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 1,
+        "id": 128218919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4230717,
+          46.1284143
+        ]
+      },
+      "id": 128218919
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #hotels",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T16:37:33Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/JJCsk0m.jpg"
+          ],
+          "tourism": [
+            "hotel"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "hotels",
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 1,
+        "id": 128218895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4230823,
+          46.12869
+        ]
+      },
+      "id": 128218895
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T13:46:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "deli",
+            "interior_decoration",
+            "cheese",
+            "clothes",
+            "kiosk",
+            "vacant"
+          ],
+          "image": [
+            "https://i.imgur.com/Vh09LyH.jpg",
+            "https://i.imgur.com/DgIMMgM.jpg",
+            "https://i.imgur.com/7Tsnzjh.jpg",
+            "https://i.imgur.com/ex0EdBM.jpg",
+            "https://i.imgur.com/NReKYiY.jpg"
+          ],
+          "building": [
+            "retail"
+          ],
+          "survey:date": [
+            "2022-10-29",
+            "2021-04-04",
+            "2022-07-02",
+            "2021-04-03"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.0000013788403999975,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/shops.html",
+        "theme": "shops",
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 6,
+        "change_within_25m": 6,
+        "id": 128212170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4239976,
+          46.1249489
+        ]
+      },
+      "id": 128212170
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T13:00:59Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/DK9diOz.jpg",
+            "https://i.imgur.com/RsGQ4gb.jpg",
+            "https://i.imgur.com/E4EUoOs.jpg",
+            "https://i.imgur.com/qm7mbZV.jpg",
+            "https://i.imgur.com/8EDNRmm.jpg",
+            "https://i.imgur.com/WjNKakZ.jpg",
+            "https://i.imgur.com/RXwyRxw.jpg",
+            "https://i.imgur.com/LnmBLMY.jpg",
+            "https://i.imgur.com/nSob9w2.jpg",
+            "https://i.imgur.com/PH9Ay1j.jpg",
+            "https://i.imgur.com/NyuaPLZ.jpg",
+            "https://i.imgur.com/2gVEwJW.jpg",
+            "https://i.imgur.com/NYojBkG.jpg",
+            "https://i.imgur.com/Vm6gddZ.jpg",
+            "https://i.imgur.com/OYEQQ0d.jpg",
+            "https://i.imgur.com/sPMwTDf.jpg",
+            "https://i.imgur.com/2WQ9hWJ.jpg",
+            "https://i.imgur.com/WgHhxB7.jpg",
+            "https://i.imgur.com/NGoW85P.jpg"
+          ],
+          "highway": [
+            "crossing"
+          ],
+          "crossing": [
+            "zebra",
+            "traffic_signals"
+          ],
+          "survey:date": [
+            "2022-10-29",
+            "2021-01-24"
+          ],
+          "traffic_calming": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 22,
+        "delete": 0,
+        "area": 0.0000235384366100164,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 2,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 21,
+        "change_within_25m": 23,
+        "id": 128210361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4240508500000004,
+          46.12605725
+        ]
+      },
+      "id": 128210361
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T12:57:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/pDa6FqL.jpg"
+          ],
+          "colour": [
+            "red"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hailhydrant.html",
+        "theme": "hailhydrant",
+        "answer": 1,
+        "locale": "fr",
+        "imagery": "HDM_HOT",
+        "add-image": 1,
+        "change_within_25m": 2,
+        "id": 128210229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4206893,
+          46.1276953
+        ]
+      },
+      "id": 128210229
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "JLZIMMERMANN",
+        "uid": "188930",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T12:50:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "image:streetsign": [
+            "https://i.imgur.com/PqnhcHK.jpg"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.39293159998422e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 1,
+        "id": 128209965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4221091,
+          46.12849045
+        ]
+      },
+      "id": 128209965
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-12-06T16:06:07Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 5,
+        "delete": 0,
+        "area": 2.07632071345608,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 10,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 2,
+        "change_over_5000m": 13,
+        "id": 129788959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5803309,
+          46.59537695
+        ]
+      },
+      "id": 129788959
     }
   ]
 }

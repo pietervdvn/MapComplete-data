@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-11-23T19:13:11Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -25,10 +26,10 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 94657023,
         "theme": "ghostbikes",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 94657023
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +37,8 @@
           18.7095608,
           50.1248695
         ]
-      }
+      },
+      "id": 94657023
     },
     {
       "type": "Feature",
@@ -54,6 +56,7 @@
         "imagery_used": "Not reported",
         "date": "2021-11-23T11:59:53Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -62,12 +65,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 114137682,
         "host": "mapcomplete.osm.be",
         "theme": "etymology",
         "answer": 1,
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 114137682
       },
       "geometry": {
         "type": "Point",
@@ -75,51 +78,8 @@
           18.936193000000003,
           50.27166355
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "art_m_wb",
-        "uid": "12876924",
-        "editor": "MapComplete 0.7.2b",
-        "comment": "Adding data with #MapComplete for theme #climbing",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-05-15T13:20:09Z",
-        "reviewed_features": [],
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 2.21924580000104e-7,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 104733470,
-        "host": "mapcomplete.osm.be",
-        "theme": "climbing",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "Christian Neumann <christian@utopicode.de>"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.52303335,
-          50.5240756
-        ]
-      }
+      "id": 114137682
     },
     {
       "type": "Feature",
@@ -142,6 +102,7 @@
         "imagery_used": "Not reported",
         "date": "2021-05-10T14:17:34Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 3,
         "delete": 0,
@@ -150,12 +111,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 104458078,
         "host": "mapcomplete.osm.be",
         "theme": "climbing",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Christian Neumann <christian@utopicode.de>"
+        "theme-creator": "Christian Neumann <christian@utopicode.de>",
+        "id": 104458078
       },
       "geometry": {
         "type": "Point",
@@ -163,49 +124,54 @@
           19.3897633,
           50.669220800000005
         ]
-      }
+      },
+      "id": 104458078
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "orlPL",
-        "uid": "15180064",
-        "editor": "MapComplete 0.18.0",
-        "comment": "Adding data with #MapComplete for theme #food",
+        "user": "art_m_wb",
+        "uid": "12876924",
+        "editor": "MapComplete 0.7.2b",
+        "comment": "Adding data with #MapComplete for theme #climbing",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-04-15T13:02:53Z",
+        "date": "2021-05-15T13:20:09Z",
         "reviewed_features": [],
         "tag_changes": {},
-        "create": 1,
-        "modify": 6,
+        "create": 0,
+        "modify": 1,
         "delete": 0,
-        "area": 0,
-        "is_suspect": false,
+        "area": 2.21924580000104e-7,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119750706,
         "host": "mapcomplete.osm.be",
-        "theme": "food",
-        "answer": 9,
-        "locale": "en",
+        "theme": "climbing",
         "imagery": "osm",
-        "change_over_5000m": 1,
-        "change_within_50m": 9
+        "language": "en",
+        "theme-creator": "Christian Neumann <christian@utopicode.de>",
+        "id": 104733470
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.9041905,
-          50.168696
+          19.52303335,
+          50.5240756
         ]
-      }
+      },
+      "id": 104733470
     },
     {
       "type": "Feature",
@@ -232,12 +198,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119512006,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/shops.html",
         "theme": "shops",
         "answer": 5,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119512006
       },
       "geometry": {
         "type": "Point",
@@ -245,7 +211,148 @@
           18.9058239,
           50.1712464
         ]
-      }
+      },
+      "id": 119512006
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "orlPL",
+        "uid": "15180064",
+        "editor": "MapComplete 0.18.0",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-04-15T13:02:53Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 6,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "answer": 9,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_50m": 9,
+        "id": 119750706
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9041905,
+          50.168696
+        ]
+      },
+      "id": 119750706
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "arukuni",
+        "uid": "8534839",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-15T20:20:48Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 121024603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9321168,
+          50.2682484
+        ]
+      },
+      "id": 121024603
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "arukuni",
+        "uid": "8534839",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-07T20:29:11Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary",
+            "residential",
+            "service"
+          ],
+          "name:etymology:wikidata": [
+            "Q22698",
+            "Q9377431",
+            "Q21468747",
+            "Q1962211",
+            "Q732607",
+            "Q25550691",
+            "Q349"
+          ]
+        },
+        "create": 0,
+        "modify": 29,
+        "delete": 0,
+        "area": 0.00061661177170006,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 39,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 124612485
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95509655,
+          50.288771
+        ]
+      },
+      "id": 124612485
     }
   ]
 }

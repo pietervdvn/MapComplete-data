@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-08-27T20:11:44Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 6,
         "delete": 0,
@@ -25,9 +26,9 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 90044452,
-        "theme": "velocidad",
-        "theme-creator": "yopaseopor"
+        "theme": "Velocidad",
+        "theme-creator": "yopaseopor",
+        "id": 90044452
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +36,8 @@
           -0.8651723,
           41.6555645
         ]
-      }
+      },
+      "id": 90044452
     },
     {
       "type": "Feature",
@@ -53,6 +55,7 @@
         "imagery_used": "Not reported",
         "date": "2020-08-27T08:30:36Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -61,9 +64,9 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 90013423,
-        "theme": "velocidad",
-        "theme-creator": "yopaseopor"
+        "theme": "Velocidad",
+        "theme-creator": "yopaseopor",
+        "id": 90013423
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +74,8 @@
           -0.8955676,
           41.629858150000004
         ]
-      }
+      },
+      "id": 90013423
     },
     {
       "type": "Feature",
@@ -89,6 +93,7 @@
         "imagery_used": "Not reported",
         "date": "2021-02-09T22:46:06Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 6,
         "delete": 0,
@@ -97,11 +102,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 99003014,
         "host": "mapcomplete.osm.be",
         "theme": "wherethesidewalkshavenoname",
         "imagery": "osm",
-        "language": "es"
+        "language": "es",
+        "id": 99003014
       },
       "geometry": {
         "type": "Point",
@@ -109,7 +114,8 @@
           -0.8705054999999999,
           41.6339055
         ]
-      }
+      },
+      "id": 99003014
     },
     {
       "type": "Feature",
@@ -127,6 +133,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-14T20:29:40Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 5,
         "modify": 2,
         "delete": 0,
@@ -135,12 +142,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117409709,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "answer": 3,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117409709
       },
       "geometry": {
         "type": "Point",
@@ -148,7 +155,8 @@
           -0.848376,
           41.70134615
         ]
-      }
+      },
+      "id": 117409709
     },
     {
       "type": "Feature",
@@ -166,6 +174,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-14T19:48:19Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 20,
         "delete": 0,
@@ -174,12 +183,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117408411,
         "host": "mapcomplete.osm.be",
-        "theme": "gh://yopaseopor/mcquests/master/libraries.json",
+        "theme": "https://raw.githubusercontent.com/yopaseopor/mcquests/master/libraries.json",
         "answer": 25,
         "locale": "es",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117408411
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +196,8 @@
           -0.7971125,
           41.7622362
         ]
-      }
+      },
+      "id": 117408411
     },
     {
       "type": "Feature",
@@ -205,6 +215,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-14T19:37:35Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -213,12 +224,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117408081,
         "host": "mapcomplete.osm.be",
-        "theme": "gh://yopaseopor/mcquests/master/libraries.json",
+        "theme": "https://raw.githubusercontent.com/yopaseopor/mcquests/master/libraries.json",
         "answer": 2,
         "locale": "es",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117408081
       },
       "geometry": {
         "type": "Point",
@@ -226,7 +237,153 @@
           -0.8981497,
           41.64032495
         ]
-      }
+      },
+      "id": 117408081
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "jaimeMF",
+        "uid": "706423",
+        "editor": "MapComplete 0.20.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-13T06:46:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "living_street",
+            "pedestrian",
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q45581"
+          ]
+        },
+        "create": 0,
+        "modify": 9,
+        "delete": 0,
+        "area": 0.00000839832326001331,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 9,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 122308771
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8790023499999999,
+          41.6505372
+        ]
+      },
+      "id": 122308771
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "mig-l",
+        "uid": "8500030",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-26T06:33:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "crossing"
+          ],
+          "crossing": [
+            "uncontrolled",
+            "traffic_signals"
+          ],
+          "crossing_ref": [
+            "zebra"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_1000m": 2,
+        "id": 126638919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959911,
+          41.6613494
+        ]
+      },
+      "id": 126638919
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "mig-l",
+        "uid": "8500030",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-26T06:30:33Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_1000m": 3,
+        "id": 126638790
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959911,
+          41.6613494
+        ]
+      },
+      "id": 126638790
     }
   ]
 }

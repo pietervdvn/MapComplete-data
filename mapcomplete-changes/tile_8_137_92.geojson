@@ -11,12 +11,13 @@
         "user": "joost schouppe",
         "uid": "67832",
         "editor": "MapComplete 0.9.14",
-        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comment": "Adding data with #MapComplete for theme #aed",
         "comments_count": 0,
         "source": "survey",
         "imagery_used": "Not reported",
-        "date": "2021-10-02T14:33:52Z",
+        "date": "2021-10-01T13:24:31Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,53 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 112003493,
+        "host": "mapcomplete.osm.be",
+        "theme": "aed",
+        "imagery": "osm",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 111963945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6381551,
+          45.0809245
+        ]
+      },
+      "id": 111963945
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.9.14",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-10-02T14:33:52Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
         "host": "mapcomplete.osm.be",
         "theme": "campersite",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "joost schouppe"
+        "theme-creator": "joost schouppe",
+        "id": 112003493
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +80,8 @@
           13.91486,
           44.7949588
         ]
-      }
+      },
+      "id": 112003493
     },
     {
       "type": "Feature",
@@ -56,6 +99,7 @@
         "imagery_used": "Not reported",
         "date": "2021-10-02T11:21:21Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 3,
         "delete": 0,
@@ -64,13 +108,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 111996531,
         "host": "pietervdvn.github.io",
         "path": "mc/develop/",
         "theme": "toerisme_vlaanderen",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 111996531
       },
       "geometry": {
         "type": "Point",
@@ -78,46 +122,8 @@
           13.9119353,
           44.7711474
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.9.14",
-        "comment": "Adding data with #MapComplete for theme #aed",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-10-01T13:24:31Z",
-        "reviewed_features": [],
-        "create": 1,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 111963945,
-        "host": "mapcomplete.osm.be",
-        "theme": "aed",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.6381551,
-          45.0809245
-        ]
-      }
+      "id": 111996531
     }
   ]
 }

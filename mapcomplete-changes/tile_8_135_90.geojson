@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-03-19T09:30:23Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 101314914,
         "host": "mapcomplete.osm.be",
         "theme": "trees",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Midgard"
+        "theme-creator": "Midgard",
+        "id": 101314914
       },
       "geometry": {
         "type": "Point",
@@ -38,85 +39,8 @@
           11.2492109,
           46.4635196
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Robin van der Linde",
-        "uid": "5093765",
-        "editor": "MapComplete 0.9.0",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-08-23T08:00:22Z",
-        "reviewed_features": [],
-        "create": 1,
-        "modify": 3,
-        "delete": 0,
-        "area": 8.80234000005818e-7,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 110097643,
-        "host": "mapcomplete.osm.be",
-        "theme": "cyclofix",
-        "imagery": "Mapbox",
-        "language": "nl",
-        "theme-creator": "MapComplete"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.422055400000001,
-          46.45909115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Robin van der Linde",
-        "uid": "5093765",
-        "editor": "MapComplete 0.9.0",
-        "comment": "Adding data with #MapComplete for theme #drinking_water",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-08-23T07:57:07Z",
-        "reviewed_features": [],
-        "create": 0,
-        "modify": 2,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 110097482,
-        "host": "mapcomplete.osm.be",
-        "theme": "drinking_water",
-        "imagery": "Mapbox",
-        "language": "nl",
-        "theme-creator": "MapComplete"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4209475,
-          46.4592242
-        ]
-      }
+      "id": 101314914
     },
     {
       "type": "Feature",
@@ -134,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-08-22T17:05:05Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 2,
         "modify": 0,
         "delete": 0,
@@ -142,12 +67,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 110071072,
         "host": "mapcomplete.osm.be",
         "theme": "drinking_water",
         "imagery": "Mapbox",
         "language": "nl",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 110071072
       },
       "geometry": {
         "type": "Point",
@@ -155,7 +80,354 @@
           10.42641755,
           46.45719425
         ]
-      }
+      },
+      "id": 110071072
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.9.0",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-08-23T08:00:22Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 8.80234000005818e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "cyclofix",
+        "imagery": "Mapbox",
+        "language": "nl",
+        "theme-creator": "MapComplete",
+        "id": 110097643
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.422055400000001,
+          46.45909115
+        ]
+      },
+      "id": 110097643
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.9.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-08-23T07:57:07Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "drinking_water",
+        "imagery": "Mapbox",
+        "language": "nl",
+        "theme-creator": "MapComplete",
+        "id": 110097482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4209475,
+          46.4592242
+        ]
+      },
+      "id": 110097482
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "M7746",
+        "uid": "15731387",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-13T19:09:36Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "couplings:diameters": [
+            "B;C",
+            "C;C;B"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/",
+        "theme": "hailhydrant",
+        "answer": 1,
+        "locale": "de",
+        "change_within_25m": 1,
+        "id": 128859693
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7761341,
+          46.6290241
+        ]
+      },
+      "id": 128859693
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "M7746",
+        "uid": "15731387",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-13T12:18:23Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 3,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0000320405658400306,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hailhydrant.html",
+        "theme": "hailhydrant",
+        "answer": 14,
+        "locale": "de",
+        "imagery": "South-Tyrol-Orthofoto-2020",
+        "change_over_5000m": 2,
+        "change_within_25m": 9,
+        "change_within_500m": 1,
+        "id": 128844877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.775836349999999,
+          46.6272549
+        ]
+      },
+      "id": 128844877
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "M7746",
+        "uid": "15731387",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-20T17:17:38Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "hailhydrant",
+        "answer": 4,
+        "locale": "de",
+        "imagery": "HDM_HOT",
+        "id": 129163915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7804283,
+          46.6256036
+        ]
+      },
+      "id": 129163915
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-30T15:54:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "sanitary_dump_station"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 6,
+        "locale": "en",
+        "imagery": "swisstopo_swissimage",
+        "change_over_5000m": 1,
+        "change_within_50m": 6,
+        "id": 124273553
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0869586,
+          46.6968248
+        ]
+      },
+      "id": 124273553
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-04T09:02:31Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_100m": 1,
+        "id": 124469677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1760354,
+          46.5623828
+        ]
+      },
+      "id": 124469677
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-04T09:01:25Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 5.56015789998797e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 9,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 2,
+        "change_within_50m": 5,
+        "change_within_100m": 4,
+        "id": 124469628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.176546349999999,
+          46.56265485
+        ]
+      },
+      "id": 124469628
     }
   ]
 }

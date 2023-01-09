@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-22T05:13:25Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108397905,
         "host": "mapcomplete.osm.be",
         "theme": "campersite",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "joost schouppe"
+        "theme-creator": "joost schouppe",
+        "id": 108397905
       },
       "geometry": {
         "type": "Point",
@@ -38,46 +39,8 @@
           152.78021595,
           -28.197958800000002
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "nevw",
-        "uid": "1293194",
-        "editor": "MapComplete 0.8.4",
-        "comment": "Adding data with #MapComplete for theme #shops",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-08-09T10:11:28Z",
-        "reviewed_features": [],
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 109396091,
-        "host": "mapcomplete.osm.be",
-        "theme": "shops",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0415517,
-          -27.2316365
-        ]
-      }
+      "id": 108397905
     },
     {
       "type": "Feature",
@@ -95,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-08-02T10:55:18Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -103,11 +67,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 109024703,
         "host": "mapcomplete.osm.be",
         "theme": "surveillance",
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 109024703
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +79,49 @@
           152.9884387,
           -27.2001138
         ]
-      }
+      },
+      "id": 109024703
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "nevw",
+        "uid": "1293194",
+        "editor": "MapComplete 0.8.4",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-08-09T10:11:28Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "shops",
+        "imagery": "osm",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 109396091
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0415517,
+          -27.2316365
+        ]
+      },
+      "id": 109396091
     },
     {
       "type": "Feature",
@@ -138,6 +144,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-15T05:48:37Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 5,
         "modify": 1,
         "delete": 0,
@@ -146,12 +153,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 116171615,
         "host": "mapcomplete.osm.be",
         "theme": "drinking_water",
         "answer": 5,
         "imagery": "CartoDB.Voyager",
-        "language": "en"
+        "language": "en",
+        "id": 116171615
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +166,8 @@
           152.99801745000002,
           -27.52577075
         ]
-      }
+      },
+      "id": 116171615
     }
   ]
 }

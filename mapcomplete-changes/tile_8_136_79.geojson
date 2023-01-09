@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-18T11:37:09Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 103133460,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "imagery": "CartoDB.Voyager",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 103133460
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,133 @@
           12.0682571,
           55.8387637
         ]
-      }
+      },
+      "id": 103133460
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Niels Madsen",
+        "uid": "16042981",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-11T15:38:11Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "fee": [
+            "no"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "image": [
+            "https://i.imgur.com/kGrFqsO.jpg"
+          ],
+          "level": [
+            "0"
+          ],
+          "route": [
+            "ferry"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "bicycle": [
+            "yes"
+          ],
+          "landuse": [
+            "grass"
+          ],
+          "scooter": [
+            "no"
+          ],
+          "website": [
+            "https://www.visitsvendborg.dk/svendborg/diverse/ladestandere-til-elcykler"
+          ],
+          "motorcar": [
+            "no",
+            "yes"
+          ],
+          "no:network": [
+            "yes"
+          ],
+          "socket:typee": [
+            "1"
+          ],
+          "authentication:app": [
+            "no"
+          ],
+          "authentication:nfc": [
+            "no"
+          ],
+          "authentication:none": [
+            "yes"
+          ],
+          "socket:typee:output": [
+            "3 kW"
+          ],
+          "authentication:debit_card": [
+            "no"
+          ],
+          "authentication:money_card": [
+            "no"
+          ],
+          "authentication:phone_call": [
+            "no"
+          ],
+          "authentication:short_message": [
+            "no"
+          ],
+          "authentication:membership_card": [
+            "no"
+          ]
+        },
+        "create": 44,
+        "modify": 24,
+        "delete": 1,
+        "area": 17.4128206728335,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "move": 1,
+        "theme": "charging_stations",
+        "answer": 38,
+        "locale": "da",
+        "imagery": "cyclosm",
+        "deletion": 1,
+        "add-image": 1,
+        "move:node/9993746956": "improve_accuracy",
+        "deletion:node/10016034585": "duplicate",
+        "id": 126054431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7169691,
+          56.1589335
+        ]
+      },
+      "id": 126054431
     }
   ]
 }

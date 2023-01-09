@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-01-01T14:07:57Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -25,10 +26,10 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 96772551,
         "theme": "cyclofix",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 96772551
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +37,228 @@
           9.4381678,
           46.6138132
         ]
-      }
+      },
+      "id": 96772551
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-24T20:20:59Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "customers"
+          ],
+          "amenity": [
+            "sanitary_dump_station"
+          ],
+          "water_point": [
+            "yes"
+          ],
+          "sanitary_dump_station:grey_water": [
+            "yes",
+            "no"
+          ],
+          "sanitary_dump_station:chemical_toilet": [
+            "no",
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 4.06596199998641e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 6,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 5,
+        "change_within_50m": 1,
+        "id": 124023491
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.944196699999999,
+          47.02488855
+        ]
+      },
+      "id": 124023491
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-26T20:30:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ],
+          "leaf_type": [
+            "broadleaved",
+            "needleleaved"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 3.71331519996719e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 3,
+        "change_within_50m": 2,
+        "id": 124112499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.945548200000001,
+          47.0253702
+        ]
+      },
+      "id": 124112499
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-05T10:02:05Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "indoor": [
+            "no"
+          ],
+          "defibrillator:location": [
+            "Unter dem Vordach des Toilettengebäudes"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed",
+        "theme": "aed",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 125806687
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0012429,
+          47.0298415
+        ]
+      },
+      "id": 125806687
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-05T10:00:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "indoor": [
+            "no"
+          ],
+          "wheelchair": [
+            "limited"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "defibrillator:location": [
+            "Neben Eingang Restaurant"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000721552722300164,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed",
+        "theme": "aed",
+        "answer": 6,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 125806602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.928244750000001,
+          47.02420515
+        ]
+      },
+      "id": 125806602
     }
   ]
 }

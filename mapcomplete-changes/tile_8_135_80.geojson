@@ -10,76 +10,48 @@
         "features": [],
         "user": "Niels Elgaard Larsen",
         "uid": "1288",
-        "editor": "MapComplete 0.19.0",
+        "editor": "MapComplete 0.24.0",
         "comment": "Adding data with #MapComplete for theme #pets",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-04-30T16:44:30Z",
+        "date": "2022-11-27T21:10:20Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "barrier": [
+            "fence"
+          ],
+          "leisure": [
+            "dog_park"
+          ],
+          "small_dog": [
+            "shared"
+          ]
+        },
         "create": 0,
-        "modify": 6,
+        "modify": 3,
         "delete": 0,
-        "area": 1.68979883547531,
+        "area": 0.00000378580216001088,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120392452,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/pets.html",
         "theme": "pets",
-        "answer": 7,
+        "answer": 1,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "add-image": 2,
+        "id": 129448614
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.688302199999999,
-          55.5474581
+          9.8765366,
+          55.457434899999996
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Niels Elgaard Larsen",
-        "uid": "1288",
-        "editor": "MapComplete 0.18.2",
-        "comment": "Adding data with #MapComplete for theme #dog",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-04-25T23:36:38Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 11,
-        "delete": 0,
-        "area": 2.52412923541806,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 120187025,
-        "host": "mapcomplete.osm.be",
-        "theme": "dog",
-        "answer": 15,
-        "locale": "da",
-        "imagery": "osm"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.5319436,
-          55.4048904
-        ]
-      }
+      "id": 129448614
     },
     {
       "type": "Feature",
@@ -106,12 +78,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119765657,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/theme.html",
         "theme": "dog",
         "answer": 3,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119765657
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +91,504 @@
           10.984600799999999,
           55.582331749999994
         ]
-      }
+      },
+      "id": 119765657
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Niels Elgaard Larsen",
+        "uid": "1288",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #dog",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-25T23:36:38Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 11,
+        "delete": 0,
+        "area": 2.52412923541806,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "dog",
+        "answer": 15,
+        "locale": "da",
+        "imagery": "osm",
+        "id": 120187025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5319436,
+          55.4048904
+        ]
+      },
+      "id": 120187025
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Niels Elgaard Larsen",
+        "uid": "1288",
+        "editor": "MapComplete 0.19.0",
+        "comment": "Adding data with #MapComplete for theme #pets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-30T16:44:30Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 1.68979883547531,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/pets.html",
+        "theme": "pets",
+        "answer": 7,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 120392452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.688302199999999,
+          55.5474581
+        ]
+      },
+      "id": 120392452
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T15:58:21Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bottle": [
+            "yes"
+          ],
+          "man_made": [
+            "water_tap"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_within_25m": 1,
+        "id": 124353322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9414175,
+          55.3886386
+        ]
+      },
+      "id": 124353322
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T11:47:18Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/J3Zutbm.jpg",
+            "https://i.imgur.com/pcARuIM.jpg"
+          ],
+          "bottle": [
+            "yes"
+          ],
+          "amenity": [
+            "drinking_water"
+          ],
+          "man_made": [
+            "water_tap"
+          ]
+        },
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.00000299936874999849,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 2,
+        "change_over_5000m": 1,
+        "change_within_25m": 3,
+        "change_within_500m": 1,
+        "id": 124341617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.939716449999999,
+          55.386852950000005
+        ]
+      },
+      "id": 124341617
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T09:21:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 2,
+        "modify": 2,
+        "delete": 0,
+        "area": 4.08890799985316e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 2,
+        "change_over_5000m": 2,
+        "change_within_25m": 2,
+        "change_within_500m": 2,
+        "id": 124334611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9396135,
+          55.387048300000004
+        ]
+      },
+      "id": 124334611
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-03T21:27:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/GlablT7.jpg"
+          ],
+          "man_made": [
+            "water_tap"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/index.html",
+        "theme": "drinking_water",
+        "locale": "en",
+        "add-image": 1,
+        "change_within_25m": 1,
+        "id": 124454085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9414175,
+          55.3886386
+        ]
+      },
+      "id": 124454085
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-04T12:15:18Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "recycling"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/waste.html",
+        "move": 1,
+        "theme": "waste",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_5000m": 4,
+        "move:node/9931692472": "improve_accuracy",
+        "id": 124478452
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9733061,
+          55.3989037
+        ]
+      },
+      "id": 124478452
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-05T20:18:10Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "building": [
+            "yes"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 4.86451379999355e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/feature/upload-gpx-to-osm/aed.html",
+        "theme": "aed",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 124538516
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9669667,
+          55.39191835
+        ]
+      },
+      "id": 124538516
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "AryaFairywren",
+        "uid": "16744275",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-05T14:50:47Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "supermarket"
+          ],
+          "building": [
+            "yes"
+          ]
+        },
+        "create": 2,
+        "modify": 7,
+        "delete": 0,
+        "area": 4.66936200000399e-7,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 9,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "id": 124527624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9733744,
+          55.39909315
+        ]
+      },
+      "id": 124527624
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Niels Elgaard Larsen",
+        "uid": "1288",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #pets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-18T20:35:54Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/ItdGQPK.jpg",
+            "https://i.imgur.com/C8ynkyn.jpg"
+          ],
+          "barrier": [
+            "fence"
+          ],
+          "image:0": [
+            "https://i.imgur.com/9TYqx01.jpg"
+          ],
+          "image:1": [
+            "https://i.imgur.com/mf0USur.jpg"
+          ],
+          "image:2": [
+            "https://i.imgur.com/xVNwGta.jpg"
+          ],
+          "leisure": [
+            "dog_park"
+          ]
+        },
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 0.631028219556853,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/pets.html",
+        "theme": "pets",
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 5,
+        "id": 126345439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.17430175,
+          55.562087899999995
+        ]
+      },
+      "id": 126345439
     }
   ]
 }

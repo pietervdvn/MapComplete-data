@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-12-17T22:31:00Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115074314,
         "host": "mapcomplete.osm.be",
         "theme": "trees",
         "imagery": "osm",
         "language": "en",
-        "add-image": 1
+        "add-image": 1,
+        "id": 115074314
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           151.2164827,
           -33.8636398
         ]
-      }
+      },
+      "id": 115074314
     },
     {
       "type": "Feature",
@@ -61,6 +63,7 @@
         "imagery_used": "Not reported",
         "date": "2021-02-19T19:56:14Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 3,
         "delete": 0,
@@ -69,12 +72,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 99615186,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "imagery": "NSW_LPI_Imagery",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 99615186
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +85,8 @@
           151.1473668,
           -33.877031
         ]
-      }
+      },
+      "id": 99615186
     },
     {
       "type": "Feature",
@@ -100,6 +104,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-18T12:55:10Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 3,
         "delete": 0,
@@ -108,11 +113,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 103136249,
         "host": "mapcomplete.osm.be",
         "theme": "surveillance",
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 103136249
       },
       "geometry": {
         "type": "Point",
@@ -120,7 +125,8 @@
           151.2959513,
           -33.7027022
         ]
-      }
+      },
+      "id": 103136249
     },
     {
       "type": "Feature",
@@ -138,6 +144,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-18T12:26:34Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 6,
         "delete": 0,
@@ -146,12 +153,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 103135174,
         "host": "mapcomplete.osm.be",
         "theme": "bookcases",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 103135174
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +166,8 @@
           151.2814003,
           -33.7044204
         ]
-      }
+      },
+      "id": 103135174
     },
     {
       "type": "Feature",
@@ -191,12 +199,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120658982,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/aed.html",
         "theme": "aed",
         "answer": 2,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 120658982
       },
       "geometry": {
         "type": "Point",
@@ -204,7 +212,55 @@
           151.1473677,
           -33.8140484
         ]
-      }
+      },
+      "id": 120658982
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "᚛ᚐᚋᚐᚅᚇᚐ᚜ 🏳️‍🌈",
+        "uid": "23770",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #rainbow_crossings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-30T06:34:44Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "bicycle"
+          ],
+          "highway": [
+            "crossing"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 7.30856000015183e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/rainbow_crossings.html",
+        "theme": "rainbow_crossings",
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 124255904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2166121,
+          -33.8811795
+        ]
+      },
+      "id": 124255904
     }
   ]
 }

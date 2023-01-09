@@ -8,45 +8,6 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Lawchen",
-        "uid": "553964",
-        "editor": "MapComplete 0.7.5a",
-        "comment": "Adding data with #MapComplete for theme #trees",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-06-09T05:47:29Z",
-        "reviewed_features": [],
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 106070096,
-        "host": "mapcomplete.osm.be",
-        "theme": "trees",
-        "imagery": "osm",
-        "language": "zh_Hant",
-        "theme-creator": "Midgard"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5420542,
-          24.9968233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
         "user": "Supaplex",
         "uid": "274857",
         "editor": "MapComplete 0.7.5",
@@ -56,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-06-07T09:53:54Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 5,
         "delete": 0,
@@ -64,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 105961584,
         "host": "mapcomplete.osm.be",
         "theme": "drinking_water",
         "imagery": "CartoDB.Voyager",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 105961584
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +39,8 @@
           121.5348307,
           25.016046
         ]
-      }
+      },
+      "id": 105961584
     },
     {
       "type": "Feature",
@@ -95,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-06-07T09:41:04Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 3,
         "delete": 0,
@@ -103,11 +67,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 105960694,
         "host": "mapcomplete.osm.be",
         "theme": "charging_stations",
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 105960694
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +79,347 @@
           121.53882379999999,
           25.0042755
         ]
-      }
+      },
+      "id": 105960694
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Lawchen",
+        "uid": "553964",
+        "editor": "MapComplete 0.7.5a",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-06-09T05:47:29Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "trees",
+        "imagery": "osm",
+        "language": "zh_Hant",
+        "theme-creator": "Midgard",
+        "id": 106070096
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5420542,
+          24.9968233
+        ]
+      },
+      "id": 106070096
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Goni1031",
+        "uid": "17133073",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #transit",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-10T07:44:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bin": [
+            "no"
+          ],
+          "lit": [
+            "no"
+          ],
+          "bench": [
+            "no"
+          ],
+          "highway": [
+            "bus_stop"
+          ],
+          "shelter": [
+            "no"
+          ],
+          "wheelchair": [
+            "limited"
+          ],
+          "tactile_paving": [
+            "no"
+          ],
+          "public_transport": [
+            "platform"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000370524862300332,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/transit.html",
+        "theme": "transit",
+        "answer": 9,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 128718880
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.25236595000001,
+          24.97532785
+        ]
+      },
+      "id": 128718880
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Goni1031",
+        "uid": "17133073",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #transit",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-10T07:44:25Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/transit.html",
+        "theme": "transit",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 128718850
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2510341,
+          24.976332
+        ]
+      },
+      "id": 128718850
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Goni1031",
+        "uid": "17133073",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-30T06:59:37Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "school:gender": [
+            "mixed"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000329705234999868,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 126808527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.25943685,
+          24.974576550000002
+        ]
+      },
+      "id": 126808527
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Goni1031",
+        "uid": "17133073",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-30T06:56:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "cycleway": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000205630180000527,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126808378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.25422660000001,
+          24.975494249999997
+        ]
+      },
+      "id": 126808378
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Goni1031",
+        "uid": "17133073",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #transit",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-30T06:47:24Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bin": [
+            "no"
+          ],
+          "lit": [
+            "yes",
+            "no"
+          ],
+          "bench": [
+            "yes",
+            "no"
+          ],
+          "highway": [
+            "bus_stop"
+          ],
+          "shelter": [
+            "yes",
+            "no"
+          ],
+          "wheelchair": [
+            "yes",
+            "limited"
+          ],
+          "tactile_paving": [
+            "no"
+          ],
+          "public_transport": [
+            "platform"
+          ]
+        },
+        "create": 0,
+        "modify": 7,
+        "delete": 0,
+        "area": 0.0000276449885200318,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/transit.html",
+        "theme": "transit",
+        "answer": 16,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126808044
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2555248,
+          24.975529700000003
+        ]
+      },
+      "id": 126808044
     }
   ]
 }

@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-10T06:17:24Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 107735170,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "imagery": "CartoDB.Voyager",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 107735170
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           6.0309161,
           47.2420926
         ]
-      }
+      },
+      "id": 107735170
     },
     {
       "type": "Feature",
@@ -56,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-09-05T10:07:13Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -64,12 +67,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 110742775,
         "host": "mapcomplete.osm.be",
         "theme": "bookcases",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 110742775
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +80,52 @@
           6.0870298,
           47.2684337
         ]
-      }
+      },
+      "id": 110742775
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.22.1",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-08T20:33:40Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "sanitary_dump_station"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123381036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0192806,
+          47.2529863
+        ]
+      },
+      "id": 123381036
     }
   ]
 }

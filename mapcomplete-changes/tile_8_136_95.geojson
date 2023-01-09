@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-12-29T12:12:15Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115516355,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "answer": 2,
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 115516355
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,58 @@
           12.4807742,
           41.8267555
         ]
-      }
+      },
+      "id": 115516355
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Danysan95",
+        "uid": "4425563",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-20T18:35:31Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary",
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q1425",
+            "Q2215778"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.0000454627282199781,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 9,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 129166176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2293418,
+          41.76928135
+        ]
+      },
+      "id": 129166176
     }
   ]
 }

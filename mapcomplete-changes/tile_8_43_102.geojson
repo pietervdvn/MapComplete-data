@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-08-27T02:14:10Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -25,9 +26,9 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 89996590,
         "theme": "bookcases",
-        "theme-creator": "Pieter Vander Vennet"
+        "theme-creator": "Pieter Vander Vennet",
+        "id": 89996590
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +36,8 @@
           -118.3517271,
           34.1602734
         ]
-      }
+      },
+      "id": 89996590
     },
     {
       "type": "Feature",
@@ -53,6 +55,7 @@
         "imagery_used": "Not reported",
         "date": "2021-03-28T18:25:29Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -61,12 +64,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 101884979,
         "host": "mapcomplete.osm.be",
         "theme": "campersite",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "joost schouppe"
+        "theme-creator": "joost schouppe",
+        "id": 101884979
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +77,314 @@
           -118.7131072,
           34.09303185
         ]
-      }
+      },
+      "id": 101884979
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Devolved",
+        "uid": "663717",
+        "editor": "MapComplete 0.25.0",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-18T22:16:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "phone": [
+            "+1 310 375 2844"
+          ],
+          "amenity": [
+            "fast_food",
+            "restaurant"
+          ],
+          "website": [
+            "https://locations.carlsjr.com/ca/torrance/24010-hawthorne-blvd",
+            "https://www.shakeys.com/locations/los-angeles/torrance-pch-pizza-restaurant/"
+          ],
+          "building": [
+            "retail"
+          ],
+          "delivery": [
+            "yes",
+            "no"
+          ],
+          "takeaway": [
+            "yes"
+          ],
+          "mapillary": [
+            "1383301942044978",
+            "587544072192955",
+            "1778416272362874"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "diet:vegetarian": [
+            "limited"
+          ],
+          "internet_access": [
+            "no"
+          ],
+          "service:electricity": [
+            "no",
+            "limited"
+          ]
+        },
+        "create": 0,
+        "modify": 12,
+        "delete": 1,
+        "area": 0.00000706336408001809,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "answer": 16,
+        "locale": "en",
+        "imagery": "osm",
+        "deletion": 1,
+        "link-image": 3,
+        "deletion:node/2592234969": "shop_closed",
+        "id": 130225450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3493781,
+          33.80521745
+        ]
+      },
+      "id": 130225450
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Indie Nomad",
+        "uid": "15527380",
+        "editor": "MapComplete 0.25.2",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-29T21:17:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/12p68vu.jpg"
+          ],
+          "amenity": [
+            "restaurant"
+          ],
+          "image:0": [
+            "https://i.imgur.com/WjIV6Hx.jpg"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 2,
+        "id": 130663561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.438246,
+          34.0515292
+        ]
+      },
+      "id": 130663561
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Devolved",
+        "uid": "663717",
+        "editor": "MapComplete 0.20.0",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-06T01:18:28Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "lit": [
+            "yes"
+          ],
+          "access": [
+            "yes"
+          ],
+          "leisure": [
+            "playground"
+          ],
+          "surface": [
+            "grass"
+          ],
+          "website": [
+            "https://www.torranceca.gov/Home/Components/FacilityDirectory/FacilityDirectory/1062/1094",
+            "https://www.torranceca.gov/Home/Components/FacilityDirectory/FacilityDirectory/1034/1094"
+          ],
+          "wheelchair": [
+            "yes"
+          ],
+          "opening_hours": [
+            "sunrise-sunset"
+          ]
+        },
+        "create": 0,
+        "modify": 7,
+        "delete": 0,
+        "area": 0.00000790252829998489,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 10,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 121999500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35440775000001,
+          33.8083814
+        ]
+      },
+      "id": 121999500
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Awo",
+        "uid": "196556",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-26T04:34:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/DH53MBR.png"
+          ],
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "locale": "es",
+        "imagery": "osm",
+        "add-image": 1,
+        "id": 126635455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.403363,
+          34.0727333
+        ]
+      },
+      "id": 126635455
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Devolved",
+        "uid": "663717",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-30T23:28:36Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "man_made": [
+            "surveillance"
+          ],
+          "camera:direction": [
+            "359"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126843528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3497684,
+          33.8062129
+        ]
+      },
+      "id": 126843528
     }
   ]
 }

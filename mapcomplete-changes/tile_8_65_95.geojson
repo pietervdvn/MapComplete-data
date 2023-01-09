@@ -26,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119306762,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
         "theme": "cyclofix",
         "answer": 9,
         "locale": "en",
-        "imagery": "CartoDB.Voyager"
+        "imagery": "CartoDB.Voyager",
+        "id": 119306762
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,183 @@
           -88.5005854,
           41.6615336
         ]
-      }
+      },
+      "id": 119306762
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "markhiben",
+        "uid": "16343235",
+        "editor": "MapComplete 0.21.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-23T14:36:40Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bottle": [
+            "yes"
+          ],
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 122763270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1163653,
+          41.8641974
+        ]
+      },
+      "id": 122763270
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "markhiben",
+        "uid": "16343235",
+        "editor": "MapComplete 0.21.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-23T14:32:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bottle": [
+            "yes"
+          ],
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 0.0680265880175001,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water",
+        "theme": "drinking_water",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 122763113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.31585015,
+          41.83988479999999
+        ]
+      },
+      "id": 122763113
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9890724657",
+            "name": "Valparaiso Bike Share",
+            "osm_id": 9890724657,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "amenity": "bicycle_library"
+            }
+          }
+        ],
+        "user": "Kanellar",
+        "uid": "16249964",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-17T01:49:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "name": [
+            "Valparaiso Bike Share"
+          ],
+          "amenity": [
+            "bicycle_library",
+            "bicycle_parking"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.243669607768163,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "change_within_25m": 4,
+        "id": 123706455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3478312,
+          41.68054225
+        ]
+      },
+      "id": 123706455
     }
   ]
 }

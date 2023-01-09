@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-21T07:52:52Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 42,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117667455,
         "host": "mapcomplete.osm.be",
         "theme": "etymology",
         "answer": 46,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117667455
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           78.4583033,
           11.50759205
         ]
-      }
+      },
+      "id": 117667455
     },
     {
       "type": "Feature",
@@ -65,12 +67,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 118271953,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/etymology.html",
         "theme": "etymology",
         "answer": 163,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 118271953
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +80,326 @@
           78.47643755,
           12.4473016
         ]
-      }
+      },
+      "id": 118271953
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 87,
+            "name": "Irrelevant tags on highway"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-837717490",
+            "name": "Tiruvalluvar Street",
+            "osm_id": 837717490,
+            "reasons": [
+              87
+            ],
+            "version": 4,
+            "primary_tags": {
+              "highway": "primary"
+            }
+          },
+          {
+            "url": "way-837717489",
+            "name": "Tiruvalluvar Street",
+            "osm_id": 837717489,
+            "reasons": [
+              87
+            ],
+            "version": 2,
+            "primary_tags": {
+              "highway": "primary"
+            }
+          },
+          {
+            "url": "way-26480972",
+            "name": "Tiruvalluvar Street",
+            "osm_id": 26480972,
+            "reasons": [
+              87
+            ],
+            "version": 11,
+            "primary_tags": {
+              "highway": "primary"
+            }
+          },
+          {
+            "url": "way-26480973",
+            "name": "Kamarajar Salai",
+            "osm_id": 26480973,
+            "reasons": [
+              87
+            ],
+            "version": 15,
+            "primary_tags": {
+              "highway": "primary"
+            }
+          }
+        ],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-26T17:35:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "college",
+            "school",
+            "university"
+          ],
+          "highway": [
+            "tertiary",
+            "unclassified",
+            "living_street",
+            "residential",
+            "secondary",
+            "primary",
+            "road",
+            "service",
+            "trunk"
+          ],
+          "leisure": [
+            "stadium",
+            "park"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q522048",
+            "Q2353373",
+            "Q1535227",
+            "Q231690",
+            "Q1001",
+            "Q156349",
+            "Q1047",
+            "Q464318",
+            "Q888293",
+            "Q7809411",
+            "Q2153",
+            "Q3411606",
+            "Q492527"
+          ]
+        },
+        "create": 0,
+        "modify": 106,
+        "delete": 0,
+        "area": 12.3409497799529,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 131,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 121538549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.56570525000001,
+          11.32442045
+        ]
+      },
+      "id": 121538549
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 87,
+            "name": "Irrelevant tags on highway"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-34159383",
+            "name": "Gandhi Main Road",
+            "osm_id": 34159383,
+            "reasons": [
+              87
+            ],
+            "version": 8,
+            "primary_tags": {
+              "highway": "residential"
+            }
+          },
+          {
+            "url": "way-34159389",
+            "name": "Thanthai Periyar Street",
+            "osm_id": 34159389,
+            "reasons": [
+              87
+            ],
+            "version": 5,
+            "primary_tags": {
+              "highway": "residential"
+            }
+          },
+          {
+            "url": "way-34159388",
+            "name": "Aringar Anna Street",
+            "osm_id": 34159388,
+            "reasons": [
+              87
+            ],
+            "version": 4,
+            "primary_tags": {
+              "highway": "residential"
+            }
+          }
+        ],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-27T09:50:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "bus",
+            "road"
+          ],
+          "highway": [
+            "residential",
+            "service",
+            "unclassified",
+            "primary",
+            "secondary",
+            "tertiary",
+            "living_street",
+            "trunk_link"
+          ],
+          "name:etymology:wikidata": [
+            "Q2153",
+            "Q138765",
+            "Q181878",
+            "Q1001",
+            "Q737280"
+          ]
+        },
+        "create": 0,
+        "modify": 51,
+        "delete": 0,
+        "area": 11.7362189936106,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 73,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 121566441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45256465,
+          11.519066200000001
+        ]
+      },
+      "id": 121566441
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-27T04:27:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "theatre",
+            "college"
+          ],
+          "highway": [
+            "residential",
+            "unclassified",
+            "tertiary",
+            "living_street",
+            "primary",
+            "trunk",
+            "footway",
+            "service",
+            "secondary"
+          ],
+          "natural": [
+            "grassland"
+          ],
+          "boundary": [
+            "local_authority"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q256286",
+            "Q47478",
+            "Q3534483",
+            "Q9513",
+            "Q1570759",
+            "Q60429",
+            "Q745268",
+            "Q30547",
+            "Q127868",
+            "Q715607",
+            "Q250165"
+          ]
+        },
+        "create": 0,
+        "modify": 68,
+        "delete": 0,
+        "area": 15.6840130311719,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 78,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 121553183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.12146635,
+          11.27735505
+        ]
+      },
+      "id": 121553183
     }
   ]
 }

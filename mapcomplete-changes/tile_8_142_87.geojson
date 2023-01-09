@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "0xF16",
+        "uid": "7738051",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-29T07:03:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary_link",
+            "tertiary_link"
+          ],
+          "maxspeed": [
+            "50"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 9.89393279999392e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 128199278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6906553,
+          49.6292907
+        ]
+      },
+      "id": 128199278
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Richiii",
+        "uid": "16508603",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-12T08:32:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ]
+        },
+        "create": 5,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.17916538171584,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "move": 1,
+        "theme": "charging_stations",
+        "answer": 10,
+        "locale": "de",
+        "imagery": "CartoDB.Voyager",
+        "move:node/9882637868": "improve_accuracy",
+        "id": 123507240
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.973530699999998,
+          49.15683595
+        ]
+      },
+      "id": 123507240
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Richiii",
+        "uid": "16508603",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-12T08:26:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 6,
+        "modify": 6,
+        "delete": 0,
+        "area": 9.47226000029553e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "move": 1,
+        "theme": "trees",
+        "answer": 9,
+        "locale": "de",
+        "imagery": "osm",
+        "move:node/9882666500": "improve_accuracy",
+        "id": 123506946
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.969486250000003,
+          49.1522355
+        ]
+      },
+      "id": 123506946
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Richiii",
+        "uid": "16508603",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-12T08:16:54Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "parking"
+          ]
+        },
+        "create": 4,
+        "modify": 0,
+        "delete": 0,
+        "area": 0.00966782271280024,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/parkings.html",
+        "theme": "parkings",
+        "locale": "de",
+        "imagery": "osm",
+        "id": 123506496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.92277665,
+          49.2064162
+        ]
+      },
+      "id": 123506496
+    }
+  ]
+}

@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-06-13T16:30:11Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 106289501,
         "host": "mapcomplete.osm.be",
         "theme": "drinking_water",
         "imagery": "CartoDB.Voyager",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 106289501
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,62 @@
           12.9455588,
           41.5384073
         ]
-      }
+      },
+      "id": 106289501
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Neko the gamer",
+        "uid": "17021107",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-09T23:47:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "colour": [
+            "white"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "material": [
+            "stone"
+          ],
+          "direction": [
+            "353"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 128708000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9033027,
+          41.4671561
+        ]
+      },
+      "id": 128708000
     }
   ]
 }

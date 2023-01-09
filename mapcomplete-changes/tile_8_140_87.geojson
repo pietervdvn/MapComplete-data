@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-13T12:32:34Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 2,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 102866363,
         "host": "mapcomplete.osm.be",
         "theme": "benches",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Florian Edelmann"
+        "theme-creator": "Florian Edelmann",
+        "id": 102866363
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           17.4726391,
           49.0704289
         ]
-      }
+      },
+      "id": 102866363
     },
     {
       "type": "Feature",
@@ -65,12 +67,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119767277,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/benches.html",
         "theme": "benches",
         "answer": 3,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119767277
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +80,56 @@
           17.6419213,
           49.0263376
         ]
-      }
+      },
+      "id": 119767277
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Mapidor",
+        "uid": "11108144",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-13T08:06:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "cycleway"
+          ],
+          "smoothness": [
+            "excellent"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000801314051999877,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cycle_infra.html",
+        "theme": "cycle_infra",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 124843550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2593064,
+          48.9755227
+        ]
+      },
+      "id": 124843550
     }
   ]
 }

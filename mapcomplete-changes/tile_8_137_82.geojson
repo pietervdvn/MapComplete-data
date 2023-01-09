@@ -26,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120206062,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/theme.html",
         "theme": "dog",
         "answer": 8,
         "locale": "da",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 120206062
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,212 @@
           12.95974025,
           54.090299200000004
         ]
-      }
+      },
+      "id": 120206062
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "kjon",
+        "uid": "44217",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #observation_towers",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-18T17:57:27Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "name": [
+            "Vogelbeobachtungsturm",
+            "Vogelbeobachtungsturm (Höhe 9m)"
+          ],
+          "height": [
+            "9 m"
+          ],
+          "tourism": [
+            "viewpoint"
+          ],
+          "man_made": [
+            "tower"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/observation_towers.html",
+        "theme": "observation_towers",
+        "answer": 2,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 121158699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0612579,
+          53.9353522
+        ]
+      },
+      "id": 121158699
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "FFw Groß-Fredenwalde",
+        "uid": "16545424",
+        "editor": "MapComplete 0.7.2l",
+        "comment": "Adding data with #MapComplete for theme #waldbrand",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-17T10:20:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "note": [
+            "Nicht zugänglich",
+            "Fehleintrag, Hydrant ist nur Deko der FFw",
+            "Bei Nutzung fehlt Anwohnern nach geraumer Zeit das Wasser in den Häusern"
+          ]
+        },
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.00237152819700024,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "waldbrand-app.de",
+        "theme": "waldbrand",
+        "imagery": "EsriWorldImagery",
+        "language": "de",
+        "theme-creator": "Sebastian Kürten",
+        "id": 123715522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8373587,
+          53.34108745
+        ]
+      },
+      "id": 123715522
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Camila Espinoza",
+        "uid": "11325634",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-14T15:26:13Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "university"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/personal.html",
+        "theme": "personal",
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126187500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2656989,
+          53.6694044
+        ]
+      },
+      "id": 126187500
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Camila Espinoza",
+        "uid": "11325634",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-14T15:14:24Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 0,
+        "delete": 2,
+        "area": 2.10321760002212e-7,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/shops.html",
+        "theme": "shops",
+        "locale": "en",
+        "imagery": "osm",
+        "deletion": 2,
+        "deletion:node/10024688762": "testing point",
+        "deletion:node/10024709649": "testing point",
+        "id": 126187065
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2649626,
+          53.66825375
+        ]
+      },
+      "id": 126187065
     }
   ]
 }

@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-21T15:44:01Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 1,
@@ -25,13 +26,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 116437063,
         "host": "mapcomplete.osm.be",
         "theme": "parkings",
         "imagery": "Geoportal2-PL-aerial_image_WMTS",
         "deletion": 1,
         "language": "en",
-        "deletion:node/9437251385": "testing point"
+        "deletion:node/9437251385": "testing point",
+        "id": 116437063
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +40,50 @@
           17.402716,
           52.0871765
         ]
-      }
+      },
+      "id": 116437063
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Mariusz256",
+        "uid": "10396575",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-15T14:03:40Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 1,
+        "id": 121013943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9649317,
+          52.3973826
+        ]
+      },
+      "id": 121013943
     }
   ]
 }

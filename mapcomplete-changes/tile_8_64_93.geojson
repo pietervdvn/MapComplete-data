@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-02-22T23:27:07Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 6,
         "delete": 0,
@@ -25,11 +26,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 99778046,
         "host": "pietervdvn.github.io",
         "theme": "surveillance",
         "imagery": "Stadia.AlidadeSmoothDark",
-        "language": "en"
+        "language": "en",
+        "id": 99778046
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +38,53 @@
           -89.39523095,
           43.0759022
         ]
-      }
+      },
+      "id": 99778046
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Seaviator",
+        "uid": "9649188",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-30T05:32:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 2,
+        "modify": 3,
+        "delete": 0,
+        "area": 4.37966200009972e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees",
+        "theme": "trees",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "Mapbox",
+        "id": 121691387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.36606760000001,
+          43.09063175
+        ]
+      },
+      "id": 121691387
     }
   ]
 }

@@ -26,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119670301,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/climbing.html",
         "theme": "climbing",
         "answer": 7,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119670301
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,59 @@
           103.8529201,
           1.3125644
         ]
-      }
+      },
+      "id": 119670301
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "MapTheWalk",
+        "uid": "10499594",
+        "editor": "MapComplete 0.22.1",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-02T04:18:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes"
+          ],
+          "highway": [
+            "residential",
+            "footway",
+            "tertiary",
+            "pedestrian"
+          ]
+        },
+        "create": 0,
+        "modify": 18,
+        "delete": 0,
+        "area": 0.0000597186009599854,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 18,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123106266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85622885000001,
+          1.3059229
+        ]
+      },
+      "id": 123106266
     }
   ]
 }

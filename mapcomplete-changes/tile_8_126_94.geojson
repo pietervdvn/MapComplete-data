@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-01T21:50:13Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 102149904,
         "host": "pietervdvn.github.io",
         "theme": "artworks",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 102149904
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           -1.9743066,
           42.3045529
         ]
-      }
+      },
+      "id": 102149904
     },
     {
       "type": "Feature",
@@ -61,6 +63,7 @@
         "imagery_used": "Not reported",
         "date": "2021-08-22T15:41:15Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -69,12 +72,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 110067510,
         "host": "mapcomplete.osm.be",
         "theme": "hailhydrant",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Erwin Olario"
+        "theme-creator": "Erwin Olario",
+        "id": 110067510
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +85,8 @@
           -1.5646386,
           42.5236249
         ]
-      }
+      },
+      "id": 110067510
     },
     {
       "type": "Feature",
@@ -105,6 +109,7 @@
         "imagery_used": "Not reported",
         "date": "2021-08-22T08:13:06Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 4,
         "modify": 3,
         "delete": 0,
@@ -113,12 +118,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 110051017,
         "host": "mapcomplete.osm.be",
         "theme": "hailhydrant",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Erwin Olario"
+        "theme-creator": "Erwin Olario",
+        "id": 110051017
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +131,51 @@
           -1.5620355,
           42.5230351
         ]
-      }
+      },
+      "id": 110051017
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Dinn0",
+        "uid": "14893874",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-05-16T11:26:24Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 4.91717899999883e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_within_25m": 1,
+        "change_within_100m": 1,
+        "id": 121048707
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5046408500000004,
+          42.447854899999996
+        ]
+      },
+      "id": 121048707
     }
   ]
 }

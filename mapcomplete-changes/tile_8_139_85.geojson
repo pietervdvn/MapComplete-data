@@ -22,6 +22,7 @@
         "imagery_used": "Not reported",
         "date": "2021-05-06T20:43:26Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -30,12 +31,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 104274050,
         "host": "mapcomplete.osm.be",
         "theme": "climbing",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Christian Neumann <christian@utopicode.de>"
+        "theme-creator": "Christian Neumann <christian@utopicode.de>",
+        "id": 104274050
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +44,8 @@
           15.610203349999999,
           51.12703915
         ]
-      }
+      },
+      "id": 104274050
     },
     {
       "type": "Feature",
@@ -66,6 +68,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-01T06:09:39Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -74,12 +77,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 116850450,
         "host": "mapcomplete.osm.be",
         "theme": "climbing",
         "answer": 7,
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 116850450
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +90,62 @@
           15.610203349999999,
           51.12703915
         ]
-      }
+      },
+      "id": 116850450
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Zahkeete",
+        "uid": "6890926",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-28T11:02:13Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ],
+          "toilets:position": [
+            "seated;urinal"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 1,
+        "locale": "pl",
+        "imagery": "osm",
+        "change_within_25m": 1,
+        "id": 125472573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2145548,
+          51.2012085
+        ]
+      },
+      "id": 125472573
     }
   ]
 }

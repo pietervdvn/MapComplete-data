@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-03-24T20:45:39Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 6,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 101673428,
         "host": "pietervdvn.github.io",
         "theme": "trees",
         "imagery": "CyclOSM",
         "language": "en",
-        "theme-creator": "Midgard"
+        "theme-creator": "Midgard",
+        "id": 101673428
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           -49.26973085,
           -16.60013685
         ]
-      }
+      },
+      "id": 101673428
     },
     {
       "type": "Feature",
@@ -65,13 +67,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120060471,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/trees.html",
         "theme": "trees",
         "answer": 1,
         "locale": "en",
         "imagery": "osm",
-        "change_over_5000m": 1
+        "change_over_5000m": 1,
+        "id": 120060471
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +81,8 @@
           -49.2670604,
           -16.6045561
         ]
-      }
+      },
+      "id": 120060471
     }
   ]
 }

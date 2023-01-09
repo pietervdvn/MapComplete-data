@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-11-22T18:40:07Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 11,
         "delete": 0,
@@ -25,7 +26,6 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 114110334,
         "host": "mapcomplete.osm.be",
         "theme": "surveillance",
         "answer": 25,
@@ -35,7 +35,8 @@
         "change_within_25m": 10,
         "change_within_100m": 4,
         "change_within_500m": 4,
-        "change_within_5000m": 9
+        "change_within_5000m": 9,
+        "id": 114110334
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +44,8 @@
           -122.05661275,
           36.974851150000006
         ]
-      }
+      },
+      "id": 114110334
     },
     {
       "type": "Feature",
@@ -61,6 +63,7 @@
         "imagery_used": "Not reported",
         "date": "2021-12-01T23:46:40Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 2,
         "modify": 3,
         "delete": 0,
@@ -69,7 +72,6 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 114462319,
         "host": "mapcomplete.osm.be",
         "theme": "surveillance",
         "answer": 9,
@@ -77,7 +79,8 @@
         "language": "en",
         "add-image": 1,
         "change_over_5000m": 2,
-        "change_within_25m": 10
+        "change_within_25m": 10,
+        "id": 114462319
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +88,8 @@
           -122.03179975,
           36.9780299
         ]
-      }
+      },
+      "id": 114462319
     },
     {
       "type": "Feature",
@@ -108,6 +112,7 @@
         "imagery_used": "Not reported",
         "date": "2021-08-28T01:51:52Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 1,
         "delete": 0,
@@ -116,12 +121,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 110363347,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "imagery": "CartoDB.Voyager",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 110363347
       },
       "geometry": {
         "type": "Point",
@@ -129,7 +134,103 @@
           -122.04712710000001,
           37.2517689
         ]
-      }
+      },
+      "id": 110363347
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "impiaaa",
+        "uid": "537798",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-03T00:04:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "flickr": [
+            "https://www.flickr.com/photos/23807199@N00/51964304986"
+          ],
+          "tourism": [
+            "artwork"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "locale": "en",
+        "imagery": "osm",
+        "link-image": 1,
+        "id": 126912717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.90585725,
+          37.3316
+        ]
+      },
+      "id": 126912717
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "ilander89",
+        "uid": "12908543",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-21T07:17:18Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "waste_basket"
+          ]
+        },
+        "create": 0,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "locale": "en",
+        "imagery": "osm",
+        "deletion": 1,
+        "change_within_500m": 1,
+        "deletion:node/8554937239": "not found",
+        "id": 127866915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9167852,
+          37.2729248
+        ]
+      },
+      "id": 127866915
     },
     {
       "type": "Feature",
@@ -147,6 +248,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-11T06:32:26Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -155,13 +257,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117273386,
         "host": "mapcomplete.osm.be",
         "theme": "surveillance",
         "answer": 4,
         "locale": "en",
         "imagery": "osm",
-        "add-image": 1
+        "add-image": 1,
+        "id": 117273386
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +271,8 @@
           -122.05421045,
           36.98852575
         ]
-      }
+      },
+      "id": 117273386
     },
     {
       "type": "Feature",
@@ -201,14 +304,14 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119370272,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/food.html",
         "theme": "food",
         "answer": 10,
         "locale": "en",
         "imagery": "osm",
         "change_over_5000m": 1,
-        "change_within_5000m": 10
+        "change_within_5000m": 10,
+        "id": 119370272
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +319,107 @@
           -122.02375635000001,
           37.3113032
         ]
-      }
+      },
+      "id": 119370272
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "157",
+        "uid": "16462628",
+        "editor": "MapComplete 0.22.1",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-09T22:20:18Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary"
+          ],
+          "maxspeed": [
+            "35 mph"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000158819599999023,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123415379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00872275,
+          37.5417372
+        ]
+      },
+      "id": 123415379
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "ilander89",
+        "uid": "12908543",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-29T09:00:15Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "waste_basket"
+          ]
+        },
+        "create": 0,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "locale": "en",
+        "imagery": "osm",
+        "deletion": 1,
+        "deletion:node/8554684352": "not found",
+        "id": 126769597
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9190193,
+          37.2754162
+        ]
+      },
+      "id": 126769597
     }
   ]
 }

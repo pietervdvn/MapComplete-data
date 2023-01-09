@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "kirstukas",
+        "uid": "7589912",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-26T13:08:05Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "bus"
+          ],
+          "oneway": [
+            "no",
+            "yes"
+          ],
+          "highway": [
+            "residential",
+            "trunk_link",
+            "tertiary",
+            "unclassified"
+          ],
+          "maxspeed": [
+            "50",
+            "90",
+            "70",
+            "20"
+          ]
+        },
+        "create": 4,
+        "modify": 72,
+        "delete": 0,
+        "area": 0.00103094257103999,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "split": 6,
+        "theme": "maxspeed",
+        "answer": 71,
+        "locale": "en",
+        "imagery": "Mapbox",
+        "id": 129401612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8788451,
+          54.9255069
+        ]
+      },
+      "id": 129401612
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 91,
+            "name": "Motorway/trunk geometry modified"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-25821475",
+            "name": "Žemaičių pl.",
+            "osm_id": 25821475,
+            "reasons": [
+              91
+            ],
+            "version": 26,
+            "primary_tags": {
+              "highway": "trunk"
+            }
+          },
+          {
+            "url": "way-54040413",
+            "name": "Vakarinis aplinkl.",
+            "osm_id": 54040413,
+            "reasons": [
+              91
+            ],
+            "version": 15,
+            "primary_tags": {
+              "highway": "trunk"
+            }
+          },
+          {
+            "url": "way-399295771",
+            "osm_id": 399295771,
+            "reasons": [
+              91
+            ],
+            "version": 15,
+            "primary_tags": {
+              "highway": "trunk_link"
+            }
+          }
+        ],
+        "user": "kirstukas",
+        "uid": "7589912",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-26T12:21:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "road",
+            "bus"
+          ],
+          "highway": [
+            "trunk_link",
+            "residential",
+            "primary",
+            "trunk",
+            "secondary",
+            "primary_link",
+            "tertiary",
+            "living_street",
+            "secondary_link"
+          ],
+          "maxspeed": [
+            "90",
+            "20",
+            "50",
+            "70",
+            "40",
+            "80",
+            "30"
+          ]
+        },
+        "create": 8,
+        "modify": 80,
+        "delete": 0,
+        "area": 0.000756142944760266,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "split": 14,
+        "theme": "maxspeed",
+        "answer": 72,
+        "locale": "en",
+        "imagery": "osm",
+        "relation-fix": 7,
+        "id": 129400103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89227195,
+          54.934711300000004
+        ]
+      },
+      "id": 129400103
+    }
+  ]
+}

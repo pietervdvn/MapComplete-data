@@ -8,45 +8,6 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "GOwin",
-        "uid": "1041828",
-        "editor": "MapComplete 0.6.11c",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-04-29T00:34:45Z",
-        "reviewed_features": [],
-        "create": 0,
-        "modify": 3,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 103805126,
-        "host": "pietervdvn.github.io",
-        "theme": "cyclofix",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "theme-creator": "MapComplete"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          125.6132843,
-          7.0810085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
         "user": "n1kn0k",
         "uid": "867701",
         "editor": "MapComplete 0.6.11",
@@ -56,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-23T05:11:03Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 1,
         "delete": 0,
@@ -64,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 103450456,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 103450456
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +39,49 @@
           125.6069952,
           7.0685686
         ]
-      }
+      },
+      "id": 103450456
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "GOwin",
+        "uid": "1041828",
+        "editor": "MapComplete 0.6.11c",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-04-29T00:34:45Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "pietervdvn.github.io",
+        "theme": "cyclofix",
+        "imagery": "CartoDB.Voyager",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 103805126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6132843,
+          7.0810085
+        ]
+      },
+      "id": 103805126
     }
   ]
 }

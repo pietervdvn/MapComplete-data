@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-08-21T19:20:23Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -25,8 +26,7 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 89761097,
-        "theme": "cyclofix"
+        "id": 89761097
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +34,522 @@
           14.6071219,
           49.029244
         ]
-      }
+      },
+      "id": 89761097
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Richiii",
+        "uid": "16508603",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-11T21:53:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "tertiary",
+            "primary"
+          ],
+          "maxspeed": [
+            "30",
+            "50",
+            "100",
+            "70"
+          ]
+        },
+        "create": 2,
+        "modify": 16,
+        "delete": 0,
+        "area": 19.1116880641487,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "split": 3,
+        "theme": "maxspeed",
+        "answer": 14,
+        "locale": "de",
+        "imagery": "osm",
+        "relation-fix": 1,
+        "change_over_5000m": 8,
+        "change_within_5000m": 9,
+        "id": 123492994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465053000000001,
+          49.5560988
+        ]
+      },
+      "id": 123492994
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Richiii",
+        "uid": "16508603",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-12T07:26:05Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "maxspeed": [
+            "30",
+            "50"
+          ]
+        },
+        "create": 0,
+        "modify": 18,
+        "delete": 0,
+        "area": 14.2579553438256,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 18,
+        "locale": "de",
+        "imagery": "osm",
+        "change_over_5000m": 4,
+        "id": 123503971
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.98691975,
+          49.7466383
+        ]
+      },
+      "id": 123503971
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-26T16:55:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/ef1HZiO.jpg"
+          ],
+          "amenity": [
+            "fire_station"
+          ],
+          "building": [
+            "civic"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 4.30977500001741e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hailhydrant.html",
+        "theme": "hailhydrant",
+        "locale": "de",
+        "imagery": "HDM_HOT",
+        "add-image": 1,
+        "id": 124105106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.316870250000001,
+          49.25844095
+        ]
+      },
+      "id": 124105106
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #maps",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-26T16:51:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/luMOvGQ.jpg"
+          ],
+          "tourism": [
+            "information"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maps.html",
+        "theme": "maps",
+        "locale": "de",
+        "imagery": "osm",
+        "add-image": 1,
+        "id": 124104908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3137793,
+          49.2589661
+        ]
+      },
+      "id": 124104908
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-26T16:37:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/ghPOrdV.jpg",
+            "https://i.imgur.com/5P3u0PV.jpg"
+          ],
+          "highway": [
+            "bus_stop"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.00000780172056000669,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/personal.html",
+        "theme": "personal",
+        "locale": "de",
+        "imagery": "osm",
+        "add-image": 2,
+        "id": 124104316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3153838,
+          49.258884699999996
+        ]
+      },
+      "id": 124104316
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-26T15:46:31Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/ounn9dX.jpg",
+            "https://i.imgur.com/2farpjT.jpg",
+            "https://i.imgur.com/pYntO0y.jpg",
+            "https://i.imgur.com/My65Nl7.jpg"
+          ],
+          "tourism": [
+            "artwork"
+          ],
+          "artwork_type": [
+            "sculpture"
+          ]
+        },
+        "create": 0,
+        "modify": 7,
+        "delete": 0,
+        "area": 5.37023040007135e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "answer": 3,
+        "locale": "de",
+        "imagery": "osm",
+        "add-image": 4,
+        "change_over_5000m": 7,
+        "id": 124102461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5393948,
+          49.289394200000004
+        ]
+      },
+      "id": 124102461
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #maps",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-26T10:36:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/ygkaSf4.jpg"
+          ],
+          "tourism": [
+            "information"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maps.html",
+        "theme": "maps",
+        "locale": "de",
+        "imagery": "osm",
+        "add-image": 1,
+        "id": 124089248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1847799,
+          49.0375884
+        ]
+      },
+      "id": 124089248
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-27T05:10:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/5iFF39o.jpg"
+          ],
+          "tourism": [
+            "artwork"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "locale": "de",
+        "imagery": "osm",
+        "add-image": 1,
+        "id": 124120443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.314284,
+          49.2594423
+        ]
+      },
+      "id": 124120443
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #maps",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-27T03:46:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/INtqw2Q.jpg"
+          ],
+          "tourism": [
+            "information"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maps.html",
+        "theme": "maps",
+        "locale": "de",
+        "imagery": "osm",
+        "add-image": 1,
+        "id": 124118607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3169395,
+          49.2585561
+        ]
+      },
+      "id": 124118607
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #transit",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-27T03:18:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/oEUaFE7.jpg",
+            "https://i.imgur.com/cXkSmpE.jpg"
+          ],
+          "highway": [
+            "bus_stop"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 1.30148259998749e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/transit.html",
+        "theme": "transit",
+        "locale": "de",
+        "imagery": "osm",
+        "add-image": 2,
+        "id": 124118270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3064301,
+          49.25396885
+        ]
+      },
+      "id": 124118270
     }
   ]
 }

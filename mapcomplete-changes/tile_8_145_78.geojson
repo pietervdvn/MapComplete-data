@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-05-13T18:34:22Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 6,
         "modify": 0,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 104654185,
         "host": "mapcomplete.osm.be",
         "theme": "trees",
         "imagery": "LV_ORTOFOTO_C6",
         "language": "en",
-        "theme-creator": "Midgard"
+        "theme-creator": "Midgard",
+        "id": 104654185
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,71 @@
           24.01391385,
           56.945104400000005
         ]
-      }
+      },
+      "id": 104654185
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Ervins Reinverts",
+        "uid": "4334069",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-03T21:05:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "living_street",
+            "trunk"
+          ],
+          "name:etymology:wikidata": [
+            "Q731915",
+            "Q1355709",
+            "Q129324",
+            "Q145889",
+            "Q101680",
+            "Q26782",
+            "Q525",
+            "Q165145",
+            "Q1773"
+          ]
+        },
+        "create": 0,
+        "modify": 16,
+        "delete": 0,
+        "area": 0.000719914833720167,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology",
+        "theme": "etymology",
+        "answer": 20,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 129689134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72259495,
+          56.7422863
+        ]
+      },
+      "id": 129689134
     }
   ]
 }

@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-08-27T00:47:19Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,9 +26,9 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 89995176,
         "theme": "toilets",
-        "theme-creator": "Pieter Vander Vennet"
+        "theme-creator": "Pieter Vander Vennet",
+        "id": 89995176
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +36,8 @@
           -4.5620095,
           48.5973999
         ]
-      }
+      },
+      "id": 89995176
     },
     {
       "type": "Feature",
@@ -53,6 +55,7 @@
         "imagery_used": "Not reported",
         "date": "2020-08-27T00:46:55Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -61,9 +64,9 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 89995170,
         "theme": "toilets",
-        "theme-creator": "Pieter Vander Vennet"
+        "theme-creator": "Pieter Vander Vennet",
+        "id": 89995170
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +74,71 @@
           -4.572407849999999,
           48.58688495
         ]
-      }
+      },
+      "id": 89995170
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Petermännchen",
+        "uid": "168387",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-11T20:57:39Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "yes"
+          ],
+          "name": [
+            "Aire des Camping-Cars  Lampaul-Plouarzel"
+          ],
+          "toilets": [
+            "yes"
+          ],
+          "tourism": [
+            "caravan_site"
+          ],
+          "capacity": [
+            "50"
+          ],
+          "internet_access": [
+            "yes"
+          ],
+          "internet_access:fee": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.00000330641219999433,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite",
+        "theme": "campersite",
+        "answer": 7,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 127380947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7764986,
+          48.4473536
+        ]
+      },
+      "id": 127380947
     }
   ]
 }

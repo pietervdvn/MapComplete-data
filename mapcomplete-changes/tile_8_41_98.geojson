@@ -22,6 +22,7 @@
         "imagery_used": "Not reported",
         "date": "2021-09-27T02:08:12Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -30,12 +31,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 111745072,
         "host": "mapcomplete.osm.be",
         "theme": "ghostbikes",
         "imagery": "CartoDB.Positron",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 111745072
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +44,8 @@
           -122.2583896,
           37.8367212
         ]
-      }
+      },
+      "id": 111745072
     },
     {
       "type": "Feature",
@@ -61,6 +63,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-25T02:20:20Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -69,12 +72,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 116565413,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "answer": 2,
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 116565413
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +85,107 @@
           -121.92194605,
           37.79153255
         ]
-      }
+      },
+      "id": 116565413
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "NMAD",
+        "uid": "15292924",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-19T01:34:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees",
+        "theme": "trees",
+        "locale": "en",
+        "imagery": "USDA-NAIP",
+        "id": 127753539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3044556,
+          37.8905699
+        ]
+      },
+      "id": 127753539
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "jabrad0",
+        "uid": "2426778",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-24T01:31:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "bicycle"
+          ]
+        },
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 6,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 121395081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21220220000001,
+          37.8117886
+        ]
+      },
+      "id": 121395081
     }
   ]
 }

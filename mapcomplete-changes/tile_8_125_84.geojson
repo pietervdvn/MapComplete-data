@@ -8,45 +8,6 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Russ McD",
-        "uid": "346601",
-        "editor": "MapComplete 0.10.6",
-        "comment": "Adding data with #MapComplete for theme #toilets",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-10-18T05:58:47Z",
-        "reviewed_features": [],
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 112635876,
-        "host": "mapcomplete.osm.be",
-        "theme": "toilets",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.3341011,
-          52.275169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
         "user": "RobJN",
         "uid": "411244",
         "editor": "MapComplete 0.9.14",
@@ -56,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-10-02T15:16:38Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 2,
         "delete": 0,
@@ -64,11 +26,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 112005129,
         "host": "mapcomplete.osm.be",
         "theme": "cafes_and_pubs",
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 112005129
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +38,8 @@
           -3.0191546,
           51.822791
         ]
-      }
+      },
+      "id": 112005129
     },
     {
       "type": "Feature",
@@ -94,6 +57,7 @@
         "imagery_used": "Not reported",
         "date": "2021-10-02T15:09:46Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 2,
         "modify": 2,
         "delete": 0,
@@ -102,12 +66,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 112004831,
         "host": "mapcomplete.osm.be",
         "theme": "shops",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 112004831
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +79,101 @@
           -3.01948285,
           51.82287995
         ]
-      }
+      },
+      "id": 112004831
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Russ McD",
+        "uid": "346601",
+        "editor": "MapComplete 0.10.6",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-10-18T05:58:47Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "toilets",
+        "imagery": "osm",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 112635876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3341011,
+          52.275169
+        ]
+      },
+      "id": 112635876
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Russ McD",
+        "uid": "346601",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-08T05:29:14Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "indoor": [
+            "no"
+          ],
+          "defibrillator:location": [
+            "On the dam abutments"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.248252019487497,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 8,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 8,
+        "id": 124621179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59937855,
+          52.224089
+        ]
+      },
+      "id": 124621179
     }
   ]
 }

@@ -5,45 +5,6 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Robert Whittaker",
-        "uid": "84263",
-        "editor": "MapComplete 0.8.0c",
-        "comment": "Adding data with #MapComplete for theme #aed",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-06-23T05:53:09Z",
-        "reviewed_features": [],
-        "create": 0,
-        "modify": 2,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 106812639,
-        "host": "mapcomplete.osm.be",
-        "theme": "aed",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.7675936,
-          52.4184735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
         "reasons": [
           {
             "id": 40,
@@ -61,6 +22,7 @@
         "imagery_used": "Not reported",
         "date": "2021-06-22T20:34:36Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 1,
         "delete": 0,
@@ -69,12 +31,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 106798030,
         "host": "mapcomplete.osm.be",
         "theme": "trees",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Midgard"
+        "theme-creator": "Midgard",
+        "id": 106798030
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +44,8 @@
           0.1458612,
           52.2141956
         ]
-      }
+      },
+      "id": 106798030
     },
     {
       "type": "Feature",
@@ -100,6 +63,7 @@
         "imagery_used": "Not reported",
         "date": "2021-06-22T13:10:38Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -108,12 +72,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 106778953,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 106778953
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +85,415 @@
           0.75020115,
           52.41434385
         ]
-      }
+      },
+      "id": 106778953
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robert Whittaker",
+        "uid": "84263",
+        "editor": "MapComplete 0.8.0c",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-06-23T05:53:09Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "aed",
+        "imagery": "osm",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 106812639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7675936,
+          52.4184735
+        ]
+      },
+      "id": 106812639
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "thelazymapper",
+        "uid": "15054081",
+        "editor": "MapComplete 0.22.1",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-15T20:01:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "addr:street": [
+            "Taylifers"
+          ]
+        },
+        "create": 4,
+        "modify": 4,
+        "delete": 0,
+        "area": 1.64192400000803e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 9,
+        "import": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 4,
+        "change_within_25m": 7,
+        "change_within_50m": 2,
+        "id": 123667622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0711343,
+          51.74703395
+        ]
+      },
+      "id": 123667622
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "thelazymapper",
+        "uid": "15054081",
+        "editor": "MapComplete 0.22.1",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-15T19:47:38Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 3,
+        "modify": 1,
+        "delete": 0,
+        "area": 2.96586500002334e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 12,
+        "import": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 2,
+        "change_within_25m": 4,
+        "id": 123667202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07138655,
+          51.74715655
+        ]
+      },
+      "id": 123667202
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "thelazymapper",
+        "uid": "15054081",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-29T14:19:19Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 2,
+        "import": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 2,
+        "id": 124234152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0716549,
+          51.7472306
+        ]
+      },
+      "id": 124234152
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "thelazymapper",
+        "uid": "15054081",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-04T18:03:39Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 2,
+        "import": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 2,
+        "id": 124492054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0863618,
+          51.7568162
+        ]
+      },
+      "id": 124492054
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "thelazymapper",
+        "uid": "15054081",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-06T19:26:00Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 2,
+        "import": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 2,
+        "id": 124575436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0711959,
+          51.7468867
+        ]
+      },
+      "id": 124575436
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robert Whittaker",
+        "uid": "84263",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-12T09:33:21Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "building": [
+            "house",
+            "bungalow",
+            "yes"
+          ],
+          "nohousenumber": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 25,
+        "delete": 0,
+        "area": 0.000032117963219982,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 25,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_500m": 21,
+        "change_within_1000m": 1,
+        "change_within_5000m": 3,
+        "id": 124809884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7549588,
+          52.41438955
+        ]
+      },
+      "id": 124809884
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "thelazymapper",
+        "uid": "15054081",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-13T16:00:45Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 1,
+        "import": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 124858904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0720187,
+          51.7469386
+        ]
+      },
+      "id": 124858904
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "thelazymapper",
+        "uid": "15054081",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-13T15:58:04Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 5,
+        "modify": 5,
+        "delete": 0,
+        "area": 9.41528000003692e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 9,
+        "import": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 5,
+        "change_within_25m": 9,
+        "id": 124858793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.071996,
+          51.747127250000005
+        ]
+      },
+      "id": 124858793
     }
   ]
 }

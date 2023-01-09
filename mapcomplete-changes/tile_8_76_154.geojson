@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-12-29T16:19:20Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115527664,
         "host": "mapcomplete.osm.be",
         "theme": "trees",
         "imagery": "osm",
         "language": "en",
-        "add-image": 1
+        "add-image": 1,
+        "id": 115527664
       },
       "geometry": {
         "type": "Point",
@@ -38,46 +39,8 @@
           -72.0076495,
           -34.3861726
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Awo",
-        "uid": "196556",
-        "editor": "MapComplete 0.13.1",
-        "comment": "Adding data with #MapComplete for theme #trees",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-01-11T18:52:34Z",
-        "reviewed_features": [],
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 116036589,
-        "host": "mapcomplete.osm.be",
-        "theme": "trees",
-        "imagery": "cyclosm",
-        "language": "en",
-        "add-image": 1
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.0103707,
-          -34.4849025
-        ]
-      }
+      "id": 115527664
     },
     {
       "type": "Feature",
@@ -95,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-03T19:00:53Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -103,12 +67,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115724617,
         "host": "mapcomplete.osm.be",
         "theme": "trees",
         "imagery": "osm",
         "language": "en",
-        "add-image": 1
+        "add-image": 1,
+        "id": 115724617
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +80,8 @@
           -71.9724679,
           -34.4614224
         ]
-      }
+      },
+      "id": 115724617
     },
     {
       "type": "Feature",
@@ -134,6 +99,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-03T18:49:45Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -142,12 +108,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115724223,
         "host": "mapcomplete.osm.be",
         "theme": "trees",
         "imagery": "osm",
         "language": "en",
-        "add-image": 1
+        "add-image": 1,
+        "id": 115724223
       },
       "geometry": {
         "type": "Point",
@@ -155,7 +121,49 @@
           -71.9729087,
           -34.4616279
         ]
-      }
+      },
+      "id": 115724223
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Awo",
+        "uid": "196556",
+        "editor": "MapComplete 0.13.1",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-01-11T18:52:34Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "trees",
+        "imagery": "cyclosm",
+        "language": "en",
+        "add-image": 1,
+        "id": 116036589
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0103707,
+          -34.4849025
+        ]
+      },
+      "id": 116036589
     }
   ]
 }

@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-18T16:56:08Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 103146450,
         "host": "mapcomplete.osm.be",
         "theme": "benches",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Florian Edelmann"
+        "theme-creator": "Florian Edelmann",
+        "id": 103146450
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           0.8391177999999999,
           51.130258
         ]
-      }
+      },
+      "id": 103146450
     },
     {
       "type": "Feature",
@@ -61,6 +63,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-09T17:46:15Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -69,12 +72,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 107719337,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 107719337
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +85,8 @@
           0.069903,
           51.481657
         ]
-      }
+      },
+      "id": 107719337
     },
     {
       "type": "Feature",
@@ -100,6 +104,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-13T11:50:29Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -108,13 +113,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117350688,
         "host": "pietervdvn.github.io",
         "path": "mc/develop/",
         "theme": "uk_addresses",
         "import": 1,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117350688
       },
       "geometry": {
         "type": "Point",
@@ -122,7 +127,8 @@
           1.0566118,
           51.268894
         ]
-      }
+      },
+      "id": 117350688
     },
     {
       "type": "Feature",
@@ -149,12 +155,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 118473045,
-        "host": "pietervdvn.github.io",
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
         "theme": "uk_addresses",
         "answer": 5,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 118473045
       },
       "geometry": {
         "type": "Point",
@@ -162,7 +168,163 @@
           0.016287,
           51.47761765
         ]
-      }
+      },
+      "id": 118473045
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "titusd",
+        "uid": "1222046",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-02T14:34:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/gVjGaow.jpg"
+          ],
+          "bottle": [
+            "yes"
+          ],
+          "man_made": [
+            "water_tap"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "Mapbox",
+        "add-image": 1,
+        "change_within_50m": 2,
+        "id": 124395230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0360843,
+          51.0961931
+        ]
+      },
+      "id": 124395230
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "titusd",
+        "uid": "1222046",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-03T15:43:24Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 0,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "deletion": 1,
+        "add-image": 1,
+        "change_within_25m": 1,
+        "change_within_50m": 1,
+        "deletion:node/6458926857": "not found",
+        "id": 124442728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1577413,
+          50.8067612
+        ]
+      },
+      "id": 124442728
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "titusd",
+        "uid": "1222046",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-03T14:35:28Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/hG4Dw8b.jpg"
+          ],
+          "bottle": [
+            "yes"
+          ],
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 1,
+        "change_within_50m": 2,
+        "id": 124440254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0194614,
+          50.8294561
+        ]
+      },
+      "id": 124440254
     }
   ]
 }

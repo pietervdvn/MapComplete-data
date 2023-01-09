@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-09-06T10:56:49Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,9 +26,9 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 90476470,
         "theme": "toilets",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 90476470
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +36,96 @@
           -0.4464396,
           53.7564724
         ]
-      }
+      },
+      "id": 90476470
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "confusedbuffalo",
+        "uid": "242345",
+        "editor": "MapComplete 0.20.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-23T11:08:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "secondary",
+            "tertiary",
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q128147",
+            "Q667",
+            "Q6652464",
+            "Q1003286",
+            "Q350",
+            "Q208257",
+            "Q42462",
+            "Q28469715",
+            "Q28469731",
+            "Q28469739",
+            "Q28469735",
+            "Q28469737",
+            "Q28469736",
+            "Q28469742",
+            "Q28469741",
+            "Q28469743",
+            "Q28469717",
+            "Q28469721",
+            "Q28469719",
+            "Q28469716",
+            "Q28469718",
+            "Q28469724",
+            "Q28469728",
+            "Q28469726",
+            "Q28469738",
+            "Q28469740",
+            "Q28469744",
+            "Q28469748",
+            "Q28469746",
+            "Q28469734",
+            "Q28469730",
+            "Q28469722",
+            "Q28469720",
+            "Q28469732",
+            "Q28469714",
+            "Q2162945"
+          ]
+        },
+        "create": 0,
+        "modify": 59,
+        "delete": 0,
+        "area": 0.00880626606127977,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology",
+        "theme": "etymology",
+        "answer": 75,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123971306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4317537,
+          53.76147975
+        ]
+      },
+      "id": 123971306
     }
   ]
 }

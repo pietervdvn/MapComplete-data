@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "gurcanozturk",
+        "uid": "318271",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-11T14:57:21Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 8,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 129965379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.1116701,
+          40.9381274
+        ]
+      },
+      "id": 129965379
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "bbtns1",
+        "uid": "5132923",
+        "editor": "MapComplete 0.20.3",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-19T12:44:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "barrier": [
+            "bollard"
+          ],
+          "bicycle": [
+            "yes"
+          ],
+          "bollard": [
+            "flexible"
+          ],
+          "highway": [
+            "traffic_signals",
+            "crossing"
+          ],
+          "crossing": [
+            "unmarked",
+            "uncontrolled",
+            "marked"
+          ],
+          "tactile_paving": [
+            "no",
+            "yes"
+          ],
+          "button_operated": [
+            "yes"
+          ],
+          "crossing:island": [
+            "no",
+            "yes"
+          ],
+          "maxwidth:physical": [
+            "0.3"
+          ],
+          "red_turn:right:bicycle": [
+            "no"
+          ],
+          "red_turn:straight:bicycle": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 22,
+        "delete": 0,
+        "area": 0.623876152306437,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cycle_infra",
+        "theme": "cycle_infra",
+        "answer": 37,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_within_1000m": 6,
+        "id": 122578230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4353151,
+          40.6889961
+        ]
+      },
+      "id": 122578230
+    }
+  ]
+}

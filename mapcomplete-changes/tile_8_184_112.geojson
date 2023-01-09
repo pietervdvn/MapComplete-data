@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.21.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-25T16:34:39Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 90,
+        "delete": 0,
+        "area": 310.420779238413,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 143,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 122843152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.20505345000001,
+          21.4901391
+        ]
+      },
+      "id": 122843152
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 489,
+            "name": "Mapbox: Spam text"
+          },
+          {
+            "id": 531,
+            "name": "Mapbox: Overlapping features"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-828016797",
+            "note": "Spam text reported in [\"name\",\"name:etymology:wikidata\"] tags in the feature",
+            "osm_id": 828016797,
+            "reasons": [
+              489,
+              531
+            ],
+            "version": 2
+          }
+        ],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.22.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-06T03:42:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "college"
+          ],
+          "highway": [
+            "primary"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q1047",
+            "Q3633365"
+          ]
+        },
+        "create": 0,
+        "modify": 102,
+        "delete": 0,
+        "area": 473.160038445423,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 112,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123256718
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0731569,
+          21.219516
+        ]
+      },
+      "id": 123256718
+    }
+  ]
+}

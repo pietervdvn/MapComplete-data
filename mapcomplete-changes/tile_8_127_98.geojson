@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-03-16T23:01:16Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -25,11 +26,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 101147703,
         "host": "pietervdvn.github.io",
         "theme": "crossingtime",
         "imagery": "osm",
-        "language": "es"
+        "language": "es",
+        "id": 101147703
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +38,8 @@
           -0.4834303,
           38.36955365
         ]
-      }
+      },
+      "id": 101147703
     },
     {
       "type": "Feature",
@@ -55,6 +57,7 @@
         "imagery_used": "Not reported",
         "date": "2021-08-01T10:25:20Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -63,11 +66,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108968481,
         "host": "mapcomplete.osm.be",
         "theme": "crossingtime",
         "imagery": "osm",
-        "language": "es"
+        "language": "es",
+        "id": 108968481
       },
       "geometry": {
         "type": "Point",
@@ -75,48 +78,8 @@
           -0.48985795,
           38.3767919
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.12.13",
-        "comment": "Adding data with #MapComplete for theme #aed",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-01-05T11:01:10Z",
-        "reviewed_features": [],
-        "create": 1,
-        "modify": 3,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 115792041,
-        "host": "mapcomplete.osm.be",
-        "theme": "aed",
-        "answer": 5,
-        "imagery": "osm",
-        "language": "nl",
-        "change_over_5000m": 1,
-        "change_within_25m": 5
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.6984365,
-          38.2655077
-        ]
-      }
+      "id": 108968481
     },
     {
       "type": "Feature",
@@ -134,6 +97,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-03T12:10:59Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 5,
         "delete": 0,
@@ -142,7 +106,6 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115708435,
         "host": "mapcomplete.osm.be",
         "theme": "campersite",
         "answer": 6,
@@ -150,7 +113,8 @@
         "language": "nl",
         "add-image": 1,
         "change_over_5000m": 1,
-        "change_within_25m": 7
+        "change_within_25m": 7,
+        "id": 115708435
       },
       "geometry": {
         "type": "Point",
@@ -158,7 +122,51 @@
           -0.0497738,
           38.603769
         ]
-      }
+      },
+      "id": 115708435
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.12.13",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-01-05T11:01:10Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "aed",
+        "answer": 5,
+        "imagery": "osm",
+        "language": "nl",
+        "change_over_5000m": 1,
+        "change_within_25m": 5,
+        "id": 115792041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6984365,
+          38.2655077
+        ]
+      },
+      "id": 115792041
     },
     {
       "type": "Feature",
@@ -169,36 +177,2124 @@
         "features": [],
         "user": "paunofu",
         "uid": "13779940",
-        "editor": "MapComplete 0.15.8",
-        "comment": "Adding data with #MapComplete for theme #https://paunofu.github.io/preguntesmc/policia_esp.json",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #shops",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-02-18T01:58:49Z",
+        "date": "2022-10-03T10:29:39Z",
         "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "books"
+          ],
+          "email": [
+            "info@libreriallorens.com"
+          ],
+          "phone": [
+            "+34 965 54 37 46"
+          ],
+          "website": [
+            "https://www.libreriallorens.com/es/"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "opening_hours": [
+            "Mo-Fr 09:30-14:00, 17:00-20:00;PH off;Sa 09:30-14:00"
+          ],
+          "payment:cards": [
+            "yes"
+          ]
+        },
         "create": 0,
-        "modify": 6,
+        "modify": 5,
         "delete": 0,
-        "area": 0.022437050956139,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117543583,
-        "host": "mapcomplete.osm.be",
-        "theme": "https://paunofu.github.io/preguntesmc/policia_esp.json",
-        "answer": 6,
+        "host": "https://mapcomplete.osm.be/shops.html",
+        "theme": "shops",
+        "answer": 5,
         "locale": "ca",
         "imagery": "osm",
-        "change_over_5000m": 6
+        "change_within_5000m": 1,
+        "id": 126928948
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0345983,
-          38.78271505
+          -0.473368,
+          38.6974771
         ]
-      }
+      },
+      "id": 126928948
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-03T10:28:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes"
+          ],
+          "highway": [
+            "secondary"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 1.77546890000052e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_5000m": 1,
+        "id": 126928872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47297535,
+          38.69798925
+        ]
+      },
+      "id": 126928872
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-10T16:36:02Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "place": [
+            "square"
+          ],
+          "amenity": [
+            "hospital",
+            "school"
+          ],
+          "barrier": [
+            "wall"
+          ],
+          "highway": [
+            "secondary",
+            "living_street",
+            "pedestrian"
+          ],
+          "name:etymology:wikidata": [
+            "Q5720",
+            "Q17590",
+            "Q11935374",
+            "Q332088",
+            "Q29"
+          ]
+        },
+        "create": 0,
+        "modify": 14,
+        "delete": 0,
+        "area": 0.000150916947560028,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 17,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_25m": 4,
+        "change_within_50m": 5,
+        "change_within_500m": 8,
+        "id": 127313172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47138899999999995,
+          38.7007666
+        ]
+      },
+      "id": 127313172
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-12T23:54:31Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "recycling"
+          ],
+          "recycling:cans": [
+            "yes"
+          ],
+          "recycling:plastic_packaging": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 127440925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4781112,
+          38.6954056
+        ]
+      },
+      "id": 127440925
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-12T20:39:39Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "fire_station"
+          ],
+          "operator": [
+            "Consorcio Provincial de Bomberos de Alicante"
+          ],
+          "addr:place": [
+            "Cocentaina"
+          ],
+          "operator:type": [
+            "government"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.00317881850760013,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hailhydrant.html",
+        "theme": "hailhydrant",
+        "answer": 4,
+        "locale": "ca",
+        "imagery": "HDM_HOT",
+        "id": 127435055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4868981,
+          38.6946159
+        ]
+      },
+      "id": 127435055
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-12T20:27:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "phone": [
+            "+34 900 929 293"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "network": [
+            "Iberdrola"
+          ],
+          "parking:fee": [
+            "no"
+          ],
+          "authentication:app": [
+            "yes"
+          ],
+          "authentication:nfc": [
+            "yes"
+          ],
+          "socket:type2:output": [
+            "43 kW"
+          ],
+          "authentication:debit_card": [
+            "no"
+          ],
+          "authentication:money_card": [
+            "no"
+          ],
+          "authentication:phone_call": [
+            "no"
+          ],
+          "socket:type2_combo:output": [
+            "50 kW"
+          ],
+          "authentication:short_message": [
+            "no"
+          ],
+          "authentication:membership_card": [
+            "yes"
+          ]
+        },
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0526882383552189,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 9,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "id": 127434732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2925244,
+          38.771290449999995
+        ]
+      },
+      "id": 127434732
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-12T20:26:36Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 5,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "id": 127434712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4740161,
+          38.6987138
+        ]
+      },
+      "id": 127434712
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-15T19:46:59Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "pedestrian"
+          ],
+          "name:etymology:wikidata": [
+            "Q11936233"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 1.24531290000557e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 127586580
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47409585,
+          38.69700825
+        ]
+      },
+      "id": 127586580
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-17T21:40:58Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school",
+            "college",
+            "social_facility"
+          ],
+          "highway": [
+            "secondary",
+            "residential",
+            "trunk",
+            "pedestrian",
+            "tertiary",
+            "track",
+            "service",
+            "footway"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q494777",
+            "Q209077",
+            "Q559667",
+            "Q11959",
+            "Q419",
+            "Q1753479",
+            "Q545065",
+            "Q48438",
+            "Q17389536",
+            "Q11685009",
+            "Q941886",
+            "Q82941288",
+            "Q5432",
+            "Q1641908",
+            "Q44269",
+            "Q128267",
+            "Q283466",
+            "Q2298247",
+            "Q521733",
+            "Q43999",
+            "Q4892802",
+            "Q165257",
+            "Q153024",
+            "Q676555",
+            "Q336731",
+            "Q164294",
+            "Q43958",
+            "Q619122",
+            "Q2439397",
+            "Q183240",
+            "Q5948110",
+            "Q443403",
+            "Q11935374",
+            "Q43746",
+            "Q192062",
+            "Q146183",
+            "Q9077096",
+            "Q6746532",
+            "Q3571460",
+            "Q24021991",
+            "Q8538196",
+            "Q66724854",
+            "Q151967",
+            "Q621626",
+            "Q4892860",
+            "Q3066463",
+            "Q2220251",
+            "Q3064232",
+            "Q646725",
+            "Q1770160",
+            "Q502249",
+            "Q102835",
+            "Q465675",
+            "Q284154",
+            "Q12860",
+            "Q1231003",
+            "Q12258",
+            "Q1768714",
+            "Q13939",
+            "Q45859",
+            "Q8538291",
+            "Q847664",
+            "Q11905534",
+            "Q60826711",
+            "Q244413",
+            "Q317131",
+            "Q152457",
+            "Q183332",
+            "Q5682",
+            "Q111829503",
+            "Q17588063",
+            "Q185606",
+            "Q5818428",
+            "Q167477",
+            "Q45581",
+            "Q127349",
+            "Q602339",
+            "Q4500167",
+            "Q219744",
+            "Q10509",
+            "Q1770942"
+          ]
+        },
+        "create": 0,
+        "modify": 157,
+        "delete": 0,
+        "area": 0.0214324936041507,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 193,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 127695267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34618775,
+          38.71726565
+        ]
+      },
+      "id": 127695267
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 91,
+            "name": "Motorway/trunk geometry modified"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-4266492",
+            "name": "Alameda de Camilo Sesto",
+            "osm_id": 4266492,
+            "reasons": [
+              91
+            ],
+            "version": 37,
+            "primary_tags": {
+              "highway": "trunk"
+            }
+          }
+        ],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-17T14:22:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "place": [
+            "square"
+          ],
+          "highway": [
+            "trunk",
+            "residential",
+            "secondary",
+            "pedestrian",
+            "living_street"
+          ],
+          "name:etymology:wikidata": [
+            "Q1029506",
+            "Q11287651",
+            "Q747527",
+            "Q530567",
+            "Q332088",
+            "Q201315",
+            "Q1646122",
+            "Q93182",
+            "Q312304",
+            "Q351746",
+            "Q1751457",
+            "Q17588063",
+            "Q7322",
+            "Q1995277",
+            "Q5783",
+            "Q561147",
+            "Q2734296",
+            "Q3571138",
+            "Q5485997",
+            "Q17318036",
+            "Q1786914",
+            "Q621626",
+            "Q930303",
+            "Q43086566",
+            "Q619123",
+            "Q212052"
+          ]
+        },
+        "create": 0,
+        "modify": 71,
+        "delete": 0,
+        "area": 0.000651663677279946,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology",
+        "theme": "etymology",
+        "answer": 73,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 127676155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4817809,
+          38.6965077
+        ]
+      },
+      "id": 127676155
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-27T12:24:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "building": [
+            "school"
+          ],
+          "man_made": [
+            "surveillance"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 6.22682199986853e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 3,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_25m": 3,
+        "change_within_50m": 2,
+        "id": 128127641
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4710999,
+          38.70704895
+        ]
+      },
+      "id": 128127641
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #https://osm-catalan.github.io/osmllengcat/src/json/osmllengcat.json",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-03T23:10:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "place": [
+            "square"
+          ],
+          "amenity": [
+            "police"
+          ],
+          "highway": [
+            "bus_stop",
+            "secondary",
+            "pedestrian",
+            "residential"
+          ],
+          "landuse": [
+            "residential"
+          ],
+          "name:ca": [
+            "Sant Joan de Ribera enfront 10",
+            "Carrer Gonçal Barrachina",
+            "Plaça Vicent Andrés Estellés",
+            "Carrer Metge Salvador García Muñoz",
+            "Carrer Tossal",
+            "Col·legi Major Ovidi Montllor",
+            "Policía Local d'Alcoi"
+          ],
+          "building": [
+            "yes"
+          ],
+          "public_transport": [
+            "stop_position"
+          ]
+        },
+        "create": 0,
+        "modify": 7,
+        "delete": 0,
+        "area": 0.00000947022141002631,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "https://osm-catalan.github.io/osmllengcat/src/json/osmllengcat.json",
+        "answer": 7,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 128458874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46990105,
+          38.697204049999996
+        ]
+      },
+      "id": 128458874
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-09T17:47:45Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "trunk",
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q8818",
+            "Q363836"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.0000729484731499848,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 7,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 128698048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46799525,
+          38.70964275
+        ]
+      },
+      "id": 128698048
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #indoors",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-09T17:35:48Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "elevator"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/indoors.html",
+        "theme": "indoors",
+        "answer": 2,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "id": 128697533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4633382,
+          38.712796
+        ]
+      },
+      "id": 128697533
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-10040492738",
+            "name": "abel",
+            "osm_id": 10040492738,
+            "reasons": [
+              43
+            ],
+            "version": 3,
+            "primary_tags": {
+              "amenity": "parcel_locker"
+            }
+          }
+        ],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #postboxes",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-09T17:33:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "parcel_locker"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "parcel_mail_in": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/postboxes.html",
+        "theme": "postboxes",
+        "answer": 2,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "change_within_5000m": 2,
+        "id": 128697431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4627977,
+          38.7144154
+        ]
+      },
+      "id": 128697431
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-09T17:22:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "cycleway": [
+            "separate"
+          ],
+          "maxspeed": [
+            "30"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 7.71111040001195e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cycle_infra.html",
+        "theme": "cycle_infra",
+        "answer": 2,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "change_within_1000m": 2,
+        "id": 128697060
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4638021,
+          38.7126917
+        ]
+      },
+      "id": 128697060
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #healthcare",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-09T17:18:02Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "name": [
+            "Farmàcia Porta d'Alcoi"
+          ],
+          "phone": [
+            "+34 644 51 60 65"
+          ],
+          "amenity": [
+            "pharmacy"
+          ],
+          "wheelchair": [
+            "yes"
+          ],
+          "opening_hours": [
+            "Mo-Sa 09:00-21:00;PH off"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/healthcare.html",
+        "theme": "healthcare",
+        "answer": 4,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "change_within_5000m": 4,
+        "id": 128696913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4651006,
+          38.7137736
+        ]
+      },
+      "id": 128696913
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #blind_osm",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-09T17:14:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bin": [
+            "no"
+          ],
+          "lit": [
+            "no"
+          ],
+          "highway": [
+            "bus_stop"
+          ],
+          "wheelchair": [
+            "limited"
+          ],
+          "tactile_paving": [
+            "no"
+          ],
+          "public_transport": [
+            "stop_position"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/blind_osm.html",
+        "theme": "blind_osm",
+        "answer": 4,
+        "locale": "ca",
+        "imagery": "CartoDB.Positron",
+        "change_within_1000m": 4,
+        "id": 128696793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4682621,
+          38.6978821
+        ]
+      },
+      "id": 128696793
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-12T23:34:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "man_made": [
+            "surveillance"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 5,
+        "locale": "ca",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 6,
+        "id": 128830450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6107369,
+          38.7669033
+        ]
+      },
+      "id": 128830450
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-13T02:38:10Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/fkgqGVt.jpg"
+          ],
+          "man_made": [
+            "surveillance"
+          ],
+          "camera:type": [
+            "fixed"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "public"
+          ],
+          "camera:direction": [
+            "195"
+          ],
+          "surveillance:type": [
+            "camera"
+          ],
+          "surveillance:zone": [
+            "traffic"
+          ]
+        },
+        "create": 2,
+        "modify": 2,
+        "delete": 0,
+        "area": 1.96091280000095e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 8,
+        "locale": "ca",
+        "imagery": "PNOA-Spain-TMS",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 9,
+        "id": 128832507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6099896499999999,
+          38.7675223
+        ]
+      },
+      "id": 128832507
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-14T11:23:37Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "alcoy.juanxxiii@salesianos.edu"
+          ],
+          "phone": [
+            "+34 965 33 26 40"
+          ],
+          "amenity": [
+            "school"
+          ],
+          "website": [
+            "https://alcoy.salesianos.edu/colegioj23/"
+          ],
+          "school:gender": [
+            "mixed"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000048100065000008,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 4,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "change_within_500m": 4,
+        "id": 128885864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46108784999999997,
+          38.70880270000001
+        ]
+      },
+      "id": 128885864
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-14T08:51:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "tourism": [
+            "artwork"
+          ],
+          "website": [
+            "https://www.urbanskillsalcoi.org/galeria"
+          ],
+          "artist_name": [
+            "Demsky;Smithe2018"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 3.12748000009912e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "answer": 2,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_1000m": 2,
+        "id": 128878745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46684075,
+          38.7071844
+        ]
+      },
+      "id": 128878745
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #nature",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-15T23:09:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bottle": [
+            "yes"
+          ],
+          "amenity": [
+            "drinking_water"
+          ],
+          "man_made": [
+            "water_tap"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 4.8590097000294e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/nature.html",
+        "theme": "nature",
+        "answer": 2,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_500m": 2,
+        "id": 128962807
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46849305,
+          38.69843385
+        ]
+      },
+      "id": 128962807
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #climbing",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-15T23:05:03Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "noname": [
+            "yes"
+          ],
+          "climbing:boulder": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 1.10668799999968e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/nature.html",
+        "theme": "climbing",
+        "answer": 3,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_5000m": 3,
+        "id": 128962710
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4626824,
+          38.71325675
+        ]
+      },
+      "id": 128962710
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-15T23:00:49Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "tourism": [
+            "artwork"
+          ],
+          "website": [
+            "https://www.urbanskillsalcoi.org/1-ebon/"
+          ],
+          "artist_name": [
+            "Ebon"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 5.95979999906411e-10,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "answer": 2,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_1000m": 1,
+        "id": 128962603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47821885,
+          38.695752999999996
+        ]
+      },
+      "id": 128962603
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-16T13:08:47Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "man_made": [
+            "surveillance"
+          ],
+          "camera:type": [
+            "dome"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "public"
+          ],
+          "camera:direction": [
+            "136"
+          ],
+          "surveillance:type": [
+            "camera"
+          ]
+        },
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 3,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_50m": 3,
+        "id": 128991230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4653409,
+          38.7129065
+        ]
+      },
+      "id": 128991230
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #https://raw.githubusercontent.com/yopaseopor/mcquests/master/crossingtime.json",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-16T12:11:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "crossing"
+          ],
+          "crossing_ref": [
+            "zebra"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "https://raw.githubusercontent.com/yopaseopor/mcquests/master/crossingtime.json",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_100m": 1,
+        "id": 128987778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4635689,
+          38.7132646
+        ]
+      },
+      "id": 128987778
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-16T12:06:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/59R02DX.jpg"
+          ],
+          "man_made": [
+            "surveillance"
+          ],
+          "camera:mount": [
+            "street_lamp"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/personal.html",
+        "theme": "personal",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "PNOA-Spain-TMS",
+        "add-image": 1,
+        "change_within_1000m": 2,
+        "id": 128987545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4716584,
+          38.7067995
+        ]
+      },
+      "id": 128987545
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 35,
+            "name": "Added invalid highway tag"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-10188331778",
+            "osm_id": 10188331778,
+            "reasons": [
+              35
+            ],
+            "version": 2,
+            "primary_tags": {
+              "highway": "speed_display"
+            }
+          }
+        ],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-16T11:50:54Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "power": [
+            "generator"
+          ],
+          "highway": [
+            "speed_display"
+          ],
+          "man_made": [
+            "surveillance"
+          ]
+        },
+        "create": 3,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.0000944844017999836,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/personal.html",
+        "theme": "personal",
+        "answer": 6,
+        "locale": "ca",
+        "imagery": "PNOA-Spain-TMS",
+        "change_over_5000m": 3,
+        "change_within_50m": 1,
+        "change_within_1000m": 4,
+        "change_within_5000m": 1,
+        "id": 128986752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4696669,
+          38.70886735
+        ]
+      },
+      "id": 128986752
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-23T22:36:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "barrier": [
+            "bollard"
+          ],
+          "bicycle": [
+            "yes"
+          ],
+          "man_made": [
+            "surveillance"
+          ],
+          "surveillance": [
+            "public"
+          ],
+          "surveillance:zone": [
+            "entrance"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000951793245000084,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/personal.html",
+        "theme": "personal",
+        "answer": 5,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_over_5000m": 4,
+        "change_within_5000m": 1,
+        "id": 129299834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46854365,
+          38.705477
+        ]
+      },
+      "id": 129299834
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-29T01:43:03Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 129497841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4634991,
+          38.7131737
+        ]
+      },
+      "id": 129497841
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.25.0",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-12-19T00:20:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bin": [
+            "no"
+          ],
+          "lit": [
+            "no"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "barrier": [
+            "bollard"
+          ],
+          "bicycle": [
+            "yes"
+          ],
+          "highway": [
+            "bus_stop"
+          ],
+          "man_made": [
+            "surveillance"
+          ],
+          "operator": [
+            "Ajuntament d'Alcoi"
+          ],
+          "wheelchair": [
+            "no"
+          ],
+          "camera:type": [
+            "fixed"
+          ],
+          "camera:mount": [
+            "street_lamp"
+          ],
+          "surveillance": [
+            "public"
+          ],
+          "tactile_paving": [
+            "no"
+          ],
+          "camera:direction": [
+            "115",
+            "260"
+          ],
+          "public_transport": [
+            "stop_position"
+          ],
+          "surveillance:zone": [
+            "traffic"
+          ]
+        },
+        "create": 1,
+        "modify": 10,
+        "delete": 0,
+        "area": 0.000246268764139987,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/personal.html",
+        "theme": "personal",
+        "answer": 26,
+        "locale": "ca",
+        "imagery": "PNOA-Spain",
+        "change_over_5000m": 1,
+        "change_within_500m": 13,
+        "change_within_1000m": 11,
+        "change_within_5000m": 2,
+        "id": 130227420
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4757306,
+          38.698457950000005
+        ]
+      },
+      "id": 130227420
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.25.2",
+        "comment": "Adding data with #MapComplete for theme #blind_osm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-26T00:20:16Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no"
+          ],
+          "highway": [
+            "bus_stop"
+          ],
+          "wheelchair": [
+            "limited"
+          ],
+          "tactile_paving": [
+            "no"
+          ],
+          "public_transport": [
+            "stop_position"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/blind_osm.html",
+        "theme": "blind_osm",
+        "answer": 3,
+        "locale": "ca",
+        "imagery": "CartoDB.Positron",
+        "id": 130497170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4729862,
+          38.6980799
+        ]
+      },
+      "id": 130497170
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.25.2",
+        "comment": "Adding data with #MapComplete for theme #atm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-26T00:17:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "atm"
+          ],
+          "opening_hours": [
+            "24/7;PH open"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.000066435760399987,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/atm.html",
+        "theme": "atm",
+        "answer": 5,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 130497137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4738582,
+          38.70212315
+        ]
+      },
+      "id": 130497137
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.25.2",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-27T10:50:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "waste_basket"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/index.html",
+        "theme": "personal",
+        "answer": 1,
+        "locale": "ca",
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 130550529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4716463,
+          38.6977837
+        ]
+      },
+      "id": 130550529
     },
     {
       "type": "Feature",
@@ -216,6 +2312,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-15T13:38:32Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 3,
         "delete": 0,
@@ -224,12 +2321,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117436964,
         "host": "mapcomplete.osm.be",
         "theme": "policia",
         "answer": 5,
         "locale": "es",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117436964
       },
       "geometry": {
         "type": "Point",
@@ -237,7 +2334,8 @@
           -0.04458525,
           38.745986099999996
         ]
-      }
+      },
+      "id": 117436964
     },
     {
       "type": "Feature",
@@ -248,37 +2346,38 @@
         "features": [],
         "user": "paunofu",
         "uid": "13779940",
-        "editor": "MapComplete 0.18.1",
-        "comment": "Adding data with #MapComplete for theme #campersite",
+        "editor": "MapComplete 0.15.8",
+        "comment": "Adding data with #MapComplete for theme #https://paunofu.github.io/preguntesmc/policia_esp.json",
         "comments_count": 0,
         "source": "survey",
         "imagery_used": "Not reported",
-        "date": "2022-04-18T11:52:01Z",
+        "date": "2022-02-18T01:58:49Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 0,
-        "modify": 2,
+        "modify": 6,
         "delete": 0,
-        "area": 0,
+        "area": 0.022437050956139,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119854597,
         "host": "mapcomplete.osm.be",
-        "theme": "campersite",
-        "answer": 2,
+        "theme": "https://paunofu.github.io/preguntesmc/policia_esp.json",
+        "answer": 6,
         "locale": "ca",
         "imagery": "osm",
-        "change_over_5000m": 2
+        "change_over_5000m": 6,
+        "id": 117543583
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.0497738,
-          38.603769
+          -0.0345983,
+          38.78271505
         ]
-      }
+      },
+      "id": 117543583
     },
     {
       "type": "Feature",
@@ -305,13 +2404,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119833211,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/waste.html",
         "theme": "waste",
         "answer": 1,
         "locale": "ca",
         "imagery": "PNOA-Spain-TMS",
-        "change_over_5000m": 2
+        "change_over_5000m": 2,
+        "id": 119833211
       },
       "geometry": {
         "type": "Point",
@@ -319,7 +2418,8 @@
           -0.2326977,
           38.5038669
         ]
-      }
+      },
+      "id": 119833211
     },
     {
       "type": "Feature",
@@ -328,40 +2428,40 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "lololailo",
-        "uid": "8621270",
-        "editor": "MapComplete 0.19.1",
-        "comment": "Adding data with #MapComplete for theme #aed",
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.18.1",
+        "comment": "Adding data with #MapComplete for theme #campersite",
         "comments_count": 0,
-        "source": "Not reported",
+        "source": "survey",
         "imagery_used": "Not reported",
-        "date": "2022-05-10T14:15:56Z",
+        "date": "2022-04-18T11:52:01Z",
         "reviewed_features": [],
         "tag_changes": {},
-        "create": 3,
-        "modify": 9,
+        "create": 0,
+        "modify": 2,
         "delete": 0,
-        "area": 0.000920663745299788,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120796593,
-        "host": "mapcomplete.osm.be",
-        "move": 1,
-        "theme": "aed",
-        "answer": 12,
-        "locale": "es",
+        "host": "https://mapcomplete.osm.be/campersite",
+        "theme": "campersite",
+        "answer": 2,
+        "locale": "ca",
         "imagery": "osm",
-        "move:node/9730192543": "improve_accuracy"
+        "change_over_5000m": 2,
+        "id": 119854597
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.13228745,
-          37.9933081
+          -0.0497738,
+          38.603769
         ]
-      }
+      },
+      "id": 119854597
     },
     {
       "type": "Feature",
@@ -388,13 +2488,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120454548,
-        "host": "mapcomplete.osm.be",
-        "theme": "gh://yopaseopor/mcquests/main/parkingspaces.json",
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "https://raw.githubusercontent.com/yopaseopor/mcquests/main/parkingspaces.json",
         "answer": 2,
         "locale": "ca",
         "imagery": "osm",
-        "change_over_5000m": 2
+        "change_over_5000m": 2,
+        "id": 120454548
       },
       "geometry": {
         "type": "Point",
@@ -402,7 +2502,404 @@
           -0.049759899999999996,
           38.60374885
         ]
-      }
+      },
+      "id": 120454548
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 530,
+            "name": "Mapbox: Incorrect mapping"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-306587199",
+            "osm_id": 306587199,
+            "reasons": [
+              530
+            ],
+            "version": 5
+          }
+        ],
+        "user": "lololailo",
+        "uid": "8621270",
+        "editor": "MapComplete 0.19.1",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-10T14:15:56Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 3,
+        "modify": 9,
+        "delete": 0,
+        "area": 0.000920663745299788,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "move": 1,
+        "theme": "aed",
+        "answer": 12,
+        "locale": "es",
+        "imagery": "osm",
+        "move:node/9730192543": "improve_accuracy",
+        "id": 120796593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13228745,
+          37.9933081
+        ]
+      },
+      "id": 120796593
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 83,
+            "name": "User has multiple blocks"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "VARVAR8",
+        "uid": "3850484",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-12T20:16:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "crossing"
+          ],
+          "crossing": [
+            "uncontrolled",
+            "marked"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "PNOA-Spain",
+        "id": 124832969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6540269,
+          38.0277016
+        ]
+      },
+      "id": 124832969
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T08:08:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:direction": [
+            "271"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 4,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_25m": 4,
+        "id": 126119778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4635189,
+          38.7133739
+        ]
+      },
+      "id": 126119778
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T05:57:36Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "barrier": [
+            "wall"
+          ],
+          "school:gender": [
+            "mixed"
+          ],
+          "school:language": [
+            "ca;es"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000271012976000619,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 2,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "change_within_100m": 2,
+        "id": 126114434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46270354999999996,
+          38.7132892
+        ]
+      },
+      "id": 126114434
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #transit",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T00:00:39Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "parking"
+          ],
+          "parking": [
+            "multi-storey"
+          ],
+          "building": [
+            "parking"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 2.84388559998439e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/transit.html",
+        "theme": "transit",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_within_5000m": 1,
+        "id": 126109225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47237870000000004,
+          38.697176400000004
+        ]
+      },
+      "id": 126109225
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #pets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-18T23:01:11Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "supermarket"
+          ],
+          "phone": [
+            "+34 635 92 49 41"
+          ],
+          "website": [
+            "https://www.familycash.es/"
+          ],
+          "building": [
+            "yes"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "opening_hours": [
+            "Mo-Sa 09:00-22:00"
+          ],
+          "payment:cards": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.00000184206866000541,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/pets.html",
+        "theme": "pets",
+        "answer": 4,
+        "locale": "ca",
+        "imagery": "osm",
+        "id": 126347892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46462519999999996,
+          38.713129949999995
+        ]
+      },
+      "id": 126347892
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "paunofu",
+        "uid": "13779940",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-18T22:58:14Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "03000400@gva.es"
+          ],
+          "phone": [
+            "+34 966 52 81 10"
+          ],
+          "amenity": [
+            "school"
+          ],
+          "barrier": [
+            "wall"
+          ],
+          "website": [
+            "https://www.iescotesbaixes.org/"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.00000271012976000619,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 3,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "id": 126347854
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46270354999999996,
+          38.7132892
+        ]
+      },
+      "id": 126347854
     }
   ]
 }

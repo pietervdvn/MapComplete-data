@@ -22,6 +22,7 @@
         "imagery_used": "Not reported",
         "date": "2021-10-13T08:31:11Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 9,
         "modify": 10,
         "delete": 0,
@@ -30,13 +31,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 112450049,
         "host": "pietervdvn.github.io",
         "path": "mc/develop/",
         "theme": "uk_addresses",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Pieter Vander Vennet, Rob Nickerson, Russ Garrett"
+        "theme-creator": "Pieter Vander Vennet, Rob Nickerson, Russ Garrett",
+        "id": 112450049
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +45,8 @@
           -1.4395996,
           55.042968200000004
         ]
-      }
+      },
+      "id": 112450049
     },
     {
       "type": "Feature",
@@ -54,6 +56,10 @@
           {
             "id": 70,
             "name": "Impossible angle in a highway"
+          },
+          {
+            "id": 91,
+            "name": "Motorway/trunk geometry modified"
           }
         ],
         "tags": [],
@@ -93,6 +99,31 @@
             "primary_tags": {
               "highway": "primary"
             }
+          },
+          {
+            "url": "way-127414111",
+            "name": "South Road",
+            "osm_id": 127414111,
+            "reasons": [
+              91
+            ],
+            "version": 7,
+            "primary_tags": {
+              "route": "bus",
+              "highway": "trunk"
+            }
+          },
+          {
+            "url": "way-23130514",
+            "name": "Alnmouth Road",
+            "osm_id": 23130514,
+            "reasons": [
+              91
+            ],
+            "version": 23,
+            "primary_tags": {
+              "highway": "trunk"
+            }
           }
         ],
         "user": "confusedbuffalo",
@@ -104,20 +135,21 @@
         "imagery_used": "Not reported",
         "date": "2022-02-09T21:18:26Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 43,
         "delete": 0,
         "area": 0.0400825428863997,
-        "is_suspect": false,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117219747,
         "host": "mapcomplete.osm.be",
         "theme": "etymology",
         "answer": 62,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117219747
       },
       "geometry": {
         "type": "Point",
@@ -125,7 +157,8 @@
           -1.6448942999999998,
           55.2582255
         ]
-      }
+      },
+      "id": 117219747
     },
     {
       "type": "Feature",
@@ -185,6 +218,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-09T19:51:05Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 98,
         "delete": 0,
@@ -193,12 +227,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117217034,
         "host": "mapcomplete.osm.be",
         "theme": "etymology",
         "answer": 143,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117217034
       },
       "geometry": {
         "type": "Point",
@@ -206,7 +240,55 @@
           -1.56836845,
           55.1422099
         ]
-      }
+      },
+      "id": 117217034
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "peterkwells",
+        "uid": "14279295",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-05T11:01:23Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 1,
+        "import": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 124517599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4395308,
+          55.0436641
+        ]
+      },
+      "id": 124517599
     }
   ]
 }

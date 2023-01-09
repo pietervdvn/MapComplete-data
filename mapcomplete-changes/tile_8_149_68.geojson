@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-11T11:28:38Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 107778187,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 107778187
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,52 @@
           29.5491793,
           64.1120751
         ]
-      }
+      },
+      "id": 107778187
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "houtari",
+        "uid": "2186388",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-08T16:15:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ]
+        },
+        "create": 20,
+        "modify": 0,
+        "delete": 0,
+        "area": 0.0000276443303999698,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "locale": "en",
+        "imagery": "mml-orto",
+        "id": 124647912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.586299150000002,
+          64.1287772
+        ]
+      },
+      "id": 124647912
     }
   ]
 }

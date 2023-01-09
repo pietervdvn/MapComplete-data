@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-27T14:35:59Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 3,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 103713935,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 103713935
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,241 @@
           2.23545105,
           46.65985685
         ]
-      }
+      },
+      "id": 103713935
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "bobolica",
+        "uid": "592978",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-12T17:40:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "residential"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q2412856",
+            "Q435509"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.00000208918752000058,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 2,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 128822046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4852783999999999,
+          46.2387534
+        ]
+      },
+      "id": 128822046
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "bobolica",
+        "uid": "592978",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-12T17:33:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ],
+          "wikidata": [
+            "Q165145"
+          ],
+          "species:wikidata": [
+            "Q165145"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees",
+        "theme": "trees",
+        "answer": 2,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 128821861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4860699,
+          46.2372941
+        ]
+      },
+      "id": 128821861
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "abiterra1",
+        "uid": "9960007",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-18T17:15:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix",
+        "theme": "cyclofix",
+        "answer": 4,
+        "locale": "fr",
+        "imagery": "CartoDB.Voyager",
+        "id": 129095023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8669891,
+          46.1708188
+        ]
+      },
+      "id": 129095023
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "benjamintchik",
+        "uid": "6290466",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-17T16:32:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "secondary",
+            "residential",
+            "living_street",
+            "pedestrian",
+            "unclassified"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q295090",
+            "Q355112",
+            "Q130847",
+            "Q316674",
+            "Q157146",
+            "Q192615",
+            "Q37064",
+            "Q128550",
+            "Q3041632",
+            "Q452065",
+            "Q408284",
+            "Q3515239",
+            "Q67164479",
+            "Q476887",
+            "Q17350593",
+            "Q735370",
+            "Q1290",
+            "Q168473",
+            "Q90",
+            "Q316753"
+          ]
+        },
+        "create": 0,
+        "modify": 52,
+        "delete": 0,
+        "area": 5.20772319850894,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 65,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126305726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.74125915,
+          46.35840675
+        ]
+      },
+      "id": 126305726
     }
   ]
 }

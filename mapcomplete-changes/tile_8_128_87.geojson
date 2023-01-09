@@ -22,6 +22,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-12T23:55:29Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -30,11 +31,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 116086424,
         "host": "mapcomplete.osm.be",
         "theme": "surveillance",
         "imagery": "fr.ign.bdortho",
-        "language": "fr"
+        "language": "fr",
+        "id": 116086424
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +43,811 @@
           0.7546234,
           49.7825942
         ]
-      }
+      },
+      "id": 116086424
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #personal",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-07T19:29:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "defibrillator:location:en": [
+            "Next to the main entrance"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/personal.html",
+        "theme": "personal",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "osm",
+        "id": 122086838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6769297,
+          49.5971426
+        ]
+      },
+      "id": 122086838
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-07T14:05:37Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "building": [
+            "yes"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 1.84111999999221e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 5,
+        "locale": "nl",
+        "imagery": "osm",
+        "change_within_25m": 2,
+        "change_within_50m": 5,
+        "id": 122074440
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.67686,
+          49.597162
+        ]
+      },
+      "id": 122074440
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-07T09:09:39Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "public_bookcase"
+          ]
+        },
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/bookcases.html",
+        "theme": "bookcases",
+        "answer": 4,
+        "locale": "nl",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 5,
+        "id": 122061460
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.800595,
+          49.4297481
+        ]
+      },
+      "id": 122061460
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-08T13:00:28Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "amenity": [
+            "toilets"
+          ],
+          "building": [
+            "yes"
+          ],
+          "wheelchair": [
+            "yes"
+          ],
+          "toilets:position": [
+            "seated;urinal"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.49180000039211e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 3,
+        "locale": "nl",
+        "imagery": "osm",
+        "change_within_50m": 3,
+        "id": 122117816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7659331,
+          49.5279807
+        ]
+      },
+      "id": 122117816
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-08T12:59:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/T1jEjaU.jpg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "indoor": [
+            "no"
+          ],
+          "wheelchair": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 3,
+        "locale": "nl",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_50m": 4,
+        "id": 122117794
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7659234,
+          49.52796
+        ]
+      },
+      "id": 122117794
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-09T14:56:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/eLYIai2.jpg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "indoor": [
+            "no"
+          ],
+          "defibrillator:location:en": [
+            "In the public space, though there are doors that might close at night"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 3,
+        "locale": "nl",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 4,
+        "id": 122170491
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0998607,
+          49.4405031
+        ]
+      },
+      "id": 122170491
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-09T12:26:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ],
+          "toilets:position": [
+            "seated"
+          ],
+          "toilets:paper_supplied": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 2,
+        "locale": "nl",
+        "imagery": "osm",
+        "change_within_100m": 2,
+        "id": 122163677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0887631,
+          49.4393812
+        ]
+      },
+      "id": 122163677
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-10T13:36:59Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "customers"
+          ],
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "osm",
+        "change_within_500m": 1,
+        "id": 122211833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2291585,
+          49.4256414
+        ]
+      },
+      "id": 122211833
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-10T09:12:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/rBZaEir.jpg"
+          ],
+          "image:0": [
+            "https://i.imgur.com/TpFZyRP.jpg"
+          ],
+          "image:1": [
+            "https://i.imgur.com/6zCGvZf.jpg"
+          ],
+          "tourism": [
+            "caravan_site"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 1.06062840001571e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "locale": "nl",
+        "imagery": "osm",
+        "add-image": 3,
+        "change_within_25m": 3,
+        "id": 122200450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72722395,
+          49.5210057
+        ]
+      },
+      "id": 122200450
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-11T10:23:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "lit": [
+            "no"
+          ],
+          "image": [
+            "https://i.imgur.com/C5V1UDi.jpg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "leisure": [
+            "playground"
+          ],
+          "max_age": [
+            "12"
+          ],
+          "min_age": [
+            "2"
+          ],
+          "surface": [
+            "Artificial grass"
+          ],
+          "wheelchair": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 6,
+        "locale": "nl",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 7,
+        "id": 122243501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2017185,
+          49.7080053
+        ]
+      },
+      "id": 122243501
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-11T08:44:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "recycling"
+          ]
+        },
+        "create": 2,
+        "modify": 0,
+        "delete": 0,
+        "area": 1.11799999931645e-10,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/waste.html",
+        "theme": "waste",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "osm",
+        "change_over_5000m": 2,
+        "change_within_25m": 1,
+        "id": 122239828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6763377500000001,
+          49.578903499999996
+        ]
+      },
+      "id": 122239828
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-12T16:50:05Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/o6JwSSZ.jpg"
+          ],
+          "natural": [
+            "tree"
+          ],
+          "leaf_cycle": [
+            "deciduous",
+            "evergreen"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees",
+        "theme": "trees",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_over_5000m": 2,
+        "id": 122290058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9865728,
+          49.4043395
+        ]
+      },
+      "id": 122290058
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-12T15:13:57Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ],
+          "leaf_cycle": [
+            "evergreen"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 1,
+        "area": 3.91620000011864e-10,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/trees.html",
+        "theme": "trees",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "osm",
+        "deletion": 1,
+        "change_over_5000m": 2,
+        "deletion:node/9812384017": "duplicate",
+        "id": 122285804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9865781499999999,
+          49.4043578
+        ]
+      },
+      "id": 122285804
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-12T13:29:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.91620000011864e-10,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/trees.html",
+        "theme": "trees",
+        "answer": 2,
+        "locale": "nl",
+        "imagery": "osm",
+        "change_over_5000m": 2,
+        "change_within_500m": 2,
+        "id": 122281252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9865781499999999,
+          49.4043578
+        ]
+      },
+      "id": 122281252
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "PaulNDIE",
+        "uid": "17113633",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T07:41:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "living_street",
+            "pedestrian"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "tourism": [
+            "museum"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q743548",
+            "Q5912",
+            "Q3494847",
+            "Q3086934",
+            "Q3329160"
+          ]
+        },
+        "create": 0,
+        "modify": 19,
+        "delete": 0,
+        "area": 0.0000390678663400109,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 23,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126118440
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0883313499999998,
+          49.4439823
+        ]
+      },
+      "id": 126118440
     }
   ]
 }

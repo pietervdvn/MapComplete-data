@@ -22,6 +22,7 @@
         "imagery_used": "Not reported",
         "date": "2022-02-09T14:22:29Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 7,
         "delete": 0,
@@ -30,12 +31,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 117204967,
         "host": "mapcomplete.osm.be",
         "theme": "climbing",
         "answer": 13,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117204967
       },
       "geometry": {
         "type": "Point",
@@ -43,93 +44,8 @@
           -1.25795455,
           51.7141201
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "gnesss",
-        "uid": "6274199",
-        "editor": "MapComplete 0.19.0-alpha",
-        "comment": "Adding data with #MapComplete for theme #uk_addresses",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-04-19T18:47:06Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 34,
-        "modify": 44,
-        "delete": 0,
-        "area": 0.0000180155126000208,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 119921051,
-        "host": "pietervdvn.github.io",
-        "theme": "uk_addresses",
-        "answer": 71,
-        "import": 35,
-        "locale": "en",
-        "imagery": "osm",
-        "change_over_5000m": 35,
-        "change_within_25m": 71
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2435184000000001,
-          52.3735942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "gnesss",
-        "uid": "6274199",
-        "editor": "MapComplete 0.19.0-alpha",
-        "comment": "Adding data with #MapComplete for theme #uk_addresses",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-04-19T18:45:21Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 5,
-        "modify": 2,
-        "delete": 0,
-        "area": 8.73032899993522e-8,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 119920983,
-        "host": "pietervdvn.github.io",
-        "theme": "uk_addresses",
-        "answer": 7,
-        "import": 5,
-        "locale": "en",
-        "imagery": "osm",
-        "change_over_5000m": 5,
-        "change_within_25m": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2398422500000001,
-          52.37212165
-        ]
-      }
+      "id": 117204967
     },
     {
       "type": "Feature",
@@ -161,11 +77,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119425364,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
         "theme": "cyclofix",
         "locale": "en",
-        "imagery": "CartoDB.Voyager"
+        "imagery": "CartoDB.Voyager",
+        "id": 119425364
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +89,225 @@
           -1.0647357,
           52.0955902
         ]
-      }
+      },
+      "id": 119425364
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gnesss",
+        "uid": "6274199",
+        "editor": "MapComplete 0.19.0-alpha",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-04-19T18:47:06Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 34,
+        "modify": 44,
+        "delete": 0,
+        "area": 0.0000180155126000208,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 71,
+        "import": 35,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 35,
+        "change_within_25m": 71,
+        "id": 119921051
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2435184000000001,
+          52.3735942
+        ]
+      },
+      "id": 119921051
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gnesss",
+        "uid": "6274199",
+        "editor": "MapComplete 0.19.0-alpha",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-04-19T18:45:21Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 5,
+        "modify": 2,
+        "delete": 0,
+        "area": 8.73032899993522e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 7,
+        "import": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 5,
+        "change_within_25m": 7,
+        "id": 119920983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2398422500000001,
+          52.37212165
+        ]
+      },
+      "id": 119920983
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gnesss",
+        "uid": "6274199",
+        "editor": "MapComplete 0.21.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-27T18:43:51Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 14,
+        "modify": 16,
+        "delete": 0,
+        "area": 0.0000141631269999967,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 28,
+        "import": 14,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 14,
+        "change_within_25m": 20,
+        "change_within_5000m": 8,
+        "id": 122923456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2482959,
+          52.380242800000005
+        ]
+      },
+      "id": 122923456
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gnesss",
+        "uid": "6274199",
+        "editor": "MapComplete 0.21.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-29T19:32:36Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 4,
+        "modify": 7,
+        "delete": 0,
+        "area": 6.07860000069576e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 8,
+        "import": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123016842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.252818,
+          52.376515749999996
+        ]
+      },
+      "id": 123016842
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gnesss",
+        "uid": "6274199",
+        "editor": "MapComplete 0.21.0",
+        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-06T19:25:57Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 16,
+        "modify": 17,
+        "delete": 0,
+        "area": 3.66680280001014e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/uk_addresses.html",
+        "theme": "uk_addresses",
+        "answer": 31,
+        "import": 16,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123290413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2510205,
+          52.3775404
+        ]
+      },
+      "id": 123290413
     }
   ]
 }

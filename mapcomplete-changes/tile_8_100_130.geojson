@@ -4,9 +4,14 @@
     {
       "type": "Feature",
       "properties": {
-        "check_user": null,
+        "check_user": "gabrielalves",
         "reasons": [],
-        "tags": [],
+        "tags": [
+          {
+            "id": 9,
+            "name": "Resolved"
+          }
+        ],
         "features": [],
         "user": "matheusgomesms",
         "uid": "3781248",
@@ -17,19 +22,20 @@
         "imagery_used": "Not reported",
         "date": "2022-02-25T17:37:25Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
         "area": 0,
         "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 117857377,
+        "harmful": false,
+        "checked": true,
+        "check_date": "2022-03-17T18:37:36.329238Z",
         "host": "mapcomplete.osm.be",
         "theme": "parkings",
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 117857377
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +43,8 @@
           -38.5054439,
           -3.7237741
         ]
-      }
+      },
+      "id": 117857377
     }
   ]
 }

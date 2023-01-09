@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-08-09T14:20:49Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,8 +26,7 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 89155506,
-        "theme": "cyclofix"
+        "id": 89155506
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +34,59 @@
           -1.7278771,
           50.7331389
         ]
-      }
+      },
+      "id": 89155506
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "TreborQ",
+        "uid": "497075",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-16T15:32:00Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "indoor": [
+            "no"
+          ],
+          "emergency": [
+            "defibrillator"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00248005345400955,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 124978137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5134159499999997,
+          50.70817605
+        ]
+      },
+      "id": 124978137
     }
   ]
 }

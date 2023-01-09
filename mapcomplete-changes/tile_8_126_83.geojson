@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-10-22T20:48:35Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 3,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 112856442,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "answer": 5,
         "imagery": "EsriWorldImageryClarity",
-        "language": "nl"
+        "language": "nl",
+        "id": 112856442
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,145 @@
           -2.1164584499999997,
           52.805281449999995
         ]
-      }
+      },
+      "id": 112856442
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Skelly_",
+        "uid": "4430784",
+        "editor": "MapComplete 0.25.2",
+        "comment": "Adding data with #MapComplete for theme #cafes_and_pubs",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-12-28T19:18:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "dog": [
+            "no"
+          ],
+          "phone": [
+            "+441902404636"
+          ],
+          "amenity": [
+            "pub"
+          ],
+          "smoking": [
+            "outside"
+          ],
+          "website": [
+            "https://www.jdwetherspoon.com/pubs/all-pubs/england/west-midlands/the-sir-henry-newbolt-bilston"
+          ],
+          "building": [
+            "pub"
+          ],
+          "wheelchair": [
+            "yes"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "opening_hours": [
+            "Fr-Sa 08:00-01:00;Mo-Th 08:00-23:59;Su 08:00-23:59"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "internet_access": [
+            "wlan"
+          ],
+          "internet_access:fee": [
+            "customers"
+          ],
+          "service:electricity": [
+            "limited"
+          ]
+        },
+        "create": 0,
+        "modify": 10,
+        "delete": 1,
+        "area": 0.0000168280674400302,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cafes_and_pubs.html",
+        "theme": "cafes_and_pubs",
+        "answer": 12,
+        "locale": "en",
+        "imagery": "osm",
+        "deletion": 1,
+        "change_within_500m": 13,
+        "deletion:node/686896397": "shop_closed",
+        "id": 130615373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0773774,
+          52.56529635
+        ]
+      },
+      "id": 130615373
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "spelledwrongdotuk",
+        "uid": "12198029",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-27T09:53:57Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "tourism": [
+            "artwork"
+          ],
+          "artwork_type": [
+            "sculpture"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126690339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0266763,
+          52.5471303
+        ]
+      },
+      "id": 126690339
     }
   ]
 }

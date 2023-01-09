@@ -8,43 +8,6 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "stadtvermesser",
-        "uid": "103992",
-        "editor": "MapComplete 0.2.2b",
-        "comment": "Adding data with #MapComplete for theme #ghostbikes",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2020-11-23T09:29:17Z",
-        "reviewed_features": [],
-        "create": 2,
-        "modify": 0,
-        "delete": 0,
-        "area": 0.00262945878047971,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 94626216,
-        "theme": "ghostbikes",
-        "language": "en",
-        "theme-creator": "MapComplete"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.959274950000001,
-          51.4897341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
         "user": "cMartin",
         "uid": "128287",
         "editor": "MapComplete 0.2.1c",
@@ -54,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-11-22T22:24:02Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -62,10 +26,10 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 94600621,
         "theme": "ghostbikes",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 94600621
       },
       "geometry": {
         "type": "Point",
@@ -73,51 +37,47 @@
           11.5904394,
           50.9298353
         ]
-      }
+      },
+      "id": 94600621
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
-        "user": "febutix",
-        "uid": "14929311",
-        "editor": "MapComplete 0.14.4",
-        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "user": "stadtvermesser",
+        "uid": "103992",
+        "editor": "MapComplete 0.2.2b",
+        "comment": "Adding data with #MapComplete for theme #ghostbikes",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-01-25T19:26:17Z",
+        "date": "2020-11-23T09:29:17Z",
         "reviewed_features": [],
-        "create": 0,
-        "modify": 5,
+        "tag_changes": {},
+        "create": 2,
+        "modify": 0,
         "delete": 0,
-        "area": 0.00000925620282999628,
-        "is_suspect": true,
+        "area": 0.00262945878047971,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 116598894,
-        "host": "mapcomplete.osm.be",
-        "theme": "playgrounds",
-        "answer": 6,
-        "imagery": "osm",
-        "language": "en"
+        "theme": "ghostbikes",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 94626216
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.35655525,
-          51.37578895
+          11.959274950000001,
+          51.4897341
         ]
-      }
+      },
+      "id": 94626216
     },
     {
       "type": "Feature",
@@ -140,6 +100,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-14T10:30:18Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 1,
         "delete": 0,
@@ -148,12 +109,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 116142066,
         "host": "mapcomplete.osm.be",
         "theme": "drinking_water",
         "answer": 2,
         "imagery": "CartoDB.Voyager",
-        "language": "en"
+        "language": "en",
+        "id": 116142066
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +122,355 @@
           11.7604043,
           51.1438586
         ]
-      }
+      },
+      "id": 116142066
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "febutix",
+        "uid": "14929311",
+        "editor": "MapComplete 0.14.4",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-01-25T19:26:17Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 0.00000925620282999628,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "playgrounds",
+        "answer": 6,
+        "imagery": "osm",
+        "language": "en",
+        "id": 116598894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35655525,
+          51.37578895
+        ]
+      },
+      "id": 116598894
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "shogun",
+        "uid": "94315",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-15T05:47:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "parking"
+          ],
+          "capacity:disabled": [
+            "0"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 7.73087200006564e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/parkings.html",
+        "theme": "parkings",
+        "answer": 1,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 127555129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.64411365,
+          51.1448956
+        ]
+      },
+      "id": 127555129
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "CoookieKira",
+        "uid": "17506043",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-27T12:22:21Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bench": [
+            "no",
+            "yes"
+          ],
+          "colour": [
+            "brown"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "direction": [
+            "209"
+          ],
+          "survey:date": [
+            "2022-10-27"
+          ],
+          "public_transport": [
+            "platform"
+          ]
+        },
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.0000016233073199995,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 8,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 128127528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.347177349999999,
+          51.369927399999995
+        ]
+      },
+      "id": 128127528
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "CoookieKira",
+        "uid": "17506043",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-27T12:21:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ],
+          "survey:date": [
+            "2022-10-27"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 1,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 128127500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3482184,
+          51.3701876
+        ]
+      },
+      "id": 128127500
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "CoookieKira",
+        "uid": "17506043",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-27T12:20:39Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 2,
+        "delete": 0,
+        "area": 5.63499998572131e-11,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 8,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 128127445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.34827475,
+          51.37018735
+        ]
+      },
+      "id": 128127445
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kristjan ESPERANTO",
+        "uid": "77904",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-12T10:05:52Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "locale": "de",
+        "imagery": "osm",
+        "link-image": 1,
+        "id": 129992698
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9665041,
+          51.4962613
+        ]
+      },
+      "id": 129992698
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gartenfreund",
+        "uid": "5123448",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-14T14:15:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "leisure": [
+            "playground"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 2,
+        "locale": "de",
+        "imagery": "EsriWorldImagery",
+        "change_over_5000m": 1,
+        "change_within_1000m": 2,
+        "id": 123612418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3085216,
+          50.986428
+        ]
+      },
+      "id": 123612418
     }
   ]
 }

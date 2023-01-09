@@ -22,6 +22,7 @@
         "imagery_used": "Not reported",
         "date": "2021-05-16T01:09:28Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -30,11 +31,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 104752561,
         "host": "mapcomplete.osm.be",
         "theme": "sport_pitches",
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 104752561
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +43,8 @@
           0.45296565,
           45.445305000000005
         ]
-      }
+      },
+      "id": 104752561
     },
     {
       "type": "Feature",
@@ -65,6 +67,7 @@
         "imagery_used": "Not reported",
         "date": "2021-06-22T16:11:40Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -73,12 +76,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 106788186,
         "host": "mapcomplete.osm.be",
         "theme": "climbing",
         "imagery": "osm",
         "language": "fr",
-        "theme-creator": "Christian Neumann <christian@utopicode.de>"
+        "theme-creator": "Christian Neumann <christian@utopicode.de>",
+        "id": 106788186
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +89,185 @@
           0.5180982,
           45.3491915
         ]
-      }
+      },
+      "id": 106788186
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          },
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "tildou75",
+        "uid": "17124362",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-05T13:13:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school",
+            "hospital",
+            "university"
+          ],
+          "highway": [
+            "tertiary",
+            "primary",
+            "residential",
+            "unclassified",
+            "primary_link",
+            "secondary",
+            "service",
+            "living_street",
+            "secondary_link",
+            "footway"
+          ],
+          "leisure": [
+            "sports_centre"
+          ],
+          "railway": [
+            "abandoned"
+          ],
+          "name:etymology": [
+            "Date de la libération de Limoges pendant la Seconde Guerre mondiale"
+          ],
+          "name:etymology:wikidata": [
+            "Q158768",
+            "Q3102382",
+            "Q275274",
+            "Q2907740",
+            "Q3102839",
+            "Q214597",
+            "Q179888",
+            "Q39931",
+            "Q134121",
+            "Q3262101",
+            "Q735370",
+            "Q333292",
+            "Q295524",
+            "Q1930688",
+            "Q290227",
+            "Q47626134",
+            "Q9191",
+            "Q16026266",
+            "Q76755934",
+            "Q551643",
+            "Q328235",
+            "Q547276",
+            "Q381244",
+            "Q46",
+            "Q2865129",
+            "Q158772",
+            "Q333489",
+            "Q936976",
+            "Q1029190",
+            "Q21518578",
+            "Q7321",
+            "Q517981",
+            "Q45656",
+            "Q1192",
+            "Q7317",
+            "Q224029",
+            "Q221303",
+            "Q1879480",
+            "Q502",
+            "Q1268",
+            "Q3061093",
+            "Q12745",
+            "Q597422",
+            "Q314987",
+            "Q3188966",
+            "Q470298",
+            "Q12130",
+            "Q18398",
+            "Q12594",
+            "Q626655",
+            "Q151999",
+            "Q295830",
+            "Q175770",
+            "Q10261",
+            "Q154353",
+            "Q40852",
+            "Q255618",
+            "Q7504",
+            "Q265104",
+            "Q2737",
+            "Q1511",
+            "Q448",
+            "Q104575",
+            "Q221001",
+            "Q233965",
+            "Q132684",
+            "Q3434778",
+            "Q102804",
+            "Q230814",
+            "Q3372029",
+            "Q180409",
+            "Q333438",
+            "Q133232",
+            "Q231402",
+            "Q134085",
+            "Q358891",
+            "Q1779",
+            "Q440",
+            "Q437423",
+            "Q93182",
+            "Q347201",
+            "Q718290",
+            "Q2977758",
+            "Q3107836",
+            "Q1173",
+            "Q273827",
+            "Q1911436",
+            "Q39607",
+            "Q457645",
+            "Q3163863",
+            "Q3992",
+            "Q6588",
+            "Q313917",
+            "Q156889",
+            "Q2661290",
+            "Q159700",
+            "Q18410",
+            "Q850620"
+          ]
+        },
+        "create": 0,
+        "modify": 315,
+        "delete": 0,
+        "area": 0.0107997845481295,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 430,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 127046952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.23552515,
+          45.825680750000004
+        ]
+      },
+      "id": 127046952
     },
     {
       "type": "Feature",
@@ -113,14 +294,14 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119469101,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/surveillance.html",
         "theme": "surveillance",
         "answer": 4,
         "locale": "fr",
         "imagery": "osm",
         "change_over_5000m": 1,
-        "change_within_25m": 4
+        "change_within_25m": 4,
+        "id": 119469101
       },
       "geometry": {
         "type": "Point",
@@ -128,7 +309,8 @@
           0.1625605,
           45.649321
         ]
-      }
+      },
+      "id": 119469101
     }
   ]
 }

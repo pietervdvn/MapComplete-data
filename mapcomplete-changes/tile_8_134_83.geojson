@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-08-12T10:32:18Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 109565139,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "nl",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 109565139
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,230 @@
           8.5020497,
           53.055716
         ]
-      }
+      },
+      "id": 109565139
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Winschu",
+        "uid": "1987669",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-03T10:23:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "recycling"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "locale": "de",
+        "imagery": "EsriWorldImagery",
+        "id": 126928648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9765811,
+          53.0260055
+        ]
+      },
+      "id": 126928648
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "OpenStreetBoy",
+        "uid": "72915",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-01T11:32:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "bicycle"
+          ],
+          "email": [
+            "raedereiverden@aol.com",
+            "info@2-rad-kastner.de"
+          ],
+          "phone": [
+            "+49 4231 932312"
+          ],
+          "website": [
+            "https://raederei-verden.de/",
+            "https://www.2-rad-kastner.de/"
+          ],
+          "opening_hours": [
+            "Mo-Fr 09:00-18:00;Sa 09:00-13:00",
+            "Mo-Tu 09:30-13:30, 14:30-18:00;Sa 09:30-13:30;Th-Fr 09:30-13:30, 14:30-18:00;We 09:30-13:30"
+          ],
+          "service:bicycle:rental": [
+            "no"
+          ],
+          "service:bicycle:repair": [
+            "yes"
+          ],
+          "service:bicycle:retail": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 9,
+        "delete": 0,
+        "area": 0.00000843080519998842,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 12,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 128340748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231833850000001,
+          52.9207342
+        ]
+      },
+      "id": 128340748
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Niels Elgaard Larsen",
+        "uid": "1288",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #pets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-20T12:21:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "barrier": [
+            "no"
+          ],
+          "leisure": [
+            "dog_park"
+          ],
+          "small_dog": [
+            "shared"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.88467199996931e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/pets.html",
+        "theme": "pets",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123849211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.818470699999999,
+          53.042679199999995
+        ]
+      },
+      "id": 123849211
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "bnc-online",
+        "uid": "2521414",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #hackerspaces",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-19T11:09:39Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "info@fablab-bremen.org"
+          ],
+          "leisure": [
+            "hackerspace"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hackerspaces",
+        "theme": "hackerspaces",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126366755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8159782,
+          53.0812089
+        ]
+      },
+      "id": 126366755
     }
   ]
 }

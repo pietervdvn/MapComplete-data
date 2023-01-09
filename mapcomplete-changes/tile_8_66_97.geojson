@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-05-09T11:53:57Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 104393563,
         "host": "mapcomplete.osm.be",
         "theme": "hailhydrant",
         "imagery": "HDM_HOT",
         "language": "en",
-        "theme-creator": "Erwin Olario"
+        "theme-creator": "Erwin Olario",
+        "id": 104393563
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           -86.7749105,
           39.2895893
         ]
-      }
+      },
+      "id": 104393563
     },
     {
       "type": "Feature",
@@ -56,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-05-09T11:39:10Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 0,
         "delete": 0,
@@ -64,12 +67,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 104393090,
         "host": "mapcomplete.osm.be",
         "theme": "bookcases",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 104393090
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +80,8 @@
           -86.8697199,
           39.2103621
         ]
-      }
+      },
+      "id": 104393090
     },
     {
       "type": "Feature",
@@ -95,6 +99,7 @@
         "imagery_used": "Not reported",
         "date": "2021-05-09T11:37:09Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 1,
         "delete": 0,
@@ -103,12 +108,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 104393035,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 104393035
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +121,53 @@
           -86.7622867,
           39.2846994
         ]
-      }
+      },
+      "id": 104393035
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "TArzate5",
+        "uid": "12330537",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-15T23:13:15Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "locale": "en",
+        "imagery": "osm",
+        "id": 121027788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4126876,
+          39.675823
+        ]
+      },
+      "id": 121027788
     }
   ]
 }

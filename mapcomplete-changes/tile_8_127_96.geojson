@@ -35,6 +35,7 @@
         "imagery_used": "Not reported",
         "date": "2020-12-03T21:48:36Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 3,
         "delete": 0,
@@ -43,10 +44,10 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 95250503,
         "theme": "postalcode",
         "language": "es",
-        "theme-creator": ""
+        "theme-creator": "",
+        "id": 95250503
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +55,8 @@
           -0.1488465,
           40.25308095
         ]
-      }
+      },
+      "id": 95250503
     },
     {
       "type": "Feature",
@@ -72,6 +74,7 @@
         "imagery_used": "Not reported",
         "date": "2021-12-30T10:21:22Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 1,
         "delete": 1,
@@ -80,7 +83,6 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115556765,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "answer": 4,
@@ -89,7 +91,8 @@
         "language": "nl",
         "change_over_5000m": 2,
         "change_within_25m": 4,
-        "deletion:node/9378806868": "Addition was buggy"
+        "deletion:node/9378806868": "Addition was buggy",
+        "id": 115556765
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +100,8 @@
           -0.055233000000000004,
           40.11256805
         ]
-      }
+      },
+      "id": 115556765
     },
     {
       "type": "Feature",
@@ -115,6 +119,7 @@
         "imagery_used": "Not reported",
         "date": "2021-12-30T10:20:56Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 2,
         "modify": 0,
         "delete": 0,
@@ -123,14 +128,14 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 115556736,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "answer": 8,
         "imagery": "osm",
         "language": "nl",
         "change_over_5000m": 4,
-        "change_within_25m": 6
+        "change_within_25m": 6,
+        "id": 115556736
       },
       "geometry": {
         "type": "Point",
@@ -138,89 +143,8 @@
           -0.0552669,
           40.1125873
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.13.1",
-        "comment": "Adding data with #MapComplete for theme #campersite",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-01-13T11:12:00Z",
-        "reviewed_features": [],
-        "create": 1,
-        "modify": 6,
-        "delete": 0,
-        "area": 1.68002100005324e-8,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 116101981,
-        "host": "mapcomplete.osm.be",
-        "theme": "campersite",
-        "answer": 12,
-        "imagery": "osm",
-        "language": "en",
-        "add-image": 3,
-        "change_over_5000m": 1,
-        "change_within_25m": 15
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.09145615,
-          40.62398795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.13.1",
-        "comment": "Adding data with #MapComplete for theme #aed",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-01-12T19:04:24Z",
-        "reviewed_features": [],
-        "create": 1,
-        "modify": 3,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "id": 116079171,
-        "host": "mapcomplete.osm.be",
-        "theme": "aed",
-        "answer": 7,
-        "imagery": "osm",
-        "language": "en",
-        "change_over_5000m": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.4594317,
-          40.2646883
-        ]
-      }
+      "id": 115556736
     },
     {
       "type": "Feature",
@@ -238,6 +162,7 @@
         "imagery_used": "Not reported",
         "date": "2022-01-11T15:44:06Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 4,
         "delete": 0,
@@ -246,14 +171,14 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 116029238,
         "host": "mapcomplete.osm.be",
         "theme": "campersite",
         "answer": 10,
         "imagery": "osm",
         "language": "en",
         "add-image": 2,
-        "change_over_5000m": 13
+        "change_over_5000m": 13,
+        "id": 116029238
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +186,140 @@
           -0.2716955,
           39.96799935
         ]
-      }
+      },
+      "id": 116029238
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.13.1",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-01-12T19:04:24Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "aed",
+        "answer": 7,
+        "imagery": "osm",
+        "language": "en",
+        "change_over_5000m": 8,
+        "id": 116079171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4594317,
+          40.2646883
+        ]
+      },
+      "id": 116079171
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.13.1",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-01-13T11:12:00Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 6,
+        "delete": 0,
+        "area": 1.68002100005324e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "campersite",
+        "answer": 12,
+        "imagery": "osm",
+        "language": "en",
+        "add-image": 3,
+        "change_over_5000m": 1,
+        "change_within_25m": 15,
+        "id": 116101981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09145615,
+          40.62398795
+        ]
+      },
+      "id": 116101981
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "HomoGradiens",
+        "uid": "1946832",
+        "editor": "MapComplete 0.25.2",
+        "comment": "Adding data with #MapComplete for theme #blind_osm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-28T19:19:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "crossing"
+          ]
+        },
+        "create": 6,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000079076717000116,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/blind_osm.html",
+        "theme": "blind_osm",
+        "answer": 6,
+        "locale": "fr",
+        "imagery": "PNOA-Spain-TMS",
+        "id": 130615386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0428303,
+          39.98996805
+        ]
+      },
+      "id": 130615386
     },
     {
       "type": "Feature",
@@ -288,12 +346,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119864083,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/waste.html",
         "theme": "waste",
         "answer": 5,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119864083
       },
       "geometry": {
         "type": "Point",
@@ -301,7 +359,8 @@
           -0.28813639999999996,
           40.245792300000005
         ]
-      }
+      },
+      "id": 119864083
     }
   ]
 }

@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-10-27T10:15:34Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 2,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 113030047,
         "host": "mapcomplete.osm.be",
         "theme": "bookcases",
         "answer": 3,
         "imagery": "osm",
-        "language": "de"
+        "language": "de",
+        "id": 113030047
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           10.544858,
           52.2558548
         ]
-      }
+      },
+      "id": 113030047
     },
     {
       "type": "Feature",
@@ -56,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-11-15T05:21:29Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 5,
         "delete": 0,
@@ -64,12 +67,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 113787479,
         "host": "mapcomplete.osm.be",
         "theme": "etymology",
         "answer": 5,
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 113787479
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +80,8 @@
           10.1730426,
           52.17872920000001
         ]
-      }
+      },
+      "id": 113787479
     },
     {
       "type": "Feature",
@@ -95,6 +99,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-27T10:29:53Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -103,11 +108,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108680475,
         "host": "mapcomplete.osm.be",
         "theme": "charging_stations",
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 108680475
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +120,8 @@
           10.5425827,
           52.2556346
         ]
-      }
+      },
+      "id": 108680475
     },
     {
       "type": "Feature",
@@ -133,6 +139,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-27T10:26:12Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -141,12 +148,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108680212,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 108680212
       },
       "geometry": {
         "type": "Point",
@@ -154,7 +161,8 @@
           10.530704,
           52.2579515
         ]
-      }
+      },
+      "id": 108680212
     },
     {
       "type": "Feature",
@@ -163,38 +171,46 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "ibanez",
-        "uid": "30137",
-        "editor": "MapComplete 0.18.2",
-        "comment": "Adding data with #MapComplete for theme #etymology",
+        "user": "alicula",
+        "uid": "96752",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-04-28T13:37:09Z",
+        "date": "2022-11-03T10:36:49Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "highway": [
+            "crossing"
+          ],
+          "traffic_signals:arrow": [
+            "no"
+          ]
+        },
         "create": 0,
-        "modify": 23,
+        "modify": 1,
         "delete": 0,
-        "area": 0.00026519716497004,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120306979,
-        "host": "mapcomplete.osm.be",
-        "theme": "etymology",
-        "answer": 25,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 2,
         "locale": "de",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 128431358
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.56376115,
-          52.47327595
+          10.6357632,
+          52.3699698
         ]
-      }
+      },
+      "id": 128431358
     },
     {
       "type": "Feature",
@@ -203,38 +219,200 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "ibanez",
-        "uid": "30137",
-        "editor": "MapComplete 0.18.2",
-        "comment": "Adding data with #MapComplete for theme #etymology",
+        "user": "alicula",
+        "uid": "96752",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-04-27T19:03:38Z",
+        "date": "2022-11-03T10:29:59Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "highway": [
+            "primary_link",
+            "tertiary"
+          ],
+          "maxspeed": [
+            "80",
+            "50"
+          ]
+        },
         "create": 0,
-        "modify": 49,
+        "modify": 5,
         "delete": 0,
-        "area": 0.000181044564480078,
+        "area": 0.0000846597440000559,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120273645,
-        "host": "mapcomplete.osm.be",
-        "theme": "etymology",
-        "answer": 60,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 5,
         "locale": "de",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 128431084
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.5669606,
-          52.477917500000004
+          10.70292835,
+          52.354040600000005
         ]
-      }
+      },
+      "id": 128431084
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alicula",
+        "uid": "96752",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-03T10:26:33Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "recycling"
+          ],
+          "location": [
+            "overground"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "answer": 4,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 128430911
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6327917,
+          52.3697632
+        ]
+      },
+      "id": 128430911
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alicula",
+        "uid": "96752",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-11-03T10:16:09Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "bicycle": [
+            "no"
+          ],
+          "scooter": [
+            "no"
+          ],
+          "motorcar": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 2,
+        "locale": "de",
+        "imagery": "CartoDB.Voyager",
+        "id": 128430428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7196181,
+          52.4162355
+        ]
+      },
+      "id": 128430428
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "eazystreet",
+        "uid": "488739",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-12-16T15:19:31Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hailhydrant.html",
+        "theme": "hailhydrant",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "HDM_HOT",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 3,
+        "id": 130160712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1435459,
+          51.9265371
+        ]
+      },
+      "id": 130160712
     },
     {
       "type": "Feature",
@@ -261,12 +439,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119773239,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/etymology.html",
         "theme": "etymology",
         "answer": 96,
         "locale": "de",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119773239
       },
       "geometry": {
         "type": "Point",
@@ -274,7 +452,1467 @@
           10.55623585,
           52.4683732
         ]
-      }
+      },
+      "id": 119773239
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "ibanez",
+        "uid": "30137",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-27T19:03:38Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 49,
+        "delete": 0,
+        "area": 0.000181044564480078,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 60,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 120273645
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5669606,
+          52.477917500000004
+        ]
+      },
+      "id": 120273645
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "ibanez",
+        "uid": "30137",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-28T13:37:09Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 23,
+        "delete": 0,
+        "area": 0.00026519716497004,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 25,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 120306979
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.56376115,
+          52.47327595
+        ]
+      },
+      "id": 120306979
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "eq9RxsEL",
+        "uid": "6337397",
+        "editor": "MapComplete 0.20.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-06T18:45:31Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "straight_mast"
+          ],
+          "light:colour": [
+            "white"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 4,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 122039073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0998057,
+          52.3834331
+        ]
+      },
+      "id": 122039073
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "eq9RxsEL",
+        "uid": "6337397",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-12T20:50:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:method": [
+            "discharge"
+          ],
+          "light:direction": [
+            "172"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 3.64000000336237e-12,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "move": 1,
+        "theme": "street_lighting",
+        "answer": 3,
+        "locale": "de",
+        "imagery": "osm",
+        "move:node/9674010052": "improve_accuracy",
+        "id": 122297789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.09980605,
+          52.3834305
+        ]
+      },
+      "id": 122297789
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:08:13Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "light:direction": [
+            "173"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 1,
+        "id": 125146969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5244906,
+          51.7170711
+        ]
+      },
+      "id": 125146969
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:06:05Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "straight_mast"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:direction": [
+            "167",
+            "217"
+          ]
+        },
+        "create": 0,
+        "modify": 5,
+        "delete": 1,
+        "area": 4.3178727999462e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 8,
+        "locale": "en",
+        "imagery": "osm",
+        "deletion": 1,
+        "change_within_25m": 6,
+        "change_within_50m": 3,
+        "deletion:node/1771277463": "disused",
+        "id": 125146881
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5237212,
+          51.7169308
+        ]
+      },
+      "id": 125146881
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:05:48Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 2,
+        "id": 125146862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5229518,
+          51.7167905
+        ]
+      },
+      "id": 125146862
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:05:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "straight_mast"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:direction": [
+            "269"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 3.87021599991805e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 5,
+        "id": 125146839
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523334,
+          51.71638725
+        ]
+      },
+      "id": 125146839
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:04:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "light:direction": [
+            "267"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 1.60783700000154e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 3,
+        "id": 125146816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523419749999999,
+          51.716073550000004
+        ]
+      },
+      "id": 125146816
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:02:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "bent_mast"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:direction": [
+            "265"
+          ]
+        },
+        "create": 1,
+        "modify": 5,
+        "delete": 0,
+        "area": 8.43799499991586e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 11,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 11,
+        "id": 125146740
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52337925,
+          51.71561165
+        ]
+      },
+      "id": 125146740
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:02:16Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 1,
+        "id": 125146714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5237661,
+          51.7151939
+        ]
+      },
+      "id": 125146714
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:01:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "light:direction": [
+            "294"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 5.14961999997727e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 3,
+        "id": 125146698
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5237058,
+          51.7149804
+        ]
+      },
+      "id": 125146698
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-20T13:01:19Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "bent_mast"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:direction": [
+            "207"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 6.64751999987978e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 7,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 7,
+        "id": 125146678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5236587,
+          51.714641
+        ]
+      },
+      "id": 125146678
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-21T11:53:37Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "light:count": [
+            "1"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_100m": 2,
+        "id": 125180198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5180073,
+          51.7103356
+        ]
+      },
+      "id": 125180198
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-21T11:53:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "bent_mast"
+          ],
+          "light:count": [
+            "2"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 3.86624000224811e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_100m": 5,
+        "id": 125180191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51830935,
+          51.7103324
+        ]
+      },
+      "id": 125180191
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-21T08:55:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/zt3HMq2.jpg"
+          ],
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "straight_mast",
+            "bent_mast"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:direction": [
+            "114",
+            "323"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.00000578622517999829,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 14,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 10,
+        "change_within_500m": 5,
+        "id": 125173843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51975715,
+          51.7105486
+        ]
+      },
+      "id": 125173843
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-21T08:51:48Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "waste": [
+            "dog_excrement;trash",
+            "trash"
+          ],
+          "amenity": [
+            "waste_basket"
+          ]
+        },
+        "create": 0,
+        "modify": 16,
+        "delete": 0,
+        "area": 0.0000634093474500291,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "answer": 16,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_100m": 2,
+        "change_within_500m": 9,
+        "change_within_1000m": 5,
+        "id": 125173728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52015815,
+          51.712704450000004
+        ]
+      },
+      "id": 125173728
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-21T07:42:05Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "light:direction": [
+            "30"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_50m": 1,
+        "id": 125171701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5187486,
+          51.7100089
+        ]
+      },
+      "id": 125171701
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-21T07:41:27Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "bent_mast"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:direction": [
+            "197"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 1.46036799999338e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 8,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_50m": 8,
+        "id": 125171681
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5187122,
+          51.7099086
+        ]
+      },
+      "id": 125171681
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-21T07:35:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ],
+          "leaf_type": [
+            "broadleaved"
+          ],
+          "denotation": [
+            "urban"
+          ],
+          "leaf_cycle": [
+            "deciduous"
+          ]
+        },
+        "create": 0,
+        "modify": 24,
+        "delete": 0,
+        "area": 0.000030905248349993,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "answer": 30,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 2,
+        "change_within_50m": 1,
+        "change_within_100m": 7,
+        "change_within_500m": 18,
+        "change_within_1000m": 2,
+        "id": 125171489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51918875,
+          51.71115455
+        ]
+      },
+      "id": 125171489
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.1",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-26T20:05:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ],
+          "denotation": [
+            "urban"
+          ],
+          "species:wikidata": [
+            "Q26745"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 2,
+        "id": 125421764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5215016,
+          51.7114223
+        ]
+      },
+      "id": 125421764
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.1",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-26T20:05:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ],
+          "denotation": [
+            "urban"
+          ],
+          "species:wikidata": [
+            "Q26745"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 6.33440000026873e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 5,
+        "id": 125421743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214499,
+          51.711459000000005
+        ]
+      },
+      "id": 125421743
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "grigen",
+        "uid": "17105029",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-12T18:06:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.15899999951141e-9,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 126101668
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94838635,
+          52.149501
+        ]
+      },
+      "id": 126101668
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "grigen",
+        "uid": "17105029",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-12T17:34:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/vtxEA67.jpg"
+          ],
+          "colour": [
+            "brown"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "backrest": [
+            "yes",
+            "no"
+          ],
+          "material": [
+            "wood"
+          ],
+          "direction": [
+            "229"
+          ],
+          "survey:date": [
+            "2022-09-12"
+          ]
+        },
+        "create": 2,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.00000249627597999777,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 11,
+        "locale": "de",
+        "imagery": "EsriWorldImagery",
+        "add-image": 1,
+        "id": 126100614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94274365,
+          52.1480194
+        ]
+      },
+      "id": 126100614
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "grigen",
+        "uid": "17105029",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-12T17:28:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "waste_basket"
+          ]
+        },
+        "create": 4,
+        "modify": 0,
+        "delete": 0,
+        "area": 0.000109796912720056,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "locale": "de",
+        "imagery": "osm",
+        "id": 126100411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9273773,
+          52.14914175
+        ]
+      },
+      "id": 126100411
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "grigen",
+        "uid": "17105029",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-15T11:44:36Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "waste_basket"
+          ]
+        },
+        "create": 4,
+        "modify": 0,
+        "delete": 0,
+        "area": 0.00000506543526000703,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "locale": "en",
+        "imagery": "EsriWorldImagery",
+        "id": 126220863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9465041,
+          52.14583555
+        ]
+      },
+      "id": 126220863
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "grigen",
+        "uid": "17105029",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-15T11:30:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ]
+        },
+        "create": 4,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.00000549983027998956,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 7,
+        "locale": "en",
+        "imagery": "EsriWorldImagery",
+        "id": 126220240
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9464927,
+          52.145827350000005
+        ]
+      },
+      "id": 126220240
     }
   ]
 }

@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-25T12:04:15Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -25,13 +26,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108562739,
         "host": "pietervdvn.github.io",
         "path": "mc/feature/road-splitting/",
         "theme": "campersite",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "joost schouppe"
+        "theme-creator": "joost schouppe",
+        "id": 108562739
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +40,8 @@
           5.5352854,
           46.2692277
         ]
-      }
+      },
+      "id": 108562739
     },
     {
       "type": "Feature",
@@ -57,6 +59,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-25T12:03:46Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 3,
         "delete": 0,
@@ -65,13 +68,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108562725,
         "host": "pietervdvn.github.io",
         "path": "mc/feature/road-splitting/",
         "theme": "campersite",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "joost schouppe"
+        "theme-creator": "joost schouppe",
+        "id": 108562725
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +82,62 @@
           5.5351344000000005,
           46.2692284
         ]
-      }
+      },
+      "id": 108562725
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "lmagreault",
+        "uid": "260065",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-26T17:53:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "sports"
+          ],
+          "service:bicycle:rental": [
+            "no"
+          ],
+          "service:bicycle:repair": [
+            "no"
+          ],
+          "service:bicycle:retail": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 3,
+        "locale": "fr",
+        "imagery": "CartoDB.Voyager",
+        "id": 129410879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5508858,
+          46.6743497
+        ]
+      },
+      "id": 129410879
     }
   ]
 }

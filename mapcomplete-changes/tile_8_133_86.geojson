@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-08-09T12:48:00Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -25,8 +26,7 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 89153051,
-        "theme": "cyclofix"
+        "id": 89153051
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +34,8 @@
           8.23136835,
           50.004933199999996
         ]
-      }
+      },
+      "id": 89153051
     },
     {
       "type": "Feature",
@@ -52,6 +53,7 @@
         "imagery_used": "Not reported",
         "date": "2021-02-22T08:23:56Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -60,12 +62,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 99726454,
         "host": "pietervdvn.github.io",
         "theme": "benches",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Florian Edelmann"
+        "theme-creator": "Florian Edelmann",
+        "id": 99726454
       },
       "geometry": {
         "type": "Point",
@@ -73,7 +75,8 @@
           8.2322798,
           50.00430595
         ]
-      }
+      },
+      "id": 99726454
     },
     {
       "type": "Feature",
@@ -96,6 +99,7 @@
         "imagery_used": "Not reported",
         "date": "2021-06-26T06:37:56Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -104,13 +108,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 106992154,
         "host": "pietervdvn.github.io",
         "path": "mc/develop/",
         "theme": "hailhydrant",
         "imagery": "HDM_HOT",
         "language": "en",
-        "theme-creator": "Erwin Olario"
+        "theme-creator": "Erwin Olario",
+        "id": 106992154
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +122,8 @@
           8.0934908,
           50.4049327
         ]
-      }
+      },
+      "id": 106992154
     },
     {
       "type": "Feature",
@@ -136,6 +141,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-20T19:34:13Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -144,12 +150,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108336700,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "de",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 108336700
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +163,8 @@
           7.591224,
           50.3595479
         ]
-      }
+      },
+      "id": 108336700
     },
     {
       "type": "Feature",
@@ -175,6 +182,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-20T19:24:21Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 13,
         "delete": 0,
@@ -183,12 +191,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108336297,
         "host": "mapcomplete.osm.be",
         "theme": "cyclofix",
         "imagery": "CartoDB.Voyager",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 108336297
       },
       "geometry": {
         "type": "Point",
@@ -196,47 +204,416 @@
           7.57653435,
           50.353613100000004
         ]
-      }
+      },
+      "id": 108336297
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "ar_wed",
+        "uid": "11481573",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-02T13:53:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking",
+            "bicycle_rental"
+          ],
+          "website": [
+            "https://www.wiesbaden.de/kultur/stadtgeschichte/historismus/orte-des-historismus/luisenplatz.php"
+          ],
+          "cargo_bike": [
+            "designated"
+          ],
+          "capacity:cargo_bike": [
+            "7"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 3.40777239987337e-7,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 3,
+        "locale": "de",
+        "imagery": "CartoDB.Voyager",
+        "id": 126894736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.238827,
+          50.0790766
+        ]
+      },
+      "id": 126894736
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "hWeishaupt",
+        "uid": "718936",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-21T11:03:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "johannes-maass-schule@wiesbaden.de"
+          ],
+          "phone": [
+            "+49 611 312231"
+          ],
+          "amenity": [
+            "school"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.00000466541946000262,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 2,
+        "locale": "de",
+        "imagery": "CartoDB.Voyager",
+        "id": 127876877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2329625,
+          50.09063335
+        ]
+      },
+      "id": 127876877
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "hWeishaupt",
+        "uid": "718936",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-21T10:58:00Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "kita.hellkundweg@wiesbaden.de"
+          ],
+          "phone": [
+            "+49 611 313552"
+          ],
+          "amenity": [
+            "kindergarten"
+          ],
+          "website": [
+            "https://www.wiesbaden.de/verzeichnisse/kita/staedt-kita-hellkundweg.php"
+          ],
+          "capacity": [
+            "100"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.0000986594484800121,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 6,
+        "locale": "de",
+        "imagery": "CartoDB.Voyager",
+        "id": 127876608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2277679,
+          50.093537299999994
+        ]
+      },
+      "id": 127876608
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Mindolluin",
+        "uid": "1906849",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-08T12:38:47Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "bicycle_parking": [
+            "shed"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 4.06384000007644e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 2,
+        "locale": "de",
+        "imagery": "CartoDB.Voyager",
+        "change_within_500m": 2,
+        "id": 128639326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.12339855,
+          50.7148469
+        ]
+      },
+      "id": 128639326
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "robebryant",
+        "uid": "17061840",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-26T13:01:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "barrier": [
+            "bollard"
+          ],
+          "bollard": [
+            "removable"
+          ],
+          "highway": [
+            "path"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0000112425896,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cycle_infra.html",
+        "split": 2,
+        "theme": "cycle_infra",
+        "answer": 2,
+        "locale": "de",
+        "imagery": "osm",
+        "change_within_1000m": 4,
+        "id": 129401356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.26180225,
+          49.9836044
+        ]
+      },
+      "id": 129401356
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "geowas",
+        "uid": "167009",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-06T13:12:11Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 9,
+        "delete": 0,
+        "area": 0.0000186079770000539,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 14,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 129783379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.321739149999999,
+          49.995487999999995
+        ]
+      },
+      "id": 129783379
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": "exarkun",
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
         "tags": [],
         "features": [],
         "user": "kjon",
         "uid": "44217",
-        "editor": "MapComplete 0.18.1",
+        "editor": "MapComplete 0.18.0",
         "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
+        "comments_count": 2,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-04-18T10:54:03Z",
+        "date": "2022-04-15T12:02:09Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 0,
-        "modify": 126,
+        "modify": 428,
         "delete": 0,
-        "area": 0.00575934807209951,
-        "is_suspect": false,
+        "area": 0.00551398791759962,
+        "is_suspect": true,
         "harmful": true,
         "checked": true,
-        "check_date": "2022-04-26T20:40:58.579319Z",
-        "id": 119851785,
-        "host": "mapcomplete.osm.be",
+        "check_date": "2022-04-26T20:43:45.341225Z",
+        "host": "https://mapcomplete.osm.be/etymology.html",
         "theme": "etymology",
-        "answer": 186,
+        "answer": 606,
         "locale": "de",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119748620
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.45693945,
-          50.354724000000004
+          7.5577283,
+          50.3444432
         ]
-      }
+      },
+      "id": 119748620
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": "exarkun",
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "kjon",
+        "uid": "44217",
+        "editor": "MapComplete 0.18.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-16T19:53:44Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 373,
+        "delete": 0,
+        "area": 0.00744765056655979,
+        "is_suspect": true,
+        "harmful": true,
+        "checked": true,
+        "check_date": "2022-04-26T20:43:27.635646Z",
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 517,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 119797011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5888451,
+          50.365595600000006
+        ]
+      },
+      "id": 119797011
     },
     {
       "type": "Feature",
@@ -285,12 +662,12 @@
         "harmful": true,
         "checked": true,
         "check_date": "2022-04-26T20:40:46.579590Z",
-        "id": 119830754,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/etymology.html",
         "theme": "etymology",
         "answer": 555,
         "locale": "de",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119830754
       },
       "geometry": {
         "type": "Point",
@@ -298,7 +675,8 @@
           7.6048072,
           50.34468765
         ]
-      }
+      },
+      "id": 119830754
     },
     {
       "type": "Feature",
@@ -355,12 +733,12 @@
         "harmful": true,
         "checked": true,
         "check_date": "2022-04-26T20:43:11.352466Z",
-        "id": 119815081,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/etymology.html",
         "theme": "etymology",
         "answer": 184,
         "locale": "de",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119815081
       },
       "geometry": {
         "type": "Point",
@@ -368,97 +746,49 @@
           7.54163705,
           50.36456565
         ]
-      }
+      },
+      "id": 119815081
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": "exarkun",
-        "reasons": [
-          {
-            "id": 4,
-            "name": "mass modification"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
         "user": "kjon",
         "uid": "44217",
-        "editor": "MapComplete 0.18.0",
+        "editor": "MapComplete 0.18.1",
         "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-04-16T19:53:44Z",
+        "date": "2022-04-18T10:54:03Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 0,
-        "modify": 373,
+        "modify": 126,
         "delete": 0,
-        "area": 0.00744765056655979,
-        "is_suspect": true,
+        "area": 0.00575934807209951,
+        "is_suspect": false,
         "harmful": true,
         "checked": true,
-        "check_date": "2022-04-26T20:43:27.635646Z",
-        "id": 119797011,
-        "host": "mapcomplete.osm.be",
+        "check_date": "2022-04-26T20:40:58.579319Z",
+        "host": "https://mapcomplete.osm.be/etymology.html",
         "theme": "etymology",
-        "answer": 517,
+        "answer": 186,
         "locale": "de",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 119851785
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5888451,
-          50.365595600000006
+          7.45693945,
+          50.354724000000004
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": "exarkun",
-        "reasons": [
-          {
-            "id": 4,
-            "name": "mass modification"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "kjon",
-        "uid": "44217",
-        "editor": "MapComplete 0.18.0",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 2,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-04-15T12:02:09Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 428,
-        "delete": 0,
-        "area": 0.00551398791759962,
-        "is_suspect": true,
-        "harmful": true,
-        "checked": true,
-        "check_date": "2022-04-26T20:43:45.341225Z",
-        "id": 119748620,
-        "host": "mapcomplete.osm.be",
-        "theme": "etymology",
-        "answer": 606,
-        "locale": "de",
-        "imagery": "osm"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.5577283,
-          50.3444432
-        ]
-      }
+      "id": 119851785
     },
     {
       "type": "Feature",
@@ -485,12 +815,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120699297,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/parkings.html",
         "theme": "parkings",
         "locale": "en",
         "imagery": "osm",
-        "change_over_5000m": 1
+        "change_over_5000m": 1,
+        "id": 120699297
       },
       "geometry": {
         "type": "Point",
@@ -498,7 +828,871 @@
           8.0660409,
           49.9762415
         ]
-      }
+      },
+      "id": 120699297
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "J@n@ncy",
+        "uid": "16287818",
+        "editor": "MapComplete 0.20.3",
+        "comment": "Adding data with #MapComplete for theme #toerisme_vlaanderen",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-15T15:11:27Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_repair_station"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toerisme_vlaanderen",
+        "theme": "toerisme_vlaanderen",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "osm",
+        "change_over_5000m": 2,
+        "id": 122423528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0749865,
+          49.9159915
+        ]
+      },
+      "id": 122423528
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "jospyck",
+        "uid": "12128135",
+        "editor": "MapComplete 0.20.3",
+        "comment": "Adding data with #MapComplete for theme #toerisme_vlaanderen",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-18T07:45:22Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/lzsowY8.jpg"
+          ],
+          "seats": [
+            "2"
+          ],
+          "colour": [
+            "brown"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "leisure": [
+            "picnic_table"
+          ],
+          "tourism": [
+            "viewpoint"
+          ],
+          "backrest": [
+            "yes"
+          ],
+          "material": [
+            "wood"
+          ],
+          "direction": [
+            "32"
+          ],
+          "survey:date": [
+            "2022-06-18"
+          ]
+        },
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 1.58421999980119e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toerisme_vlaanderen.html",
+        "theme": "toerisme_vlaanderen",
+        "answer": 7,
+        "locale": "nl",
+        "imagery": "EsriWorldImagery",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 8,
+        "id": 122535005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7720276,
+          50.04665465
+        ]
+      },
+      "id": 122535005
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "kjon",
+        "uid": "44217",
+        "editor": "MapComplete 0.21.0",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-01T13:40:54Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "flickr": [
+            "https://www.flickr.com/photos/28577026@N02/43997133060"
+          ],
+          "tourism": [
+            "artwork"
+          ],
+          "wikimedia_commons": [
+            "File:KO Bernar Venet Steel Arc.JPG"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.00000940936430002258,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "locale": "de",
+        "imagery": "osm",
+        "link-image": 2,
+        "id": 123087463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5990097,
+          50.36365965
+        ]
+      },
+      "id": 123087463
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "s6mables",
+        "uid": "8409097",
+        "editor": "MapComplete 0.22.1",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-07T19:21:34Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "leisure": [
+            "playground"
+          ],
+          "surface": [
+            "grass"
+          ],
+          "operator": [
+            "Gemeinde Longkamp"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 2.20556119997076e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 123333237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1172919,
+          49.890911349999996
+        ]
+      },
+      "id": 123333237
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "neleostermann",
+        "uid": "16512997",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-11T10:15:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "bicycle",
+            "road"
+          ],
+          "highway": [
+            "residential",
+            "unclassified",
+            "secondary"
+          ],
+          "maxspeed": [
+            "30",
+            "100",
+            "50"
+          ]
+        },
+        "create": 6,
+        "modify": 24,
+        "delete": 0,
+        "area": 0.000634227264000027,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "split": 9,
+        "theme": "maxspeed",
+        "answer": 22,
+        "locale": "de",
+        "imagery": "osm",
+        "relation-fix": 3,
+        "id": 123467434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2958872,
+          50.7185388
+        ]
+      },
+      "id": 123467434
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-26T13:06:17Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/6G6nPDh.jpg",
+            "https://i.imgur.com/lnRxxrr.jpg",
+            "https://i.imgur.com/X6Ru2pL.jpg"
+          ],
+          "natural": [
+            "tree"
+          ],
+          "denotation": [
+            "garden",
+            "park"
+          ],
+          "species:wikidata": [
+            "Q156944",
+            "Q146149",
+            "Q161105"
+          ]
+        },
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 8.71698999997942e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees",
+        "theme": "trees",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 3,
+        "change_over_5000m": 7,
+        "id": 124096324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.09372265,
+          50.72570615
+        ]
+      },
+      "id": 124096324
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-26T10:29:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/R78togJ.jpg"
+          ],
+          "natural": [
+            "tree"
+          ],
+          "species:wikidata": [
+            "Q146149"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees",
+        "theme": "trees",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 6,
+        "id": 124088919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0936351,
+          50.7255392
+        ]
+      },
+      "id": 124088919
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Ogmios",
+        "uid": "81983",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-29T19:52:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 5,
+        "id": 124245908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1057416,
+          50.7359009
+        ]
+      },
+      "id": 124245908
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "wjtje",
+        "uid": "11949970",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #onwheels",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-06T07:59:35Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 10.6953590127154,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/onwheels.html",
+        "theme": "onwheels",
+        "answer": 16,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 124550186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0912769,
+          49.95736605
+        ]
+      },
+      "id": 124550186
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "geowas",
+        "uid": "167009",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-10T12:24:09Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "residential",
+            "tertiary",
+            "unclassified",
+            "footway",
+            "path",
+            "living_street",
+            "service",
+            "steps"
+          ],
+          "name:etymology:wikidata": [
+            "Q883326",
+            "Q140605",
+            "Q3565868",
+            "Q81720",
+            "Q552",
+            "Q548",
+            "Q102350",
+            "Q387396",
+            "Q106274",
+            "Q92212",
+            "Q948304",
+            "Q104302",
+            "Q8958",
+            "Q91203",
+            "Q896423",
+            "Q798436",
+            "Q105084",
+            "Q749151",
+            "Q1885689",
+            "Q104979"
+          ]
+        },
+        "create": 0,
+        "modify": 89,
+        "delete": 0,
+        "area": 0.000429669974160055,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 131,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 124729192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25909935,
+          49.9870025
+        ]
+      },
+      "id": 124729192
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "geowas",
+        "uid": "167009",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-10T12:19:33Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_rental"
+          ],
+          "website": [
+            "https://www.mainzer-mobilitaet.de/mehr-mobilitaet/meinrad"
+          ],
+          "payment:app": [
+            "yes"
+          ],
+          "payment:cash": [
+            "no"
+          ],
+          "payment:cards": [
+            "no"
+          ],
+          "bicycle_rental": [
+            "docking_station"
+          ],
+          "payment:membership_card": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.0000145657934999959,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 6,
+        "locale": "de",
+        "imagery": "CartoDB.Voyager",
+        "id": 124728973
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2552719,
+          49.98780015
+        ]
+      },
+      "id": 124728973
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "geowas",
+        "uid": "167009",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #cyclestreets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-11T06:35:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ]
+        },
+        "create": 0,
+        "modify": 8,
+        "delete": 0,
+        "area": 0.000103389155099977,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclestreets.html",
+        "theme": "cyclestreets",
+        "answer": 9,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 124759461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.27370165,
+          50.0168045
+        ]
+      },
+      "id": 124759461
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "geowas",
+        "uid": "167009",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-14T16:36:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "place": [
+            "square"
+          ],
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "residential",
+            "living_street",
+            "footway",
+            "secondary",
+            "path",
+            "steps"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q1670",
+            "Q168696",
+            "Q165887",
+            "Q677873",
+            "Q584",
+            "Q158884",
+            "Q706691",
+            "Q94807642",
+            "Q103148",
+            "Q1113424"
+          ]
+        },
+        "create": 0,
+        "modify": 39,
+        "delete": 0,
+        "area": 0.000294482918079943,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 48,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 124895060
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2606812,
+          50.011448650000006
+        ]
+      },
+      "id": 124895060
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "geowas",
+        "uid": "167009",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-14T14:43:02Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school",
+            "fountain"
+          ],
+          "highway": [
+            "residential",
+            "pedestrian",
+            "primary",
+            "secondary",
+            "service"
+          ],
+          "leisure": [
+            "swimming_pool"
+          ],
+          "name:etymology:wikidata": [
+            "Q98525431",
+            "Q1662651",
+            "Q584",
+            "Q1673",
+            "Q62702",
+            "Q18020684",
+            "Q454121",
+            "Q160441"
+          ]
+        },
+        "create": 0,
+        "modify": 37,
+        "delete": 0,
+        "area": 0.000143134371840052,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 60,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 124890738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.265221499999999,
+          50.0064573
+        ]
+      },
+      "id": 124890738
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "mattsches",
+        "uid": "65268",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-26T07:45:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "level": [
+            "0"
+          ],
+          "amenity": [
+            "restaurant"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "answer": 1,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 126641712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2221727,
+          50.0824051
+        ]
+      },
+      "id": 126641712
     }
   ]
 }

@@ -31,14 +31,14 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 119225896,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/drinking_water",
         "theme": "drinking_water",
         "answer": 1,
         "locale": "en",
         "imagery": "CartoDB.Voyager",
         "add-image": 1,
-        "change_within_25m": 2
+        "change_within_25m": 2,
+        "id": 119225896
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +46,98 @@
           -4.7542109,
           43.4169029
         ]
-      }
+      },
+      "id": 119225896
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "eiryelio",
+        "uid": "831652",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-05T13:03:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "man_made": [
+            "surveillance"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 4,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 124523112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7528073,
+          43.420214
+        ]
+      },
+      "id": 124523112
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "eiryelio",
+        "uid": "831652",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-05T12:57:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "man_made": [
+            "surveillance"
+          ]
+        },
+        "create": 2,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 11,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 124522867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75281,
+          43.420207149999996
+        ]
+      },
+      "id": 124522867
     }
   ]
 }

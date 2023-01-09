@@ -26,6 +26,7 @@
         "imagery_used": "Not reported",
         "date": "2021-11-15T14:21:23Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 231,
         "delete": 0,
@@ -34,12 +35,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 113807773,
         "host": "mapcomplete.osm.be",
         "theme": "etymology",
         "answer": 324,
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 113807773
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +48,8 @@
           4.593448,
           48.7254492
         ]
-      }
+      },
+      "id": 113807773
     },
     {
       "type": "Feature",
@@ -65,6 +67,7 @@
         "imagery_used": "Not reported",
         "date": "2021-07-24T16:12:00Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -73,12 +76,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 108538300,
         "host": "mapcomplete.osm.be",
         "theme": "toilets",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 108538300
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +89,203 @@
           4.95734685,
           48.0559873
         ]
-      }
+      },
+      "id": 108538300
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thibault Rommel",
+        "uid": "5846458",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-14T20:16:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "level": [
+            "0"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "place_of_worship"
+          ],
+          "building": [
+            "yes",
+            "church"
+          ]
+        },
+        "create": 5,
+        "modify": 12,
+        "delete": 0,
+        "area": 18.2421325076716,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 21,
+        "locale": "nl",
+        "imagery": "osm",
+        "add-image": 3,
+        "change_over_5000m": 29,
+        "id": 123624359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9187388499999996,
+          48.40095665
+        ]
+      },
+      "id": 123624359
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "aadvan",
+        "uid": "14280296",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-14T12:30:15Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "power": [
+            "substation"
+          ],
+          "route": [
+            "bus"
+          ],
+          "amenity": [
+            "community_centre",
+            "social_facility",
+            "school"
+          ],
+          "highway": [
+            "secondary",
+            "residential",
+            "tertiary",
+            "living_street",
+            "unclassified",
+            "path"
+          ],
+          "landuse": [
+            "meadow",
+            "residential",
+            "farmland"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q49325",
+            "Q469752",
+            "Q347201",
+            "Q659969",
+            "Q64506006",
+            "Q829617",
+            "Q217474",
+            "Q946069",
+            "Q204735",
+            "Q368976",
+            "Q336630",
+            "Q20710",
+            "Q911033",
+            "Q7321",
+            "Q1178",
+            "Q4700",
+            "Q1151",
+            "Q2537308",
+            "Q161955",
+            "Q47162",
+            "Q1338299",
+            "Q129155",
+            "Q34670",
+            "Q55965",
+            "Q506320",
+            "Q446435",
+            "Q214074",
+            "Q296",
+            "Q3060203",
+            "Q187506",
+            "Q151164",
+            "Q203371",
+            "Q7091",
+            "Q736207",
+            "Q460124",
+            "Q210730",
+            "Q157183",
+            "Q218679",
+            "Q561724",
+            "Q42596",
+            "Q336467",
+            "Q272912",
+            "Q680897",
+            "Q207709",
+            "Q381924",
+            "Q809416",
+            "Q310833",
+            "Q18545999",
+            "Q164405",
+            "Q3477205",
+            "Q15981",
+            "Q81082",
+            "Q3069783",
+            "Q165274",
+            "Q231402",
+            "Q148475",
+            "Q336747",
+            "Q152176",
+            "Q375438",
+            "Q300903",
+            "Q316892",
+            "Q1986557",
+            "Q435208",
+            "Q3089290",
+            "Q298180",
+            "Q2908",
+            "Q964683"
+          ]
+        },
+        "create": 0,
+        "modify": 129,
+        "delete": 0,
+        "area": 0.939863111271845,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 153,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126180161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.253159699999999,
+          48.7283823
+        ]
+      },
+      "id": 126180161
     }
   ]
 }

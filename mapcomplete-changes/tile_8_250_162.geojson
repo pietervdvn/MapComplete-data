@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-11-30T04:04:42Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 29,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 114384752,
         "host": "mapcomplete.osm.be",
         "theme": "etymology",
         "answer": 52,
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 114384752
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,59 @@
           172.64223175,
           -43.528306
         ]
-      }
+      },
+      "id": 114384752
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "CoderThomas",
+        "uid": "11817585",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-07-19T02:21:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ],
+          "direction": [
+            "101",
+            "15",
+            "104",
+            "111"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 2.91434400018616e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "LINZ_NZ_Aerial_Imagery",
+        "id": 123784705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5587009,
+          -43.523578549999996
+        ]
+      },
+      "id": 123784705
     }
   ]
 }

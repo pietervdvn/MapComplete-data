@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2020-10-13T17:51:02Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 1,
         "modify": 6,
         "delete": 0,
@@ -25,10 +26,10 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 92432289,
         "theme": "aed",
         "language": "en",
-        "theme-creator": "MapComplete"
+        "theme-creator": "MapComplete",
+        "id": 92432289
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +37,195 @@
           0.2016446,
           48.0022815
         ]
-      }
+      },
+      "id": 92432289
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Eypliem",
+        "uid": "13417453",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-22T16:57:39Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "ce.0720033v@ac-nantes.fr"
+          ],
+          "amenity": [
+            "school"
+          ],
+          "website": [
+            "https://www.touchard-washington.fr"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.00000754257375000276,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 127930818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20465915,
+          47.99501105
+        ]
+      },
+      "id": 127930818
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          },
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Ronan Blot",
+        "uid": "7041246",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-15T09:18:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "primary",
+            "tertiary",
+            "residential",
+            "living_street",
+            "secondary",
+            "unclassified",
+            "pedestrian",
+            "secondary_link",
+            "service",
+            "cycleway",
+            "path",
+            "footway",
+            "construction"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "name:etymology": [
+            "François Bizette, directeur d'école honoraire, avait été président du Cercle Paul Bert et de la fédération des Oeuvres laïques d'Ille-et-Vilaine.",
+            "Jean Milon, volontaire FFL, mort pour la France"
+          ],
+          "name:etymology:wikidata": [
+            "Q161866",
+            "Q143046",
+            "Q12718",
+            "Q742",
+            "Q462597",
+            "Q137934",
+            "Q275053",
+            "Q3170670",
+            "Q312391",
+            "Q234704",
+            "Q25391741",
+            "Q153232",
+            "Q16252002",
+            "Q315434",
+            "Q334965",
+            "Q181886",
+            "Q647",
+            "Q2139295",
+            "Q1620044",
+            "Q3083223",
+            "Q12688",
+            "Q23824439",
+            "Q1382222",
+            "Q871444",
+            "Q1865480",
+            "Q157004",
+            "Q219621",
+            "Q7103",
+            "Q956408",
+            "Q67199434",
+            "Q167477",
+            "Q1173",
+            "Q1152",
+            "Q15878",
+            "Q87454104",
+            "Q535",
+            "Q333292",
+            "Q163118",
+            "Q326606",
+            "Q7504",
+            "Q183713",
+            "Q3044",
+            "Q36233",
+            "Q481398",
+            "Q5081190",
+            "Q131018",
+            "Q179888",
+            "Q443841",
+            "Q55771840",
+            "Q230456",
+            "Q218747",
+            "Q437168",
+            "Q3085894"
+          ]
+        },
+        "create": 0,
+        "modify": 314,
+        "delete": 0,
+        "area": 3.07945904566091,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 413,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126214324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.352928,
+          48.4854006
+        ]
+      },
+      "id": 126214324
     }
   ]
 }

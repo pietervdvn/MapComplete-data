@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-03-18T01:52:45Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 2,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 101219521,
         "host": "mapcomplete.osm.be",
         "theme": "benches",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Florian Edelmann"
+        "theme-creator": "Florian Edelmann",
+        "id": 101219521
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           -72.4816568,
           43.29756645
         ]
-      }
+      },
+      "id": 101219521
     },
     {
       "type": "Feature",
@@ -56,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-05-09T16:05:40Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 4,
         "delete": 0,
@@ -64,11 +67,11 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 104402223,
         "host": "mapcomplete.osm.be",
         "theme": "sport_pitches",
         "imagery": "osm",
-        "language": "en"
+        "language": "en",
+        "id": 104402223
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +79,8 @@
           -72.306483,
           43.71324155
         ]
-      }
+      },
+      "id": 104402223
     },
     {
       "type": "Feature",
@@ -103,12 +107,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 120724011,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/bookcases.html",
         "theme": "bookcases",
         "answer": 3,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 120724011
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +120,60 @@
           -72.2564001,
           43.7845398
         ]
-      }
+      },
+      "id": 120724011
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Mapiate",
+        "uid": "12604637",
+        "editor": "MapComplete 0.21.0",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-27T11:36:32Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "name": [
+            "Tucker's",
+            "Tuckers"
+          ],
+          "amenity": [
+            "restaurant"
+          ],
+          "building": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 1.25218399998792e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "Mapbox",
+        "id": 122906015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9874669,
+          43.4163635
+        ]
+      },
+      "id": 122906015
     }
   ]
 }

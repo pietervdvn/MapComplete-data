@@ -5,6 +5,47 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Peter Elderson",
+        "uid": "7103674",
+        "editor": "MapComplete 0.6.4b",
+        "comment": "Adding data with #MapComplete for theme #stolpersteine",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-04-02T13:52:21Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 5,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "stolpersteine",
+        "imagery": "osm",
+        "language": "en",
+        "theme-creator": "Peter Elderson",
+        "id": 102198052
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7105625,
+          52.6003287
+        ]
+      },
+      "id": 102198052
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [
           {
             "id": 96,
@@ -71,6 +112,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-03T16:03:50Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 37,
         "modify": 142,
         "delete": 0,
@@ -79,12 +121,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 102242557,
         "host": "mapcomplete.osm.be",
         "theme": "stolpersteine",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Peter Elderson"
+        "theme-creator": "Peter Elderson",
+        "id": 102242557
       },
       "geometry": {
         "type": "Point",
@@ -92,7 +134,8 @@
           4.7358061,
           52.6201108
         ]
-      }
+      },
+      "id": 102242557
     },
     {
       "type": "Feature",
@@ -156,6 +199,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-03T13:14:58Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 6,
         "modify": 61,
         "delete": 0,
@@ -164,12 +208,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 102235750,
         "host": "mapcomplete.osm.be",
         "theme": "stolpersteine",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Peter Elderson"
+        "theme-creator": "Peter Elderson",
+        "id": 102235750
       },
       "geometry": {
         "type": "Point",
@@ -177,7 +221,8 @@
           4.743646249999999,
           52.62733815
         ]
-      }
+      },
+      "id": 102235750
     },
     {
       "type": "Feature",
@@ -213,6 +258,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-03T07:48:21Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 2,
         "modify": 20,
         "delete": 0,
@@ -221,12 +267,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 102225336,
         "host": "mapcomplete.osm.be",
         "theme": "stolpersteine",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Peter Elderson"
+        "theme-creator": "Peter Elderson",
+        "id": 102225336
       },
       "geometry": {
         "type": "Point",
@@ -234,7 +280,8 @@
           4.7328329,
           52.6163104
         ]
-      }
+      },
+      "id": 102225336
     },
     {
       "type": "Feature",
@@ -243,37 +290,287 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Peter Elderson",
-        "uid": "7103674",
-        "editor": "MapComplete 0.6.4b",
-        "comment": "Adding data with #MapComplete for theme #stolpersteine",
+        "user": "Stijn Matthys",
+        "uid": "1862147",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
         "comments_count": 0,
         "source": "survey",
         "imagery_used": "Not reported",
-        "date": "2021-04-02T13:52:21Z",
+        "date": "2022-10-17T05:37:30Z",
         "reviewed_features": [],
-        "create": 1,
-        "modify": 5,
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ],
+          "maxstay": [
+            "unlimited"
+          ],
+          "network": [
+            "Allego"
+          ],
+          "payment:app": [
+            "yes"
+          ],
+          "payment:cash": [
+            "no"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "brand:wikidata": [
+            "Q75560554"
+          ],
+          "payment:membership_card": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 2.75105800003527e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 5,
+        "locale": "nl",
+        "imagery": "CartoDB.Voyager",
+        "id": 127649053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.032897,
+          52.48730225
+        ]
+      },
+      "id": 127649053
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Stijn Matthys",
+        "uid": "1862147",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-17T05:32:02Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "info@allego.eu"
+          ],
+          "phone": [
+            "+31 88 033 3033"
+          ],
+          "amenity": [
+            "charging_station"
+          ]
+        },
+        "create": 0,
+        "modify": 7,
         "delete": 0,
         "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 102198052,
-        "host": "mapcomplete.osm.be",
-        "theme": "stolpersteine",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "Peter Elderson"
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 5,
+        "locale": "nl",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 3,
+        "change_over_5000m": 1,
+        "id": 127648928
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7105625,
-          52.6003287
+          5.0327817,
+          52.4872426
         ]
-      }
+      },
+      "id": 127648928
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Stijn Matthys",
+        "uid": "1862147",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-17T05:12:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "info@allego.eu"
+          ],
+          "image": [
+            "https://i.imgur.com/qj00v7A.jpg"
+          ],
+          "phone": [
+            "+31 88 033 3033"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "image:0": [
+            "https://i.imgur.com/PJFZm5G.jpg"
+          ],
+          "image:1": [
+            "https://i.imgur.com/Um5tFFx.jpg"
+          ],
+          "image:2": [
+            "https://i.imgur.com/IgOHbSP.jpg"
+          ],
+          "maxstay": [
+            "unlimited"
+          ],
+          "network": [
+            "Allego"
+          ],
+          "website": [
+            "https://www.allego.eu/"
+          ],
+          "parking:fee": [
+            "no"
+          ],
+          "brand:wikidata": [
+            "Q75560554"
+          ],
+          "socket:type2_combo:output": [
+            "150 kW"
+          ]
+        },
+        "create": 1,
+        "modify": 13,
+        "delete": 0,
+        "area": 2.75105800003527e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 14,
+        "locale": "nl",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 4,
+        "change_over_5000m": 19,
+        "id": 127648557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.032897,
+          52.48730225
+        ]
+      },
+      "id": 127648557
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Stijn Matthys",
+        "uid": "1862147",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-17T05:12:45Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 1,
+        "locale": "nl",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "id": 127648556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0330123,
+          52.4873619
+        ]
+      },
+      "id": 127648556
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Stijn Matthys",
+        "uid": "1862147",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-17T05:12:15Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 4,
+        "locale": "nl",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 5,
+        "id": 127648544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0330123,
+          52.4873619
+        ]
+      },
+      "id": 127648544
     }
   ]
 }

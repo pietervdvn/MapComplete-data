@@ -17,6 +17,7 @@
         "imagery_used": "Not reported",
         "date": "2021-04-17T05:15:43Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 7,
         "delete": 0,
@@ -25,12 +26,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 103088015,
         "host": "pietervdvn.github.io",
         "theme": "trees",
         "imagery": "osm",
         "language": "en",
-        "theme-creator": "Midgard"
+        "theme-creator": "Midgard",
+        "id": 103088015
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +39,8 @@
           -71.82477639999999,
           -36.1375687
         ]
-      }
+      },
+      "id": 103088015
     },
     {
       "type": "Feature",
@@ -56,6 +58,7 @@
         "imagery_used": "Not reported",
         "date": "2021-09-10T03:19:26Z",
         "reviewed_features": [],
+        "tag_changes": {},
         "create": 0,
         "modify": 1,
         "delete": 0,
@@ -64,12 +67,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 111000887,
         "host": "mapcomplete.osm.be",
         "theme": "trees",
         "imagery": "CyclOSM",
         "language": "en",
-        "theme-creator": "Midgard"
+        "theme-creator": "Midgard",
+        "id": 111000887
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +80,60 @@
           -72.3982218,
           -36.3902178
         ]
-      }
+      },
+      "id": 111000887
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "RodrigoKiger",
+        "uid": "17055149",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-11-26T23:39:57Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "locale": "es",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 129418602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9355476,
+          -36.5481396
+        ]
+      },
+      "id": 129418602
     }
   ]
 }

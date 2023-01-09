@@ -48,12 +48,12 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 118835510,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/shops.html",
         "theme": "shops",
         "answer": 4,
         "locale": "en",
-        "imagery": "osm"
+        "imagery": "osm",
+        "id": 118835510
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,8 @@
           17.306244,
           62.3873676
         ]
-      }
+      },
+      "id": 118835510
     },
     {
       "type": "Feature",
@@ -93,8 +94,7 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 118829535,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/food.html",
         "move": 2,
         "theme": "food",
         "answer": 10,
@@ -103,7 +103,8 @@
         "deletion": 1,
         "move:node/1870596305": "relocated",
         "move:node/9600337506": "improve_accuracy",
-        "deletion:node/1870596308": "shop_closed"
+        "deletion:node/1870596308": "shop_closed",
+        "id": 118829535
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +112,8 @@
           17.2663802,
           62.391459999999995
         ]
-      }
+      },
+      "id": 118829535
     },
     {
       "type": "Feature",
@@ -143,13 +145,13 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 118829424,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/waste.html",
         "theme": "waste",
         "locale": "en",
         "imagery": "osm",
         "deletion": 1,
-        "deletion:node/9600166563": "testing point"
+        "deletion:node/9600166563": "testing point",
+        "id": 118829424
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +159,8 @@
           17.267713,
           62.388925
         ]
-      }
+      },
+      "id": 118829424
     },
     {
       "type": "Feature",
@@ -189,14 +192,14 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "id": 118828667,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.osm.be/waste.html",
         "theme": "waste",
         "answer": 4,
         "locale": "en",
         "imagery": "osm",
         "deletion": 1,
-        "deletion:node/9600144043": "testing point"
+        "deletion:node/9600144043": "testing point",
+        "id": 118828667
       },
       "geometry": {
         "type": "Point",
@@ -204,7 +207,8 @@
           17.268300349999997,
           62.38845695
         ]
-      }
+      },
+      "id": 118828667
     }
   ]
 }
