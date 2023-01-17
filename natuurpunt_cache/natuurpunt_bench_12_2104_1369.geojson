@@ -1060,6 +1060,9 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "material": "metal",
+    "seats:separated": "no",
+    "survey:date": "2023-01-16",
     "id": "node/7499456004",
     "_lat": "51.1096307",
     "_lon": "4.9776751",
@@ -1070,9 +1073,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 84918733,
-    "_last_edit:timestamp": "2020-05-08T22:17:27Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 131333108,
+    "_last_edit:timestamp": "2023-01-16T10:59:33Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1092,6 +1095,9 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "material": "metal",
+    "seats:separated": "no",
+    "survey:date": "2023-01-16",
     "id": "node/7499456005",
     "_lat": "51.1096177",
     "_lon": "4.9777038",
@@ -1102,9 +1108,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 84918733,
-    "_last_edit:timestamp": "2020-05-08T22:17:27Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 131333108,
+    "_last_edit:timestamp": "2023-01-16T10:59:37Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1555,7 +1561,8 @@
     "image": "https://i.imgur.com/CwoOjPt.jpg",
     "material": "steel",
     "seats": "3",
-    "survey:date": "2022-05-25",
+    "seats:separated": "no",
+    "survey:date": "2023-01-16",
     "id": "node/7747564910",
     "_lat": "51.1091876",
     "_lon": "4.9773688",
@@ -1568,9 +1575,9 @@
     "_direction:leftright": "left",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 121459068,
-    "_last_edit:timestamp": "2022-05-25T07:05:54Z",
-    "_version_number": 2,
+    "_last_edit:changeset": 131333108,
+    "_last_edit:timestamp": "2023-01-16T10:59:17Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2709,6 +2716,112 @@
    },
    "_lon": 4.9751959,
    "_lat": 51.1091809
+  },
+  {
+   "type": "Feature",
+   "id": "node/10559221742",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/nqLS1nV.jpg",
+    "material": "metal",
+    "seats:separated": "no",
+    "survey:date": "2023-01-16",
+    "id": "node/10559221742",
+    "_lat": "51.1088193",
+    "_lon": "4.9768522",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 131333108,
+    "_last_edit:timestamp": "2023-01-16T10:58:46Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9768522,
+     51.1088193
+    ]
+   },
+   "_lon": 4.9768522,
+   "_lat": 51.1088193
+  },
+  {
+   "type": "Feature",
+   "id": "node/10559229128",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "material": "metal",
+    "seats:separated": "no",
+    "survey:date": "2023-01-16",
+    "id": "node/10559229128",
+    "_lat": "51.1088148",
+    "_lon": "4.9768924",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 131333108,
+    "_last_edit:timestamp": "2023-01-16T11:02:55Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9768924,
+     51.1088148
+    ]
+   },
+   "_lon": 4.9768924,
+   "_lat": 51.1088148
+  },
+  {
+   "type": "Feature",
+   "id": "node/10559229129",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "material": "metal",
+    "seats:separated": "no",
+    "survey:date": "2023-01-16",
+    "id": "node/10559229129",
+    "_lat": "51.1088329",
+    "_lon": "4.9768683",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 131333108,
+    "_last_edit:timestamp": "2023-01-16T11:02:55Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9768683,
+     51.1088329
+    ]
+   },
+   "_lon": 4.9768683,
+   "_lat": 51.1088329
   }
  ]
 }
