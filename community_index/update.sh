@@ -8,4 +8,4 @@ cat community_index.geojson | jq "{type: \"FeatureCollection\", features: [.feat
 # community_index.geojson
 
 cd ../../MapComplete
-ts-node scripts/slice.ts ../MapComplete-data/community_index/local.geojson 6 ../MapComplete-data/community_index/ --slice
+ts-node scripts/slice.ts ../MapComplete-data/community_index/local.geojson 6 ../MapComplete-data/community_index/ --clip
