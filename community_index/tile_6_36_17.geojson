@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "FI",
+        "iso1A3": "FIN",
+        "iso1N3": "246",
+        "wikidata": "Q33",
+        "nameEn": "Finland",
+        "aliases": [
+          "SF"
+        ],
+        "id": "Q33",
+        "m49": "246",
+        "ccTLD": ".fi",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "154",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇫🇮",
+        "members": [
+          "Q1083368",
+          "AX"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "358",
+          "358 18",
+          "358 457"
+        ],
+        "area": 412613.16,
+        "resources": {
+          "fi-facebook": {
+            "id": "fi-facebook",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "fi"
+              ]
+            },
+            "languageCodes": [
+              "fi"
+            ],
+            "order": -5,
+            "strings": {
+              "community": "OpenStreetMap Finland",
+              "communityID": "openstreetmapfinland",
+              "url": "https://www.facebook.com/groups/208351726124"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Finland on Facebook",
+              "url": "https://www.facebook.com/groups/208351726124",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/208351726124\">OpenStreetMap Finland on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/208351726124\">https://www.facebook.com/groups/208351726124</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "fi-irc": {
+            "id": "fi-irc",
+            "type": "irc",
+            "account": "osm-fi",
+            "locationSet": {
+              "include": [
+                "fi"
+              ]
+            },
+            "languageCodes": [
+              "fi"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Finland",
+              "communityID": "openstreetmapfinland"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Finland on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-fi",
+              "description": "Join #osm-fi on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fi\">OpenStreetMap Finland on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fi\">https://webchat.oftc.net/?channels=osm-fi</a>",
+              "descriptionHTML": "Join #osm-fi on irc.oftc.net (port 6667)"
+            }
+          },
+          "fi-telegram": {
+            "id": "fi-telegram",
+            "type": "telegram",
+            "account": "osmFI",
+            "locationSet": {
+              "include": [
+                "fi"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fi",
+              "sv"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Finland",
+              "communityID": "openstreetmapfinland"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Finland Telegram",
+              "url": "https://t.me/osmFI",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmFI\">OpenStreetMap Finland Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmFI\">https://t.me/osmFI</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-fi": {
+            "id": "talk-fi",
+            "type": "mailinglist",
+            "account": "talk-fi",
+            "locationSet": {
+              "include": [
+                "fi"
+              ]
+            },
+            "languageCodes": [
+              "fi"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Finland",
+              "communityID": "openstreetmapfinland"
+            },
+            "resolved": {
+              "name": "talk-fi Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-fi",
+              "description": "The official mailing list for OpenStreetMap Finland",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fi\">talk-fi Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fi\">https://lists.openstreetmap.org/listinfo/talk-fi</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Finland"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.5,
+              61.60639637138628
+            ],
+            [
+              28.125,
+              61.60639637138628
+            ],
+            [
+              28.125,
+              64.16810689799152
+            ],
+            [
+              22.5,
+              64.16810689799152
+            ],
+            [
+              22.5,
+              61.60639637138628
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

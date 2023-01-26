@@ -1,0 +1,474 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "DK",
+        "iso1A3": "DNK",
+        "iso1N3": "208",
+        "wikidata": "Q756617",
+        "nameEn": "Kingdom of Denmark",
+        "id": "Q756617",
+        "m49": "208",
+        "ccTLD": ".dk",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇩🇰",
+        "members": [
+          "Q35",
+          "FO",
+          "GL"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "45",
+          "298",
+          "299"
+        ],
+        "area": 4469378.82,
+        "resources": {
+          "dk-discourse": {
+            "id": "dk-discourse",
+            "type": "discourse",
+            "account": "dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark",
+              "name": "{community} Discourse",
+              "description": "A discussion forum about OpenStreetMap in Denmark"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Denmark Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/dk",
+              "description": "A discussion forum about OpenStreetMap in Denmark",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/dk\">OpenStreetMap Denmark Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/dk\">https://community.openstreetmap.org/c/communities/dk</a>",
+              "descriptionHTML": "A discussion forum about OpenStreetMap in Denmark"
+            }
+          },
+          "dk-irc": {
+            "id": "dk-irc",
+            "type": "irc",
+            "account": "osm-dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Denmark on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-dk",
+              "description": "Join #osm-dk on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-dk\">OpenStreetMap Denmark on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-dk\">https://webchat.oftc.net/?channels=osm-dk</a>",
+              "descriptionHTML": "Join #osm-dk on irc.oftc.net (port 6667)"
+            }
+          },
+          "talk-dk": {
+            "id": "talk-dk",
+            "type": "mailinglist",
+            "account": "talk-dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark"
+            },
+            "resolved": {
+              "name": "talk-dk Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-dk",
+              "description": "The official mailing list for OpenStreetMap Denmark",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-dk\">talk-dk Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-dk\">https://lists.openstreetmap.org/listinfo/talk-dk</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Denmark"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.447438203631747,
+              61.60639637138628
+            ],
+            [
+              -6.51083,
+              60.95272
+            ],
+            [
+              -6.219851634374994,
+              61.60639637138628
+            ],
+            [
+              -7.447438203631747,
+              61.60639637138628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q3336843",
+        "nameEn": "Countries of the United Kingdom",
+        "aliases": [
+          "GB-UKM"
+        ],
+        "country": "GB",
+        "level": "subcountryGroup",
+        "id": "Q3336843",
+        "groups": [
+          "GB",
+          "154",
+          "150",
+          "UN",
+          "001"
+        ],
+        "members": [
+          "Q21",
+          "Q22",
+          "Q25",
+          "Q26"
+        ],
+        "roadSpeedUnit": "mph",
+        "roadHeightUnit": "ft",
+        "driveSide": "left",
+        "callingCodes": [
+          "44"
+        ],
+        "area": 686149.2,
+        "resources": {
+          "gb-irc": {
+            "id": "gb-irc",
+            "type": "irc",
+            "account": "osm-gb",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "cy",
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "extendedDescription": "Join #{account} on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question"
+            },
+            "resolved": {
+              "name": "OpenStreetMap UK on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-gb",
+              "description": "Join #osm-gb on irc.oftc.net (port 6667)",
+              "extendedDescription": "Join #osm-gb on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-gb\">OpenStreetMap UK on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-gb\">https://webchat.oftc.net/?channels=osm-gb</a>",
+              "descriptionHTML": "Join #osm-gb on irc.oftc.net (port 6667)",
+              "extendedDescriptionHTML": "Join #osm-gb on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question"
+            }
+          },
+          "gb-mailinglist": {
+            "id": "gb-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-gb",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "description": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community"
+            },
+            "resolved": {
+              "name": "talk-gb Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-gb",
+              "description": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-gb\">talk-gb Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-gb\">https://lists.openstreetmap.org/listinfo/talk-gb</a>",
+              "descriptionHTML": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community"
+            }
+          },
+          "uk-twitter": {
+            "id": "uk-twitter",
+            "type": "twitter",
+            "account": "osmuk",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK on Twitter",
+              "url": "https://twitter.com/osmuk",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmuk\">OpenStreetMap UK on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmuk\">https://twitter.com/osmuk</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.104907889136822,
+              58.81374171570782
+            ],
+            [
+              -5.625,
+              58.81374171570782
+            ],
+            [
+              -5.625,
+              59.9687880404334
+            ],
+            [
+              -10.104907889136822,
+              58.81374171570782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q22",
+        "nameEn": "Scotland",
+        "aliases": [
+          "GB-SCT"
+        ],
+        "country": "GB",
+        "groups": [
+          "Q3336843",
+          "GB",
+          "Q23666",
+          "154",
+          "150",
+          "UN",
+          "001"
+        ],
+        "driveSide": "left",
+        "roadSpeedUnit": "mph",
+        "roadHeightUnit": "ft",
+        "callingCodes": [
+          "44"
+        ],
+        "id": "Q22",
+        "level": "territory",
+        "area": 333351.01,
+        "resources": {
+          "scotland-twitter": {
+            "id": "scotland-twitter",
+            "type": "twitter",
+            "account": "OSMScotland",
+            "locationSet": {
+              "include": [
+                "gb-sct"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Alba",
+              "communityID": "openstreetmapalba"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Alba on Twitter",
+              "url": "https://twitter.com/OSMScotland",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSMScotland\">OpenStreetMap Alba on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSMScotland\">https://twitter.com/OSMScotland</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.104907889136822,
+              58.81374171570782
+            ],
+            [
+              -5.625,
+              58.81374171570782
+            ],
+            [
+              -5.625,
+              59.9687880404334
+            ],
+            [
+              -10.104907889136822,
+              58.81374171570782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q185086,Q3336843]",
+        "area": 695269.91,
+        "resources": {
+          "uk-localchapter": {
+            "id": "uk-localchapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "Q3336843",
+                "Q185086"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "description": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescription": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: {signupUrl}",
+              "signupUrl": "https://osmuk.org/become-member/",
+              "url": "https://osmuk.org/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK",
+              "url": "https://osmuk.org/",
+              "signupUrl": "https://osmuk.org/become-member/",
+              "description": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescription": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: https://osmuk.org/become-member/",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmuk.org/\">OpenStreetMap UK</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmuk.org/\">https://osmuk.org/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://osmuk.org/become-member/\">https://osmuk.org/become-member/</a>",
+              "descriptionHTML": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescriptionHTML": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: <a target=\"_blank\" href=\"https://osmuk.org/become-member/\">https://osmuk.org/become-member/</a>"
+            }
+          },
+          "uk-loomio": {
+            "id": "uk-loomio",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "Q3336843",
+                "Q185086"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "name": "OpenStreetMap UK on Loomio",
+              "url": "https://www.loomio.org/openstreetmap-uk/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK on Loomio",
+              "url": "https://www.loomio.org/openstreetmap-uk/",
+              "description": "The official forum for OpenStreetMap UK",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.loomio.org/openstreetmap-uk/\">OpenStreetMap UK on Loomio</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.loomio.org/openstreetmap-uk/\">https://www.loomio.org/openstreetmap-uk/</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap UK"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.104907889136822,
+              58.81374171570782
+            ],
+            [
+              -5.625,
+              58.81374171570782
+            ],
+            [
+              -5.625,
+              59.9687880404334
+            ],
+            [
+              -10.104907889136822,
+              58.81374171570782
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

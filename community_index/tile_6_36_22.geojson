@@ -1,0 +1,1490 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "HU",
+        "iso1A3": "HUN",
+        "iso1N3": "348",
+        "wikidata": "Q28",
+        "nameEn": "Hungary",
+        "groups": [
+          "151",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "36"
+        ],
+        "id": "Q28",
+        "m49": "348",
+        "ccTLD": ".hu",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇭🇺",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 93019.3,
+        "resources": {
+          "hu-facebook": {
+            "id": "hu-facebook",
+            "type": "facebook",
+            "account": "OpenStreetMap.hu",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Hungary on Facebook",
+              "url": "https://www.facebook.com/OpenStreetMap.hu",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMap.hu\">OpenStreetMap Hungary on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMap.hu\">https://www.facebook.com/OpenStreetMap.hu</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "hu-facebook-group": {
+            "id": "hu-facebook-group",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "name": "{community} Facebook Group",
+              "url": "https://www.facebook.com/groups/osm.hu"
+            },
+            "contacts": [
+              {
+                "name": "Ferenc Veres",
+                "email": "info@openstreetmap.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary Facebook Group",
+              "url": "https://www.facebook.com/groups/osm.hu",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osm.hu\">OpenStreetMap Hungary Facebook Group</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osm.hu\">https://www.facebook.com/groups/osm.hu</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "hu-mailinglist": {
+            "id": "hu-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-hu",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": -2,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary"
+            },
+            "contacts": [
+              {
+                "name": "Péter Gervai",
+                "email": "grin@grin.hu"
+              }
+            ],
+            "resolved": {
+              "name": "talk-hu Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-hu",
+              "description": "The official mailing list for OpenStreetMap Hungary",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-hu\">talk-hu Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-hu\">https://lists.openstreetmap.org/listinfo/talk-hu</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Hungary"
+            }
+          },
+          "hu-matrix": {
+            "id": "hu-matrix",
+            "type": "matrix",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "hu"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "extendedDescription": "OpenStreetMap chat on map topics. One of the OSM community support forums.",
+              "url": "https://matrix.to/#/%23osm:grin.hu"
+            },
+            "contacts": [
+              {
+                "name": "Peter 'grin' Gervai",
+                "email": "grin@grin.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary Matrix Chat",
+              "url": "https://matrix.to/#/%23osm:grin.hu",
+              "description": "Join our community Matrix chat",
+              "extendedDescription": "OpenStreetMap chat on map topics. One of the OSM community support forums.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/%23osm:grin.hu\">OpenStreetMap Hungary Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/%23osm:grin.hu\">https://matrix.to/#/%23osm:grin.hu</a>",
+              "descriptionHTML": "Join our community Matrix chat",
+              "extendedDescriptionHTML": "OpenStreetMap chat on map topics. One of the OSM community support forums."
+            }
+          },
+          "hu-meetup": {
+            "id": "hu-meetup",
+            "type": "meetup",
+            "account": "OpenStreetMap-Hungary",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "description": "The platform for organizing meetups in Hungary"
+            },
+            "contacts": [
+              {
+                "name": "Ferenc Veres",
+                "email": "info@openstreetmap.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary Meetup",
+              "url": "https://www.meetup.com/OpenStreetMap-Hungary",
+              "description": "The platform for organizing meetups in Hungary",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Hungary\">OpenStreetMap Hungary Meetup</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Hungary\">https://www.meetup.com/OpenStreetMap-Hungary</a>",
+              "descriptionHTML": "The platform for organizing meetups in Hungary"
+            }
+          },
+          "hu-mobilizon": {
+            "id": "hu-mobilizon",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "name": "{community} on Mobilizon",
+              "description": "Upcoming events for the OpenStreetMap Hungary community",
+              "url": "https://mobilizon.grin.hu/@openstreetmap"
+            },
+            "contacts": [
+              {
+                "name": "Péter Gervai",
+                "email": "grin@grin.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary on Mobilizon",
+              "url": "https://mobilizon.grin.hu/@openstreetmap",
+              "description": "Upcoming events for the OpenStreetMap Hungary community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://mobilizon.grin.hu/@openstreetmap\">OpenStreetMap Hungary on Mobilizon</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://mobilizon.grin.hu/@openstreetmap\">https://mobilizon.grin.hu/@openstreetmap</a>",
+              "descriptionHTML": "Upcoming events for the OpenStreetMap Hungary community"
+            }
+          },
+          "hu-tm": {
+            "id": "hu-tm",
+            "type": "url",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": -1,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "name": "{community} Tasking Manager",
+              "description": "Explore active mapping tasks in Hungary",
+              "url": "https://tm.osm.grin.hu/"
+            },
+            "contacts": [
+              {
+                "name": "Péter Gervai",
+                "email": "grin@grin.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary Tasking Manager",
+              "url": "https://tm.osm.grin.hu/",
+              "description": "Explore active mapping tasks in Hungary",
+              "nameHTML": "<a target=\"_blank\" href=\"https://tm.osm.grin.hu/\">OpenStreetMap Hungary Tasking Manager</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://tm.osm.grin.hu/\">https://tm.osm.grin.hu/</a>",
+              "descriptionHTML": "Explore active mapping tasks in Hungary"
+            }
+          },
+          "hu-website": {
+            "id": "hu-website",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "description": "We help grow and improve OpenStreetMap in Hungary.",
+              "url": "https://www.openstreetmap.hu/"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Hungary",
+              "url": "https://www.openstreetmap.hu/",
+              "description": "We help grow and improve OpenStreetMap in Hungary.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.hu/\">OpenStreetMap Hungary</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.hu/\">https://www.openstreetmap.hu/</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in Hungary."
+            }
+          },
+          "hu-wiki": {
+            "id": "hu-wiki",
+            "type": "wiki",
+            "account": "Hungary",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Hungary WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/Hungary",
+              "description": "OpenStreetMap Hungary Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Hungary\">OpenStreetMap Hungary WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Hungary\">https://wiki.openstreetmap.org/wiki/Hungary</a>",
+              "descriptionHTML": "OpenStreetMap Hungary Wiki page"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.5,
+              47.769367803074246
+            ],
+            [
+              22.67247,
+              47.7871
+            ],
+            [
+              22.76617,
+              47.8417
+            ],
+            [
+              22.77991,
+              47.87211
+            ],
+            [
+              22.89849,
+              47.95851
+            ],
+            [
+              22.84276,
+              47.98602
+            ],
+            [
+              22.87847,
+              48.04665
+            ],
+            [
+              22.81804,
+              48.11363
+            ],
+            [
+              22.73427,
+              48.12005
+            ],
+            [
+              22.66835,
+              48.09162
+            ],
+            [
+              22.58733,
+              48.10813
+            ],
+            [
+              22.59007,
+              48.15121
+            ],
+            [
+              22.5,
+              48.24976719595696
+            ],
+            [
+              22.5,
+              47.769367803074246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "MD",
+        "iso1A3": "MDA",
+        "iso1N3": "498",
+        "wikidata": "Q217",
+        "nameEn": "Moldova",
+        "groups": [
+          "151",
+          "150",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "373"
+        ],
+        "id": "Q217",
+        "m49": "498",
+        "ccTLD": ".md",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇲🇩",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 33815.27,
+        "resources": {
+          "md-googlegroup": {
+            "id": "md-googlegroup",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "md"
+              ]
+            },
+            "languageCodes": [
+              "mo",
+              "ro",
+              "ru"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Moldova",
+              "communityID": "openstreetmapmoldova",
+              "name": "{community} Google Group",
+              "description": "Join the {community} Google Group",
+              "url": "https://groups.google.com/forum/#!forum/openstreetmap-moldova"
+            },
+            "contacts": [
+              {
+                "name": "Ion Moldovan",
+                "email": "6yhxhs7t7huf@inbox.ru"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Moldova Google Group",
+              "url": "https://groups.google.com/forum/#!forum/openstreetmap-moldova",
+              "description": "Join the OpenStreetMap Moldova Google Group",
+              "nameHTML": "<a target=\"_blank\" href=\"https://groups.google.com/forum/#!forum/openstreetmap-moldova\">OpenStreetMap Moldova Google Group</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://groups.google.com/forum/#!forum/openstreetmap-moldova\">https://groups.google.com/forum/#!forum/openstreetmap-moldova</a>",
+              "descriptionHTML": "Join the OpenStreetMap Moldova Google Group"
+            }
+          },
+          "md-telegram": {
+            "id": "md-telegram",
+            "type": "telegram",
+            "account": "OSMMoldova",
+            "locationSet": {
+              "include": [
+                "md"
+              ]
+            },
+            "languageCodes": [
+              "mo",
+              "ro",
+              "ru"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Moldova",
+              "communityID": "openstreetmapmoldova"
+            },
+            "contacts": [
+              {
+                "name": "Ion Moldovan",
+                "email": "6yhxhs7t7huf@inbox.ru"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Moldova Telegram",
+              "url": "https://t.me/OSMMoldova",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OSMMoldova\">OpenStreetMap Moldova Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OSMMoldova\">https://t.me/OSMMoldova</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                26.62823,
+                48.25804
+              ],
+              [
+                26.81161,
+                48.25049
+              ],
+              [
+                26.87708,
+                48.19919
+              ],
+              [
+                26.94265,
+                48.1969
+              ],
+              [
+                26.98042,
+                48.15752
+              ],
+              [
+                26.96119,
+                48.13003
+              ],
+              [
+                27.04118,
+                48.12522
+              ],
+              [
+                27.02985,
+                48.09083
+              ],
+              [
+                27.15622,
+                47.98538
+              ],
+              [
+                27.1618,
+                47.92391
+              ],
+              [
+                27.29069,
+                47.73722
+              ],
+              [
+                27.25519,
+                47.71366
+              ],
+              [
+                27.32202,
+                47.64009
+              ],
+              [
+                27.3979,
+                47.59473
+              ],
+              [
+                27.47942,
+                47.48113
+              ],
+              [
+                27.55731,
+                47.46637
+              ],
+              [
+                27.60263,
+                47.32507
+              ],
+              [
+                27.68706,
+                47.28962
+              ],
+              [
+                27.73172,
+                47.29248
+              ],
+              [
+                27.81892,
+                47.1381
+              ],
+              [
+                28.09095,
+                46.97621
+              ],
+              [
+                28.12173,
+                46.82283
+              ],
+              [
+                28.125,
+                46.81817720538188
+              ],
+              [
+                28.125,
+                48.24707848061406
+              ],
+              [
+                28.07504,
+                48.23494
+              ],
+              [
+                28.09873,
+                48.3124
+              ],
+              [
+                28.04527,
+                48.32661
+              ],
+              [
+                27.95883,
+                48.32368
+              ],
+              [
+                27.88391,
+                48.36699
+              ],
+              [
+                27.87533,
+                48.4037
+              ],
+              [
+                27.81902,
+                48.41874
+              ],
+              [
+                27.79225,
+                48.44244
+              ],
+              [
+                27.74422,
+                48.45926
+              ],
+              [
+                27.6658,
+                48.44034
+              ],
+              [
+                27.59027,
+                48.46311
+              ],
+              [
+                27.5889,
+                48.49224
+              ],
+              [
+                27.46942,
+                48.454
+              ],
+              [
+                27.44333,
+                48.41209
+              ],
+              [
+                27.37741,
+                48.41026
+              ],
+              [
+                27.37604,
+                48.44398
+              ],
+              [
+                27.32159,
+                48.4434
+              ],
+              [
+                27.27855,
+                48.37534
+              ],
+              [
+                27.13434,
+                48.37288
+              ],
+              [
+                27.08078,
+                48.43214
+              ],
+              [
+                27.0231,
+                48.42485
+              ],
+              [
+                27.03821,
+                48.37653
+              ],
+              [
+                26.93384,
+                48.36558
+              ],
+              [
+                26.85556,
+                48.41095
+              ],
+              [
+                26.71274,
+                48.40388
+              ],
+              [
+                26.82809,
+                48.31629
+              ],
+              [
+                26.79239,
+                48.29071
+              ],
+              [
+                26.6839,
+                48.35828
+              ],
+              [
+                26.62823,
+                48.25804
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                28.08612,
+                46.01105
+              ],
+              [
+                28.125,
+                45.93944304734386
+              ],
+              [
+                28.125,
+                46.1413194637224
+              ],
+              [
+                28.08612,
+                46.01105
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                28.08927,
+                45.6051
+              ],
+              [
+                28.125,
+                45.5572172855105
+              ],
+              [
+                28.125,
+                45.62240153121319
+              ],
+              [
+                28.08927,
+                45.6051
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                28.10937,
+                46.22852
+              ],
+              [
+                28.125,
+                46.20147617400801
+              ],
+              [
+                28.125,
+                46.24430757813376
+              ],
+              [
+                28.10937,
+                46.22852
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "RO",
+        "iso1A3": "ROU",
+        "iso1N3": "642",
+        "wikidata": "Q218",
+        "nameEn": "Romania",
+        "groups": [
+          "151",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "40"
+        ],
+        "id": "Q218",
+        "m49": "642",
+        "ccTLD": ".ro",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇷🇴",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 247141.66,
+        "resources": {
+          "ro-facebook": {
+            "id": "ro-facebook",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "ro"
+              ]
+            },
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Romania",
+              "communityID": "openstreetmapromania",
+              "url": "https://www.facebook.com/groups/1487443198159793"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Romania on Facebook",
+              "url": "https://www.facebook.com/groups/1487443198159793",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/1487443198159793\">OpenStreetMap Romania on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/1487443198159793\">https://www.facebook.com/groups/1487443198159793</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "ro-telegram": {
+            "id": "ro-telegram",
+            "type": "telegram",
+            "account": "OSMRomania",
+            "locationSet": {
+              "include": [
+                "ro"
+              ]
+            },
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Romania",
+              "communityID": "openstreetmapromania"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Romania Telegram",
+              "url": "https://t.me/OSMRomania",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OSMRomania\">OpenStreetMap Romania Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OSMRomania\">https://t.me/OSMRomania</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-ro": {
+            "id": "talk-ro",
+            "type": "mailinglist",
+            "account": "talk-ro",
+            "locationSet": {
+              "include": [
+                "ro"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Romania",
+              "communityID": "openstreetmapromania"
+            },
+            "resolved": {
+              "name": "talk-ro Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ro",
+              "description": "The official mailing list for OpenStreetMap Romania",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ro\">talk-ro Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ro\">https://lists.openstreetmap.org/listinfo/talk-ro</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Romania"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.5,
+              45.08903556483103
+            ],
+            [
+              28.125,
+              45.08903556483103
+            ],
+            [
+              28.125,
+              45.5572172855105
+            ],
+            [
+              28.08927,
+              45.6051
+            ],
+            [
+              28.125,
+              45.62240153121319
+            ],
+            [
+              28.125,
+              45.93944304734386
+            ],
+            [
+              28.08612,
+              46.01105
+            ],
+            [
+              28.125,
+              46.1413194637224
+            ],
+            [
+              28.125,
+              46.20147617400801
+            ],
+            [
+              28.10937,
+              46.22852
+            ],
+            [
+              28.125,
+              46.24430757813376
+            ],
+            [
+              28.125,
+              46.81817720538188
+            ],
+            [
+              28.12173,
+              46.82283
+            ],
+            [
+              28.09095,
+              46.97621
+            ],
+            [
+              27.81892,
+              47.1381
+            ],
+            [
+              27.73172,
+              47.29248
+            ],
+            [
+              27.68706,
+              47.28962
+            ],
+            [
+              27.60263,
+              47.32507
+            ],
+            [
+              27.55731,
+              47.46637
+            ],
+            [
+              27.47942,
+              47.48113
+            ],
+            [
+              27.3979,
+              47.59473
+            ],
+            [
+              27.32202,
+              47.64009
+            ],
+            [
+              27.25519,
+              47.71366
+            ],
+            [
+              27.29069,
+              47.73722
+            ],
+            [
+              27.1618,
+              47.92391
+            ],
+            [
+              27.15622,
+              47.98538
+            ],
+            [
+              27.02985,
+              48.09083
+            ],
+            [
+              27.04118,
+              48.12522
+            ],
+            [
+              26.96119,
+              48.13003
+            ],
+            [
+              26.98042,
+              48.15752
+            ],
+            [
+              26.94265,
+              48.1969
+            ],
+            [
+              26.87708,
+              48.19919
+            ],
+            [
+              26.81161,
+              48.25049
+            ],
+            [
+              26.62823,
+              48.25804
+            ],
+            [
+              26.55202,
+              48.22445
+            ],
+            [
+              26.33504,
+              48.18418
+            ],
+            [
+              26.17711,
+              47.99246
+            ],
+            [
+              26.05901,
+              47.9897
+            ],
+            [
+              25.77723,
+              47.93919
+            ],
+            [
+              25.63878,
+              47.94924
+            ],
+            [
+              25.23778,
+              47.89403
+            ],
+            [
+              25.11144,
+              47.75203
+            ],
+            [
+              24.88896,
+              47.7234
+            ],
+            [
+              24.81893,
+              47.82031
+            ],
+            [
+              24.70632,
+              47.84428
+            ],
+            [
+              24.61994,
+              47.95062
+            ],
+            [
+              24.43578,
+              47.97131
+            ],
+            [
+              24.34926,
+              47.9244
+            ],
+            [
+              24.22566,
+              47.90231
+            ],
+            [
+              24.11281,
+              47.91487
+            ],
+            [
+              24.06466,
+              47.95317
+            ],
+            [
+              24.02999,
+              47.95087
+            ],
+            [
+              24.00801,
+              47.968
+            ],
+            [
+              23.98553,
+              47.96076
+            ],
+            [
+              23.96337,
+              47.96672
+            ],
+            [
+              23.94192,
+              47.94868
+            ],
+            [
+              23.89352,
+              47.94512
+            ],
+            [
+              23.8602,
+              47.9329
+            ],
+            [
+              23.80904,
+              47.98142
+            ],
+            [
+              23.75188,
+              47.99705
+            ],
+            [
+              23.66262,
+              47.98786
+            ],
+            [
+              23.63894,
+              48.00293
+            ],
+            [
+              23.5653,
+              48.00499
+            ],
+            [
+              23.52803,
+              48.01818
+            ],
+            [
+              23.4979,
+              47.96858
+            ],
+            [
+              23.33577,
+              48.0237
+            ],
+            [
+              23.27397,
+              48.08245
+            ],
+            [
+              23.15999,
+              48.12188
+            ],
+            [
+              23.1133,
+              48.08061
+            ],
+            [
+              23.08858,
+              48.00716
+            ],
+            [
+              23.0158,
+              47.99338
+            ],
+            [
+              22.92241,
+              48.02002
+            ],
+            [
+              22.94301,
+              47.96672
+            ],
+            [
+              22.89849,
+              47.95851
+            ],
+            [
+              22.77991,
+              47.87211
+            ],
+            [
+              22.76617,
+              47.8417
+            ],
+            [
+              22.67247,
+              47.7871
+            ],
+            [
+              22.5,
+              47.769367803074246
+            ],
+            [
+              22.5,
+              45.08903556483103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ukraine.geojson",
+        "area": 614942.59,
+        "resources": {
+          "ua-facebook": {
+            "id": "ua-facebook",
+            "type": "facebook",
+            "account": "openstreetmapua",
+            "locationSet": {
+              "include": [
+                "ukraine.geojson"
+              ]
+            },
+            "languageCodes": [
+              "uk"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Ukraine",
+              "communityID": "openstreetmapukraine"
+            },
+            "contacts": [
+              {
+                "name": "Andrii Holovin",
+                "email": "andygol@ua.fm"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Ukraine on Facebook",
+              "url": "https://www.facebook.com/openstreetmapua",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/openstreetmapua\">OpenStreetMap Ukraine on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/openstreetmapua\">https://www.facebook.com/openstreetmapua</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "ua-github": {
+            "id": "ua-github",
+            "type": "github",
+            "account": "osm-ua",
+            "locationSet": {
+              "include": [
+                "ukraine.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "uk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Ukraine",
+              "communityID": "openstreetmapukraine",
+              "description": "OpenStreetMap Ukraine GitHub"
+            },
+            "contacts": [
+              {
+                "name": "Andrii Holovin",
+                "email": "andygol@ua.fm"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Ukraine GitHub",
+              "url": "https://github.com/osm-ua",
+              "description": "OpenStreetMap Ukraine GitHub",
+              "nameHTML": "<a target=\"_blank\" href=\"https://github.com/osm-ua\">OpenStreetMap Ukraine GitHub</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://github.com/osm-ua\">https://github.com/osm-ua</a>",
+              "descriptionHTML": "OpenStreetMap Ukraine GitHub"
+            }
+          },
+          "ua-osm": {
+            "id": "ua-osm",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                "ukraine.geojson"
+              ]
+            },
+            "languageCodes": [
+              "uk"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Ukraine",
+              "communityID": "openstreetmapukraine",
+              "description": "OpenStreetMap website in Ukraine",
+              "url": "https://openstreetmap.org.ua/"
+            },
+            "contacts": [
+              {
+                "name": "Andrii Holovin",
+                "email": "andygol@ua.fm"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Ukraine",
+              "url": "https://openstreetmap.org.ua/",
+              "description": "OpenStreetMap website in Ukraine",
+              "nameHTML": "<a target=\"_blank\" href=\"https://openstreetmap.org.ua/\">OpenStreetMap Ukraine</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://openstreetmap.org.ua/\">https://openstreetmap.org.ua/</a>",
+              "descriptionHTML": "OpenStreetMap website in Ukraine"
+            }
+          },
+          "ua-slack": {
+            "id": "ua-slack",
+            "type": "slack",
+            "locationSet": {
+              "include": [
+                "ukraine.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "ru",
+              "uk"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap Ukraine",
+              "communityID": "openstreetmapukraine",
+              "description": "Join the OpenStreetMap Ukraine community on Slack. Sign up at {signupUrl}",
+              "signupUrl": "http://bit.ly/SlackOsmUa",
+              "url": "https://osmukraine.slack.com/"
+            },
+            "contacts": [
+              {
+                "name": "Andrii Holovin",
+                "email": "andygol@ua.fm"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Ukraine Slack",
+              "url": "https://osmukraine.slack.com/",
+              "signupUrl": "http://bit.ly/SlackOsmUa",
+              "description": "Join the OpenStreetMap Ukraine community on Slack. Sign up at http://bit.ly/SlackOsmUa",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmukraine.slack.com/\">OpenStreetMap Ukraine Slack</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmukraine.slack.com/\">https://osmukraine.slack.com/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"http://bit.ly/SlackOsmUa\">http://bit.ly/SlackOsmUa</a>",
+              "descriptionHTML": "Join the OpenStreetMap Ukraine community on Slack. Sign up at <a target=\"_blank\" href=\"http://bit.ly/SlackOsmUa\">http://bit.ly/SlackOsmUa</a>"
+            }
+          },
+          "ua-telegram": {
+            "id": "ua-telegram",
+            "type": "telegram",
+            "account": "osmUA",
+            "locationSet": {
+              "include": [
+                "ukraine.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "ru",
+              "uk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Ukraine",
+              "communityID": "openstreetmapukraine"
+            },
+            "contacts": [
+              {
+                "name": "Andrii Holovin",
+                "email": "andygol@ua.fm"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Ukraine Telegram",
+              "url": "https://t.me/osmUA",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmUA\">OpenStreetMap Ukraine Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmUA\">https://t.me/osmUA</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "ua-twitter": {
+            "id": "ua-twitter",
+            "type": "twitter",
+            "account": "osm_ua",
+            "locationSet": {
+              "include": [
+                "ukraine.geojson"
+              ]
+            },
+            "languageCodes": [
+              "uk"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Ukraine",
+              "communityID": "openstreetmapukraine"
+            },
+            "contacts": [
+              {
+                "name": "Andrii Holovin",
+                "email": "andygol@ua.fm"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Ukraine on Twitter",
+              "url": "https://twitter.com/osm_ua",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_ua\">OpenStreetMap Ukraine on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_ua\">https://twitter.com/osm_ua</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.5,
+              48.224063128324964
+            ],
+            [
+              22.51558,
+              48.2161
+            ],
+            [
+              22.58539,
+              48.103
+            ],
+            [
+              22.76824,
+              48.09856
+            ],
+            [
+              22.858,
+              47.9585
+            ],
+            [
+              23.07077,
+              47.98743
+            ],
+            [
+              23.15388,
+              48.10522
+            ],
+            [
+              23.43646,
+              47.96963
+            ],
+            [
+              23.58274,
+              48.00523
+            ],
+            [
+              24.18446,
+              47.90058
+            ],
+            [
+              24.52024,
+              47.94291
+            ],
+            [
+              24.91585,
+              47.70408
+            ],
+            [
+              25.3846,
+              47.91618
+            ],
+            [
+              26.1193,
+              47.97408
+            ],
+            [
+              26.36532,
+              48.17178
+            ],
+            [
+              26.92383,
+              48.34884
+            ],
+            [
+              27.55547,
+              48.45258
+            ],
+            [
+              27.735,
+              48.43494
+            ],
+            [
+              28.125,
+              48.22504805839752
+            ],
+            [
+              28.125,
+              48.922499263758255
+            ],
+            [
+              22.5,
+              48.922499263758255
+            ],
+            [
+              22.5,
+              48.224063128324964
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

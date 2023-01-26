@@ -1,0 +1,504 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "EE",
+        "iso1A3": "EST",
+        "iso1N3": "233",
+        "wikidata": "Q191",
+        "nameEn": "Estonia",
+        "aliases": [
+          "EW"
+        ],
+        "groups": [
+          "154",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "372"
+        ],
+        "id": "Q191",
+        "m49": "233",
+        "ccTLD": ".ee",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇪🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 87509.41,
+        "resources": {
+          "ee-wiki": {
+            "id": "ee-wiki",
+            "type": "wiki",
+            "locationSet": {
+              "include": [
+                "ee"
+              ]
+            },
+            "languageCodes": [
+              "ee",
+              "en"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Estonia",
+              "communityID": "openstreetmapestonia",
+              "description": "Information relating to mapping activity that is specific to Estonia.",
+              "url": "https://wiki.openstreetmap.org/wiki/WikiProject_Estonia"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Estonia WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/WikiProject_Estonia",
+              "description": "Information relating to mapping activity that is specific to Estonia.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/WikiProject_Estonia\">OpenStreetMap Estonia WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/WikiProject_Estonia\">https://wiki.openstreetmap.org/wiki/WikiProject_Estonia</a>",
+              "descriptionHTML": "Information relating to mapping activity that is specific to Estonia."
+            }
+          },
+          "talk-ee": {
+            "id": "talk-ee",
+            "type": "mailinglist",
+            "account": "talk-ee",
+            "locationSet": {
+              "include": [
+                "ee"
+              ]
+            },
+            "languageCodes": [
+              "ee",
+              "en"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Estonia",
+              "communityID": "openstreetmapestonia"
+            },
+            "resolved": {
+              "name": "talk-ee Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ee",
+              "description": "The official mailing list for OpenStreetMap Estonia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ee\">talk-ee Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ee\">https://lists.openstreetmap.org/listinfo/talk-ee</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Estonia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.367074244570773,
+              58.81374171570782
+            ],
+            [
+              22.5,
+              58.81374171570782
+            ],
+            [
+              22.5,
+              59.44463610707068
+            ],
+            [
+              20.5104,
+              59.15546
+            ],
+            [
+              20.367074244570773,
+              58.81374171570782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "FI",
+        "iso1A3": "FIN",
+        "iso1N3": "246",
+        "wikidata": "Q33",
+        "nameEn": "Finland",
+        "aliases": [
+          "SF"
+        ],
+        "id": "Q33",
+        "m49": "246",
+        "ccTLD": ".fi",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "154",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇫🇮",
+        "members": [
+          "Q1083368",
+          "AX"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "358",
+          "358 18",
+          "358 457"
+        ],
+        "area": 412613.16,
+        "resources": {
+          "fi-facebook": {
+            "id": "fi-facebook",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "fi"
+              ]
+            },
+            "languageCodes": [
+              "fi"
+            ],
+            "order": -5,
+            "strings": {
+              "community": "OpenStreetMap Finland",
+              "communityID": "openstreetmapfinland",
+              "url": "https://www.facebook.com/groups/208351726124"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Finland on Facebook",
+              "url": "https://www.facebook.com/groups/208351726124",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/208351726124\">OpenStreetMap Finland on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/208351726124\">https://www.facebook.com/groups/208351726124</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "fi-irc": {
+            "id": "fi-irc",
+            "type": "irc",
+            "account": "osm-fi",
+            "locationSet": {
+              "include": [
+                "fi"
+              ]
+            },
+            "languageCodes": [
+              "fi"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Finland",
+              "communityID": "openstreetmapfinland"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Finland on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-fi",
+              "description": "Join #osm-fi on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fi\">OpenStreetMap Finland on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fi\">https://webchat.oftc.net/?channels=osm-fi</a>",
+              "descriptionHTML": "Join #osm-fi on irc.oftc.net (port 6667)"
+            }
+          },
+          "fi-telegram": {
+            "id": "fi-telegram",
+            "type": "telegram",
+            "account": "osmFI",
+            "locationSet": {
+              "include": [
+                "fi"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fi",
+              "sv"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Finland",
+              "communityID": "openstreetmapfinland"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Finland Telegram",
+              "url": "https://t.me/osmFI",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmFI\">OpenStreetMap Finland Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmFI\">https://t.me/osmFI</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-fi": {
+            "id": "talk-fi",
+            "type": "mailinglist",
+            "account": "talk-fi",
+            "locationSet": {
+              "include": [
+                "fi"
+              ]
+            },
+            "languageCodes": [
+              "fi"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Finland",
+              "communityID": "openstreetmapfinland"
+            },
+            "resolved": {
+              "name": "talk-fi Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-fi",
+              "description": "The official mailing list for OpenStreetMap Finland",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fi\">talk-fi Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fi\">https://lists.openstreetmap.org/listinfo/talk-fi</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Finland"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.08191,
+              60.19152
+            ],
+            [
+              20.5104,
+              59.15546
+            ],
+            [
+              22.5,
+              59.44463610707068
+            ],
+            [
+              22.5,
+              61.60639637138628
+            ],
+            [
+              19.608394683831662,
+              61.60639637138628
+            ],
+            [
+              19.23413,
+              60.61414
+            ],
+            [
+              19.08191,
+              60.19152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "SE",
+        "iso1A3": "SWE",
+        "iso1N3": "752",
+        "wikidata": "Q34",
+        "nameEn": "Sweden",
+        "groups": [
+          "154",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "46"
+        ],
+        "id": "Q34",
+        "m49": "752",
+        "ccTLD": ".se",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇸🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 589396.28,
+        "resources": {
+          "se-facebook": {
+            "id": "se-facebook",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden",
+              "url": "https://www.facebook.com/groups/osmsweden"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Sweden on Facebook",
+              "url": "https://www.facebook.com/groups/osmsweden",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osmsweden\">OpenStreetMap Sweden on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osmsweden\">https://www.facebook.com/groups/osmsweden</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "se-irc": {
+            "id": "se-irc",
+            "type": "irc",
+            "account": "osm.se",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Sweden on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm.se",
+              "description": "Join #osm.se on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm.se\">OpenStreetMap Sweden on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm.se\">https://webchat.oftc.net/?channels=osm.se</a>",
+              "descriptionHTML": "Join #osm.se on irc.oftc.net (port 6667)"
+            }
+          },
+          "se-telegram": {
+            "id": "se-telegram",
+            "type": "telegram",
+            "account": "osmSE",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Sweden Telegram",
+              "url": "https://t.me/osmSE",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmSE\">OpenStreetMap Sweden Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmSE\">https://t.me/osmSE</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "se-twitter": {
+            "id": "se-twitter",
+            "type": "twitter",
+            "account": "openstreetmapse",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Sweden on Twitter",
+              "url": "https://twitter.com/openstreetmapse",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/openstreetmapse\">OpenStreetMap Sweden on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/openstreetmapse\">https://twitter.com/openstreetmapse</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "talk-se": {
+            "id": "talk-se",
+            "type": "mailinglist",
+            "account": "talk-se",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden"
+            },
+            "resolved": {
+              "name": "talk-se Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-se",
+              "description": "The official mailing list for OpenStreetMap Sweden",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-se\">talk-se Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-se\">https://lists.openstreetmap.org/listinfo/talk-se</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Sweden"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.875,
+              58.81374171570782
+            ],
+            [
+              20.367074244570773,
+              58.81374171570782
+            ],
+            [
+              20.5104,
+              59.15546
+            ],
+            [
+              19.08191,
+              60.19152
+            ],
+            [
+              19.23413,
+              60.61414
+            ],
+            [
+              19.608394683831662,
+              61.60639637138628
+            ],
+            [
+              16.875,
+              61.60639637138628
+            ],
+            [
+              16.875,
+              58.81374171570782
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1352 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "central_pa.geojson",
+        "area": 43193.43,
+        "resources": {
+          "Central-Pennsylvania-OSM": {
+            "id": "Central-Pennsylvania-OSM",
+            "type": "facebook",
+            "account": "CentralPennsylvaniaOSM",
+            "locationSet": {
+              "include": [
+                "central_pa.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 3,
+            "strings": {
+              "name": "Central Pennsylvania OSM",
+              "description": "Online mapping community based out of State College, PA"
+            },
+            "contacts": [
+              {
+                "name": "Sterling Quinn",
+                "email": "sdq107@psu.edu"
+              }
+            ],
+            "resolved": {
+              "name": "Central Pennsylvania OSM",
+              "url": "https://www.facebook.com/CentralPennsylvaniaOSM",
+              "description": "Online mapping community based out of State College, PA",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/CentralPennsylvaniaOSM\">Central Pennsylvania OSM</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/CentralPennsylvaniaOSM\">https://www.facebook.com/CentralPennsylvaniaOSM</a>",
+              "descriptionHTML": "Online mapping community based out of State College, PA"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.75,
+              39.72
+            ],
+            [
+              -76,
+              39.72
+            ],
+            [
+              -76,
+              40
+            ],
+            [
+              -76.65326537974676,
+              40.97989806962013
+            ],
+            [
+              -78.75,
+              40.97989806962013
+            ],
+            [
+              -78.75,
+              39.72
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "philly_metro.geojson",
+        "area": 9339.06,
+        "resources": {
+          "GeoPhilly": {
+            "id": "GeoPhilly",
+            "type": "meetup",
+            "account": "GeoPhilly",
+            "locationSet": {
+              "include": [
+                "philly_metro.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 5,
+            "strings": {
+              "name": "GeoPhilly",
+              "description": "Meetup for map enthusiasts in the Philadelphia area",
+              "extendedDescription": "GeoPhilly unites developers, geographers, data geeks, open source enthusiasts, civic hackers and map addicts in our shared love of maps and the stories they tell. If you use maps as part of your work or just want to learn more, this is the meetup for you!  Our events aim to be open, friendly, educational and social and range from happy hours to lightning talks or even workshops. Come create a diverse, inspiring geospatial community in the Philadelphia with us!"
+            },
+            "contacts": [
+              {
+                "name": "Dan Ford",
+                "email": "dford@azavea.com"
+              }
+            ],
+            "resolved": {
+              "name": "GeoPhilly",
+              "url": "https://www.meetup.com/GeoPhilly",
+              "description": "Meetup for map enthusiasts in the Philadelphia area",
+              "extendedDescription": "GeoPhilly unites developers, geographers, data geeks, open source enthusiasts, civic hackers and map addicts in our shared love of maps and the stories they tell. If you use maps as part of your work or just want to learn more, this is the meetup for you!  Our events aim to be open, friendly, educational and social and range from happy hours to lightning talks or even workshops. Come create a diverse, inspiring geospatial community in the Philadelphia with us!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/GeoPhilly\">GeoPhilly</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/GeoPhilly\">https://www.meetup.com/GeoPhilly</a>",
+              "descriptionHTML": "Meetup for map enthusiasts in the Philadelphia area",
+              "extendedDescriptionHTML": "GeoPhilly unites developers, geographers, data geeks, open source enthusiasts, civic hackers and map addicts in our shared love of maps and the stories they tell. If you use maps as part of your work or just want to learn more, this is the meetup for you!  Our events aim to be open, friendly, educational and social and range from happy hours to lightning talks or even workshops. Come create a diverse, inspiring geospatial community in the Philadelphia with us!"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.23,
+              39.7211
+            ],
+            [
+              -75.8,
+              39.7218
+            ],
+            [
+              -75.5,
+              39.55
+            ],
+            [
+              -74.9,
+              39.55
+            ],
+            [
+              -74.45,
+              40.1
+            ],
+            [
+              -74.7,
+              40.3
+            ],
+            [
+              -75.3,
+              40.4
+            ],
+            [
+              -75.7,
+              40.3
+            ],
+            [
+              -76.23,
+              39.7211
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dc_metro.geojson",
+        "area": 3371.08,
+        "resources": {
+          "MappingDC-meetup": {
+            "id": "MappingDC-meetup",
+            "type": "meetup",
+            "locationSet": {
+              "include": [
+                "dc_metro.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 5,
+            "strings": {
+              "name": "MappingDC",
+              "description": "Improve OpenStreetMap in the DC area",
+              "extendedDescription": "We are a group of volunteer mappers who aim to improve the OpenStreetMap in the DC area. We also aim to teach others about the OSM ecosystem, data analytics, cartography, and GIS. We gather every other month at meetups to focus on one area of our city.",
+              "url": "https://mappingdc.org/"
+            },
+            "contacts": [
+              {
+                "name": "Brian DeRocher",
+                "email": "brian@derocher.org"
+              }
+            ],
+            "resolved": {
+              "name": "MappingDC",
+              "url": "https://mappingdc.org/",
+              "description": "Improve OpenStreetMap in the DC area",
+              "extendedDescription": "We are a group of volunteer mappers who aim to improve the OpenStreetMap in the DC area. We also aim to teach others about the OSM ecosystem, data analytics, cartography, and GIS. We gather every other month at meetups to focus on one area of our city.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://mappingdc.org/\">MappingDC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://mappingdc.org/\">https://mappingdc.org/</a>",
+              "descriptionHTML": "Improve OpenStreetMap in the DC area",
+              "extendedDescriptionHTML": "We are a group of volunteer mappers who aim to improve the OpenStreetMap in the DC area. We also aim to teach others about the OSM ecosystem, data analytics, cartography, and GIS. We gather every other month at meetups to focus on one area of our city."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.61017,
+              39.1258
+            ],
+            [
+              -77.57172,
+              38.91668
+            ],
+            [
+              -77.27783,
+              38.69409
+            ],
+            [
+              -77.04437,
+              38.70266
+            ],
+            [
+              -76.84662,
+              38.7048
+            ],
+            [
+              -76.71066,
+              38.77657
+            ],
+            [
+              -76.69968,
+              38.97863
+            ],
+            [
+              -76.87546,
+              39.05119
+            ],
+            [
+              -77.08694,
+              39.21204
+            ],
+            [
+              -77.27509,
+              39.21523
+            ],
+            [
+              -77.61017,
+              39.1258
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hrva.geojson",
+        "area": 8418.99,
+        "resources": {
+          "MaptimeHRVA-twitter": {
+            "id": "MaptimeHRVA-twitter",
+            "type": "twitter",
+            "account": "maptimehrva",
+            "locationSet": {
+              "include": [
+                "hrva.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "community": "MaptimeHRVA",
+              "communityID": "maptimehrva"
+            },
+            "contacts": [
+              {
+                "name": "Jonah Adkins",
+                "email": "jonahadkins@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "MaptimeHRVA on Twitter",
+              "url": "https://twitter.com/maptimehrva",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/maptimehrva\">MaptimeHRVA on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/maptimehrva\">https://twitter.com/maptimehrva</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.85486,
+              36.5978891330702
+            ],
+            [
+              -75.8194,
+              36.5978891330702
+            ],
+            [
+              -75.8194,
+              37.35488
+            ],
+            [
+              -76.85486,
+              37.35488
+            ],
+            [
+              -76.85486,
+              36.5978891330702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "US",
+        "iso1A3": "USA",
+        "iso1N3": "840",
+        "wikidata": "Q30",
+        "nameEn": "United States of America",
+        "id": "Q30",
+        "m49": "840",
+        "ccTLD": ".us",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇺🇸",
+        "members": [
+          "Q25359",
+          "Q43296",
+          "Q46879",
+          "Q47863",
+          "Q62218",
+          "Q123076",
+          "Q130895",
+          "Q131008",
+          "Q131305",
+          "Q782",
+          "Q797",
+          "Q578170",
+          "AS",
+          "GU",
+          "MP",
+          "PR",
+          "UM",
+          "VI",
+          "Q35657",
+          "Q1352230"
+        ],
+        "roadSpeedUnit": "mph",
+        "callingCodes": [
+          "1",
+          "1 684",
+          "1 671",
+          "1 670",
+          "1 787",
+          "1 939",
+          "1 340"
+        ],
+        "area": 21817019.17,
+        "resources": {
+          "OSM-US": {
+            "id": "OSM-US",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "description": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescription": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: {signupUrl}",
+              "signupUrl": "https://www.openstreetmap.us/join",
+              "url": "https://www.openstreetmap.us/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap US",
+                "email": "team@openstreetmap.us"
+              }
+            ],
+            "events": [
+              {
+                "id": "mappingusa2022",
+                "i18n": true,
+                "name": "Mapping USA 2022",
+                "description": "Join us for a free virtual conference in celebration of the Wiki and OpenStreetMap communities across North America!",
+                "where": "virtual",
+                "when": "2022-nov-10",
+                "url": "https://pretix.eu/openstreetmapus/wcna-mappingusa/"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap US",
+              "url": "https://www.openstreetmap.us/",
+              "signupUrl": "https://www.openstreetmap.us/join",
+              "description": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescription": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: https://www.openstreetmap.us/join",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/\">OpenStreetMap US</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/\">https://www.openstreetmap.us/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/join\">https://www.openstreetmap.us/join</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescriptionHTML": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: <a target=\"_blank\" href=\"https://www.openstreetmap.us/join\">https://www.openstreetmap.us/join</a>"
+            }
+          },
+          "OSM-US-Slack": {
+            "id": "OSM-US-Slack",
+            "type": "slack",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "description": "All are welcome! Sign up at {signupUrl}",
+              "signupUrl": "https://slack.openstreetmap.us/",
+              "url": "https://osmus.slack.com"
+            },
+            "contacts": [
+              {
+                "name": "Ian Dees",
+                "email": "ian@openstreetmap.us"
+              },
+              {
+                "name": "Clifford Snow",
+                "email": "clifford@snowandsnow.us"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap US Slack",
+              "url": "https://osmus.slack.com",
+              "signupUrl": "https://slack.openstreetmap.us/",
+              "description": "All are welcome! Sign up at https://slack.openstreetmap.us/",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmus.slack.com\">OpenStreetMap US Slack</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmus.slack.com\">https://osmus.slack.com</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://slack.openstreetmap.us/\">https://slack.openstreetmap.us/</a>",
+              "descriptionHTML": "All are welcome! Sign up at <a target=\"_blank\" href=\"https://slack.openstreetmap.us/\">https://slack.openstreetmap.us/</a>"
+            }
+          },
+          "us-discourse": {
+            "id": "us-discourse",
+            "type": "discourse",
+            "account": "us",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "name": "{community} Discourse",
+              "description": "A discussion forum about OpenStreetMap in the United States"
+            },
+            "resolved": {
+              "name": "OpenStreetMap US Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/us",
+              "description": "A discussion forum about OpenStreetMap in the United States",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/us\">OpenStreetMap US Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/us\">https://community.openstreetmap.org/c/communities/us</a>",
+              "descriptionHTML": "A discussion forum about OpenStreetMap in the United States"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.75,
+              36.5978891330702
+            ],
+            [
+              -73.125,
+              36.5978891330702
+            ],
+            [
+              -73.125,
+              40.97989806962013
+            ],
+            [
+              -78.75,
+              40.97989806962013
+            ],
+            [
+              -78.75,
+              36.5978891330702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "us-ny.geojson",
+        "area": 145628.26,
+        "resources": {
+          "us-newyork-mailinglist": {
+            "id": "us-newyork-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-us-newyork",
+            "locationSet": {
+              "include": [
+                "US-NY.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": -3,
+            "strings": {
+              "name": "Talk-us-newyork Mailing List",
+              "description": "Email mailing list for the New York State OSM community"
+            },
+            "resolved": {
+              "name": "Talk-us-newyork Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-us-newyork",
+              "description": "Email mailing list for the New York State OSM community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-us-newyork\">Talk-us-newyork Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-us-newyork\">https://lists.openstreetmap.org/listinfo/talk-us-newyork</a>",
+              "descriptionHTML": "Email mailing list for the New York State OSM community"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.275,
+              40.49
+            ],
+            [
+              -73.125,
+              40.56374045801527
+            ],
+            [
+              -73.125,
+              40.97989806962013
+            ],
+            [
+              -73.47497039274437,
+              40.97989806962013
+            ],
+            [
+              -73.62454,
+              40.95324
+            ],
+            [
+              -73.64290563472792,
+              40.97989806962013
+            ],
+            [
+              -73.8897404610963,
+              40.97989806962013
+            ],
+            [
+              -74.06203,
+              40.65585
+            ],
+            [
+              -74.2,
+              40.65
+            ],
+            [
+              -74.275,
+              40.49
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-76.72852,37.30011]",
+        "area": 1963.5,
+        "resources": {
+          "ym-College-of-William-and-Mary": {
+            "id": "ym-College-of-William-and-Mary",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -76.72852,
+                  37.30011
+                ]
+              ]
+            },
+            "strings": {
+              "name": "All over the map!",
+              "description": "YouthMappers chapter at College of William and Mary",
+              "extendedDescription": "The students who are all over the map are supported by the Center for Geospatial Analysis, a group integrating GIS across the curriculum and providing student and faculty with hardware, software, and expertise.  Students of all backgrounds utilize GIS across campus, including environmental science and policy, geology, history, business, sociology, biology, anthropology, public policy, and marine sciences.",
+              "url": "mailto:lnseitz@email.wm.edu"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "lnseitz@email.wm.edu"
+              }
+            ],
+            "resolved": {
+              "name": "All over the map!",
+              "url": "mailto:lnseitz@email.wm.edu",
+              "description": "YouthMappers chapter at College of William and Mary",
+              "extendedDescription": "The students who are all over the map are supported by the Center for Geospatial Analysis, a group integrating GIS across the curriculum and providing student and faculty with hardware, software, and expertise.  Students of all backgrounds utilize GIS across campus, including environmental science and policy, geology, history, business, sociology, biology, anthropology, public policy, and marine sciences.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:lnseitz@email.wm.edu\">All over the map!</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:lnseitz@email.wm.edu\">mailto:lnseitz@email.wm.edu</a>",
+              "descriptionHTML": "YouthMappers chapter at College of William and Mary",
+              "extendedDescriptionHTML": "The students who are all over the map are supported by the Center for Geospatial Analysis, a group integrating GIS across the curriculum and providing student and faculty with hardware, software, and expertise.  Students of all backgrounds utilize GIS across campus, including environmental science and policy, geology, history, business, sociology, biology, anthropology, public policy, and marine sciences."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.997,
+              37.23
+            ],
+            [
+              -76.894,
+              37.118
+            ],
+            [
+              -76.729,
+              37.076
+            ],
+            [
+              -76.563,
+              37.118
+            ],
+            [
+              -76.46,
+              37.23
+            ],
+            [
+              -76.46,
+              37.369
+            ],
+            [
+              -76.562,
+              37.482
+            ],
+            [
+              -76.729,
+              37.525
+            ],
+            [
+              -76.895,
+              37.482
+            ],
+            [
+              -76.997,
+              37.369
+            ],
+            [
+              -76.997,
+              37.23
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-77.34375,38.82241]",
+        "area": 1963.5,
+        "resources": {
+          "ym-George-Mason-University": {
+            "id": "ym-George-Mason-University",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -77.34375,
+                  38.82241
+                ]
+              ]
+            },
+            "strings": {
+              "name": "Mason Mappers",
+              "description": "YouthMappers chapter at George Mason University",
+              "extendedDescription": "Mason Mappers Student Society is a humanitarian mapping student organization in the George Mason University GGS Department, and its goal is to promote education and knowledge in geo-technologies, geo-info science, to foster good global stewardship and engage in professional development while building a positive, interactive geo-community, as well as shaping students into leaders of tomorrow.",
+              "url": "https://masonmappers.weebly.com"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "masonmappers@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "Mason Mappers",
+              "url": "https://masonmappers.weebly.com",
+              "description": "YouthMappers chapter at George Mason University",
+              "extendedDescription": "Mason Mappers Student Society is a humanitarian mapping student organization in the George Mason University GGS Department, and its goal is to promote education and knowledge in geo-technologies, geo-info science, to foster good global stewardship and engage in professional development while building a positive, interactive geo-community, as well as shaping students into leaders of tomorrow.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://masonmappers.weebly.com\">Mason Mappers</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://masonmappers.weebly.com\">https://masonmappers.weebly.com</a>",
+              "descriptionHTML": "YouthMappers chapter at George Mason University",
+              "extendedDescriptionHTML": "Mason Mappers Student Society is a humanitarian mapping student organization in the George Mason University GGS Department, and its goal is to promote education and knowledge in geo-technologies, geo-info science, to foster good global stewardship and engage in professional development while building a positive, interactive geo-community, as well as shaping students into leaders of tomorrow."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.618,
+              38.753
+            ],
+            [
+              -77.513,
+              38.641
+            ],
+            [
+              -77.344,
+              38.598
+            ],
+            [
+              -77.175,
+              38.641
+            ],
+            [
+              -77.07,
+              38.753
+            ],
+            [
+              -77.069,
+              38.891
+            ],
+            [
+              -77.174,
+              39.004
+            ],
+            [
+              -77.344,
+              39.047
+            ],
+            [
+              -77.514,
+              39.004
+            ],
+            [
+              -77.618,
+              38.891
+            ],
+            [
+              -77.618,
+              38.753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-77.15782,39.09718]",
+        "area": 1963.5,
+        "resources": {
+          "ym-Montgomery-College": {
+            "id": "ym-Montgomery-College",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -77.15782,
+                  39.09718
+                ]
+              ]
+            },
+            "strings": {
+              "name": "GeoMC",
+              "description": "YouthMappers chapter at Montgomery College",
+              "extendedDescription": "GeoMC’s mission is to provide students with hands-on experience in applying geospatial tools, collecting data, and project management. Most of our students come with a background in GIS and are geography majors. Our chapter’s members come from diverse backgrounds and we all work together to make a positive impact in the world live in.",
+              "url": "mailto:stephanie.calderon@montgomerycollege.edu"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "stephanie.calderon@montgomerycollege.edu"
+              }
+            ],
+            "resolved": {
+              "name": "GeoMC",
+              "url": "mailto:stephanie.calderon@montgomerycollege.edu",
+              "description": "YouthMappers chapter at Montgomery College",
+              "extendedDescription": "GeoMC’s mission is to provide students with hands-on experience in applying geospatial tools, collecting data, and project management. Most of our students come with a background in GIS and are geography majors. Our chapter’s members come from diverse backgrounds and we all work together to make a positive impact in the world live in.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:stephanie.calderon@montgomerycollege.edu\">GeoMC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:stephanie.calderon@montgomerycollege.edu\">mailto:stephanie.calderon@montgomerycollege.edu</a>",
+              "descriptionHTML": "YouthMappers chapter at Montgomery College",
+              "extendedDescriptionHTML": "GeoMC’s mission is to provide students with hands-on experience in applying geospatial tools, collecting data, and project management. Most of our students come with a background in GIS and are geography majors. Our chapter’s members come from diverse backgrounds and we all work together to make a positive impact in the world live in."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.433,
+              39.027
+            ],
+            [
+              -77.327,
+              38.915
+            ],
+            [
+              -77.158,
+              38.873
+            ],
+            [
+              -76.988,
+              38.915
+            ],
+            [
+              -76.883,
+              39.027
+            ],
+            [
+              -76.882,
+              39.166
+            ],
+            [
+              -76.987,
+              39.279
+            ],
+            [
+              -77.158,
+              39.322
+            ],
+            [
+              -77.328,
+              39.279
+            ],
+            [
+              -77.433,
+              39.166
+            ],
+            [
+              -77.433,
+              39.027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-77.04812,38.89966]",
+        "area": 1963.5,
+        "resources": {
+          "ym-The-George-Washington-University": {
+            "id": "ym-The-George-Washington-University",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -77.04812,
+                  38.89966
+                ]
+              ]
+            },
+            "strings": {
+              "name": "Humanitarian Mapping Society",
+              "description": "YouthMappers chapter at The George Washington University",
+              "extendedDescription": "Models of leadership and engagement, HMS seeks to render aid and better the world through humanitarian Geographic Information Systems (GIS) projects. This co-founding affiliated chapter on the campus of GWU has a plethora of experience to share, and frequently partners directly with USAID, the American Red Cross, and the US Department of State in their DC area to expand student-led efforts and serve the global community.",
+              "url": "https://www.facebook.com/GWHMS/"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "hms.gwu@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "Humanitarian Mapping Society",
+              "url": "https://www.facebook.com/GWHMS/",
+              "description": "YouthMappers chapter at The George Washington University",
+              "extendedDescription": "Models of leadership and engagement, HMS seeks to render aid and better the world through humanitarian Geographic Information Systems (GIS) projects. This co-founding affiliated chapter on the campus of GWU has a plethora of experience to share, and frequently partners directly with USAID, the American Red Cross, and the US Department of State in their DC area to expand student-led efforts and serve the global community.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/GWHMS/\">Humanitarian Mapping Society</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/GWHMS/\">https://www.facebook.com/GWHMS/</a>",
+              "descriptionHTML": "YouthMappers chapter at The George Washington University",
+              "extendedDescriptionHTML": "Models of leadership and engagement, HMS seeks to render aid and better the world through humanitarian Geographic Information Systems (GIS) projects. This co-founding affiliated chapter on the campus of GWU has a plethora of experience to share, and frequently partners directly with USAID, the American Red Cross, and the US Department of State in their DC area to expand student-led efforts and serve the global community."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.323,
+              38.969
+            ],
+            [
+              -77.322,
+              38.83
+            ],
+            [
+              -77.217,
+              38.718
+            ],
+            [
+              -77.048,
+              38.675
+            ],
+            [
+              -76.879,
+              38.718
+            ],
+            [
+              -76.774,
+              38.83
+            ],
+            [
+              -76.773,
+              38.969
+            ],
+            [
+              -76.878,
+              39.081
+            ],
+            [
+              -77.048,
+              39.124
+            ],
+            [
+              -77.218,
+              39.081
+            ],
+            [
+              -77.323,
+              38.969
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-77.04027,38.90797]",
+        "area": 1963.5,
+        "resources": {
+          "ym-The-Johns-Hopkins-University-SAIS": {
+            "id": "ym-The-Johns-Hopkins-University-SAIS",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -77.04027,
+                  38.90797
+                ]
+              ]
+            },
+            "strings": {
+              "name": "SAIS YouthMappers",
+              "description": "YouthMappers chapter at The Johns Hopkins University, SAIS",
+              "extendedDescription": "The mission of SAIS Youth Mappers is to provide students at the Johns Hopkins University SAIS with the opportunity to become highly skilled humanitarian mappers. As a group within the South Asia Club, its primary focus is on supporting humanitarian mapping projects in the Indo-Pacific Region.",
+              "url": "mailto:saisyouthmappers@gmail.com"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "saisyouthmappers@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "SAIS YouthMappers",
+              "url": "mailto:saisyouthmappers@gmail.com",
+              "description": "YouthMappers chapter at The Johns Hopkins University, SAIS",
+              "extendedDescription": "The mission of SAIS Youth Mappers is to provide students at the Johns Hopkins University SAIS with the opportunity to become highly skilled humanitarian mappers. As a group within the South Asia Club, its primary focus is on supporting humanitarian mapping projects in the Indo-Pacific Region.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:saisyouthmappers@gmail.com\">SAIS YouthMappers</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:saisyouthmappers@gmail.com\">mailto:saisyouthmappers@gmail.com</a>",
+              "descriptionHTML": "YouthMappers chapter at The Johns Hopkins University, SAIS",
+              "extendedDescriptionHTML": "The mission of SAIS Youth Mappers is to provide students at the Johns Hopkins University SAIS with the opportunity to become highly skilled humanitarian mappers. As a group within the South Asia Club, its primary focus is on supporting humanitarian mapping projects in the Indo-Pacific Region."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.315,
+              38.977
+            ],
+            [
+              -77.314,
+              38.838
+            ],
+            [
+              -77.209,
+              38.726
+            ],
+            [
+              -77.04,
+              38.683
+            ],
+            [
+              -76.871,
+              38.726
+            ],
+            [
+              -76.766,
+              38.838
+            ],
+            [
+              -76.766,
+              38.977
+            ],
+            [
+              -76.87,
+              39.09
+            ],
+            [
+              -77.04,
+              39.133
+            ],
+            [
+              -77.21,
+              39.09
+            ],
+            [
+              -77.315,
+              38.977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-77.85976,40.798]",
+        "area": 1963.5,
+        "resources": {
+          "ym-The-Pennsylvania-State-University": {
+            "id": "ym-The-Pennsylvania-State-University",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -77.85976,
+                  40.798
+                ]
+              ]
+            },
+            "strings": {
+              "name": "Penn State GIS Coalition",
+              "description": "YouthMappers chapter at The Pennsylvania State University",
+              "extendedDescription": "The Penn State Geospatial Information Science (GIS) Coalition is an organization that offers students majoring, minoring, or sharing an interest in GIS opportunities to develop supplementary knowledge and skills necessary to succeed in the professional GIS industry.",
+              "url": "mailto:advising@geog.psu.edu"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "advising@geog.psu.edu"
+              }
+            ],
+            "resolved": {
+              "name": "Penn State GIS Coalition",
+              "url": "mailto:advising@geog.psu.edu",
+              "description": "YouthMappers chapter at The Pennsylvania State University",
+              "extendedDescription": "The Penn State Geospatial Information Science (GIS) Coalition is an organization that offers students majoring, minoring, or sharing an interest in GIS opportunities to develop supplementary knowledge and skills necessary to succeed in the professional GIS industry.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:advising@geog.psu.edu\">Penn State GIS Coalition</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:advising@geog.psu.edu\">mailto:advising@geog.psu.edu</a>",
+              "descriptionHTML": "YouthMappers chapter at The Pennsylvania State University",
+              "extendedDescriptionHTML": "The Penn State Geospatial Information Science (GIS) Coalition is an organization that offers students majoring, minoring, or sharing an interest in GIS opportunities to develop supplementary knowledge and skills necessary to succeed in the professional GIS industry."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.142,
+              40.728
+            ],
+            [
+              -78.034,
+              40.616
+            ],
+            [
+              -77.86,
+              40.573
+            ],
+            [
+              -77.686,
+              40.616
+            ],
+            [
+              -77.578,
+              40.728
+            ],
+            [
+              -77.577,
+              40.867
+            ],
+            [
+              -77.68490257981394,
+              40.97989806962013
+            ],
+            [
+              -78.03509651814731,
+              40.97989806962013
+            ],
+            [
+              -78.142,
+              40.867
+            ],
+            [
+              -78.142,
+              40.728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-76.94332,38.98672]",
+        "area": 1963.5,
+        "resources": {
+          "ym-University-of-Maryland-College-Park": {
+            "id": "ym-University-of-Maryland-College-Park",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -76.94332,
+                  38.98672
+                ]
+              ]
+            },
+            "strings": {
+              "name": "Geography Club",
+              "description": "YouthMappers chapter at University of Maryland - College Park",
+              "extendedDescription": "The mission of the Geography Club at the University of Maryland College Park is to engage and encourage students to explore geographic interests within the campus and the community.",
+              "url": "https://www.facebook.com/UMDGeographyClub/?fref=ts"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "geogclubumd@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "Geography Club",
+              "url": "https://www.facebook.com/UMDGeographyClub/?fref=ts",
+              "description": "YouthMappers chapter at University of Maryland - College Park",
+              "extendedDescription": "The mission of the Geography Club at the University of Maryland College Park is to engage and encourage students to explore geographic interests within the campus and the community.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/UMDGeographyClub/?fref=ts\">Geography Club</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/UMDGeographyClub/?fref=ts\">https://www.facebook.com/UMDGeographyClub/?fref=ts</a>",
+              "descriptionHTML": "YouthMappers chapter at University of Maryland - College Park",
+              "extendedDescriptionHTML": "The mission of the Geography Club at the University of Maryland College Park is to engage and encourage students to explore geographic interests within the campus and the community."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.218,
+              38.917
+            ],
+            [
+              -77.113,
+              38.805
+            ],
+            [
+              -76.943,
+              38.762
+            ],
+            [
+              -76.774,
+              38.805
+            ],
+            [
+              -76.669,
+              38.917
+            ],
+            [
+              -76.668,
+              39.056
+            ],
+            [
+              -76.773,
+              39.168
+            ],
+            [
+              -76.943,
+              39.211
+            ],
+            [
+              -77.114,
+              39.168
+            ],
+            [
+              -77.218,
+              39.056
+            ],
+            [
+              -77.218,
+              38.917
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-75.34361,40.03714]",
+        "area": 1963.5,
+        "resources": {
+          "ym-Villanova-University": {
+            "id": "ym-Villanova-University",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -75.34361,
+                  40.03714
+                ]
+              ]
+            },
+            "strings": {
+              "name": "The Villanova Globeplotters",
+              "description": "YouthMappers chapter at Villanova University",
+              "extendedDescription": "The Villanova Globeplotters is built on Villanova’s Augustinian principle of selfless-service to the global community. Mixed with relaxed social interaction, we strive to provide geospatial outreach to those in need regardless of participating students’ race, academic major, student group association, or college career level.",
+              "url": "mailto:villanova.globeplotters@gmail.com"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "villanova.globeplotters@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "The Villanova Globeplotters",
+              "url": "mailto:villanova.globeplotters@gmail.com",
+              "description": "YouthMappers chapter at Villanova University",
+              "extendedDescription": "The Villanova Globeplotters is built on Villanova’s Augustinian principle of selfless-service to the global community. Mixed with relaxed social interaction, we strive to provide geospatial outreach to those in need regardless of participating students’ race, academic major, student group association, or college career level.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:villanova.globeplotters@gmail.com\">The Villanova Globeplotters</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:villanova.globeplotters@gmail.com\">mailto:villanova.globeplotters@gmail.com</a>",
+              "descriptionHTML": "YouthMappers chapter at Villanova University",
+              "extendedDescriptionHTML": "The Villanova Globeplotters is built on Villanova’s Augustinian principle of selfless-service to the global community. Mixed with relaxed social interaction, we strive to provide geospatial outreach to those in need regardless of participating students’ race, academic major, student group association, or college career level."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.623,
+              40.106
+            ],
+            [
+              -75.622,
+              39.967
+            ],
+            [
+              -75.516,
+              39.855
+            ],
+            [
+              -75.344,
+              39.813
+            ],
+            [
+              -75.172,
+              39.855
+            ],
+            [
+              -75.065,
+              39.967
+            ],
+            [
+              -75.064,
+              40.106
+            ],
+            [
+              -75.171,
+              40.219
+            ],
+            [
+              -75.344,
+              40.262
+            ],
+            [
+              -75.516,
+              40.219
+            ],
+            [
+              -75.623,
+              40.106
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

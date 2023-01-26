@@ -1,0 +1,1619 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[[8.583333,53.55,10],[8.7286,53.1212,25]]",
+        "area": 2133.11,
+        "resources": {
+          "de-bremen-mailinglist": {
+            "id": "de-bremen-mailinglist",
+            "type": "mailinglist",
+            "locationSet": {
+              "include": [
+                [
+                  8.7286,
+                  53.1212,
+                  25
+                ],
+                [
+                  8.583333,
+                  53.55,
+                  10
+                ]
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Bremen",
+              "communityID": "openstreetmapbremen",
+              "name": "Bremen Mailing List",
+              "url": "https://lists.openstreetmap.de/listinfo/Bremen"
+            },
+            "resolved": {
+              "name": "Bremen Mailing List",
+              "url": "https://lists.openstreetmap.de/listinfo/Bremen",
+              "description": "The official mailing list for OpenStreetMap Bremen",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.de/listinfo/Bremen\">Bremen Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.de/listinfo/Bremen\">https://lists.openstreetmap.de/listinfo/Bremen</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Bremen"
+            }
+          },
+          "de-bremen-wiki": {
+            "id": "de-bremen-wiki",
+            "type": "wiki",
+            "account": "Bremen",
+            "locationSet": {
+              "include": [
+                [
+                  8.7286,
+                  53.1212,
+                  25
+                ],
+                [
+                  8.583333,
+                  53.55,
+                  10
+                ]
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Bremen",
+              "communityID": "openstreetmapbremen",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Bremen WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/Bremen",
+              "description": "OpenStreetMap Bremen Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Bremen\">OpenStreetMap Bremen WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Bremen\">https://wiki.openstreetmap.org/wiki/Bremen</a>",
+              "descriptionHTML": "OpenStreetMap Bremen Wiki page"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.372,
+                53.19
+              ],
+              [
+                8.373,
+                53.051
+              ],
+              [
+                8.51,
+                52.939
+              ],
+              [
+                8.729,
+                52.897
+              ],
+              [
+                8.948,
+                52.939
+              ],
+              [
+                9.084,
+                53.051
+              ],
+              [
+                9.085,
+                53.19
+              ],
+              [
+                8.949,
+                53.303
+              ],
+              [
+                8.729,
+                53.346
+              ],
+              [
+                8.508,
+                53.303
+              ],
+              [
+                8.372,
+                53.19
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                8.439,
+                53.578
+              ],
+              [
+                8.44,
+                53.522
+              ],
+              [
+                8.495,
+                53.477
+              ],
+              [
+                8.583,
+                53.46
+              ],
+              [
+                8.672,
+                53.477
+              ],
+              [
+                8.727,
+                53.522
+              ],
+              [
+                8.727,
+                53.578
+              ],
+              [
+                8.672,
+                53.623
+              ],
+              [
+                8.583,
+                53.64
+              ],
+              [
+                8.494,
+                53.623
+              ],
+              [
+                8.439,
+                53.578
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "DE",
+        "iso1A3": "DEU",
+        "iso1N3": "276",
+        "wikidata": "Q183",
+        "nameEn": "Germany",
+        "groups": [
+          "155",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "49"
+        ],
+        "id": "Q183",
+        "m49": "276",
+        "ccTLD": ".de",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇩🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 393928.45,
+        "resources": {
+          "de-discourse": {
+            "id": "de-discourse",
+            "type": "discourse",
+            "account": "de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Germany Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/de",
+              "description": "The official forum for OpenStreetMap Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/de\">OpenStreetMap Germany Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/de\">https://community.openstreetmap.org/c/communities/de</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap Germany"
+            }
+          },
+          "de-irc": {
+            "id": "de-irc",
+            "type": "irc",
+            "account": "osm-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-de",
+              "description": "Join #osm-de on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-de\">OpenStreetMap Germany on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-de\">https://webchat.oftc.net/?channels=osm-de</a>",
+              "descriptionHTML": "Join #osm-de on irc.oftc.net (port 6667)"
+            }
+          },
+          "de-mailinglist": {
+            "id": "de-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "talk-de Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-de",
+              "description": "The official mailing list for OpenStreetMap Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-de\">talk-de Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-de\">https://lists.openstreetmap.org/listinfo/talk-de</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Germany"
+            }
+          },
+          "de-matrix": {
+            "id": "de-matrix",
+            "type": "matrix",
+            "account": "#osm-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "Christopher Rossbach",
+                "email": "public.cr@protonmail.ch"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany Matrix Chat",
+              "url": "https://matrix.to/#/#osm-de:matrix.org",
+              "description": "Join our community Matrix chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-de:matrix.org\">OpenStreetMap Germany Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-de:matrix.org\">https://matrix.to/#/#osm-de:matrix.org</a>",
+              "descriptionHTML": "Join our community Matrix chat"
+            }
+          },
+          "de-xmpp": {
+            "id": "de-xmpp",
+            "type": "xmpp",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap DE",
+              "communityID": "openstreetmapde",
+              "name": "OpenStreetMap DE XMPP",
+              "description": "Join our XMPP Multi-User Chat: {url}",
+              "url": "xmpp:openstreetmap-de@rooms.dismail.de?join"
+            },
+            "resolved": {
+              "name": "OpenStreetMap DE XMPP",
+              "url": "xmpp:openstreetmap-de@rooms.dismail.de?join",
+              "description": "Join our XMPP Multi-User Chat: xmpp:openstreetmap-de@rooms.dismail.de?join",
+              "nameHTML": "<a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">OpenStreetMap DE XMPP</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">xmpp:openstreetmap-de@rooms.dismail.de?join</a>",
+              "descriptionHTML": "Join our XMPP Multi-User Chat: <a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">xmpp:openstreetmap-de@rooms.dismail.de?join</a>"
+            }
+          },
+          "osm-de": {
+            "id": "osm-de",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany",
+              "description": "The platform for information on OpenStreetMap in Germany",
+              "url": "https://www.openstreetmap.de/"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany",
+              "url": "https://www.openstreetmap.de/",
+              "description": "The platform for information on OpenStreetMap in Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.de/\">OpenStreetMap Germany</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.de/\">https://www.openstreetmap.de/</a>",
+              "descriptionHTML": "The platform for information on OpenStreetMap in Germany"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.625,
+              54.110296444257045
+            ],
+            [
+              6.91025,
+              53.44221
+            ],
+            [
+              7.00198,
+              53.32672
+            ],
+            [
+              7.19052,
+              53.31866
+            ],
+            [
+              7.21679,
+              53.20058
+            ],
+            [
+              7.22681,
+              53.18165
+            ],
+            [
+              7.17898,
+              53.13817
+            ],
+            [
+              7.21694,
+              53.00742
+            ],
+            [
+              7.07253,
+              52.81083
+            ],
+            [
+              7.04557,
+              52.63318
+            ],
+            [
+              6.77307,
+              52.65375
+            ],
+            [
+              6.71641,
+              52.62905
+            ],
+            [
+              6.69507,
+              52.488
+            ],
+            [
+              6.719935926498064,
+              52.48278022207821
+            ],
+            [
+              11.25,
+              52.48278022207821
+            ],
+            [
+              11.25,
+              54.567891181921205
+            ],
+            [
+              11.00303,
+              54.63689
+            ],
+            [
+              10.31111,
+              54.65968
+            ],
+            [
+              10.16755,
+              54.73883
+            ],
+            [
+              9.89314,
+              54.84171
+            ],
+            [
+              9.73563,
+              54.8247
+            ],
+            [
+              9.61187,
+              54.85548
+            ],
+            [
+              9.62734,
+              54.88057
+            ],
+            [
+              9.58937,
+              54.88785
+            ],
+            [
+              9.4659,
+              54.83131
+            ],
+            [
+              9.43155,
+              54.82586
+            ],
+            [
+              9.41213,
+              54.84254
+            ],
+            [
+              9.38532,
+              54.83968
+            ],
+            [
+              9.36496,
+              54.81749
+            ],
+            [
+              9.33849,
+              54.80233
+            ],
+            [
+              9.32771,
+              54.80602
+            ],
+            [
+              9.2474,
+              54.8112
+            ],
+            [
+              9.23445,
+              54.83432
+            ],
+            [
+              9.24631,
+              54.84726
+            ],
+            [
+              9.20571,
+              54.85841
+            ],
+            [
+              9.14275,
+              54.87421
+            ],
+            [
+              9.04629,
+              54.87249
+            ],
+            [
+              8.92795,
+              54.90452
+            ],
+            [
+              8.81178,
+              54.90518
+            ],
+            [
+              8.76387,
+              54.8948
+            ],
+            [
+              8.63979,
+              54.91069
+            ],
+            [
+              8.55769,
+              54.91837
+            ],
+            [
+              8.45719,
+              55.06747
+            ],
+            [
+              8.02459,
+              55.09613
+            ],
+            [
+              5.625,
+              54.26073010392901
+            ],
+            [
+              5.625,
+              54.110296444257045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "de-hamburg.geojson",
+        "area": 2944.94,
+        "resources": {
+          "de-hamburg-telegram": {
+            "id": "de-hamburg-telegram",
+            "type": "telegram",
+            "account": "osm_de_hh",
+            "locationSet": {
+              "include": [
+                "de-hamburg.geojson"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Hamburg",
+              "communityID": "openstreetmaphamburg"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Hamburg Telegram",
+              "url": "https://t.me/osm_de_hh",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osm_de_hh\">OpenStreetMap Hamburg Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osm_de_hh\">https://t.me/osm_de_hh</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "de-hamburg-xmpp": {
+            "id": "de-hamburg-xmpp",
+            "type": "xmpp",
+            "locationSet": {
+              "include": [
+                "de-hamburg.geojson"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Hamburg",
+              "communityID": "openstreetmaphamburg",
+              "name": "OpenStreetMap Hamburg XMPP",
+              "description": "Join our XMPP Multi-User Chat: {url}",
+              "url": "xmpp:osm-hh@conference.jabber.de?join"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Hamburg XMPP",
+              "url": "xmpp:osm-hh@conference.jabber.de?join",
+              "description": "Join our XMPP Multi-User Chat: xmpp:osm-hh@conference.jabber.de?join",
+              "nameHTML": "<a target=\"_blank\" href=\"xmpp:osm-hh@conference.jabber.de?join\">OpenStreetMap Hamburg XMPP</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"xmpp:osm-hh@conference.jabber.de?join\">xmpp:osm-hh@conference.jabber.de?join</a>",
+              "descriptionHTML": "Join our XMPP Multi-User Chat: <a target=\"_blank\" href=\"xmpp:osm-hh@conference.jabber.de?join\">xmpp:osm-hh@conference.jabber.de?join</a>"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.6,
+              53.3
+            ],
+            [
+              10.4,
+              53.3
+            ],
+            [
+              10.4,
+              53.8
+            ],
+            [
+              9.6,
+              53.8
+            ],
+            [
+              9.6,
+              53.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[10.40692,53.24871]",
+        "area": 1963.5,
+        "resources": {
+          "de-luneburg-wiki": {
+            "id": "de-luneburg-wiki",
+            "type": "wiki",
+            "account": "L%C3%BCneburg",
+            "locationSet": {
+              "include": [
+                [
+                  10.40692,
+                  53.24871
+                ]
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Lüneburg",
+              "communityID": "openstreetmapluneburg",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Lüneburg WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/L%C3%BCneburg",
+              "description": "OpenStreetMap Lüneburg Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/L%C3%BCneburg\">OpenStreetMap Lüneburg WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/L%C3%BCneburg\">https://wiki.openstreetmap.org/wiki/L%C3%BCneburg</a>",
+              "descriptionHTML": "OpenStreetMap Lüneburg Wiki page"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.049,
+              53.318
+            ],
+            [
+              10.051,
+              53.179
+            ],
+            [
+              10.187,
+              53.067
+            ],
+            [
+              10.407,
+              53.024
+            ],
+            [
+              10.627,
+              53.067
+            ],
+            [
+              10.763,
+              53.179
+            ],
+            [
+              10.764,
+              53.318
+            ],
+            [
+              10.628,
+              53.43
+            ],
+            [
+              10.407,
+              53.473
+            ],
+            [
+              10.185,
+              53.43
+            ],
+            [
+              10.049,
+              53.318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "de-mecklenburg-vorpommern.geojson",
+        "area": 29742.03,
+        "resources": {
+          "de-mv-mailinglist": {
+            "id": "de-mv-mailinglist",
+            "type": "mailinglist",
+            "locationSet": {
+              "include": [
+                "de-mecklenburg-vorpommern.geojson"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Mecklenburg-Vorpommern",
+              "communityID": "openstreetmapmecklenburgvorpommern",
+              "name": "Mecklenburg-Vorpommern Mailing List",
+              "url": "https://lists.openstreetmap.de/listinfo/meckpomm"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "Mecklenburg-Vorpommern Mailing List",
+              "url": "https://lists.openstreetmap.de/listinfo/meckpomm",
+              "description": "The official mailing list for OpenStreetMap Mecklenburg-Vorpommern",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.de/listinfo/meckpomm\">Mecklenburg-Vorpommern Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.de/listinfo/meckpomm\">https://lists.openstreetmap.de/listinfo/meckpomm</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Mecklenburg-Vorpommern"
+            }
+          },
+          "de-mv-twitter": {
+            "id": "de-mv-twitter",
+            "type": "twitter",
+            "account": "osmmv",
+            "locationSet": {
+              "include": [
+                "de-mecklenburg-vorpommern.geojson"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Mecklenburg-Vorpommern",
+              "communityID": "openstreetmapmecklenburgvorpommern"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Mecklenburg-Vorpommern on Twitter",
+              "url": "https://twitter.com/osmmv",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmmv\">OpenStreetMap Mecklenburg-Vorpommern on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmmv\">https://twitter.com/osmmv</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.61829,
+              53.38005
+            ],
+            [
+              11.25,
+              53.18867080906074
+            ],
+            [
+              11.25,
+              54.137007208184166
+            ],
+            [
+              10.94238,
+              54.01745
+            ],
+            [
+              10.75562,
+              53.77469
+            ],
+            [
+              10.94238,
+              53.68695
+            ],
+            [
+              10.61829,
+              53.38005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "de-ostwestfalen-lippe.geojson",
+        "area": 8309.26,
+        "resources": {
+          "de-ostwestfalen-lippe-mailinglist": {
+            "id": "de-ostwestfalen-lippe-mailinglist",
+            "type": "mailinglist",
+            "locationSet": {
+              "include": [
+                "de-ostwestfalen-lippe.geojson"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -3,
+            "strings": {
+              "name": "OWL Mailing List",
+              "description": "This is the mailing list for the Ostwestfalen-Lippe OSM community",
+              "url": "https://gt.owl.de/mailman/listinfo/osm"
+            },
+            "contacts": [
+              {
+                "name": "Florian Lohoff",
+                "email": "osm-owner@gt.owl.de"
+              }
+            ],
+            "resolved": {
+              "name": "OWL Mailing List",
+              "url": "https://gt.owl.de/mailman/listinfo/osm",
+              "description": "This is the mailing list for the Ostwestfalen-Lippe OSM community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://gt.owl.de/mailman/listinfo/osm\">OWL Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://gt.owl.de/mailman/listinfo/osm\">https://gt.owl.de/mailman/listinfo/osm</a>",
+              "descriptionHTML": "This is the mailing list for the Ostwestfalen-Lippe OSM community"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.369894746356497,
+              52.48278022207821
+            ],
+            [
+              9.21026716450244,
+              52.48278022207821
+            ],
+            [
+              9.22028,
+              52.49616
+            ],
+            [
+              8.67096,
+              52.56967
+            ],
+            [
+              8.369894746356497,
+              52.48278022207821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q183,Q39,Q40]",
+        "area": 518975.04,
+        "resources": {
+          "de-telegram": {
+            "id": "de-telegram",
+            "type": "telegram",
+            "account": "OSM_de",
+            "locationSet": {
+              "include": [
+                "de",
+                "at",
+                "ch"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "name": "OpenStreetMap D-A-CH Telegram",
+              "description": "Join the OpenStreetMap D-A-CH Telegram supergroup at {url}"
+            },
+            "contacts": [
+              {
+                "name": "Max N",
+                "email": "abonnements@revolwear.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap D-A-CH Telegram",
+              "url": "https://t.me/OSM_de",
+              "description": "Join the OpenStreetMap D-A-CH Telegram supergroup at https://t.me/OSM_de",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OSM_de\">OpenStreetMap D-A-CH Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OSM_de\">https://t.me/OSM_de</a>",
+              "descriptionHTML": "Join the OpenStreetMap D-A-CH Telegram supergroup at <a target=\"_blank\" href=\"https://t.me/OSM_de\">https://t.me/OSM_de</a>"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.625,
+              54.110296444257045
+            ],
+            [
+              6.91025,
+              53.44221
+            ],
+            [
+              7.00198,
+              53.32672
+            ],
+            [
+              7.19052,
+              53.31866
+            ],
+            [
+              7.21679,
+              53.20058
+            ],
+            [
+              7.22681,
+              53.18165
+            ],
+            [
+              7.17898,
+              53.13817
+            ],
+            [
+              7.21694,
+              53.00742
+            ],
+            [
+              7.07253,
+              52.81083
+            ],
+            [
+              7.04557,
+              52.63318
+            ],
+            [
+              6.77307,
+              52.65375
+            ],
+            [
+              6.71641,
+              52.62905
+            ],
+            [
+              6.69507,
+              52.488
+            ],
+            [
+              6.719935926498064,
+              52.48278022207821
+            ],
+            [
+              11.25,
+              52.48278022207821
+            ],
+            [
+              11.25,
+              54.567891181921205
+            ],
+            [
+              11.00303,
+              54.63689
+            ],
+            [
+              10.31111,
+              54.65968
+            ],
+            [
+              10.16755,
+              54.73883
+            ],
+            [
+              9.89314,
+              54.84171
+            ],
+            [
+              9.73563,
+              54.8247
+            ],
+            [
+              9.61187,
+              54.85548
+            ],
+            [
+              9.62734,
+              54.88057
+            ],
+            [
+              9.58937,
+              54.88785
+            ],
+            [
+              9.4659,
+              54.83131
+            ],
+            [
+              9.43155,
+              54.82586
+            ],
+            [
+              9.41213,
+              54.84254
+            ],
+            [
+              9.38532,
+              54.83968
+            ],
+            [
+              9.36496,
+              54.81749
+            ],
+            [
+              9.33849,
+              54.80233
+            ],
+            [
+              9.32771,
+              54.80602
+            ],
+            [
+              9.2474,
+              54.8112
+            ],
+            [
+              9.23445,
+              54.83432
+            ],
+            [
+              9.24631,
+              54.84726
+            ],
+            [
+              9.20571,
+              54.85841
+            ],
+            [
+              9.14275,
+              54.87421
+            ],
+            [
+              9.04629,
+              54.87249
+            ],
+            [
+              8.92795,
+              54.90452
+            ],
+            [
+              8.81178,
+              54.90518
+            ],
+            [
+              8.76387,
+              54.8948
+            ],
+            [
+              8.63979,
+              54.91069
+            ],
+            [
+              8.55769,
+              54.91837
+            ],
+            [
+              8.45719,
+              55.06747
+            ],
+            [
+              8.02459,
+              55.09613
+            ],
+            [
+              5.625,
+              54.26073010392901
+            ],
+            [
+              5.625,
+              54.110296444257045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "DK",
+        "iso1A3": "DNK",
+        "iso1N3": "208",
+        "wikidata": "Q756617",
+        "nameEn": "Kingdom of Denmark",
+        "id": "Q756617",
+        "m49": "208",
+        "ccTLD": ".dk",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇩🇰",
+        "members": [
+          "Q35",
+          "FO",
+          "GL"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "45",
+          "298",
+          "299"
+        ],
+        "area": 4469378.82,
+        "resources": {
+          "dk-discourse": {
+            "id": "dk-discourse",
+            "type": "discourse",
+            "account": "dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark",
+              "name": "{community} Discourse",
+              "description": "A discussion forum about OpenStreetMap in Denmark"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Denmark Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/dk",
+              "description": "A discussion forum about OpenStreetMap in Denmark",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/dk\">OpenStreetMap Denmark Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/dk\">https://community.openstreetmap.org/c/communities/dk</a>",
+              "descriptionHTML": "A discussion forum about OpenStreetMap in Denmark"
+            }
+          },
+          "dk-irc": {
+            "id": "dk-irc",
+            "type": "irc",
+            "account": "osm-dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Denmark on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-dk",
+              "description": "Join #osm-dk on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-dk\">OpenStreetMap Denmark on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-dk\">https://webchat.oftc.net/?channels=osm-dk</a>",
+              "descriptionHTML": "Join #osm-dk on irc.oftc.net (port 6667)"
+            }
+          },
+          "talk-dk": {
+            "id": "talk-dk",
+            "type": "mailinglist",
+            "account": "talk-dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark"
+            },
+            "resolved": {
+              "name": "talk-dk Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-dk",
+              "description": "The official mailing list for OpenStreetMap Denmark",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-dk\">talk-dk Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-dk\">https://lists.openstreetmap.org/listinfo/talk-dk</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Denmark"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8026206472643125,
+              55.77657301866769
+            ],
+            [
+              8.02459,
+              55.09613
+            ],
+            [
+              8.45719,
+              55.06747
+            ],
+            [
+              8.55769,
+              54.91837
+            ],
+            [
+              8.63979,
+              54.91069
+            ],
+            [
+              8.76387,
+              54.8948
+            ],
+            [
+              8.81178,
+              54.90518
+            ],
+            [
+              8.92795,
+              54.90452
+            ],
+            [
+              9.04629,
+              54.87249
+            ],
+            [
+              9.14275,
+              54.87421
+            ],
+            [
+              9.20571,
+              54.85841
+            ],
+            [
+              9.24631,
+              54.84726
+            ],
+            [
+              9.23445,
+              54.83432
+            ],
+            [
+              9.2474,
+              54.8112
+            ],
+            [
+              9.32771,
+              54.80602
+            ],
+            [
+              9.33849,
+              54.80233
+            ],
+            [
+              9.36496,
+              54.81749
+            ],
+            [
+              9.38532,
+              54.83968
+            ],
+            [
+              9.41213,
+              54.84254
+            ],
+            [
+              9.43155,
+              54.82586
+            ],
+            [
+              9.4659,
+              54.83131
+            ],
+            [
+              9.58937,
+              54.88785
+            ],
+            [
+              9.62734,
+              54.88057
+            ],
+            [
+              9.61187,
+              54.85548
+            ],
+            [
+              9.73563,
+              54.8247
+            ],
+            [
+              9.89314,
+              54.84171
+            ],
+            [
+              10.16755,
+              54.73883
+            ],
+            [
+              10.31111,
+              54.65968
+            ],
+            [
+              11.00303,
+              54.63689
+            ],
+            [
+              11.25,
+              54.567891181921205
+            ],
+            [
+              11.25,
+              55.77657301866769
+            ],
+            [
+              7.8026206472643125,
+              55.77657301866769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "NL",
+        "iso1A3": "NLD",
+        "iso1N3": "528",
+        "wikidata": "Q29999",
+        "nameEn": "Kingdom of the Netherlands",
+        "id": "Q29999",
+        "m49": "528",
+        "ccTLD": ".nl",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇳🇱",
+        "members": [
+          "Q25396",
+          "Q25528",
+          "Q26180",
+          "Q55",
+          "AW",
+          "BQ",
+          "CW",
+          "SX"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "31",
+          "599 7",
+          "599 4",
+          "599 3",
+          "297",
+          "599",
+          "1 721"
+        ],
+        "area": 81054.06,
+        "resources": {
+          "nl-matrix": {
+            "id": "nl-matrix",
+            "type": "matrix",
+            "account": "#osm-netherlands",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands",
+              "description": "All mappers are welcome!"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Netherlands Matrix Chat",
+              "url": "https://matrix.to/#/#osm-netherlands:matrix.org",
+              "description": "All mappers are welcome!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-netherlands:matrix.org\">OpenStreetMap Netherlands Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-netherlands:matrix.org\">https://matrix.to/#/#osm-netherlands:matrix.org</a>",
+              "descriptionHTML": "All mappers are welcome!"
+            }
+          },
+          "nl-telegram": {
+            "id": "nl-telegram",
+            "type": "telegram",
+            "account": "osm_nl",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands"
+            },
+            "contacts": [
+              {
+                "name": "Peter Elderson",
+                "email": "pelderson@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Netherlands Telegram",
+              "url": "https://t.me/osm_nl",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osm_nl\">OpenStreetMap Netherlands Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osm_nl\">https://t.me/osm_nl</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-nl": {
+            "id": "talk-nl",
+            "type": "mailinglist",
+            "account": "talk-nl",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands"
+            },
+            "resolved": {
+              "name": "talk-nl Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-nl",
+              "description": "The official mailing list for OpenStreetMap Netherlands",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-nl\">talk-nl Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-nl\">https://lists.openstreetmap.org/listinfo/talk-nl</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Netherlands"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.625,
+              52.48278022207821
+            ],
+            [
+              6.719935926498064,
+              52.48278022207821
+            ],
+            [
+              6.69507,
+              52.488
+            ],
+            [
+              6.71641,
+              52.62905
+            ],
+            [
+              6.77307,
+              52.65375
+            ],
+            [
+              7.04557,
+              52.63318
+            ],
+            [
+              7.07253,
+              52.81083
+            ],
+            [
+              7.21694,
+              53.00742
+            ],
+            [
+              7.17898,
+              53.13817
+            ],
+            [
+              7.22681,
+              53.18165
+            ],
+            [
+              7.21679,
+              53.20058
+            ],
+            [
+              7.19052,
+              53.31866
+            ],
+            [
+              7.00198,
+              53.32672
+            ],
+            [
+              6.91025,
+              53.44221
+            ],
+            [
+              5.625,
+              54.110296444257045
+            ],
+            [
+              5.625,
+              52.48278022207821
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

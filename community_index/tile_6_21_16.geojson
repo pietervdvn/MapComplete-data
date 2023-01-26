@@ -1,0 +1,295 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "DK",
+        "iso1A3": "DNK",
+        "iso1N3": "208",
+        "wikidata": "Q756617",
+        "nameEn": "Kingdom of Denmark",
+        "id": "Q756617",
+        "m49": "208",
+        "ccTLD": ".dk",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇩🇰",
+        "members": [
+          "Q35",
+          "FO",
+          "GL"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "45",
+          "298",
+          "299"
+        ],
+        "area": 4469378.82,
+        "resources": {
+          "dk-discourse": {
+            "id": "dk-discourse",
+            "type": "discourse",
+            "account": "dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark",
+              "name": "{community} Discourse",
+              "description": "A discussion forum about OpenStreetMap in Denmark"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Denmark Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/dk",
+              "description": "A discussion forum about OpenStreetMap in Denmark",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/dk\">OpenStreetMap Denmark Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/dk\">https://community.openstreetmap.org/c/communities/dk</a>",
+              "descriptionHTML": "A discussion forum about OpenStreetMap in Denmark"
+            }
+          },
+          "dk-irc": {
+            "id": "dk-irc",
+            "type": "irc",
+            "account": "osm-dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Denmark on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-dk",
+              "description": "Join #osm-dk on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-dk\">OpenStreetMap Denmark on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-dk\">https://webchat.oftc.net/?channels=osm-dk</a>",
+              "descriptionHTML": "Join #osm-dk on irc.oftc.net (port 6667)"
+            }
+          },
+          "talk-dk": {
+            "id": "talk-dk",
+            "type": "mailinglist",
+            "account": "talk-dk",
+            "locationSet": {
+              "include": [
+                "dk"
+              ]
+            },
+            "languageCodes": [
+              "da"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Denmark",
+              "communityID": "openstreetmapdenmark"
+            },
+            "resolved": {
+              "name": "talk-dk Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-dk",
+              "description": "The official mailing list for OpenStreetMap Denmark",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-dk\">talk-dk Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-dk\">https://lists.openstreetmap.org/listinfo/talk-dk</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Denmark"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.75398957749949,
+              66.51326044311186
+            ],
+            [
+              -57.08437162613666,
+              64.16810689799152
+            ],
+            [
+              -56.25,
+              64.16810689799152
+            ],
+            [
+              -56.25,
+              66.51326044311186
+            ],
+            [
+              -60.75398957749949,
+              66.51326044311186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "CA",
+        "iso1A3": "CAN",
+        "iso1N3": "124",
+        "wikidata": "Q16",
+        "nameEn": "Canada",
+        "groups": [
+          "021",
+          "003",
+          "019",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "1"
+        ],
+        "id": "Q16",
+        "m49": "124",
+        "ccTLD": ".ca",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇨🇦",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 15407039.77,
+        "resources": {
+          "OSM-CA-mailinglist": {
+            "id": "OSM-CA-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-ca",
+            "locationSet": {
+              "include": [
+                "ca"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Canada",
+              "communityID": "openstreetmapcanada"
+            },
+            "resolved": {
+              "name": "talk-ca Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ca",
+              "description": "The official mailing list for OpenStreetMap Canada",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ca\">talk-ca Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ca\">https://lists.openstreetmap.org/listinfo/talk-ca</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Canada"
+            }
+          },
+          "OSM-CA-Slack": {
+            "id": "OSM-CA-Slack",
+            "type": "slack",
+            "locationSet": {
+              "include": [
+                "ca"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Canada",
+              "communityID": "openstreetmapcanada",
+              "description": "All are welcome! Sign up at {signupUrl}.",
+              "signupUrl": "https://slackinviteosmcanada.herokuapp.com/",
+              "url": "https://osm-ca.slack.com/"
+            },
+            "contacts": [
+              {
+                "name": "Denis Carriere",
+                "email": "carriere.denis@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Canada Slack",
+              "url": "https://osm-ca.slack.com/",
+              "signupUrl": "https://slackinviteosmcanada.herokuapp.com/",
+              "description": "All are welcome! Sign up at https://slackinviteosmcanada.herokuapp.com/.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm-ca.slack.com/\">OpenStreetMap Canada Slack</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm-ca.slack.com/\">https://osm-ca.slack.com/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://slackinviteosmcanada.herokuapp.com/\">https://slackinviteosmcanada.herokuapp.com/</a>",
+              "descriptionHTML": "All are welcome! Sign up at <a target=\"_blank\" href=\"https://slackinviteosmcanada.herokuapp.com/\">https://slackinviteosmcanada.herokuapp.com/</a>."
+            }
+          },
+          "OSM-CA-telegram": {
+            "id": "OSM-CA-telegram",
+            "type": "telegram",
+            "account": "osmca",
+            "locationSet": {
+              "include": [
+                "ca"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Canada",
+              "communityID": "openstreetmapcanada"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Canada Telegram",
+              "url": "https://t.me/osmca",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmca\">OpenStreetMap Canada Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmca\">https://t.me/osmca</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.875,
+              64.16810689799152
+            ],
+            [
+              -57.08437162613666,
+              64.16810689799152
+            ],
+            [
+              -60.75398957749949,
+              66.51326044311186
+            ],
+            [
+              -61.875,
+              66.51326044311186
+            ],
+            [
+              -61.875,
+              64.16810689799152
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

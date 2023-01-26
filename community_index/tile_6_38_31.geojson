@@ -1,0 +1,1704 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "ET",
+        "iso1A3": "ETH",
+        "iso1N3": "231",
+        "wikidata": "Q115",
+        "nameEn": "Ethiopia",
+        "groups": [
+          "014",
+          "202",
+          "002",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "251"
+        ],
+        "id": "Q115",
+        "m49": "231",
+        "ccTLD": ".et",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇪🇹",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 1137187.22,
+        "resources": {
+          "et-telegram": {
+            "id": "et-telegram",
+            "type": "telegram",
+            "account": "openstreetmapethiopia",
+            "locationSet": {
+              "include": [
+                "et"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Ethiopia",
+              "communityID": "openstreetmapethiopia"
+            },
+            "contacts": [
+              {
+                "name": "Ben Jamin",
+                "email": "benjazben10@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Ethiopia Telegram",
+              "url": "https://t.me/openstreetmapethiopia",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/openstreetmapethiopia\">OpenStreetMap Ethiopia Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/openstreetmapethiopia\">https://t.me/openstreetmapethiopia</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "OSM-et-mailinglist": {
+            "id": "OSM-et-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-et",
+            "locationSet": {
+              "include": [
+                "et"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Ethiopia",
+              "communityID": "openstreetmapethiopia"
+            },
+            "resolved": {
+              "name": "talk-et Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-et",
+              "description": "The official mailing list for OpenStreetMap Ethiopia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-et\">talk-et Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-et\">https://lists.openstreetmap.org/listinfo/talk-et</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Ethiopia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.138419701857615,
+              5.615985819155343
+            ],
+            [
+              35.31188,
+              5.50106
+            ],
+            [
+              35.29938,
+              5.34042
+            ],
+            [
+              35.50792,
+              5.42431
+            ],
+            [
+              35.8576,
+              5.33413
+            ],
+            [
+              35.81968,
+              5.10757
+            ],
+            [
+              35.82118,
+              4.77382
+            ],
+            [
+              35.9419,
+              4.61933
+            ],
+            [
+              35.95449,
+              4.53244
+            ],
+            [
+              36.03924,
+              4.44406
+            ],
+            [
+              36.84474,
+              4.44518
+            ],
+            [
+              37.07724,
+              4.33503
+            ],
+            [
+              38.14168,
+              3.62487
+            ],
+            [
+              38.45812,
+              3.60445
+            ],
+            [
+              38.52336,
+              3.62551
+            ],
+            [
+              38.91938,
+              3.51198
+            ],
+            [
+              39.07736,
+              3.5267
+            ],
+            [
+              39.19954,
+              3.47834
+            ],
+            [
+              39.375,
+              3.46457808138352
+            ],
+            [
+              39.375,
+              5.615985819155343
+            ],
+            [
+              35.138419701857615,
+              5.615985819155343
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "m49": "002",
+        "wikidata": "Q15",
+        "nameEn": "Africa",
+        "level": "region",
+        "id": "Q15",
+        "groups": [
+          "001"
+        ],
+        "members": [
+          "Q5823",
+          "Q5831",
+          "Q34497",
+          "Q46772",
+          "Q130574",
+          "Q190571",
+          "Q191146",
+          "Q201698",
+          "Q639185",
+          "Q1184963",
+          "Q1298289",
+          "Q1544253",
+          "Q1585511",
+          "Q1681727",
+          "AC",
+          "DG",
+          "TA",
+          "Q191011",
+          "Q620634",
+          "EA",
+          "IO",
+          "RE",
+          "SH",
+          "TF",
+          "YT",
+          "AO",
+          "BF",
+          "BI",
+          "BJ",
+          "BW",
+          "CD",
+          "CF",
+          "CG",
+          "CI",
+          "CM",
+          "CV",
+          "DJ",
+          "DZ",
+          "EG",
+          "EH",
+          "ER",
+          "ET",
+          "GA",
+          "GH",
+          "GM",
+          "GN",
+          "GQ",
+          "GW",
+          "KE",
+          "KM",
+          "LR",
+          "LS",
+          "LY",
+          "MA",
+          "MG",
+          "ML",
+          "MR",
+          "MU",
+          "MW",
+          "MZ",
+          "NA",
+          "NE",
+          "NG",
+          "RW",
+          "SC",
+          "SD",
+          "SL",
+          "SN",
+          "SO",
+          "SS",
+          "ST",
+          "SZ",
+          "TD",
+          "TG",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM",
+          "ZW",
+          "011",
+          "014",
+          "017",
+          "018",
+          "015",
+          "202"
+        ],
+        "callingCodes": [
+          "34",
+          "290",
+          "247",
+          "244",
+          "226",
+          "257",
+          "229",
+          "267",
+          "243",
+          "236",
+          "242",
+          "225",
+          "237",
+          "238",
+          "246",
+          "253",
+          "213",
+          "20",
+          "212",
+          "291",
+          "251",
+          "241",
+          "233",
+          "220",
+          "224",
+          "240",
+          "245",
+          "254",
+          "269",
+          "231",
+          "266",
+          "218",
+          "261",
+          "223",
+          "222",
+          "230",
+          "265",
+          "258",
+          "264",
+          "227",
+          "234",
+          "262",
+          "250",
+          "248",
+          "249",
+          "232",
+          "221",
+          "252",
+          "211",
+          "239",
+          "268",
+          "290 8",
+          "44 20",
+          "235",
+          "228",
+          "216",
+          "255",
+          "256",
+          "27",
+          "260",
+          "263"
+        ],
+        "area": 40342340.25,
+        "resources": {
+          "osm-africa-eventbrite": {
+            "id": "osm-africa-eventbrite",
+            "type": "url",
+            "locationSet": {
+              "include": [
+                "002"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Africa",
+              "communityID": "openstreetmapafrica",
+              "name": "{community} EventBrite",
+              "description": "{community} EventBrite page",
+              "url": "https://www.eventbrite.com/o/osm-africa-33169584077"
+            },
+            "contacts": [
+              {
+                "name": "OSM Africa",
+                "email": "info@openstreetmap.africa"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Africa EventBrite",
+              "url": "https://www.eventbrite.com/o/osm-africa-33169584077",
+              "description": "OpenStreetMap Africa EventBrite page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.eventbrite.com/o/osm-africa-33169584077\">OpenStreetMap Africa EventBrite</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.eventbrite.com/o/osm-africa-33169584077\">https://www.eventbrite.com/o/osm-africa-33169584077</a>",
+              "descriptionHTML": "OpenStreetMap Africa EventBrite page"
+            }
+          },
+          "osm-africa-facebook": {
+            "id": "osm-africa-facebook",
+            "type": "facebook",
+            "account": "OpenStreetMapAfrica",
+            "locationSet": {
+              "include": [
+                "002"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Africa",
+              "communityID": "openstreetmapafrica"
+            },
+            "contacts": [
+              {
+                "name": "OSM Africa",
+                "email": "info@openstreetmap.africa"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Africa on Facebook",
+              "url": "https://www.facebook.com/OpenStreetMapAfrica",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMapAfrica\">OpenStreetMap Africa on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMapAfrica\">https://www.facebook.com/OpenStreetMapAfrica</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "osm-africa-facebook-group": {
+            "id": "osm-africa-facebook-group",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "002"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Africa",
+              "communityID": "openstreetmapafrica",
+              "name": "{community} Facebook Group",
+              "url": "https://www.facebook.com/groups/1419060541659078"
+            },
+            "contacts": [
+              {
+                "name": "OSM Africa",
+                "email": "info@openstreetmap.africa"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Africa Facebook Group",
+              "url": "https://www.facebook.com/groups/1419060541659078",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/1419060541659078\">OpenStreetMap Africa Facebook Group</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/1419060541659078\">https://www.facebook.com/groups/1419060541659078</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "osm-africa-matrix": {
+            "id": "osm-africa-matrix",
+            "type": "matrix",
+            "account": "#osmafrica",
+            "locationSet": {
+              "include": [
+                "002"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Africa",
+              "communityID": "openstreetmapafrica",
+              "description": "All mappers are welcome!"
+            },
+            "contacts": [
+              {
+                "name": "OSM Africa",
+                "email": "info@openstreetmap.africa"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Africa Matrix Chat",
+              "url": "https://matrix.to/#/#osmafrica:matrix.org",
+              "description": "All mappers are welcome!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmafrica:matrix.org\">OpenStreetMap Africa Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmafrica:matrix.org\">https://matrix.to/#/#osmafrica:matrix.org</a>",
+              "descriptionHTML": "All mappers are welcome!"
+            }
+          },
+          "osm-africa-slack": {
+            "id": "osm-africa-slack",
+            "type": "slack",
+            "locationSet": {
+              "include": [
+                "002"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Africa",
+              "communityID": "openstreetmapafrica",
+              "description": "All are welcome! Sign up at {signupUrl}",
+              "signupUrl": "https://osmafrica.slack.com/",
+              "url": "https://osmafrica.slack.com/"
+            },
+            "contacts": [
+              {
+                "name": "OSM Africa",
+                "email": "info@openstreetmap.africa"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Africa Slack",
+              "url": "https://osmafrica.slack.com/",
+              "signupUrl": "https://osmafrica.slack.com/",
+              "description": "All are welcome! Sign up at https://osmafrica.slack.com/",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmafrica.slack.com/\">OpenStreetMap Africa Slack</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmafrica.slack.com/\">https://osmafrica.slack.com/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://osmafrica.slack.com/\">https://osmafrica.slack.com/</a>",
+              "descriptionHTML": "All are welcome! Sign up at <a target=\"_blank\" href=\"https://osmafrica.slack.com/\">https://osmafrica.slack.com/</a>"
+            }
+          },
+          "osm-africa-telegram": {
+            "id": "osm-africa-telegram",
+            "type": "telegram",
+            "account": "OSMAfrica",
+            "locationSet": {
+              "include": [
+                "002"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Africa",
+              "communityID": "openstreetmapafrica"
+            },
+            "contacts": [
+              {
+                "name": "OSM Africa",
+                "email": "info@openstreetmap.africa"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Africa Telegram",
+              "url": "https://t.me/OSMAfrica",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OSMAfrica\">OpenStreetMap Africa Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OSMAfrica\">https://t.me/OSMAfrica</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "osm-africa-twitter": {
+            "id": "osm-africa-twitter",
+            "type": "twitter",
+            "account": "osmafrica",
+            "locationSet": {
+              "include": [
+                "002"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Africa",
+              "communityID": "openstreetmapafrica"
+            },
+            "contacts": [
+              {
+                "name": "OSM Africa",
+                "email": "info@openstreetmap.africa"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Africa on Twitter",
+              "url": "https://twitter.com/osmafrica",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmafrica\">OpenStreetMap Africa on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmafrica\">https://twitter.com/osmafrica</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "talk-africa": {
+            "id": "talk-africa",
+            "type": "mailinglist",
+            "account": "talk-africa",
+            "locationSet": {
+              "include": [
+                "002"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Africa",
+              "communityID": "openstreetmapafrica"
+            },
+            "resolved": {
+              "name": "talk-africa Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-africa",
+              "description": "The official mailing list for OpenStreetMap Africa",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-africa\">talk-africa Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-africa\">https://lists.openstreetmap.org/listinfo/talk-africa</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Africa"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.75,
+              0
+            ],
+            [
+              39.375,
+              0
+            ],
+            [
+              39.375,
+              5.615985819155343
+            ],
+            [
+              33.75,
+              5.615985819155343
+            ],
+            [
+              33.75,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "KE",
+        "iso1A3": "KEN",
+        "iso1N3": "404",
+        "wikidata": "Q114",
+        "nameEn": "Kenya",
+        "groups": [
+          "014",
+          "202",
+          "002",
+          "UN",
+          "001"
+        ],
+        "driveSide": "left",
+        "callingCodes": [
+          "254"
+        ],
+        "id": "Q114",
+        "m49": "404",
+        "ccTLD": ".ke",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇰🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "area": 609573.62,
+        "resources": {
+          "osm-kenya": {
+            "id": "osm-kenya",
+            "type": "twitter",
+            "account": "OSMKenya",
+            "locationSet": {
+              "include": [
+                "ke"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Kenya",
+              "communityID": "openstreetmapkenya",
+              "description": "OSM Kenya is a community of OSM contributors and users",
+              "extendedDescription": "OSM is a local community for individuals interested in OpenStreetMap including organizations, developers, and YouthMappers chapters in the country."
+            },
+            "contacts": [
+              {
+                "name": "OSM Kenya",
+                "email": "osmkenya@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Kenya on Twitter",
+              "url": "https://twitter.com/OSMKenya",
+              "description": "OSM Kenya is a community of OSM contributors and users",
+              "extendedDescription": "OSM is a local community for individuals interested in OpenStreetMap including organizations, developers, and YouthMappers chapters in the country.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSMKenya\">OpenStreetMap Kenya on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSMKenya\">https://twitter.com/OSMKenya</a>",
+              "descriptionHTML": "OSM Kenya is a community of OSM contributors and users",
+              "extendedDescriptionHTML": "OSM is a local community for individuals interested in OpenStreetMap including organizations, developers, and YouthMappers chapters in the country."
+            }
+          },
+          "osm-kenya-facebook": {
+            "id": "osm-kenya-facebook",
+            "type": "facebook",
+            "account": "OSMKenya",
+            "locationSet": {
+              "include": [
+                "ke"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Kenya",
+              "communityID": "openstreetmapkenya",
+              "description": "OSM Kenya is a community of OSM contributors and users",
+              "extendedDescription": "OSM is a local community for individuals interested in OpenStreetMap including organizations, developers, and YouthMappers chapters in the country."
+            },
+            "contacts": [
+              {
+                "name": "OSM Kenya",
+                "email": "osmkenya@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Kenya on Facebook",
+              "url": "https://www.facebook.com/OSMKenya",
+              "description": "OSM Kenya is a community of OSM contributors and users",
+              "extendedDescription": "OSM is a local community for individuals interested in OpenStreetMap including organizations, developers, and YouthMappers chapters in the country.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OSMKenya\">OpenStreetMap Kenya on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OSMKenya\">https://www.facebook.com/OSMKenya</a>",
+              "descriptionHTML": "OSM Kenya is a community of OSM contributors and users",
+              "extendedDescriptionHTML": "OSM is a local community for individuals interested in OpenStreetMap including organizations, developers, and YouthMappers chapters in the country."
+            }
+          },
+          "talk-ke": {
+            "id": "talk-ke",
+            "type": "mailinglist",
+            "account": "talk-ke",
+            "locationSet": {
+              "include": [
+                "ke"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Kenya",
+              "communityID": "openstreetmapkenya"
+            },
+            "resolved": {
+              "name": "talk-ke Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ke",
+              "description": "The official mailing list for OpenStreetMap Kenya",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ke\">talk-ke Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ke\">https://lists.openstreetmap.org/listinfo/talk-ke</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Kenya"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.90936,
+              0.10581
+            ],
+            [
+              33.942958923499575,
+              0
+            ],
+            [
+              39.375,
+              0
+            ],
+            [
+              39.375,
+              3.46457808138352
+            ],
+            [
+              39.19954,
+              3.47834
+            ],
+            [
+              39.07736,
+              3.5267
+            ],
+            [
+              38.91938,
+              3.51198
+            ],
+            [
+              38.52336,
+              3.62551
+            ],
+            [
+              38.45812,
+              3.60445
+            ],
+            [
+              38.14168,
+              3.62487
+            ],
+            [
+              37.07724,
+              4.33503
+            ],
+            [
+              36.84474,
+              4.44518
+            ],
+            [
+              36.03924,
+              4.44406
+            ],
+            [
+              35.95449,
+              4.53244
+            ],
+            [
+              35.9419,
+              4.61933
+            ],
+            [
+              35.51424,
+              4.61643
+            ],
+            [
+              35.42366,
+              4.76969
+            ],
+            [
+              35.47843,
+              4.91872
+            ],
+            [
+              35.30992,
+              4.90402
+            ],
+            [
+              35.34151,
+              5.02364
+            ],
+            [
+              34.47601,
+              4.72162
+            ],
+            [
+              33.9873,
+              4.23316
+            ],
+            [
+              34.06046,
+              4.15235
+            ],
+            [
+              34.15429,
+              3.80464
+            ],
+            [
+              34.45815,
+              3.67385
+            ],
+            [
+              34.44922,
+              3.51627
+            ],
+            [
+              34.39112,
+              3.48802
+            ],
+            [
+              34.41794,
+              3.44342
+            ],
+            [
+              34.40006,
+              3.37949
+            ],
+            [
+              34.45815,
+              3.18319
+            ],
+            [
+              34.56242,
+              3.11478
+            ],
+            [
+              34.60114,
+              2.93034
+            ],
+            [
+              34.65774,
+              2.8753
+            ],
+            [
+              34.73967,
+              2.85447
+            ],
+            [
+              34.78137,
+              2.76223
+            ],
+            [
+              34.77244,
+              2.70272
+            ],
+            [
+              34.95267,
+              2.47209
+            ],
+            [
+              34.90947,
+              2.42447
+            ],
+            [
+              34.98692,
+              1.97348
+            ],
+            [
+              34.9899,
+              1.6668
+            ],
+            [
+              34.92734,
+              1.56109
+            ],
+            [
+              34.87819,
+              1.5596
+            ],
+            [
+              34.7918,
+              1.36752
+            ],
+            [
+              34.82606,
+              1.30944
+            ],
+            [
+              34.82606,
+              1.26626
+            ],
+            [
+              34.80223,
+              1.22754
+            ],
+            [
+              34.67562,
+              1.21265
+            ],
+            [
+              34.58029,
+              1.14712
+            ],
+            [
+              34.57427,
+              1.09868
+            ],
+            [
+              34.52369,
+              1.10692
+            ],
+            [
+              34.43349,
+              0.85254
+            ],
+            [
+              34.40041,
+              0.80266
+            ],
+            [
+              34.31516,
+              0.75693
+            ],
+            [
+              34.27345,
+              0.63182
+            ],
+            [
+              34.20196,
+              0.62289
+            ],
+            [
+              34.13493,
+              0.58118
+            ],
+            [
+              34.11408,
+              0.48884
+            ],
+            [
+              34.08727,
+              0.44713
+            ],
+            [
+              34.10067,
+              0.36372
+            ],
+            [
+              33.90936,
+              0.10581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "SS",
+        "iso1A3": "SSD",
+        "iso1N3": "728",
+        "wikidata": "Q958",
+        "nameEn": "South Sudan",
+        "groups": [
+          "014",
+          "202",
+          "002",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "211"
+        ],
+        "id": "Q958",
+        "m49": "728",
+        "ccTLD": ".ss",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇸🇸",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 649655.52,
+        "resources": {
+          "ss-facebook": {
+            "id": "ss-facebook",
+            "type": "facebook",
+            "account": "OSMSouthSudan",
+            "locationSet": {
+              "include": [
+                "ss"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap South Sudan",
+              "communityID": "openstreetmapsouthsudan"
+            },
+            "resolved": {
+              "name": "OpenStreetMap South Sudan on Facebook",
+              "url": "https://www.facebook.com/OSMSouthSudan",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OSMSouthSudan\">OpenStreetMap South Sudan on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OSMSouthSudan\">https://www.facebook.com/OSMSouthSudan</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "ss-twitter": {
+            "id": "ss-twitter",
+            "type": "twitter",
+            "account": "osmsouthsudan",
+            "locationSet": {
+              "include": [
+                "ss"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap South Sudan",
+              "communityID": "openstreetmapsouthsudan"
+            },
+            "resolved": {
+              "name": "OpenStreetMap South Sudan on Twitter",
+              "url": "https://twitter.com/osmsouthsudan",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmsouthsudan\">OpenStreetMap South Sudan on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmsouthsudan\">https://twitter.com/osmsouthsudan</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.75,
+              3.991950494248517
+            ],
+            [
+              33.9873,
+              4.23316
+            ],
+            [
+              34.47601,
+              4.72162
+            ],
+            [
+              35.34151,
+              5.02364
+            ],
+            [
+              35.30992,
+              4.90402
+            ],
+            [
+              35.47843,
+              4.91872
+            ],
+            [
+              35.42366,
+              4.76969
+            ],
+            [
+              35.51424,
+              4.61643
+            ],
+            [
+              35.9419,
+              4.61933
+            ],
+            [
+              35.82118,
+              4.77382
+            ],
+            [
+              35.81968,
+              5.10757
+            ],
+            [
+              35.8576,
+              5.33413
+            ],
+            [
+              35.50792,
+              5.42431
+            ],
+            [
+              35.29938,
+              5.34042
+            ],
+            [
+              35.31188,
+              5.50106
+            ],
+            [
+              35.138419701857615,
+              5.615985819155343
+            ],
+            [
+              33.75,
+              5.615985819155343
+            ],
+            [
+              33.75,
+              3.991950494248517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "UG",
+        "iso1A3": "UGA",
+        "iso1N3": "800",
+        "wikidata": "Q1036",
+        "nameEn": "Uganda",
+        "groups": [
+          "014",
+          "202",
+          "002",
+          "UN",
+          "001"
+        ],
+        "driveSide": "left",
+        "callingCodes": [
+          "256"
+        ],
+        "id": "Q1036",
+        "m49": "800",
+        "ccTLD": ".ug",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇺🇬",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "area": 243075.8,
+        "resources": {
+          "talk-ug": {
+            "id": "talk-ug",
+            "type": "mailinglist",
+            "account": "talk-ug",
+            "locationSet": {
+              "include": [
+                "ug"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Uganda",
+              "communityID": "openstreetmapuganda"
+            },
+            "resolved": {
+              "name": "talk-ug Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ug",
+              "description": "The official mailing list for OpenStreetMap Uganda",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ug\">talk-ug Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ug\">https://lists.openstreetmap.org/listinfo/talk-ug</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Uganda"
+            }
+          },
+          "ug-facebook": {
+            "id": "ug-facebook",
+            "type": "facebook",
+            "account": "OpenStreetMap-Uganda-863951250327532",
+            "locationSet": {
+              "include": [
+                "ug"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Uganda",
+              "communityID": "openstreetmapuganda"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Uganda on Facebook",
+              "url": "https://www.facebook.com/OpenStreetMap-Uganda-863951250327532",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMap-Uganda-863951250327532\">OpenStreetMap Uganda on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMap-Uganda-863951250327532\">https://www.facebook.com/OpenStreetMap-Uganda-863951250327532</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "ug-twitter": {
+            "id": "ug-twitter",
+            "type": "twitter",
+            "account": "mapuganda",
+            "locationSet": {
+              "include": [
+                "ug"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Uganda",
+              "communityID": "openstreetmapuganda"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Uganda on Twitter",
+              "url": "https://twitter.com/mapuganda",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/mapuganda\">OpenStreetMap Uganda on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/mapuganda\">https://twitter.com/mapuganda</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.75,
+              0
+            ],
+            [
+              33.942958923499575,
+              0
+            ],
+            [
+              33.90936,
+              0.10581
+            ],
+            [
+              34.10067,
+              0.36372
+            ],
+            [
+              34.08727,
+              0.44713
+            ],
+            [
+              34.11408,
+              0.48884
+            ],
+            [
+              34.13493,
+              0.58118
+            ],
+            [
+              34.20196,
+              0.62289
+            ],
+            [
+              34.27345,
+              0.63182
+            ],
+            [
+              34.31516,
+              0.75693
+            ],
+            [
+              34.40041,
+              0.80266
+            ],
+            [
+              34.43349,
+              0.85254
+            ],
+            [
+              34.52369,
+              1.10692
+            ],
+            [
+              34.57427,
+              1.09868
+            ],
+            [
+              34.58029,
+              1.14712
+            ],
+            [
+              34.67562,
+              1.21265
+            ],
+            [
+              34.80223,
+              1.22754
+            ],
+            [
+              34.82606,
+              1.26626
+            ],
+            [
+              34.82606,
+              1.30944
+            ],
+            [
+              34.7918,
+              1.36752
+            ],
+            [
+              34.87819,
+              1.5596
+            ],
+            [
+              34.92734,
+              1.56109
+            ],
+            [
+              34.9899,
+              1.6668
+            ],
+            [
+              34.98692,
+              1.97348
+            ],
+            [
+              34.90947,
+              2.42447
+            ],
+            [
+              34.95267,
+              2.47209
+            ],
+            [
+              34.77244,
+              2.70272
+            ],
+            [
+              34.78137,
+              2.76223
+            ],
+            [
+              34.73967,
+              2.85447
+            ],
+            [
+              34.65774,
+              2.8753
+            ],
+            [
+              34.60114,
+              2.93034
+            ],
+            [
+              34.56242,
+              3.11478
+            ],
+            [
+              34.45815,
+              3.18319
+            ],
+            [
+              34.40006,
+              3.37949
+            ],
+            [
+              34.41794,
+              3.44342
+            ],
+            [
+              34.39112,
+              3.48802
+            ],
+            [
+              34.44922,
+              3.51627
+            ],
+            [
+              34.45815,
+              3.67385
+            ],
+            [
+              34.15429,
+              3.80464
+            ],
+            [
+              34.06046,
+              4.15235
+            ],
+            [
+              33.9873,
+              4.23316
+            ],
+            [
+              33.75,
+              3.991950494248517
+            ],
+            [
+              33.75,
+              0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[34.01367,0.52733]",
+        "area": 1963.5,
+        "resources": {
+          "ym-Busitema-University": {
+            "id": "ym-Busitema-University",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  34.01367,
+                  0.52733
+                ]
+              ]
+            },
+            "strings": {
+              "name": "Good Mappers",
+              "description": "YouthMappers chapter at Busitema University",
+              "extendedDescription": "Good mappers is a team of students in Busitema University. Its main objective is to create a community of experienced mappers who can contribute to the world map.",
+              "url": "https://m.facebook.com/HOTBusitemaUniv/"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "mulindwasteven82@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "Good Mappers",
+              "url": "https://m.facebook.com/HOTBusitemaUniv/",
+              "description": "YouthMappers chapter at Busitema University",
+              "extendedDescription": "Good mappers is a team of students in Busitema University. Its main objective is to create a community of experienced mappers who can contribute to the world map.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://m.facebook.com/HOTBusitemaUniv/\">Good Mappers</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://m.facebook.com/HOTBusitemaUniv/\">https://m.facebook.com/HOTBusitemaUniv/</a>",
+              "descriptionHTML": "YouthMappers chapter at Busitema University",
+              "extendedDescriptionHTML": "Good mappers is a team of students in Busitema University. Its main objective is to create a community of experienced mappers who can contribute to the world map."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.8,
+              0.458
+            ],
+            [
+              33.882,
+              0.346
+            ],
+            [
+              34.014,
+              0.303
+            ],
+            [
+              34.146,
+              0.346
+            ],
+            [
+              34.227,
+              0.458
+            ],
+            [
+              34.227,
+              0.597
+            ],
+            [
+              34.146,
+              0.709
+            ],
+            [
+              34.014,
+              0.752
+            ],
+            [
+              33.882,
+              0.709
+            ],
+            [
+              33.8,
+              0.597
+            ],
+            [
+              33.8,
+              0.458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[33.83789,1.49396]",
+        "area": 1963.5,
+        "resources": {
+          "ym-Kumi-University": {
+            "id": "ym-Kumi-University",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  33.83789,
+                  1.49396
+                ]
+              ]
+            },
+            "strings": {
+              "name": "Ever Last YouthMappers",
+              "description": "YouthMappers chapter at Kumi University",
+              "extendedDescription": "This energetic group of students organizes within the faculty of Science and Information Technology.",
+              "url": "mailto:kumiuniversityeverlastyouthmap@gmail.com?subject=YouthMappers%20at%20Kumi%20University"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "kumiuniversityeverlastyouthmap@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "Ever Last YouthMappers",
+              "url": "mailto:kumiuniversityeverlastyouthmap@gmail.com?subject=YouthMappers%20at%20Kumi%20University",
+              "description": "YouthMappers chapter at Kumi University",
+              "extendedDescription": "This energetic group of students organizes within the faculty of Science and Information Technology.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:kumiuniversityeverlastyouthmap@gmail.com?subject=YouthMappers%20at%20Kumi%20University\">Ever Last YouthMappers</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:kumiuniversityeverlastyouthmap@gmail.com?subject=YouthMappers%20at%20Kumi%20University\">mailto:kumiuniversityeverlastyouthmap@gmail.com?subject=YouthMappers%20at%20Kumi%20University</a>",
+              "descriptionHTML": "YouthMappers chapter at Kumi University",
+              "extendedDescriptionHTML": "This energetic group of students organizes within the faculty of Science and Information Technology."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.75,
+              1.2976666666666674
+            ],
+            [
+              33.838,
+              1.269
+            ],
+            [
+              33.97,
+              1.312
+            ],
+            [
+              34.052,
+              1.425
+            ],
+            [
+              34.052,
+              1.563
+            ],
+            [
+              33.97,
+              1.676
+            ],
+            [
+              33.838,
+              1.719
+            ],
+            [
+              33.75,
+              1.6903333333333326
+            ],
+            [
+              33.75,
+              1.2976666666666674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[34.17487,1.07587]",
+        "area": 1963.5,
+        "resources": {
+          "ym-Uganda-Christian-University-Mbale-Campus": {
+            "id": "ym-Uganda-Christian-University-Mbale-Campus",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  34.17487,
+                  1.07587
+                ]
+              ]
+            },
+            "strings": {
+              "name": "Mappers for Life",
+              "description": "YouthMappers chapter at Uganda Christian University Mbale Campus",
+              "extendedDescription": "We are Team Mappers for life! Please come and join us as we map together!\" This group works from the Department of Information Technology at the UCU.",
+              "url": "mailto:munhilll@gmail.com?subject=YouthMappers%20and%20the%20Uganda%20Christian%20University%20Mappers%20for%20Life"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "munhilll@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "Mappers for Life",
+              "url": "mailto:munhilll@gmail.com?subject=YouthMappers%20and%20the%20Uganda%20Christian%20University%20Mappers%20for%20Life",
+              "description": "YouthMappers chapter at Uganda Christian University Mbale Campus",
+              "extendedDescription": "We are Team Mappers for life! Please come and join us as we map together!\" This group works from the Department of Information Technology at the UCU.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:munhilll@gmail.com?subject=YouthMappers%20and%20the%20Uganda%20Christian%20University%20Mappers%20for%20Life\">Mappers for Life</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:munhilll@gmail.com?subject=YouthMappers%20and%20the%20Uganda%20Christian%20University%20Mappers%20for%20Life\">mailto:munhilll@gmail.com?subject=YouthMappers%20and%20the%20Uganda%20Christian%20University%20Mappers%20for%20Life</a>",
+              "descriptionHTML": "YouthMappers chapter at Uganda Christian University Mbale Campus",
+              "extendedDescriptionHTML": "We are Team Mappers for life! Please come and join us as we map together!\" This group works from the Department of Information Technology at the UCU."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.961,
+              1.006
+            ],
+            [
+              34.043,
+              0.894
+            ],
+            [
+              34.175,
+              0.851
+            ],
+            [
+              34.307,
+              0.894
+            ],
+            [
+              34.388,
+              1.006
+            ],
+            [
+              34.388,
+              1.145
+            ],
+            [
+              34.307,
+              1.258
+            ],
+            [
+              34.175,
+              1.3
+            ],
+            [
+              34.043,
+              1.258
+            ],
+            [
+              33.961,
+              1.145
+            ],
+            [
+              33.961,
+              1.006
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

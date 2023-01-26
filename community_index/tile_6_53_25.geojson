@@ -1,0 +1,700 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "CN",
+        "iso1A3": "CHN",
+        "iso1N3": "156",
+        "wikidata": "Q148",
+        "nameEn": "People's Republic of China",
+        "id": "Q148",
+        "m49": "156",
+        "ccTLD": ".cn",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "030",
+          "142",
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇨🇳",
+        "members": [
+          "Q19188",
+          "HK",
+          "MO"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "callingCodes": [
+          "86",
+          "852",
+          "853"
+        ],
+        "area": 10270857.82,
+        "resources": {
+          "cn-matrix": {
+            "id": "cn-matrix",
+            "type": "matrix",
+            "account": "#osmchina",
+            "locationSet": {
+              "include": [
+                "cn"
+              ]
+            },
+            "languageCodes": [
+              "zh"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap China",
+              "communityID": "openstreetmapchina"
+            },
+            "contacts": [
+              {
+                "name": "LaoshuBaby",
+                "email": "me@laoshubaby.moe"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap China Matrix Chat",
+              "url": "https://matrix.to/#/#osmchina:matrix.org",
+              "description": "Join our community Matrix chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmchina:matrix.org\">OpenStreetMap China Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmchina:matrix.org\">https://matrix.to/#/#osmchina:matrix.org</a>",
+              "descriptionHTML": "Join our community Matrix chat"
+            }
+          },
+          "cn-telegram": {
+            "id": "cn-telegram",
+            "type": "telegram",
+            "account": "osmchina",
+            "locationSet": {
+              "include": [
+                "cn"
+              ]
+            },
+            "languageCodes": [
+              "zh"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap China",
+              "communityID": "openstreetmapchina"
+            },
+            "resolved": {
+              "name": "OpenStreetMap China Telegram",
+              "url": "https://t.me/osmchina",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmchina\">OpenStreetMap China Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmchina\">https://t.me/osmchina</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "osm-cn": {
+            "id": "osm-cn",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                "cn"
+              ]
+            },
+            "languageCodes": [
+              "zh"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap China",
+              "communityID": "openstreetmapchina",
+              "description": "We help grow and improve OpenStreetMap in China.",
+              "url": "https://osmchina.org/"
+            },
+            "contacts": [
+              {
+                "name": "快乐的老鼠宝宝",
+                "email": "keaitianxinmail@qq.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap China",
+              "url": "https://osmchina.org/",
+              "description": "We help grow and improve OpenStreetMap in China.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmchina.org/\">OpenStreetMap China</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmchina.org/\">https://osmchina.org/</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in China."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.125,
+              31.95216223802496
+            ],
+            [
+              122.3558743922306,
+              31.95216223802496
+            ],
+            [
+              122.80525,
+              33.30571
+            ],
+            [
+              123.63179917683296,
+              36.5978891330702
+            ],
+            [
+              118.125,
+              36.5978891330702
+            ],
+            [
+              118.125,
+              31.95216223802496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q423,Q884]",
+        "area": 551284.67,
+        "resources": {
+          "ko-discourse": {
+            "id": "ko-discourse",
+            "type": "discourse",
+            "account": "ko",
+            "locationSet": {
+              "include": [
+                "kp",
+                "kr"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "ko"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Korea",
+              "communityID": "openstreetmapkorea"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Korea Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/ko",
+              "description": "The official forum for OpenStreetMap Korea",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/ko\">OpenStreetMap Korea Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/ko\">https://community.openstreetmap.org/c/communities/ko</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap Korea"
+            }
+          },
+          "ko-facebook": {
+            "id": "ko-facebook",
+            "type": "facebook",
+            "account": "osmkorea",
+            "locationSet": {
+              "include": [
+                "kr",
+                "kp"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "ko"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Korea",
+              "communityID": "openstreetmapkorea",
+              "description": "Mappers and OpenStreetMap users in Korea",
+              "url": "https://www.facebook.com/groups/osmkorea"
+            },
+            "contacts": [
+              {
+                "name": "Dongha Hwang",
+                "email": "depth221@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Korea on Facebook",
+              "url": "https://www.facebook.com/groups/osmkorea",
+              "description": "Mappers and OpenStreetMap users in Korea",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osmkorea\">OpenStreetMap Korea on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osmkorea\">https://www.facebook.com/groups/osmkorea</a>",
+              "descriptionHTML": "Mappers and OpenStreetMap users in Korea"
+            }
+          },
+          "ko-github": {
+            "id": "ko-github",
+            "type": "github",
+            "account": "osm-korea",
+            "locationSet": {
+              "include": [
+                "kp",
+                "kr"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "ko"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Korea",
+              "communityID": "openstreetmapkorea",
+              "description": "{community} GitHub"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Korea GitHub",
+              "url": "https://github.com/osm-korea",
+              "description": "OpenStreetMap Korea GitHub",
+              "nameHTML": "<a target=\"_blank\" href=\"https://github.com/osm-korea\">OpenStreetMap Korea GitHub</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://github.com/osm-korea\">https://github.com/osm-korea</a>",
+              "descriptionHTML": "OpenStreetMap Korea GitHub"
+            }
+          },
+          "ko-matrix": {
+            "id": "ko-matrix",
+            "type": "matrix",
+            "account": "#OpenStreetMapKorea",
+            "locationSet": {
+              "include": [
+                "kp",
+                "kr"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "ko"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Korea",
+              "communityID": "openstreetmapkorea"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Korea Matrix Chat",
+              "url": "https://matrix.to/#/#OpenStreetMapKorea:matrix.org",
+              "description": "Join our community Matrix chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#OpenStreetMapKorea:matrix.org\">OpenStreetMap Korea Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#OpenStreetMapKorea:matrix.org\">https://matrix.to/#/#OpenStreetMapKorea:matrix.org</a>",
+              "descriptionHTML": "Join our community Matrix chat"
+            }
+          },
+          "ko-osm": {
+            "id": "ko-osm",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                "kr",
+                "kp"
+              ]
+            },
+            "languageCodes": [
+              "ko"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Korea",
+              "communityID": "openstreetmapkorea",
+              "description": "We help grow and improve OpenStreetMap in Korea.",
+              "extendedDescription": "If you are contributing or are interested in contributing to OpenStreetMap, please feel free to join us. We are ready to accept newbies anytime!",
+              "url": "https://osm.kr"
+            },
+            "contacts": [
+              {
+                "name": "Dongha Hwang",
+                "email": "depth221@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Korea",
+              "url": "https://osm.kr",
+              "description": "We help grow and improve OpenStreetMap in Korea.",
+              "extendedDescription": "If you are contributing or are interested in contributing to OpenStreetMap, please feel free to join us. We are ready to accept newbies anytime!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm.kr\">OpenStreetMap Korea</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm.kr\">https://osm.kr</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in Korea.",
+              "extendedDescriptionHTML": "If you are contributing or are interested in contributing to OpenStreetMap, please feel free to join us. We are ready to accept newbies anytime!"
+            }
+          },
+          "ko-telegram": {
+            "id": "ko-telegram",
+            "type": "telegram",
+            "account": "osmKorea",
+            "locationSet": {
+              "include": [
+                "kp",
+                "kr"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "ko"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Korea",
+              "communityID": "openstreetmapkorea"
+            },
+            "contacts": [
+              {
+                "name": "Yongmin Hong",
+                "email": "revi@pobox.com"
+              },
+              {
+                "name": "Max N",
+                "email": "abonnements@revolwear.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Korea Telegram",
+              "url": "https://t.me/osmKorea",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmKorea\">OpenStreetMap Korea Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmKorea\">https://t.me/osmKorea</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "ko-twitter": {
+            "id": "ko-twitter",
+            "type": "twitter",
+            "account": "OSM_Korea",
+            "locationSet": {
+              "include": [
+                "kr",
+                "kp"
+              ]
+            },
+            "languageCodes": [
+              "ko"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Korea",
+              "communityID": "openstreetmapkorea"
+            },
+            "contacts": [
+              {
+                "name": "Dongha Hwang",
+                "email": "depth221@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Korea on Twitter",
+              "url": "https://twitter.com/OSM_Korea",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSM_Korea\">OpenStreetMap Korea on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSM_Korea\">https://twitter.com/OSM_Korea</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "talk-ko": {
+            "id": "talk-ko",
+            "type": "mailinglist",
+            "account": "talk-ko",
+            "locationSet": {
+              "include": [
+                "kp",
+                "kr"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "ko"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Korea",
+              "communityID": "openstreetmapkorea"
+            },
+            "resolved": {
+              "name": "talk-ko Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ko",
+              "description": "The official mailing list for OpenStreetMap Korea",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ko\">talk-ko Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ko\">https://lists.openstreetmap.org/listinfo/talk-ko</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Korea"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              122.80525,
+              33.30571
+            ],
+            [
+              123.75,
+              33.10668986469425
+            ],
+            [
+              123.75,
+              36.5978891330702
+            ],
+            [
+              123.63179917683296,
+              36.5978891330702
+            ],
+            [
+              122.80525,
+              33.30571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "m49": "142",
+        "wikidata": "Q48",
+        "nameEn": "Asia",
+        "level": "region",
+        "id": "Q48",
+        "groups": [
+          "001"
+        ],
+        "members": [
+          "Q9143535",
+          "Q9206745",
+          "Q3492",
+          "Q3757",
+          "Q3795",
+          "Q3803",
+          "Q3812",
+          "Q3827",
+          "Q3845",
+          "Q19188",
+          "Q26927",
+          "Q27329",
+          "Q36678",
+          "Q37362",
+          "Q39760",
+          "Q40888",
+          "Q1901211",
+          "Q1973345",
+          "Q6736667",
+          "HK",
+          "MO",
+          "Q23681",
+          "AE",
+          "AF",
+          "AM",
+          "AZ",
+          "BD",
+          "BH",
+          "BN",
+          "BT",
+          "CN",
+          "CY",
+          "GE",
+          "ID",
+          "IL",
+          "IN",
+          "IQ",
+          "IR",
+          "JO",
+          "JP",
+          "KG",
+          "KH",
+          "KP",
+          "KR",
+          "KW",
+          "KZ",
+          "LA",
+          "LB",
+          "LK",
+          "MM",
+          "MN",
+          "MV",
+          "MY",
+          "NP",
+          "OM",
+          "PH",
+          "PK",
+          "PS",
+          "QA",
+          "SA",
+          "SG",
+          "SY",
+          "TH",
+          "TJ",
+          "TL",
+          "TM",
+          "TR",
+          "TW",
+          "UZ",
+          "VN",
+          "YE",
+          "Q36117",
+          "Q644636",
+          "030",
+          "034",
+          "035",
+          "143",
+          "145"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "callingCodes": [
+          "62",
+          "86",
+          "90 392",
+          "91",
+          "7",
+          "970",
+          "60",
+          "357",
+          "971",
+          "93",
+          "374",
+          "994",
+          "880",
+          "973",
+          "673",
+          "975",
+          "995",
+          "852",
+          "972",
+          "964",
+          "98",
+          "962",
+          "81",
+          "996",
+          "855",
+          "850",
+          "82",
+          "965",
+          "856",
+          "961",
+          "94",
+          "95",
+          "976",
+          "853",
+          "960",
+          "977",
+          "968",
+          "63",
+          "92",
+          "974",
+          "966",
+          "65",
+          "963",
+          "66",
+          "992",
+          "670",
+          "993",
+          "90",
+          "886",
+          "998",
+          "84",
+          "967"
+        ],
+        "area": 70709531.04,
+        "resources": {
+          "osm-asia-telegram": {
+            "id": "osm-asia-telegram",
+            "type": "telegram",
+            "account": "OpenStreetMapAsia",
+            "locationSet": {
+              "include": [
+                "142"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Asia",
+              "communityID": "openstreetmapasia"
+            },
+            "contacts": [
+              {
+                "name": "Erwin Olario",
+                "email": "govvin@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Asia Telegram",
+              "url": "https://t.me/OpenStreetMapAsia",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OpenStreetMapAsia\">OpenStreetMap Asia Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OpenStreetMapAsia\">https://t.me/OpenStreetMapAsia</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-asia": {
+            "id": "talk-asia",
+            "type": "mailinglist",
+            "account": "talk-asia",
+            "locationSet": {
+              "include": [
+                "142"
+              ]
+            },
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Asia",
+              "communityID": "openstreetmapasia"
+            },
+            "contacts": [
+              {
+                "name": "Erwin Olario",
+                "email": "govvin@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "talk-asia Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-asia",
+              "description": "The official mailing list for OpenStreetMap Asia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-asia\">talk-asia Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-asia\">https://lists.openstreetmap.org/listinfo/talk-asia</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Asia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.125,
+              31.95216223802496
+            ],
+            [
+              122.3558743922306,
+              31.95216223802496
+            ],
+            [
+              122.80525,
+              33.30571
+            ],
+            [
+              123.75,
+              33.10668986469425
+            ],
+            [
+              123.75,
+              36.5978891330702
+            ],
+            [
+              118.125,
+              36.5978891330702
+            ],
+            [
+              118.125,
+              31.95216223802496
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

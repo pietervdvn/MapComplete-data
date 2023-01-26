@@ -1,0 +1,791 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "DE",
+        "iso1A3": "DEU",
+        "iso1N3": "276",
+        "wikidata": "Q183",
+        "nameEn": "Germany",
+        "groups": [
+          "155",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "49"
+        ],
+        "id": "Q183",
+        "m49": "276",
+        "ccTLD": ".de",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇩🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 393928.45,
+        "resources": {
+          "de-discourse": {
+            "id": "de-discourse",
+            "type": "discourse",
+            "account": "de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Germany Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/de",
+              "description": "The official forum for OpenStreetMap Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/de\">OpenStreetMap Germany Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/de\">https://community.openstreetmap.org/c/communities/de</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap Germany"
+            }
+          },
+          "de-irc": {
+            "id": "de-irc",
+            "type": "irc",
+            "account": "osm-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-de",
+              "description": "Join #osm-de on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-de\">OpenStreetMap Germany on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-de\">https://webchat.oftc.net/?channels=osm-de</a>",
+              "descriptionHTML": "Join #osm-de on irc.oftc.net (port 6667)"
+            }
+          },
+          "de-mailinglist": {
+            "id": "de-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "talk-de Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-de",
+              "description": "The official mailing list for OpenStreetMap Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-de\">talk-de Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-de\">https://lists.openstreetmap.org/listinfo/talk-de</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Germany"
+            }
+          },
+          "de-matrix": {
+            "id": "de-matrix",
+            "type": "matrix",
+            "account": "#osm-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "Christopher Rossbach",
+                "email": "public.cr@protonmail.ch"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany Matrix Chat",
+              "url": "https://matrix.to/#/#osm-de:matrix.org",
+              "description": "Join our community Matrix chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-de:matrix.org\">OpenStreetMap Germany Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-de:matrix.org\">https://matrix.to/#/#osm-de:matrix.org</a>",
+              "descriptionHTML": "Join our community Matrix chat"
+            }
+          },
+          "de-xmpp": {
+            "id": "de-xmpp",
+            "type": "xmpp",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap DE",
+              "communityID": "openstreetmapde",
+              "name": "OpenStreetMap DE XMPP",
+              "description": "Join our XMPP Multi-User Chat: {url}",
+              "url": "xmpp:openstreetmap-de@rooms.dismail.de?join"
+            },
+            "resolved": {
+              "name": "OpenStreetMap DE XMPP",
+              "url": "xmpp:openstreetmap-de@rooms.dismail.de?join",
+              "description": "Join our XMPP Multi-User Chat: xmpp:openstreetmap-de@rooms.dismail.de?join",
+              "nameHTML": "<a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">OpenStreetMap DE XMPP</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">xmpp:openstreetmap-de@rooms.dismail.de?join</a>",
+              "descriptionHTML": "Join our XMPP Multi-User Chat: <a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">xmpp:openstreetmap-de@rooms.dismail.de?join</a>"
+            }
+          },
+          "osm-de": {
+            "id": "osm-de",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany",
+              "description": "The platform for information on OpenStreetMap in Germany",
+              "url": "https://www.openstreetmap.de/"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany",
+              "url": "https://www.openstreetmap.de/",
+              "description": "The platform for information on OpenStreetMap in Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.de/\">OpenStreetMap Germany</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.de/\">https://www.openstreetmap.de/</a>",
+              "descriptionHTML": "The platform for information on OpenStreetMap in Germany"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.45168,
+              54.20039
+            ],
+            [
+              5.625,
+              54.110296444257045
+            ],
+            [
+              5.625,
+              54.26073010392901
+            ],
+            [
+              5.45168,
+              54.20039
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q183,Q39,Q40]",
+        "area": 518975.04,
+        "resources": {
+          "de-telegram": {
+            "id": "de-telegram",
+            "type": "telegram",
+            "account": "OSM_de",
+            "locationSet": {
+              "include": [
+                "de",
+                "at",
+                "ch"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "name": "OpenStreetMap D-A-CH Telegram",
+              "description": "Join the OpenStreetMap D-A-CH Telegram supergroup at {url}"
+            },
+            "contacts": [
+              {
+                "name": "Max N",
+                "email": "abonnements@revolwear.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap D-A-CH Telegram",
+              "url": "https://t.me/OSM_de",
+              "description": "Join the OpenStreetMap D-A-CH Telegram supergroup at https://t.me/OSM_de",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OSM_de\">OpenStreetMap D-A-CH Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OSM_de\">https://t.me/OSM_de</a>",
+              "descriptionHTML": "Join the OpenStreetMap D-A-CH Telegram supergroup at <a target=\"_blank\" href=\"https://t.me/OSM_de\">https://t.me/OSM_de</a>"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.45168,
+              54.20039
+            ],
+            [
+              5.625,
+              54.110296444257045
+            ],
+            [
+              5.625,
+              54.26073010392901
+            ],
+            [
+              5.45168,
+              54.20039
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q3336843",
+        "nameEn": "Countries of the United Kingdom",
+        "aliases": [
+          "GB-UKM"
+        ],
+        "country": "GB",
+        "level": "subcountryGroup",
+        "id": "Q3336843",
+        "groups": [
+          "GB",
+          "154",
+          "150",
+          "UN",
+          "001"
+        ],
+        "members": [
+          "Q21",
+          "Q22",
+          "Q25",
+          "Q26"
+        ],
+        "roadSpeedUnit": "mph",
+        "roadHeightUnit": "ft",
+        "driveSide": "left",
+        "callingCodes": [
+          "44"
+        ],
+        "area": 686149.2,
+        "resources": {
+          "gb-irc": {
+            "id": "gb-irc",
+            "type": "irc",
+            "account": "osm-gb",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "cy",
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "extendedDescription": "Join #{account} on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question"
+            },
+            "resolved": {
+              "name": "OpenStreetMap UK on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-gb",
+              "description": "Join #osm-gb on irc.oftc.net (port 6667)",
+              "extendedDescription": "Join #osm-gb on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-gb\">OpenStreetMap UK on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-gb\">https://webchat.oftc.net/?channels=osm-gb</a>",
+              "descriptionHTML": "Join #osm-gb on irc.oftc.net (port 6667)",
+              "extendedDescriptionHTML": "Join #osm-gb on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question"
+            }
+          },
+          "gb-mailinglist": {
+            "id": "gb-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-gb",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "description": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community"
+            },
+            "resolved": {
+              "name": "talk-gb Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-gb",
+              "description": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-gb\">talk-gb Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-gb\">https://lists.openstreetmap.org/listinfo/talk-gb</a>",
+              "descriptionHTML": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community"
+            }
+          },
+          "uk-twitter": {
+            "id": "uk-twitter",
+            "type": "twitter",
+            "account": "osmuk",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK on Twitter",
+              "url": "https://twitter.com/osmuk",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmuk\">OpenStreetMap UK on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmuk\">https://twitter.com/osmuk</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              52.48278022207821
+            ],
+            [
+              2.3701652476098105,
+              52.48278022207821
+            ],
+            [
+              1.3472276332849233,
+              55.77657301866769
+            ],
+            [
+              0,
+              55.77657301866769
+            ],
+            [
+              0,
+              52.48278022207821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "NL",
+        "iso1A3": "NLD",
+        "iso1N3": "528",
+        "wikidata": "Q29999",
+        "nameEn": "Kingdom of the Netherlands",
+        "id": "Q29999",
+        "m49": "528",
+        "ccTLD": ".nl",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇳🇱",
+        "members": [
+          "Q25396",
+          "Q25528",
+          "Q26180",
+          "Q55",
+          "AW",
+          "BQ",
+          "CW",
+          "SX"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "31",
+          "599 7",
+          "599 4",
+          "599 3",
+          "297",
+          "599",
+          "1 721"
+        ],
+        "area": 81054.06,
+        "resources": {
+          "nl-matrix": {
+            "id": "nl-matrix",
+            "type": "matrix",
+            "account": "#osm-netherlands",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands",
+              "description": "All mappers are welcome!"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Netherlands Matrix Chat",
+              "url": "https://matrix.to/#/#osm-netherlands:matrix.org",
+              "description": "All mappers are welcome!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-netherlands:matrix.org\">OpenStreetMap Netherlands Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-netherlands:matrix.org\">https://matrix.to/#/#osm-netherlands:matrix.org</a>",
+              "descriptionHTML": "All mappers are welcome!"
+            }
+          },
+          "nl-telegram": {
+            "id": "nl-telegram",
+            "type": "telegram",
+            "account": "osm_nl",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands"
+            },
+            "contacts": [
+              {
+                "name": "Peter Elderson",
+                "email": "pelderson@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Netherlands Telegram",
+              "url": "https://t.me/osm_nl",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osm_nl\">OpenStreetMap Netherlands Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osm_nl\">https://t.me/osm_nl</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-nl": {
+            "id": "talk-nl",
+            "type": "mailinglist",
+            "account": "talk-nl",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands"
+            },
+            "resolved": {
+              "name": "talk-nl Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-nl",
+              "description": "The official mailing list for OpenStreetMap Netherlands",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-nl\">talk-nl Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-nl\">https://lists.openstreetmap.org/listinfo/talk-nl</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Netherlands"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.3400058840077786,
+              52.48278022207821
+            ],
+            [
+              5.625,
+              52.48278022207821
+            ],
+            [
+              5.625,
+              54.110296444257045
+            ],
+            [
+              5.45168,
+              54.20039
+            ],
+            [
+              3.3400058840077786,
+              52.48278022207821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "east_midlands.geojson",
+        "area": 19134.46,
+        "resources": {
+          "Nottingham-OSM-pub-meetup": {
+            "id": "Nottingham-OSM-pub-meetup",
+            "type": "group",
+            "locationSet": {
+              "include": [
+                "east_midlands.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 5,
+            "strings": {
+              "name": "East Midlands (Nottingham) Monthly pub meet-up",
+              "description": "Social gathering for East Midlands mappers and users",
+              "extendedDescription": "A group have been meeting since March 2011, initially in Nottingham, and, more recently in Derby, and from time to time elsewhere in the East Midlands. These are social gatherings, but are an excellent place to come and ask specific questions about OSM either in the area or in general. In the summer months we usually do some light mapping for an hour in the vicinity of our meeting place. The group as a whole has a special interest in mapping public rights of way and from time to time has mapping meetings for this purpose.",
+              "url": "https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup"
+            },
+            "contacts": [
+              {
+                "name": "Jerry Clough",
+                "email": "SK53.osm@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "East Midlands (Nottingham) Monthly pub meet-up",
+              "url": "https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup",
+              "description": "Social gathering for East Midlands mappers and users",
+              "extendedDescription": "A group have been meeting since March 2011, initially in Nottingham, and, more recently in Derby, and from time to time elsewhere in the East Midlands. These are social gatherings, but are an excellent place to come and ask specific questions about OSM either in the area or in general. In the summer months we usually do some light mapping for an hour in the vicinity of our meeting place. The group as a whole has a special interest in mapping public rights of way and from time to time has mapping meetings for this purpose.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup\">East Midlands (Nottingham) Monthly pub meet-up</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup\">https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup</a>",
+              "descriptionHTML": "Social gathering for East Midlands mappers and users",
+              "extendedDescriptionHTML": "A group have been meeting since March 2011, initially in Nottingham, and, more recently in Derby, and from time to time elsewhere in the East Midlands. These are social gatherings, but are an excellent place to come and ask specific questions about OSM either in the area or in general. In the summer months we usually do some light mapping for an hour in the vicinity of our meeting place. The group as a whole has a special interest in mapping public rights of way and from time to time has mapping meetings for this purpose."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              52.85781515368975
+            ],
+            [
+              0.55,
+              53.1
+            ],
+            [
+              0.2,
+              53.5
+            ],
+            [
+              0,
+              53.62280701754386
+            ],
+            [
+              0,
+              52.85781515368975
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q185086,Q3336843]",
+        "area": 695269.91,
+        "resources": {
+          "uk-localchapter": {
+            "id": "uk-localchapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "Q3336843",
+                "Q185086"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "description": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescription": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: {signupUrl}",
+              "signupUrl": "https://osmuk.org/become-member/",
+              "url": "https://osmuk.org/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK",
+              "url": "https://osmuk.org/",
+              "signupUrl": "https://osmuk.org/become-member/",
+              "description": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescription": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: https://osmuk.org/become-member/",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmuk.org/\">OpenStreetMap UK</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmuk.org/\">https://osmuk.org/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://osmuk.org/become-member/\">https://osmuk.org/become-member/</a>",
+              "descriptionHTML": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescriptionHTML": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: <a target=\"_blank\" href=\"https://osmuk.org/become-member/\">https://osmuk.org/become-member/</a>"
+            }
+          },
+          "uk-loomio": {
+            "id": "uk-loomio",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "Q3336843",
+                "Q185086"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "name": "OpenStreetMap UK on Loomio",
+              "url": "https://www.loomio.org/openstreetmap-uk/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK on Loomio",
+              "url": "https://www.loomio.org/openstreetmap-uk/",
+              "description": "The official forum for OpenStreetMap UK",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.loomio.org/openstreetmap-uk/\">OpenStreetMap UK on Loomio</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.loomio.org/openstreetmap-uk/\">https://www.loomio.org/openstreetmap-uk/</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap UK"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              52.48278022207821
+            ],
+            [
+              2.3701652476098105,
+              52.48278022207821
+            ],
+            [
+              1.3472276332849233,
+              55.77657301866769
+            ],
+            [
+              0,
+              55.77657301866769
+            ],
+            [
+              0,
+              52.48278022207821
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

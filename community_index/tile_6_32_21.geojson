@@ -1,0 +1,3181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "BE",
+        "iso1A3": "BEL",
+        "iso1N3": "056",
+        "wikidata": "Q31",
+        "nameEn": "Belgium",
+        "groups": [
+          "155",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "32"
+        ],
+        "id": "Q31",
+        "m49": "056",
+        "ccTLD": ".be",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇧🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 34018.78,
+        "resources": {
+          "be-chapter": {
+            "id": "be-chapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium",
+              "description": "We help grow and improve OpenStreetMap in Belgium.",
+              "extendedDescription": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!",
+              "url": "https://openstreetmap.be/"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Belgium",
+              "url": "https://openstreetmap.be/",
+              "description": "We help grow and improve OpenStreetMap in Belgium.",
+              "extendedDescription": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://openstreetmap.be/\">OpenStreetMap Belgium</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://openstreetmap.be/\">https://openstreetmap.be/</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in Belgium.",
+              "extendedDescriptionHTML": "If you want to help to improve and grow the mapping community in Belgium, to make even more people crazy about mapping, OpenStreetMap Belgium is the right place for you!"
+            }
+          },
+          "be-discourse": {
+            "id": "be-discourse",
+            "type": "discourse",
+            "account": "be",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium",
+              "name": "Belgium Discourse",
+              "description": "A Forum to discuss OpenStreetMap in Belgium"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "Belgium Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/be",
+              "description": "A Forum to discuss OpenStreetMap in Belgium",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/be\">Belgium Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/be\">https://community.openstreetmap.org/c/communities/be</a>",
+              "descriptionHTML": "A Forum to discuss OpenStreetMap in Belgium"
+            }
+          },
+          "be-irc": {
+            "id": "be-irc",
+            "type": "irc",
+            "account": "osmbe",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium",
+              "extendedDescription": "Join #{account} on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Belgium on IRC",
+              "url": "https://webchat.oftc.net/?channels=osmbe",
+              "description": "Join #osmbe on irc.oftc.net (port 6667)",
+              "extendedDescription": "Join #osmbe on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osmbe\">OpenStreetMap Belgium on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osmbe\">https://webchat.oftc.net/?channels=osmbe</a>",
+              "descriptionHTML": "Join #osmbe on irc.oftc.net (port 6667)",
+              "extendedDescriptionHTML": "Join #osmbe on irc.oftc.net (port 6667), it is bridged with the Matrix chat channel"
+            }
+          },
+          "be-mailinglist": {
+            "id": "be-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-be",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "talk-be Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-be",
+              "description": "The official mailing list for OpenStreetMap Belgium",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-be\">talk-be Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-be\">https://lists.openstreetmap.org/listinfo/talk-be</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Belgium"
+            }
+          },
+          "be-mastodon": {
+            "id": "be-mastodon",
+            "type": "mastodon",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium",
+              "url": "https://en.osm.town/@osm_be"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Belgium Mastodon Account",
+              "url": "https://en.osm.town/@osm_be",
+              "description": "The official Mastodon account for OpenStreetMap Belgium",
+              "nameHTML": "<a target=\"_blank\" href=\"https://en.osm.town/@osm_be\">OpenStreetMap Belgium Mastodon Account</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://en.osm.town/@osm_be\">https://en.osm.town/@osm_be</a>",
+              "descriptionHTML": "The official Mastodon account for OpenStreetMap Belgium"
+            }
+          },
+          "be-matrix": {
+            "id": "be-matrix",
+            "type": "matrix",
+            "account": "#osmbe",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium",
+              "description": "All mappers are welcome!",
+              "extendedDescription": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Belgium Matrix Chat",
+              "url": "https://matrix.to/#/#osmbe:matrix.org",
+              "description": "All mappers are welcome!",
+              "extendedDescription": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmbe:matrix.org\">OpenStreetMap Belgium Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmbe:matrix.org\">https://matrix.to/#/#osmbe:matrix.org</a>",
+              "descriptionHTML": "All mappers are welcome!",
+              "extendedDescriptionHTML": "Main chatroom of the Belgian OSM community. Don't hesitate to ask beginner questions here!"
+            }
+          },
+          "be-meetup": {
+            "id": "be-meetup",
+            "type": "meetup",
+            "account": "OpenStreetMap-Belgium",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium",
+              "description": "Real life meetups of everyone who is interested in OpenStreetMap",
+              "extendedDescription": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Belgium Meetup",
+              "url": "https://www.meetup.com/OpenStreetMap-Belgium",
+              "description": "Real life meetups of everyone who is interested in OpenStreetMap",
+              "extendedDescription": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Belgium\">OpenStreetMap Belgium Meetup</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Belgium\">https://www.meetup.com/OpenStreetMap-Belgium</a>",
+              "descriptionHTML": "Real life meetups of everyone who is interested in OpenStreetMap",
+              "extendedDescriptionHTML": "Physical meetups are great to meet other mappers, ask them questions and to learn a lot. Especially new contributors are very welcome!"
+            }
+          },
+          "be-newsletter": {
+            "id": "be-newsletter",
+            "type": "newsletter",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium",
+              "description": "Quarterly newsletter of the Belgian community",
+              "url": "https://members.osm.be/subscribe/newsletter"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Belgium Newsletter",
+              "url": "https://members.osm.be/subscribe/newsletter",
+              "description": "Quarterly newsletter of the Belgian community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://members.osm.be/subscribe/newsletter\">OpenStreetMap Belgium Newsletter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://members.osm.be/subscribe/newsletter\">https://members.osm.be/subscribe/newsletter</a>",
+              "descriptionHTML": "Quarterly newsletter of the Belgian community"
+            }
+          },
+          "be-twitter": {
+            "id": "be-twitter",
+            "type": "twitter",
+            "account": "osm_be",
+            "locationSet": {
+              "include": [
+                "be"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "fr",
+              "nl"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Belgium",
+              "communityID": "openstreetmapbelgium"
+            },
+            "contacts": [
+              {
+                "name": "BE community",
+                "email": "community@osm.be"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Belgium on Twitter",
+              "url": "https://twitter.com/osm_be",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_be\">OpenStreetMap Belgium on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_be\">https://twitter.com/osm_be</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                2.18458,
+                51.52087
+              ],
+              [
+                2.55904,
+                51.07014
+              ],
+              [
+                2.57551,
+                51.00326
+              ],
+              [
+                2.63074,
+                50.94746
+              ],
+              [
+                2.59093,
+                50.91751
+              ],
+              [
+                2.63331,
+                50.81457
+              ],
+              [
+                2.71165,
+                50.81295
+              ],
+              [
+                2.81056,
+                50.71773
+              ],
+              [
+                2.8483,
+                50.72276
+              ],
+              [
+                2.86985,
+                50.7033
+              ],
+              [
+                2.87937,
+                50.70298
+              ],
+              [
+                2.88504,
+                50.70656
+              ],
+              [
+                2.90069,
+                50.69263
+              ],
+              [
+                2.91036,
+                50.6939
+              ],
+              [
+                2.90873,
+                50.702
+              ],
+              [
+                2.95019,
+                50.75138
+              ],
+              [
+                2.96778,
+                50.75242
+              ],
+              [
+                3.00537,
+                50.76588
+              ],
+              [
+                3.04314,
+                50.77674
+              ],
+              [
+                3.09163,
+                50.77717
+              ],
+              [
+                3.10614,
+                50.78303
+              ],
+              [
+                3.11206,
+                50.79416
+              ],
+              [
+                3.11987,
+                50.79188
+              ],
+              [
+                3.1257,
+                50.78603
+              ],
+              [
+                3.15017,
+                50.79031
+              ],
+              [
+                3.16476,
+                50.76843
+              ],
+              [
+                3.18339,
+                50.74981
+              ],
+              [
+                3.18811,
+                50.74025
+              ],
+              [
+                3.20064,
+                50.73547
+              ],
+              [
+                3.19017,
+                50.72569
+              ],
+              [
+                3.20845,
+                50.71662
+              ],
+              [
+                3.22042,
+                50.71019
+              ],
+              [
+                3.24593,
+                50.71389
+              ],
+              [
+                3.26063,
+                50.70086
+              ],
+              [
+                3.26141,
+                50.69151
+              ],
+              [
+                3.2536,
+                50.68977
+              ],
+              [
+                3.264,
+                50.67668
+              ],
+              [
+                3.23951,
+                50.6585
+              ],
+              [
+                3.2729,
+                50.60718
+              ],
+              [
+                3.28575,
+                50.52724
+              ],
+              [
+                3.37693,
+                50.49538
+              ],
+              [
+                3.44629,
+                50.51009
+              ],
+              [
+                3.47385,
+                50.53397
+              ],
+              [
+                3.51564,
+                50.5256
+              ],
+              [
+                3.49509,
+                50.48885
+              ],
+              [
+                3.5683,
+                50.50192
+              ],
+              [
+                3.58361,
+                50.49049
+              ],
+              [
+                3.61014,
+                50.49568
+              ],
+              [
+                3.64426,
+                50.46275
+              ],
+              [
+                3.66153,
+                50.45165
+              ],
+              [
+                3.67494,
+                50.40239
+              ],
+              [
+                3.67262,
+                50.38663
+              ],
+              [
+                3.65709,
+                50.36873
+              ],
+              [
+                3.66976,
+                50.34563
+              ],
+              [
+                3.71009,
+                50.30305
+              ],
+              [
+                3.70987,
+                50.3191
+              ],
+              [
+                3.73911,
+                50.34809
+              ],
+              [
+                3.84314,
+                50.35219
+              ],
+              [
+                3.90781,
+                50.32814
+              ],
+              [
+                3.96771,
+                50.34989
+              ],
+              [
+                4.0268,
+                50.35793
+              ],
+              [
+                4.0689,
+                50.3254
+              ],
+              [
+                4.10237,
+                50.31247
+              ],
+              [
+                4.10957,
+                50.30234
+              ],
+              [
+                4.11954,
+                50.30425
+              ],
+              [
+                4.13665,
+                50.25609
+              ],
+              [
+                4.16808,
+                50.25786
+              ],
+              [
+                4.15524,
+                50.2833
+              ],
+              [
+                4.17347,
+                50.28838
+              ],
+              [
+                4.17861,
+                50.27443
+              ],
+              [
+                4.20651,
+                50.27333
+              ],
+              [
+                4.21945,
+                50.25539
+              ],
+              [
+                4.15524,
+                50.21103
+              ],
+              [
+                4.16014,
+                50.19239
+              ],
+              [
+                4.13561,
+                50.13078
+              ],
+              [
+                4.20147,
+                50.13535
+              ],
+              [
+                4.23101,
+                50.06945
+              ],
+              [
+                4.16294,
+                50.04719
+              ],
+              [
+                4.13508,
+                50.01976
+              ],
+              [
+                4.14239,
+                49.98034
+              ],
+              [
+                4.20532,
+                49.95803
+              ],
+              [
+                4.31963,
+                49.97043
+              ],
+              [
+                4.35051,
+                49.95315
+              ],
+              [
+                4.43488,
+                49.94122
+              ],
+              [
+                4.51098,
+                49.94659
+              ],
+              [
+                4.5414,
+                49.96911
+              ],
+              [
+                4.68695,
+                49.99685
+              ],
+              [
+                4.70064,
+                50.09384
+              ],
+              [
+                4.75237,
+                50.11314
+              ],
+              [
+                4.82438,
+                50.16878
+              ],
+              [
+                4.83279,
+                50.15331
+              ],
+              [
+                4.88602,
+                50.15182
+              ],
+              [
+                4.8382,
+                50.06738
+              ],
+              [
+                4.78827,
+                49.95609
+              ],
+              [
+                4.88529,
+                49.9236
+              ],
+              [
+                4.85134,
+                49.86457
+              ],
+              [
+                4.86965,
+                49.82271
+              ],
+              [
+                4.85464,
+                49.78995
+              ],
+              [
+                4.96714,
+                49.79872
+              ],
+              [
+                5.09249,
+                49.76193
+              ],
+              [
+                5.14545,
+                49.70287
+              ],
+              [
+                5.26232,
+                49.69456
+              ],
+              [
+                5.31465,
+                49.66846
+              ],
+              [
+                5.33039,
+                49.6555
+              ],
+              [
+                5.30214,
+                49.63055
+              ],
+              [
+                5.3137,
+                49.61225
+              ],
+              [
+                5.33851,
+                49.61599
+              ],
+              [
+                5.34837,
+                49.62889
+              ],
+              [
+                5.3974,
+                49.61596
+              ],
+              [
+                5.43713,
+                49.5707
+              ],
+              [
+                5.46734,
+                49.52648
+              ],
+              [
+                5.46541,
+                49.49825
+              ],
+              [
+                5.55001,
+                49.52729
+              ],
+              [
+                5.60909,
+                49.51228
+              ],
+              [
+                5.625,
+                49.52961464404894
+              ],
+              [
+                5.625,
+                51.20502135490949
+              ],
+              [
+                5.5603,
+                51.22249
+              ],
+              [
+                5.5569,
+                51.26544
+              ],
+              [
+                5.515,
+                51.29462
+              ],
+              [
+                5.48476,
+                51.30053
+              ],
+              [
+                5.46519,
+                51.2849
+              ],
+              [
+                5.4407,
+                51.28169
+              ],
+              [
+                5.41672,
+                51.26248
+              ],
+              [
+                5.347,
+                51.27502
+              ],
+              [
+                5.33886,
+                51.26314
+              ],
+              [
+                5.29716,
+                51.26104
+              ],
+              [
+                5.26461,
+                51.26693
+              ],
+              [
+                5.23814,
+                51.26064
+              ],
+              [
+                5.22542,
+                51.26888
+              ],
+              [
+                5.24244,
+                51.30495
+              ],
+              [
+                5.2002,
+                51.32243
+              ],
+              [
+                5.16222,
+                51.31035
+              ],
+              [
+                5.13377,
+                51.31592
+              ],
+              [
+                5.13105,
+                51.34791
+              ],
+              [
+                5.07102,
+                51.39469
+              ],
+              [
+                5.10456,
+                51.43163
+              ],
+              [
+                5.07891,
+                51.4715
+              ],
+              [
+                5.04774,
+                51.47022
+              ],
+              [
+                5.03281,
+                51.48679
+              ],
+              [
+                5.0106,
+                51.47167
+              ],
+              [
+                5.00393,
+                51.44406
+              ],
+              [
+                4.92152,
+                51.39487
+              ],
+              [
+                4.90016,
+                51.41404
+              ],
+              [
+                4.84988,
+                51.41502
+              ],
+              [
+                4.78941,
+                51.41102
+              ],
+              [
+                4.77229,
+                51.41337
+              ],
+              [
+                4.76577,
+                51.43046
+              ],
+              [
+                4.78314,
+                51.43319
+              ],
+              [
+                4.82946,
+                51.4213
+              ],
+              [
+                4.82409,
+                51.44736
+              ],
+              [
+                4.84139,
+                51.4799
+              ],
+              [
+                4.78803,
+                51.50284
+              ],
+              [
+                4.77321,
+                51.50529
+              ],
+              [
+                4.74578,
+                51.48937
+              ],
+              [
+                4.72935,
+                51.48424
+              ],
+              [
+                4.65442,
+                51.42352
+              ],
+              [
+                4.57489,
+                51.4324
+              ],
+              [
+                4.53521,
+                51.4243
+              ],
+              [
+                4.52846,
+                51.45002
+              ],
+              [
+                4.54675,
+                51.47265
+              ],
+              [
+                4.5388,
+                51.48184
+              ],
+              [
+                4.47736,
+                51.4778
+              ],
+              [
+                4.38122,
+                51.44905
+              ],
+              [
+                4.39747,
+                51.43316
+              ],
+              [
+                4.38064,
+                51.41965
+              ],
+              [
+                4.43777,
+                51.36989
+              ],
+              [
+                4.39292,
+                51.35547
+              ],
+              [
+                4.34086,
+                51.35738
+              ],
+              [
+                4.33265,
+                51.37687
+              ],
+              [
+                4.21923,
+                51.37443
+              ],
+              [
+                4.24024,
+                51.35371
+              ],
+              [
+                4.16721,
+                51.29348
+              ],
+              [
+                4.05165,
+                51.24171
+              ],
+              [
+                4.01957,
+                51.24504
+              ],
+              [
+                3.97889,
+                51.22537
+              ],
+              [
+                3.90125,
+                51.20371
+              ],
+              [
+                3.78783,
+                51.2151
+              ],
+              [
+                3.78999,
+                51.25766
+              ],
+              [
+                3.58939,
+                51.30064
+              ],
+              [
+                3.51502,
+                51.28697
+              ],
+              [
+                3.52698,
+                51.2458
+              ],
+              [
+                3.43488,
+                51.24135
+              ],
+              [
+                3.41704,
+                51.25933
+              ],
+              [
+                3.38289,
+                51.27331
+              ],
+              [
+                3.35847,
+                51.31572
+              ],
+              [
+                3.38696,
+                51.33436
+              ],
+              [
+                3.36263,
+                51.37112
+              ],
+              [
+                2.56575,
+                51.85301
+              ],
+              [
+                2.18458,
+                51.52087
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                4.91493,
+                51.4353
+              ],
+              [
+                4.92652,
+                51.43329
+              ],
+              [
+                4.92952,
+                51.42984
+              ],
+              [
+                4.93986,
+                51.43064
+              ],
+              [
+                4.94265,
+                51.44003
+              ],
+              [
+                4.93471,
+                51.43861
+              ],
+              [
+                4.93416,
+                51.44185
+              ],
+              [
+                4.94025,
+                51.44193
+              ],
+              [
+                4.93544,
+                51.44634
+              ],
+              [
+                4.92879,
+                51.44161
+              ],
+              [
+                4.92815,
+                51.43856
+              ],
+              [
+                4.92566,
+                51.44273
+              ],
+              [
+                4.92811,
+                51.4437
+              ],
+              [
+                4.92287,
+                51.44741
+              ],
+              [
+                4.91811,
+                51.44621
+              ],
+              [
+                4.92227,
+                51.44252
+              ],
+              [
+                4.91935,
+                51.43634
+              ],
+              [
+                4.91493,
+                51.4353
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                4.93295,
+                51.44945
+              ],
+              [
+                4.93909,
+                51.44632
+              ],
+              [
+                4.9524,
+                51.45014
+              ],
+              [
+                4.95244,
+                51.45207
+              ],
+              [
+                4.93295,
+                51.44945
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "FR",
+        "iso1A3": "FRA",
+        "iso1N3": "250",
+        "wikidata": "Q142",
+        "nameEn": "France",
+        "id": "Q142",
+        "m49": "250",
+        "ccTLD": ".fr",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "EU",
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇫🇷",
+        "members": [
+          "Q46772",
+          "Q190571",
+          "Q201698",
+          "Q1681727",
+          "CP",
+          "FX",
+          "BL",
+          "GF",
+          "GP",
+          "MF",
+          "MQ",
+          "NC",
+          "PF",
+          "PM",
+          "RE",
+          "TF",
+          "WF",
+          "YT"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "590",
+          "33",
+          "594",
+          "596",
+          "687",
+          "689",
+          "508",
+          "262",
+          "681"
+        ],
+        "area": 8153344.09,
+        "resources": {
+          "fr-chapter": {
+            "id": "fr-chapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "We help grow and improve OpenStreetMap in France.",
+              "url": "https://www.openstreetmap.fr/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France",
+              "url": "https://www.openstreetmap.fr/",
+              "description": "We help grow and improve OpenStreetMap in France.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.fr/\">OpenStreetMap France</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.fr/\">https://www.openstreetmap.fr/</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in France."
+            }
+          },
+          "fr-discord": {
+            "id": "fr-discord",
+            "type": "discord",
+            "account": "wxNGfdT",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "name": "Discord Communauté OpenStreetMap de France"
+            },
+            "resolved": {
+              "name": "Discord Communauté OpenStreetMap de France",
+              "url": "https://discord.gg/wxNGfdT",
+              "description": "Get in touch with other mappers on Discord",
+              "nameHTML": "<a target=\"_blank\" href=\"https://discord.gg/wxNGfdT\">Discord Communauté OpenStreetMap de France</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://discord.gg/wxNGfdT\">https://discord.gg/wxNGfdT</a>",
+              "descriptionHTML": "Get in touch with other mappers on Discord"
+            }
+          },
+          "fr-facebook": {
+            "id": "fr-facebook",
+            "type": "facebook",
+            "account": "osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on Facebook",
+              "url": "https://www.facebook.com/osmfr",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/osmfr\">OpenStreetMap France on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/osmfr\">https://www.facebook.com/osmfr</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "fr-forum": {
+            "id": "fr-forum",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -2,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "url": "https://forum.openstreetmap.fr/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Forum",
+              "url": "https://forum.openstreetmap.fr/",
+              "description": "The official forum for OpenStreetMap France",
+              "nameHTML": "<a target=\"_blank\" href=\"https://forum.openstreetmap.fr/\">OpenStreetMap France Forum</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://forum.openstreetmap.fr/\">https://forum.openstreetmap.fr/</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap France"
+            }
+          },
+          "fr-irc": {
+            "id": "fr-irc",
+            "type": "irc",
+            "account": "osm-fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-fr",
+              "description": "Join #osm-fr on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fr\">OpenStreetMap France on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fr\">https://webchat.oftc.net/?channels=osm-fr</a>",
+              "descriptionHTML": "Join #osm-fr on irc.oftc.net (port 6667)"
+            }
+          },
+          "fr-mailinglist": {
+            "id": "fr-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "talk-fr Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-fr",
+              "description": "The official mailing list for OpenStreetMap France",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fr\">talk-fr Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fr\">https://lists.openstreetmap.org/listinfo/talk-fr</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap France"
+            }
+          },
+          "fr-matrix": {
+            "id": "fr-matrix",
+            "type": "matrix",
+            "account": "#osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "A Matrix group for the OSM France community: {url} (bridged with Telegram)"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Matrix Chat",
+              "url": "https://matrix.to/#/#osmfr:matrix.org",
+              "description": "A Matrix group for the OSM France community: https://matrix.to/#/#osmfr:matrix.org (bridged with Telegram)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">OpenStreetMap France Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">https://matrix.to/#/#osmfr:matrix.org</a>",
+              "descriptionHTML": "A Matrix group for the OSM France community: <a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">https://matrix.to/#/#osmfr:matrix.org</a> (bridged with Telegram)"
+            }
+          },
+          "fr-telegram": {
+            "id": "fr-telegram",
+            "type": "telegram",
+            "account": "osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "A Telegram group for the OSM France community: {url}"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Telegram",
+              "url": "https://t.me/osmfr",
+              "description": "A Telegram group for the OSM France community: https://t.me/osmfr",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmfr\">OpenStreetMap France Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmfr\">https://t.me/osmfr</a>",
+              "descriptionHTML": "A Telegram group for the OSM France community: <a target=\"_blank\" href=\"https://t.me/osmfr\">https://t.me/osmfr</a>"
+            }
+          },
+          "fr-twitter": {
+            "id": "fr-twitter",
+            "type": "twitter",
+            "account": "osm_fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on Twitter",
+              "url": "https://twitter.com/osm_fr",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_fr\">OpenStreetMap France on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_fr\">https://twitter.com/osm_fr</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "fr-xmpp": {
+            "id": "fr-xmpp",
+            "type": "xmpp",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "Join osm-fr@chat.jabberfr.org",
+              "url": "xmpp:osm-fr@chat.jabberfr.org?join"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France XMPP",
+              "url": "xmpp:osm-fr@chat.jabberfr.org?join",
+              "description": "Join osm-fr@chat.jabberfr.org",
+              "nameHTML": "<a target=\"_blank\" href=\"xmpp:osm-fr@chat.jabberfr.org?join\">OpenStreetMap France XMPP</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"xmpp:osm-fr@chat.jabberfr.org?join\">xmpp:osm-fr@chat.jabberfr.org?join</a>",
+              "descriptionHTML": "Join osm-fr@chat.jabberfr.org"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              48.922499263758255
+            ],
+            [
+              5.625,
+              48.922499263758255
+            ],
+            [
+              5.625,
+              49.52961464404894
+            ],
+            [
+              5.60909,
+              49.51228
+            ],
+            [
+              5.55001,
+              49.52729
+            ],
+            [
+              5.46541,
+              49.49825
+            ],
+            [
+              5.46734,
+              49.52648
+            ],
+            [
+              5.43713,
+              49.5707
+            ],
+            [
+              5.3974,
+              49.61596
+            ],
+            [
+              5.34837,
+              49.62889
+            ],
+            [
+              5.33851,
+              49.61599
+            ],
+            [
+              5.3137,
+              49.61225
+            ],
+            [
+              5.30214,
+              49.63055
+            ],
+            [
+              5.33039,
+              49.6555
+            ],
+            [
+              5.31465,
+              49.66846
+            ],
+            [
+              5.26232,
+              49.69456
+            ],
+            [
+              5.14545,
+              49.70287
+            ],
+            [
+              5.09249,
+              49.76193
+            ],
+            [
+              4.96714,
+              49.79872
+            ],
+            [
+              4.85464,
+              49.78995
+            ],
+            [
+              4.86965,
+              49.82271
+            ],
+            [
+              4.85134,
+              49.86457
+            ],
+            [
+              4.88529,
+              49.9236
+            ],
+            [
+              4.78827,
+              49.95609
+            ],
+            [
+              4.8382,
+              50.06738
+            ],
+            [
+              4.88602,
+              50.15182
+            ],
+            [
+              4.83279,
+              50.15331
+            ],
+            [
+              4.82438,
+              50.16878
+            ],
+            [
+              4.75237,
+              50.11314
+            ],
+            [
+              4.70064,
+              50.09384
+            ],
+            [
+              4.68695,
+              49.99685
+            ],
+            [
+              4.5414,
+              49.96911
+            ],
+            [
+              4.51098,
+              49.94659
+            ],
+            [
+              4.43488,
+              49.94122
+            ],
+            [
+              4.35051,
+              49.95315
+            ],
+            [
+              4.31963,
+              49.97043
+            ],
+            [
+              4.20532,
+              49.95803
+            ],
+            [
+              4.14239,
+              49.98034
+            ],
+            [
+              4.13508,
+              50.01976
+            ],
+            [
+              4.16294,
+              50.04719
+            ],
+            [
+              4.23101,
+              50.06945
+            ],
+            [
+              4.20147,
+              50.13535
+            ],
+            [
+              4.13561,
+              50.13078
+            ],
+            [
+              4.16014,
+              50.19239
+            ],
+            [
+              4.15524,
+              50.21103
+            ],
+            [
+              4.21945,
+              50.25539
+            ],
+            [
+              4.20651,
+              50.27333
+            ],
+            [
+              4.17861,
+              50.27443
+            ],
+            [
+              4.17347,
+              50.28838
+            ],
+            [
+              4.15524,
+              50.2833
+            ],
+            [
+              4.16808,
+              50.25786
+            ],
+            [
+              4.13665,
+              50.25609
+            ],
+            [
+              4.11954,
+              50.30425
+            ],
+            [
+              4.10957,
+              50.30234
+            ],
+            [
+              4.10237,
+              50.31247
+            ],
+            [
+              4.0689,
+              50.3254
+            ],
+            [
+              4.0268,
+              50.35793
+            ],
+            [
+              3.96771,
+              50.34989
+            ],
+            [
+              3.90781,
+              50.32814
+            ],
+            [
+              3.84314,
+              50.35219
+            ],
+            [
+              3.73911,
+              50.34809
+            ],
+            [
+              3.70987,
+              50.3191
+            ],
+            [
+              3.71009,
+              50.30305
+            ],
+            [
+              3.66976,
+              50.34563
+            ],
+            [
+              3.65709,
+              50.36873
+            ],
+            [
+              3.67262,
+              50.38663
+            ],
+            [
+              3.67494,
+              50.40239
+            ],
+            [
+              3.66153,
+              50.45165
+            ],
+            [
+              3.64426,
+              50.46275
+            ],
+            [
+              3.61014,
+              50.49568
+            ],
+            [
+              3.58361,
+              50.49049
+            ],
+            [
+              3.5683,
+              50.50192
+            ],
+            [
+              3.49509,
+              50.48885
+            ],
+            [
+              3.51564,
+              50.5256
+            ],
+            [
+              3.47385,
+              50.53397
+            ],
+            [
+              3.44629,
+              50.51009
+            ],
+            [
+              3.37693,
+              50.49538
+            ],
+            [
+              3.28575,
+              50.52724
+            ],
+            [
+              3.2729,
+              50.60718
+            ],
+            [
+              3.23951,
+              50.6585
+            ],
+            [
+              3.264,
+              50.67668
+            ],
+            [
+              3.2536,
+              50.68977
+            ],
+            [
+              3.26141,
+              50.69151
+            ],
+            [
+              3.26063,
+              50.70086
+            ],
+            [
+              3.24593,
+              50.71389
+            ],
+            [
+              3.22042,
+              50.71019
+            ],
+            [
+              3.20845,
+              50.71662
+            ],
+            [
+              3.19017,
+              50.72569
+            ],
+            [
+              3.20064,
+              50.73547
+            ],
+            [
+              3.18811,
+              50.74025
+            ],
+            [
+              3.18339,
+              50.74981
+            ],
+            [
+              3.16476,
+              50.76843
+            ],
+            [
+              3.15017,
+              50.79031
+            ],
+            [
+              3.1257,
+              50.78603
+            ],
+            [
+              3.11987,
+              50.79188
+            ],
+            [
+              3.11206,
+              50.79416
+            ],
+            [
+              3.10614,
+              50.78303
+            ],
+            [
+              3.09163,
+              50.77717
+            ],
+            [
+              3.04314,
+              50.77674
+            ],
+            [
+              3.00537,
+              50.76588
+            ],
+            [
+              2.96778,
+              50.75242
+            ],
+            [
+              2.95019,
+              50.75138
+            ],
+            [
+              2.90873,
+              50.702
+            ],
+            [
+              2.91036,
+              50.6939
+            ],
+            [
+              2.90069,
+              50.69263
+            ],
+            [
+              2.88504,
+              50.70656
+            ],
+            [
+              2.87937,
+              50.70298
+            ],
+            [
+              2.86985,
+              50.7033
+            ],
+            [
+              2.8483,
+              50.72276
+            ],
+            [
+              2.81056,
+              50.71773
+            ],
+            [
+              2.71165,
+              50.81295
+            ],
+            [
+              2.63331,
+              50.81457
+            ],
+            [
+              2.59093,
+              50.91751
+            ],
+            [
+              2.63074,
+              50.94746
+            ],
+            [
+              2.57551,
+              51.00326
+            ],
+            [
+              2.55904,
+              51.07014
+            ],
+            [
+              2.18458,
+              51.52087
+            ],
+            [
+              1.17405,
+              50.74239
+            ],
+            [
+              0,
+              50.44051833788019
+            ],
+            [
+              0,
+              48.922499263758255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[2.31943,48.81885]",
+        "area": 1963.5,
+        "resources": {
+          "fr-montrouge-twitter": {
+            "id": "fr-montrouge-twitter",
+            "type": "twitter",
+            "account": "osmontrouge",
+            "locationSet": {
+              "include": [
+                [
+                  2.31943,
+                  48.81885
+                ]
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Montrouge",
+              "communityID": "openstreetmapmontrouge"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Montrouge on Twitter",
+              "url": "https://twitter.com/osmontrouge",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmontrouge\">OpenStreetMap Montrouge on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmontrouge\">https://twitter.com/osmontrouge</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "fr-montrouge-website": {
+            "id": "fr-montrouge-website",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                [
+                  2.31943,
+                  48.81885
+                ]
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Montrouge",
+              "communityID": "openstreetmapmontrouge",
+              "description": "OSM information for the local community in Montrouge",
+              "url": "https://osmontrouge.fr/about"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Montrouge",
+              "url": "https://osmontrouge.fr/about",
+              "description": "OSM information for the local community in Montrouge",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmontrouge.fr/about\">OpenStreetMap Montrouge</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmontrouge.fr/about\">https://osmontrouge.fr/about</a>",
+              "descriptionHTML": "OSM information for the local community in Montrouge"
+            }
+          },
+          "fr-montrouge-wiki": {
+            "id": "fr-montrouge-wiki",
+            "type": "wiki",
+            "account": "Montrouge",
+            "locationSet": {
+              "include": [
+                [
+                  2.31943,
+                  48.81885
+                ]
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Montrouge",
+              "communityID": "openstreetmapmontrouge",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Montrouge WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/Montrouge",
+              "description": "OpenStreetMap Montrouge Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Montrouge\">OpenStreetMap Montrouge WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Montrouge\">https://wiki.openstreetmap.org/wiki/Montrouge</a>",
+              "descriptionHTML": "OpenStreetMap Montrouge Wiki page"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0328875843059415,
+              48.922499263758255
+            ],
+            [
+              2.6061124156940583,
+              48.922499263758255
+            ],
+            [
+              2.521,
+              49
+            ],
+            [
+              2.319,
+              49.043
+            ],
+            [
+              2.118,
+              49
+            ],
+            [
+              2.0328875843059415,
+              48.922499263758255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q3336843",
+        "nameEn": "Countries of the United Kingdom",
+        "aliases": [
+          "GB-UKM"
+        ],
+        "country": "GB",
+        "level": "subcountryGroup",
+        "id": "Q3336843",
+        "groups": [
+          "GB",
+          "154",
+          "150",
+          "UN",
+          "001"
+        ],
+        "members": [
+          "Q21",
+          "Q22",
+          "Q25",
+          "Q26"
+        ],
+        "roadSpeedUnit": "mph",
+        "roadHeightUnit": "ft",
+        "driveSide": "left",
+        "callingCodes": [
+          "44"
+        ],
+        "area": 686149.2,
+        "resources": {
+          "gb-irc": {
+            "id": "gb-irc",
+            "type": "irc",
+            "account": "osm-gb",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "cy",
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "extendedDescription": "Join #{account} on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question"
+            },
+            "resolved": {
+              "name": "OpenStreetMap UK on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-gb",
+              "description": "Join #osm-gb on irc.oftc.net (port 6667)",
+              "extendedDescription": "Join #osm-gb on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-gb\">OpenStreetMap UK on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-gb\">https://webchat.oftc.net/?channels=osm-gb</a>",
+              "descriptionHTML": "Join #osm-gb on irc.oftc.net (port 6667)",
+              "extendedDescriptionHTML": "Join #osm-gb on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question"
+            }
+          },
+          "gb-mailinglist": {
+            "id": "gb-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-gb",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "description": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community"
+            },
+            "resolved": {
+              "name": "talk-gb Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-gb",
+              "description": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-gb\">talk-gb Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-gb\">https://lists.openstreetmap.org/listinfo/talk-gb</a>",
+              "descriptionHTML": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community"
+            }
+          },
+          "uk-twitter": {
+            "id": "uk-twitter",
+            "type": "twitter",
+            "account": "osmuk",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK on Twitter",
+              "url": "https://twitter.com/osmuk",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmuk\">OpenStreetMap UK on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmuk\">https://twitter.com/osmuk</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              50.4668086538037
+            ],
+            [
+              1.17405,
+              50.74239
+            ],
+            [
+              2.18458,
+              51.52087
+            ],
+            [
+              2.56575,
+              51.85301
+            ],
+            [
+              2.370165247609811,
+              52.48278022207821
+            ],
+            [
+              0,
+              52.48278022207821
+            ],
+            [
+              0,
+              50.4668086538037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "NL",
+        "iso1A3": "NLD",
+        "iso1N3": "528",
+        "wikidata": "Q29999",
+        "nameEn": "Kingdom of the Netherlands",
+        "id": "Q29999",
+        "m49": "528",
+        "ccTLD": ".nl",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇳🇱",
+        "members": [
+          "Q25396",
+          "Q25528",
+          "Q26180",
+          "Q55",
+          "AW",
+          "BQ",
+          "CW",
+          "SX"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "31",
+          "599 7",
+          "599 4",
+          "599 3",
+          "297",
+          "599",
+          "1 721"
+        ],
+        "area": 81054.06,
+        "resources": {
+          "nl-matrix": {
+            "id": "nl-matrix",
+            "type": "matrix",
+            "account": "#osm-netherlands",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands",
+              "description": "All mappers are welcome!"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Netherlands Matrix Chat",
+              "url": "https://matrix.to/#/#osm-netherlands:matrix.org",
+              "description": "All mappers are welcome!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-netherlands:matrix.org\">OpenStreetMap Netherlands Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-netherlands:matrix.org\">https://matrix.to/#/#osm-netherlands:matrix.org</a>",
+              "descriptionHTML": "All mappers are welcome!"
+            }
+          },
+          "nl-telegram": {
+            "id": "nl-telegram",
+            "type": "telegram",
+            "account": "osm_nl",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands"
+            },
+            "contacts": [
+              {
+                "name": "Peter Elderson",
+                "email": "pelderson@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Netherlands Telegram",
+              "url": "https://t.me/osm_nl",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osm_nl\">OpenStreetMap Netherlands Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osm_nl\">https://t.me/osm_nl</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-nl": {
+            "id": "talk-nl",
+            "type": "mailinglist",
+            "account": "talk-nl",
+            "locationSet": {
+              "include": [
+                "nl"
+              ]
+            },
+            "languageCodes": [
+              "nl"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Netherlands",
+              "communityID": "openstreetmapnetherlands"
+            },
+            "resolved": {
+              "name": "talk-nl Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-nl",
+              "description": "The official mailing list for OpenStreetMap Netherlands",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-nl\">talk-nl Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-nl\">https://lists.openstreetmap.org/listinfo/talk-nl</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Netherlands"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.56575,
+              51.85301
+            ],
+            [
+              3.36263,
+              51.37112
+            ],
+            [
+              3.38696,
+              51.33436
+            ],
+            [
+              3.35847,
+              51.31572
+            ],
+            [
+              3.38289,
+              51.27331
+            ],
+            [
+              3.41704,
+              51.25933
+            ],
+            [
+              3.43488,
+              51.24135
+            ],
+            [
+              3.52698,
+              51.2458
+            ],
+            [
+              3.51502,
+              51.28697
+            ],
+            [
+              3.58939,
+              51.30064
+            ],
+            [
+              3.78999,
+              51.25766
+            ],
+            [
+              3.78783,
+              51.2151
+            ],
+            [
+              3.90125,
+              51.20371
+            ],
+            [
+              3.97889,
+              51.22537
+            ],
+            [
+              4.01957,
+              51.24504
+            ],
+            [
+              4.05165,
+              51.24171
+            ],
+            [
+              4.16721,
+              51.29348
+            ],
+            [
+              4.24024,
+              51.35371
+            ],
+            [
+              4.21923,
+              51.37443
+            ],
+            [
+              4.33265,
+              51.37687
+            ],
+            [
+              4.34086,
+              51.35738
+            ],
+            [
+              4.39292,
+              51.35547
+            ],
+            [
+              4.43777,
+              51.36989
+            ],
+            [
+              4.38064,
+              51.41965
+            ],
+            [
+              4.39747,
+              51.43316
+            ],
+            [
+              4.38122,
+              51.44905
+            ],
+            [
+              4.47736,
+              51.4778
+            ],
+            [
+              4.5388,
+              51.48184
+            ],
+            [
+              4.54675,
+              51.47265
+            ],
+            [
+              4.52846,
+              51.45002
+            ],
+            [
+              4.53521,
+              51.4243
+            ],
+            [
+              4.57489,
+              51.4324
+            ],
+            [
+              4.65442,
+              51.42352
+            ],
+            [
+              4.72935,
+              51.48424
+            ],
+            [
+              4.74578,
+              51.48937
+            ],
+            [
+              4.77321,
+              51.50529
+            ],
+            [
+              4.78803,
+              51.50284
+            ],
+            [
+              4.84139,
+              51.4799
+            ],
+            [
+              4.82409,
+              51.44736
+            ],
+            [
+              4.82946,
+              51.4213
+            ],
+            [
+              4.78314,
+              51.43319
+            ],
+            [
+              4.76577,
+              51.43046
+            ],
+            [
+              4.77229,
+              51.41337
+            ],
+            [
+              4.78941,
+              51.41102
+            ],
+            [
+              4.84988,
+              51.41502
+            ],
+            [
+              4.90016,
+              51.41404
+            ],
+            [
+              4.92152,
+              51.39487
+            ],
+            [
+              5.00393,
+              51.44406
+            ],
+            [
+              5.0106,
+              51.47167
+            ],
+            [
+              5.03281,
+              51.48679
+            ],
+            [
+              5.04774,
+              51.47022
+            ],
+            [
+              5.07891,
+              51.4715
+            ],
+            [
+              5.10456,
+              51.43163
+            ],
+            [
+              5.07102,
+              51.39469
+            ],
+            [
+              5.13105,
+              51.34791
+            ],
+            [
+              5.13377,
+              51.31592
+            ],
+            [
+              5.16222,
+              51.31035
+            ],
+            [
+              5.2002,
+              51.32243
+            ],
+            [
+              5.24244,
+              51.30495
+            ],
+            [
+              5.22542,
+              51.26888
+            ],
+            [
+              5.23814,
+              51.26064
+            ],
+            [
+              5.26461,
+              51.26693
+            ],
+            [
+              5.29716,
+              51.26104
+            ],
+            [
+              5.33886,
+              51.26314
+            ],
+            [
+              5.347,
+              51.27502
+            ],
+            [
+              5.41672,
+              51.26248
+            ],
+            [
+              5.4407,
+              51.28169
+            ],
+            [
+              5.46519,
+              51.2849
+            ],
+            [
+              5.48476,
+              51.30053
+            ],
+            [
+              5.515,
+              51.29462
+            ],
+            [
+              5.5569,
+              51.26544
+            ],
+            [
+              5.5603,
+              51.22249
+            ],
+            [
+              5.625,
+              51.20502135490949
+            ],
+            [
+              5.625,
+              52.48278022207821
+            ],
+            [
+              3.3400058840077786,
+              52.48278022207821
+            ],
+            [
+              2.56575,
+              51.85301
+            ]
+          ],
+          [
+            [
+              4.91493,
+              51.4353
+            ],
+            [
+              4.91935,
+              51.43634
+            ],
+            [
+              4.92227,
+              51.44252
+            ],
+            [
+              4.91811,
+              51.44621
+            ],
+            [
+              4.92287,
+              51.44741
+            ],
+            [
+              4.92811,
+              51.4437
+            ],
+            [
+              4.92566,
+              51.44273
+            ],
+            [
+              4.92815,
+              51.43856
+            ],
+            [
+              4.92879,
+              51.44161
+            ],
+            [
+              4.93544,
+              51.44634
+            ],
+            [
+              4.94025,
+              51.44193
+            ],
+            [
+              4.93416,
+              51.44185
+            ],
+            [
+              4.93471,
+              51.43861
+            ],
+            [
+              4.94265,
+              51.44003
+            ],
+            [
+              4.93986,
+              51.43064
+            ],
+            [
+              4.92952,
+              51.42984
+            ],
+            [
+              4.92652,
+              51.43329
+            ],
+            [
+              4.91493,
+              51.4353
+            ]
+          ],
+          [
+            [
+              4.93295,
+              51.44945
+            ],
+            [
+              4.95244,
+              51.45207
+            ],
+            [
+              4.9524,
+              51.45014
+            ],
+            [
+              4.93909,
+              51.44632
+            ],
+            [
+              4.93295,
+              51.44945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q185086,Q3336843]",
+        "area": 695269.91,
+        "resources": {
+          "uk-localchapter": {
+            "id": "uk-localchapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "Q3336843",
+                "Q185086"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "description": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescription": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: {signupUrl}",
+              "signupUrl": "https://osmuk.org/become-member/",
+              "url": "https://osmuk.org/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK",
+              "url": "https://osmuk.org/",
+              "signupUrl": "https://osmuk.org/become-member/",
+              "description": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescription": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: https://osmuk.org/become-member/",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmuk.org/\">OpenStreetMap UK</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmuk.org/\">https://osmuk.org/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://osmuk.org/become-member/\">https://osmuk.org/become-member/</a>",
+              "descriptionHTML": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescriptionHTML": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: <a target=\"_blank\" href=\"https://osmuk.org/become-member/\">https://osmuk.org/become-member/</a>"
+            }
+          },
+          "uk-loomio": {
+            "id": "uk-loomio",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "Q3336843",
+                "Q185086"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "name": "OpenStreetMap UK on Loomio",
+              "url": "https://www.loomio.org/openstreetmap-uk/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK on Loomio",
+              "url": "https://www.loomio.org/openstreetmap-uk/",
+              "description": "The official forum for OpenStreetMap UK",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.loomio.org/openstreetmap-uk/\">OpenStreetMap UK on Loomio</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.loomio.org/openstreetmap-uk/\">https://www.loomio.org/openstreetmap-uk/</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap UK"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              50.4668086538037
+            ],
+            [
+              1.17405,
+              50.74239
+            ],
+            [
+              2.18458,
+              51.52087
+            ],
+            [
+              2.56575,
+              51.85301
+            ],
+            [
+              2.370165247609811,
+              52.48278022207821
+            ],
+            [
+              0,
+              52.48278022207821
+            ],
+            [
+              0,
+              50.4668086538037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-0.12,51.5]",
+        "area": 1963.5,
+        "resources": {
+          "uk-london-twitter": {
+            "id": "uk-london-twitter",
+            "type": "twitter",
+            "account": "OSMLondon",
+            "locationSet": {
+              "include": [
+                [
+                  -0.12,
+                  51.5
+                ]
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "name": "OpenStreetMap London on Twitter",
+              "description": "OpenStreetMap London on Twitter: {url}"
+            },
+            "contacts": [
+              {
+                "name": "Harry Wood",
+                "email": "mail@harrywood.co.uk"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap London on Twitter",
+              "url": "https://twitter.com/OSMLondon",
+              "description": "OpenStreetMap London on Twitter: https://twitter.com/OSMLondon",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSMLondon\">OpenStreetMap London on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSMLondon\">https://twitter.com/OSMLondon</a>",
+              "descriptionHTML": "OpenStreetMap London on Twitter: <a target=\"_blank\" href=\"https://twitter.com/OSMLondon\">https://twitter.com/OSMLondon</a>"
+            }
+          },
+          "uk-london-wiki": {
+            "id": "uk-london-wiki",
+            "type": "wiki",
+            "account": "London",
+            "locationSet": {
+              "include": [
+                [
+                  -0.12,
+                  51.5
+                ]
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap London",
+              "communityID": "openstreetmaplondon",
+              "description": "{community} Wiki page"
+            },
+            "contacts": [
+              {
+                "name": "Harry Wood",
+                "email": "mail@harrywood.co.uk"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap London WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/London",
+              "description": "OpenStreetMap London Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/London\">OpenStreetMap London WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/London\">https://wiki.openstreetmap.org/wiki/London</a>",
+              "descriptionHTML": "OpenStreetMap London Wiki page"
+            }
+          },
+          "ym-Queen-Mary-University-of-London": {
+            "id": "ym-Queen-Mary-University-of-London",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -0.12,
+                  51.5
+                ]
+              ]
+            },
+            "order": -5,
+            "strings": {
+              "name": "Queen Mary YouthMappers",
+              "description": "YouthMappers chapter at Queen Mary University of London",
+              "extendedDescription": "This chapter will be part of the activities of the Queen Mary Geography Society.",
+              "url": "https://www.facebook.com/groups/qmulgeographysociety/"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "youthmappers@qmul.ac.uk"
+              }
+            ],
+            "resolved": {
+              "name": "Queen Mary YouthMappers",
+              "url": "https://www.facebook.com/groups/qmulgeographysociety/",
+              "description": "YouthMappers chapter at Queen Mary University of London",
+              "extendedDescription": "This chapter will be part of the activities of the Queen Mary Geography Society.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/qmulgeographysociety/\">Queen Mary YouthMappers</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/qmulgeographysociety/\">https://www.facebook.com/groups/qmulgeographysociety/</a>",
+              "descriptionHTML": "YouthMappers chapter at Queen Mary University of London",
+              "extendedDescriptionHTML": "This chapter will be part of the activities of the Queen Mary Geography Society."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              51.299454976303316
+            ],
+            [
+              0.091,
+              51.318
+            ],
+            [
+              0.223,
+              51.43
+            ],
+            [
+              0.224,
+              51.569
+            ],
+            [
+              0.093,
+              51.681
+            ],
+            [
+              0,
+              51.70021126760563
+            ],
+            [
+              0,
+              51.299454976303316
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

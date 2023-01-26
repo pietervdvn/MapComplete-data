@@ -1,0 +1,556 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "FR",
+        "iso1A3": "FRA",
+        "iso1N3": "250",
+        "wikidata": "Q142",
+        "nameEn": "France",
+        "id": "Q142",
+        "m49": "250",
+        "ccTLD": ".fr",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "EU",
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇫🇷",
+        "members": [
+          "Q46772",
+          "Q190571",
+          "Q201698",
+          "Q1681727",
+          "CP",
+          "FX",
+          "BL",
+          "GF",
+          "GP",
+          "MF",
+          "MQ",
+          "NC",
+          "PF",
+          "PM",
+          "RE",
+          "TF",
+          "WF",
+          "YT"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "590",
+          "33",
+          "594",
+          "596",
+          "687",
+          "689",
+          "508",
+          "262",
+          "681"
+        ],
+        "area": 8153344.09,
+        "resources": {
+          "fr-chapter": {
+            "id": "fr-chapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "We help grow and improve OpenStreetMap in France.",
+              "url": "https://www.openstreetmap.fr/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France",
+              "url": "https://www.openstreetmap.fr/",
+              "description": "We help grow and improve OpenStreetMap in France.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.fr/\">OpenStreetMap France</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.fr/\">https://www.openstreetmap.fr/</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in France."
+            }
+          },
+          "fr-discord": {
+            "id": "fr-discord",
+            "type": "discord",
+            "account": "wxNGfdT",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "name": "Discord Communauté OpenStreetMap de France"
+            },
+            "resolved": {
+              "name": "Discord Communauté OpenStreetMap de France",
+              "url": "https://discord.gg/wxNGfdT",
+              "description": "Get in touch with other mappers on Discord",
+              "nameHTML": "<a target=\"_blank\" href=\"https://discord.gg/wxNGfdT\">Discord Communauté OpenStreetMap de France</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://discord.gg/wxNGfdT\">https://discord.gg/wxNGfdT</a>",
+              "descriptionHTML": "Get in touch with other mappers on Discord"
+            }
+          },
+          "fr-facebook": {
+            "id": "fr-facebook",
+            "type": "facebook",
+            "account": "osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on Facebook",
+              "url": "https://www.facebook.com/osmfr",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/osmfr\">OpenStreetMap France on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/osmfr\">https://www.facebook.com/osmfr</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "fr-forum": {
+            "id": "fr-forum",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -2,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "url": "https://forum.openstreetmap.fr/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Forum",
+              "url": "https://forum.openstreetmap.fr/",
+              "description": "The official forum for OpenStreetMap France",
+              "nameHTML": "<a target=\"_blank\" href=\"https://forum.openstreetmap.fr/\">OpenStreetMap France Forum</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://forum.openstreetmap.fr/\">https://forum.openstreetmap.fr/</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap France"
+            }
+          },
+          "fr-irc": {
+            "id": "fr-irc",
+            "type": "irc",
+            "account": "osm-fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-fr",
+              "description": "Join #osm-fr on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fr\">OpenStreetMap France on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fr\">https://webchat.oftc.net/?channels=osm-fr</a>",
+              "descriptionHTML": "Join #osm-fr on irc.oftc.net (port 6667)"
+            }
+          },
+          "fr-mailinglist": {
+            "id": "fr-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "talk-fr Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-fr",
+              "description": "The official mailing list for OpenStreetMap France",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fr\">talk-fr Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fr\">https://lists.openstreetmap.org/listinfo/talk-fr</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap France"
+            }
+          },
+          "fr-matrix": {
+            "id": "fr-matrix",
+            "type": "matrix",
+            "account": "#osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "A Matrix group for the OSM France community: {url} (bridged with Telegram)"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Matrix Chat",
+              "url": "https://matrix.to/#/#osmfr:matrix.org",
+              "description": "A Matrix group for the OSM France community: https://matrix.to/#/#osmfr:matrix.org (bridged with Telegram)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">OpenStreetMap France Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">https://matrix.to/#/#osmfr:matrix.org</a>",
+              "descriptionHTML": "A Matrix group for the OSM France community: <a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">https://matrix.to/#/#osmfr:matrix.org</a> (bridged with Telegram)"
+            }
+          },
+          "fr-telegram": {
+            "id": "fr-telegram",
+            "type": "telegram",
+            "account": "osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "A Telegram group for the OSM France community: {url}"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Telegram",
+              "url": "https://t.me/osmfr",
+              "description": "A Telegram group for the OSM France community: https://t.me/osmfr",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmfr\">OpenStreetMap France Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmfr\">https://t.me/osmfr</a>",
+              "descriptionHTML": "A Telegram group for the OSM France community: <a target=\"_blank\" href=\"https://t.me/osmfr\">https://t.me/osmfr</a>"
+            }
+          },
+          "fr-twitter": {
+            "id": "fr-twitter",
+            "type": "twitter",
+            "account": "osm_fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on Twitter",
+              "url": "https://twitter.com/osm_fr",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_fr\">OpenStreetMap France on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_fr\">https://twitter.com/osm_fr</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "fr-xmpp": {
+            "id": "fr-xmpp",
+            "type": "xmpp",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "Join osm-fr@chat.jabberfr.org",
+              "url": "xmpp:osm-fr@chat.jabberfr.org?join"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France XMPP",
+              "url": "xmpp:osm-fr@chat.jabberfr.org?join",
+              "description": "Join osm-fr@chat.jabberfr.org",
+              "nameHTML": "<a target=\"_blank\" href=\"xmpp:osm-fr@chat.jabberfr.org?join\">OpenStreetMap France XMPP</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"xmpp:osm-fr@chat.jabberfr.org?join\">xmpp:osm-fr@chat.jabberfr.org?join</a>",
+              "descriptionHTML": "Join osm-fr@chat.jabberfr.org"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.25,
+              46.636228313978236
+            ],
+            [
+              -55.90758,
+              46.6223
+            ],
+            [
+              -56.25,
+              47.34448982609879
+            ],
+            [
+              -56.25,
+              46.636228313978236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "CA",
+        "iso1A3": "CAN",
+        "iso1N3": "124",
+        "wikidata": "Q16",
+        "nameEn": "Canada",
+        "groups": [
+          "021",
+          "003",
+          "019",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "1"
+        ],
+        "id": "Q16",
+        "m49": "124",
+        "ccTLD": ".ca",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇨🇦",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 15407039.77,
+        "resources": {
+          "OSM-CA-mailinglist": {
+            "id": "OSM-CA-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-ca",
+            "locationSet": {
+              "include": [
+                "ca"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Canada",
+              "communityID": "openstreetmapcanada"
+            },
+            "resolved": {
+              "name": "talk-ca Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ca",
+              "description": "The official mailing list for OpenStreetMap Canada",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ca\">talk-ca Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ca\">https://lists.openstreetmap.org/listinfo/talk-ca</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Canada"
+            }
+          },
+          "OSM-CA-Slack": {
+            "id": "OSM-CA-Slack",
+            "type": "slack",
+            "locationSet": {
+              "include": [
+                "ca"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Canada",
+              "communityID": "openstreetmapcanada",
+              "description": "All are welcome! Sign up at {signupUrl}.",
+              "signupUrl": "https://slackinviteosmcanada.herokuapp.com/",
+              "url": "https://osm-ca.slack.com/"
+            },
+            "contacts": [
+              {
+                "name": "Denis Carriere",
+                "email": "carriere.denis@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Canada Slack",
+              "url": "https://osm-ca.slack.com/",
+              "signupUrl": "https://slackinviteosmcanada.herokuapp.com/",
+              "description": "All are welcome! Sign up at https://slackinviteosmcanada.herokuapp.com/.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm-ca.slack.com/\">OpenStreetMap Canada Slack</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm-ca.slack.com/\">https://osm-ca.slack.com/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://slackinviteosmcanada.herokuapp.com/\">https://slackinviteosmcanada.herokuapp.com/</a>",
+              "descriptionHTML": "All are welcome! Sign up at <a target=\"_blank\" href=\"https://slackinviteosmcanada.herokuapp.com/\">https://slackinviteosmcanada.herokuapp.com/</a>."
+            }
+          },
+          "OSM-CA-telegram": {
+            "id": "OSM-CA-telegram",
+            "type": "telegram",
+            "account": "osmca",
+            "locationSet": {
+              "include": [
+                "ca"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Canada",
+              "communityID": "openstreetmapcanada"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Canada Telegram",
+              "url": "https://t.me/osmca",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmca\">OpenStreetMap Canada Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmca\">https://t.me/osmca</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.25,
+              47.3496735462179
+            ],
+            [
+              -55.061426515129554,
+              45.08903556483103
+            ],
+            [
+              -51.562046922853156,
+              45.08903556483103
+            ],
+            [
+              -50.625,
+              47.300036185961645
+            ],
+            [
+              -50.625,
+              48.922499263758255
+            ],
+            [
+              -56.25,
+              48.922499263758255
+            ],
+            [
+              -56.25,
+              47.3496735462179
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

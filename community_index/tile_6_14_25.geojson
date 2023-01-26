@@ -1,0 +1,386 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "US",
+        "iso1A3": "USA",
+        "iso1N3": "840",
+        "wikidata": "Q30",
+        "nameEn": "United States of America",
+        "id": "Q30",
+        "m49": "840",
+        "ccTLD": ".us",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇺🇸",
+        "members": [
+          "Q25359",
+          "Q43296",
+          "Q46879",
+          "Q47863",
+          "Q62218",
+          "Q123076",
+          "Q130895",
+          "Q131008",
+          "Q131305",
+          "Q782",
+          "Q797",
+          "Q578170",
+          "AS",
+          "GU",
+          "MP",
+          "PR",
+          "UM",
+          "VI",
+          "Q35657",
+          "Q1352230"
+        ],
+        "roadSpeedUnit": "mph",
+        "callingCodes": [
+          "1",
+          "1 684",
+          "1 671",
+          "1 670",
+          "1 787",
+          "1 939",
+          "1 340"
+        ],
+        "area": 21817019.17,
+        "resources": {
+          "OSM-US": {
+            "id": "OSM-US",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "description": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescription": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: {signupUrl}",
+              "signupUrl": "https://www.openstreetmap.us/join",
+              "url": "https://www.openstreetmap.us/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap US",
+                "email": "team@openstreetmap.us"
+              }
+            ],
+            "events": [
+              {
+                "id": "mappingusa2022",
+                "i18n": true,
+                "name": "Mapping USA 2022",
+                "description": "Join us for a free virtual conference in celebration of the Wiki and OpenStreetMap communities across North America!",
+                "where": "virtual",
+                "when": "2022-nov-10",
+                "url": "https://pretix.eu/openstreetmapus/wcna-mappingusa/"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap US",
+              "url": "https://www.openstreetmap.us/",
+              "signupUrl": "https://www.openstreetmap.us/join",
+              "description": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescription": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: https://www.openstreetmap.us/join",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/\">OpenStreetMap US</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/\">https://www.openstreetmap.us/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/join\">https://www.openstreetmap.us/join</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescriptionHTML": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: <a target=\"_blank\" href=\"https://www.openstreetmap.us/join\">https://www.openstreetmap.us/join</a>"
+            }
+          },
+          "OSM-US-Slack": {
+            "id": "OSM-US-Slack",
+            "type": "slack",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "description": "All are welcome! Sign up at {signupUrl}",
+              "signupUrl": "https://slack.openstreetmap.us/",
+              "url": "https://osmus.slack.com"
+            },
+            "contacts": [
+              {
+                "name": "Ian Dees",
+                "email": "ian@openstreetmap.us"
+              },
+              {
+                "name": "Clifford Snow",
+                "email": "clifford@snowandsnow.us"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap US Slack",
+              "url": "https://osmus.slack.com",
+              "signupUrl": "https://slack.openstreetmap.us/",
+              "description": "All are welcome! Sign up at https://slack.openstreetmap.us/",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmus.slack.com\">OpenStreetMap US Slack</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmus.slack.com\">https://osmus.slack.com</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://slack.openstreetmap.us/\">https://slack.openstreetmap.us/</a>",
+              "descriptionHTML": "All are welcome! Sign up at <a target=\"_blank\" href=\"https://slack.openstreetmap.us/\">https://slack.openstreetmap.us/</a>"
+            }
+          },
+          "us-discourse": {
+            "id": "us-discourse",
+            "type": "discourse",
+            "account": "us",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "name": "{community} Discourse",
+              "description": "A discussion forum about OpenStreetMap in the United States"
+            },
+            "resolved": {
+              "name": "OpenStreetMap US Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/us",
+              "description": "A discussion forum about OpenStreetMap in the United States",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/us\">OpenStreetMap US Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/us\">https://community.openstreetmap.org/c/communities/us</a>",
+              "descriptionHTML": "A discussion forum about OpenStreetMap in the United States"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -101.25,
+              31.95216223802496
+            ],
+            [
+              -95.625,
+              31.95216223802496
+            ],
+            [
+              -95.625,
+              36.5978891330702
+            ],
+            [
+              -101.25,
+              36.5978891330702
+            ],
+            [
+              -101.25,
+              31.95216223802496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-97.07253,36.12077]",
+        "area": 1963.5,
+        "resources": {
+          "ym-Oklahoma-State-University": {
+            "id": "ym-Oklahoma-State-University",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -97.07253,
+                  36.12077
+                ]
+              ]
+            },
+            "strings": {
+              "name": "Geography Club",
+              "description": "YouthMappers chapter at Oklahoma State University",
+              "url": "mailto:hhayden@okstate.edu"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "hhayden@okstate.edu"
+              }
+            ],
+            "resolved": {
+              "name": "Geography Club",
+              "url": "mailto:hhayden@okstate.edu",
+              "description": "YouthMappers chapter at Oklahoma State University",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:hhayden@okstate.edu\">Geography Club</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:hhayden@okstate.edu\">mailto:hhayden@okstate.edu</a>",
+              "descriptionHTML": "YouthMappers chapter at Oklahoma State University"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.337,
+              36.051
+            ],
+            [
+              -97.236,
+              35.939
+            ],
+            [
+              -97.073,
+              35.896
+            ],
+            [
+              -96.909,
+              35.939
+            ],
+            [
+              -96.808,
+              36.051
+            ],
+            [
+              -96.808,
+              36.19
+            ],
+            [
+              -96.909,
+              36.302
+            ],
+            [
+              -97.073,
+              36.345
+            ],
+            [
+              -97.236,
+              36.302
+            ],
+            [
+              -97.337,
+              36.19
+            ],
+            [
+              -97.337,
+              36.051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-97.15255,33.20735]",
+        "area": 1963.5,
+        "resources": {
+          "ym-University-of-North-Texas": {
+            "id": "ym-University-of-North-Texas",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -97.15255,
+                  33.20735
+                ]
+              ]
+            },
+            "strings": {
+              "name": "UNT Geography Club",
+              "description": "YouthMappers chapter at University of North Texas",
+              "extendedDescription": "The Geography Club is a student organization at University of North Texas that welcomes all students who are interested in geography. The objective of the Geography Club is to promote interest in Geography, the Major and the Geography Department along with fellowship among students and faculty. The club also seeks to represent student needs and wants in regard to the study of geography and to provide a forum for the presentation of innovative ideas to the benefit of the University community.",
+              "url": "mailto:reeseramsey@my.unt.edu"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "reeseramsey@my.unt.edu"
+              }
+            ],
+            "resolved": {
+              "name": "UNT Geography Club",
+              "url": "mailto:reeseramsey@my.unt.edu",
+              "description": "YouthMappers chapter at University of North Texas",
+              "extendedDescription": "The Geography Club is a student organization at University of North Texas that welcomes all students who are interested in geography. The objective of the Geography Club is to promote interest in Geography, the Major and the Geography Department along with fellowship among students and faculty. The club also seeks to represent student needs and wants in regard to the study of geography and to provide a forum for the presentation of innovative ideas to the benefit of the University community.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:reeseramsey@my.unt.edu\">UNT Geography Club</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:reeseramsey@my.unt.edu\">mailto:reeseramsey@my.unt.edu</a>",
+              "descriptionHTML": "YouthMappers chapter at University of North Texas",
+              "extendedDescriptionHTML": "The Geography Club is a student organization at University of North Texas that welcomes all students who are interested in geography. The objective of the Geography Club is to promote interest in Geography, the Major and the Geography Department along with fellowship among students and faculty. The club also seeks to represent student needs and wants in regard to the study of geography and to provide a forum for the presentation of innovative ideas to the benefit of the University community."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.408,
+              33.138
+            ],
+            [
+              -97.31,
+              33.026
+            ],
+            [
+              -97.153,
+              32.983
+            ],
+            [
+              -96.995,
+              33.026
+            ],
+            [
+              -96.897,
+              33.138
+            ],
+            [
+              -96.897,
+              33.276
+            ],
+            [
+              -96.994,
+              33.389
+            ],
+            [
+              -97.153,
+              33.432
+            ],
+            [
+              -97.311,
+              33.389
+            ],
+            [
+              -97.408,
+              33.276
+            ],
+            [
+              -97.408,
+              33.138
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

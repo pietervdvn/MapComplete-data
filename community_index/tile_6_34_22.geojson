@@ -1,0 +1,7249 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "AT",
+        "iso1A3": "AUT",
+        "iso1N3": "040",
+        "wikidata": "Q40",
+        "nameEn": "Austria",
+        "groups": [
+          "155",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "43"
+        ],
+        "id": "Q40",
+        "m49": "040",
+        "ccTLD": ".at",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇦🇹",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 83818.14,
+        "resources": {
+          "at-irc": {
+            "id": "at-irc",
+            "type": "irc",
+            "account": "osm-at",
+            "locationSet": {
+              "include": [
+                "at"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Austria",
+              "communityID": "openstreetmapaustria"
+            },
+            "contacts": [
+              {
+                "name": "StefanCT",
+                "email": "talk-at@openstreetmap.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Austria on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-at",
+              "description": "Join #osm-at on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-at\">OpenStreetMap Austria on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-at\">https://webchat.oftc.net/?channels=osm-at</a>",
+              "descriptionHTML": "Join #osm-at on irc.oftc.net (port 6667)"
+            }
+          },
+          "at-mailinglist": {
+            "id": "at-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-at",
+            "locationSet": {
+              "include": [
+                "at"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Austria",
+              "communityID": "openstreetmapaustria"
+            },
+            "contacts": [
+              {
+                "name": "AT community",
+                "email": "info@openstreetmap.at"
+              }
+            ],
+            "resolved": {
+              "name": "talk-at Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-at",
+              "description": "The official mailing list for OpenStreetMap Austria",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-at\">talk-at Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-at\">https://lists.openstreetmap.org/listinfo/talk-at</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Austria"
+            }
+          },
+          "at-mastodon": {
+            "id": "at-mastodon",
+            "type": "mastodon",
+            "locationSet": {
+              "include": [
+                "at"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Austria",
+              "communityID": "openstreetmapaustria",
+              "url": "https://mastodon.social/@osm_at"
+            },
+            "contacts": [
+              {
+                "name": "AT Community",
+                "email": "info@openstreetmap.at"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Austria Mastodon Account",
+              "url": "https://mastodon.social/@osm_at",
+              "description": "The official Mastodon account for OpenStreetMap Austria",
+              "nameHTML": "<a target=\"_blank\" href=\"https://mastodon.social/@osm_at\">OpenStreetMap Austria Mastodon Account</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://mastodon.social/@osm_at\">https://mastodon.social/@osm_at</a>",
+              "descriptionHTML": "The official Mastodon account for OpenStreetMap Austria"
+            }
+          },
+          "at-matrix": {
+            "id": "at-matrix",
+            "type": "matrix",
+            "account": "#osm-at",
+            "locationSet": {
+              "include": [
+                "at"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Austria",
+              "communityID": "openstreetmapaustria",
+              "description": "Unofficial German Matrix channel for Austria"
+            },
+            "contacts": [
+              {
+                "name": "Stefan Kies",
+                "email": "negreheb+osmcommunityindex@mailbox.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Austria Matrix Chat",
+              "url": "https://matrix.to/#/#osm-at:matrix.org",
+              "description": "Unofficial German Matrix channel for Austria",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-at:matrix.org\">OpenStreetMap Austria Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-at:matrix.org\">https://matrix.to/#/#osm-at:matrix.org</a>",
+              "descriptionHTML": "Unofficial German Matrix channel for Austria"
+            }
+          },
+          "at-twitter": {
+            "id": "at-twitter",
+            "type": "twitter",
+            "account": "osm_at",
+            "locationSet": {
+              "include": [
+                "at"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Austria",
+              "communityID": "openstreetmapaustria"
+            },
+            "contacts": [
+              {
+                "name": "AT Community",
+                "email": "info@openstreetmap.at"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Austria on Twitter",
+              "url": "https://twitter.com/osm_at",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_at\">OpenStreetMap Austria on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_at\">https://twitter.com/osm_at</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "at-wiki": {
+            "id": "at-wiki",
+            "type": "wiki",
+            "account": "Austria",
+            "locationSet": {
+              "include": [
+                "at"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Austria",
+              "communityID": "openstreetmapaustria",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Austria WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/Austria",
+              "description": "OpenStreetMap Austria Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Austria\">OpenStreetMap Austria WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Austria\">https://wiki.openstreetmap.org/wiki/Austria</a>",
+              "descriptionHTML": "OpenStreetMap Austria Wiki page"
+            }
+          },
+          "osm-at": {
+            "id": "osm-at",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "at"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Austria",
+              "communityID": "openstreetmapaustria",
+              "description": "The platform for information on OpenStreetMap in Austria",
+              "url": "https://www.openstreetmap.at/"
+            },
+            "contacts": [
+              {
+                "name": "AT community",
+                "email": "info@openstreetmap.at"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Austria",
+              "url": "https://www.openstreetmap.at/",
+              "description": "The platform for information on OpenStreetMap in Austria",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.at/\">OpenStreetMap Austria</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.at/\">https://www.openstreetmap.at/</a>",
+              "descriptionHTML": "The platform for information on OpenStreetMap in Austria"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.25,
+                46.97327977041826
+              ],
+              [
+                11.33355,
+                46.99862
+              ],
+              [
+                11.50739,
+                47.00644
+              ],
+              [
+                11.74789,
+                46.98484
+              ],
+              [
+                12.19254,
+                47.09331
+              ],
+              [
+                12.21781,
+                47.03996
+              ],
+              [
+                12.11675,
+                47.01241
+              ],
+              [
+                12.2006,
+                46.88854
+              ],
+              [
+                12.27591,
+                46.88651
+              ],
+              [
+                12.38708,
+                46.71529
+              ],
+              [
+                12.59992,
+                46.6595
+              ],
+              [
+                12.94445,
+                46.60401
+              ],
+              [
+                13.27627,
+                46.56059
+              ],
+              [
+                13.64088,
+                46.53438
+              ],
+              [
+                13.7148,
+                46.5222
+              ],
+              [
+                13.89837,
+                46.52331
+              ],
+              [
+                14.00422,
+                46.48474
+              ],
+              [
+                14.04002,
+                46.49117
+              ],
+              [
+                14.12097,
+                46.47724
+              ],
+              [
+                14.15989,
+                46.43327
+              ],
+              [
+                14.28326,
+                46.44315
+              ],
+              [
+                14.314,
+                46.43327
+              ],
+              [
+                14.42608,
+                46.44614
+              ],
+              [
+                14.45877,
+                46.41717
+              ],
+              [
+                14.52176,
+                46.42617
+              ],
+              [
+                14.56463,
+                46.37208
+              ],
+              [
+                14.5942,
+                46.43434
+              ],
+              [
+                14.66892,
+                46.44936
+              ],
+              [
+                14.72185,
+                46.49974
+              ],
+              [
+                14.81836,
+                46.51046
+              ],
+              [
+                14.83549,
+                46.56614
+              ],
+              [
+                14.86419,
+                46.59411
+              ],
+              [
+                14.87129,
+                46.61
+              ],
+              [
+                14.92283,
+                46.60848
+              ],
+              [
+                14.96002,
+                46.63459
+              ],
+              [
+                14.98024,
+                46.6009
+              ],
+              [
+                15.01451,
+                46.641
+              ],
+              [
+                15.14215,
+                46.66131
+              ],
+              [
+                15.23711,
+                46.63994
+              ],
+              [
+                15.41235,
+                46.65556
+              ],
+              [
+                15.45514,
+                46.63697
+              ],
+              [
+                15.46906,
+                46.61321
+              ],
+              [
+                15.54431,
+                46.6312
+              ],
+              [
+                15.55333,
+                46.64988
+              ],
+              [
+                15.54533,
+                46.66985
+              ],
+              [
+                15.59826,
+                46.68908
+              ],
+              [
+                15.62317,
+                46.67947
+              ],
+              [
+                15.63255,
+                46.68069
+              ],
+              [
+                15.6365,
+                46.6894
+              ],
+              [
+                15.6543,
+                46.69228
+              ],
+              [
+                15.6543,
+                46.70616
+              ],
+              [
+                15.67411,
+                46.70735
+              ],
+              [
+                15.69523,
+                46.69823
+              ],
+              [
+                15.72279,
+                46.69548
+              ],
+              [
+                15.73823,
+                46.70011
+              ],
+              [
+                15.76771,
+                46.69863
+              ],
+              [
+                15.78518,
+                46.70712
+              ],
+              [
+                15.8162,
+                46.71897
+              ],
+              [
+                15.87691,
+                46.7211
+              ],
+              [
+                15.94864,
+                46.68769
+              ],
+              [
+                15.98512,
+                46.68463
+              ],
+              [
+                15.99988,
+                46.67947
+              ],
+              [
+                16.04036,
+                46.6549
+              ],
+              [
+                16.04347,
+                46.68694
+              ],
+              [
+                16.02808,
+                46.71094
+              ],
+              [
+                15.99769,
+                46.7266
+              ],
+              [
+                15.98432,
+                46.74991
+              ],
+              [
+                15.99126,
+                46.78199
+              ],
+              [
+                15.99054,
+                46.82772
+              ],
+              [
+                16.05786,
+                46.83927
+              ],
+              [
+                16.10983,
+                46.867
+              ],
+              [
+                16.19904,
+                46.94134
+              ],
+              [
+                16.22403,
+                46.939
+              ],
+              [
+                16.27594,
+                46.9643
+              ],
+              [
+                16.28202,
+                47.00159
+              ],
+              [
+                16.51369,
+                47.00084
+              ],
+              [
+                16.43936,
+                47.03548
+              ],
+              [
+                16.52176,
+                47.05747
+              ],
+              [
+                16.46134,
+                47.09395
+              ],
+              [
+                16.52863,
+                47.13974
+              ],
+              [
+                16.44932,
+                47.14418
+              ],
+              [
+                16.46442,
+                47.16845
+              ],
+              [
+                16.4523,
+                47.18812
+              ],
+              [
+                16.42801,
+                47.18422
+              ],
+              [
+                16.41739,
+                47.20649
+              ],
+              [
+                16.43663,
+                47.21127
+              ],
+              [
+                16.44142,
+                47.25079
+              ],
+              [
+                16.47782,
+                47.25918
+              ],
+              [
+                16.45104,
+                47.41181
+              ],
+              [
+                16.49908,
+                47.39416
+              ],
+              [
+                16.52414,
+                47.41007
+              ],
+              [
+                16.57152,
+                47.40868
+              ],
+              [
+                16.6718,
+                47.46139
+              ],
+              [
+                16.64821,
+                47.50155
+              ],
+              [
+                16.71059,
+                47.52692
+              ],
+              [
+                16.64193,
+                47.63114
+              ],
+              [
+                16.58699,
+                47.61772
+              ],
+              [
+                16.4222,
+                47.66537
+              ],
+              [
+                16.55129,
+                47.72268
+              ],
+              [
+                16.53514,
+                47.73837
+              ],
+              [
+                16.54779,
+                47.75074
+              ],
+              [
+                16.61183,
+                47.76171
+              ],
+              [
+                16.65679,
+                47.74197
+              ],
+              [
+                16.72089,
+                47.73469
+              ],
+              [
+                16.7511,
+                47.67878
+              ],
+              [
+                16.82938,
+                47.68432
+              ],
+              [
+                16.86509,
+                47.72268
+              ],
+              [
+                16.875,
+                47.69019561710398
+              ],
+              [
+                16.875,
+                48.33918522072072
+              ],
+              [
+                16.84243,
+                48.35258
+              ],
+              [
+                16.83317,
+                48.38138
+              ],
+              [
+                16.83588,
+                48.3844
+              ],
+              [
+                16.8497,
+                48.38321
+              ],
+              [
+                16.85204,
+                48.44968
+              ],
+              [
+                16.875,
+                48.47078260019135
+              ],
+              [
+                16.875,
+                48.71394454184397
+              ],
+              [
+                16.79779,
+                48.70998
+              ],
+              [
+                16.71883,
+                48.73806
+              ],
+              [
+                16.68518,
+                48.7281
+              ],
+              [
+                16.67008,
+                48.77699
+              ],
+              [
+                16.46134,
+                48.80865
+              ],
+              [
+                16.40915,
+                48.74576
+              ],
+              [
+                16.37345,
+                48.729
+              ],
+              [
+                16.06034,
+                48.75436
+              ],
+              [
+                15.84404,
+                48.86921
+              ],
+              [
+                15.78087,
+                48.87644
+              ],
+              [
+                15.75341,
+                48.8516
+              ],
+              [
+                15.6921,
+                48.85973
+              ],
+              [
+                15.61622,
+                48.89541
+              ],
+              [
+                15.51357,
+                48.91549
+              ],
+              [
+                15.505609274108119,
+                48.922499263758255
+              ],
+              [
+                14.985070385566654,
+                48.922499263758255
+              ],
+              [
+                14.98917,
+                48.90082
+              ],
+              [
+                14.95072,
+                48.79101
+              ],
+              [
+                14.98032,
+                48.77959
+              ],
+              [
+                14.9782,
+                48.7766
+              ],
+              [
+                14.98112,
+                48.77524
+              ],
+              [
+                14.9758,
+                48.76857
+              ],
+              [
+                14.95641,
+                48.75915
+              ],
+              [
+                14.94773,
+                48.76268
+              ],
+              [
+                14.81545,
+                48.7874
+              ],
+              [
+                14.80821,
+                48.77711
+              ],
+              [
+                14.80584,
+                48.73489
+              ],
+              [
+                14.72756,
+                48.69502
+              ],
+              [
+                14.71794,
+                48.59794
+              ],
+              [
+                14.66762,
+                48.58215
+              ],
+              [
+                14.60808,
+                48.62881
+              ],
+              [
+                14.56139,
+                48.60429
+              ],
+              [
+                14.4587,
+                48.64695
+              ],
+              [
+                14.43076,
+                48.58855
+              ],
+              [
+                14.33909,
+                48.55852
+              ],
+              [
+                14.20691,
+                48.5898
+              ],
+              [
+                14.09104,
+                48.5943
+              ],
+              [
+                14.01482,
+                48.63788
+              ],
+              [
+                14.06151,
+                48.66873
+              ],
+              [
+                13.84023,
+                48.76988
+              ],
+              [
+                13.82266,
+                48.75544
+              ],
+              [
+                13.81863,
+                48.73257
+              ],
+              [
+                13.79337,
+                48.71375
+              ],
+              [
+                13.81791,
+                48.69832
+              ],
+              [
+                13.81283,
+                48.68426
+              ],
+              [
+                13.81901,
+                48.6761
+              ],
+              [
+                13.82609,
+                48.62345
+              ],
+              [
+                13.80038,
+                48.59487
+              ],
+              [
+                13.80519,
+                48.58026
+              ],
+              [
+                13.76921,
+                48.55324
+              ],
+              [
+                13.7513,
+                48.5624
+              ],
+              [
+                13.74816,
+                48.53058
+              ],
+              [
+                13.72802,
+                48.51208
+              ],
+              [
+                13.66113,
+                48.53558
+              ],
+              [
+                13.65186,
+                48.55092
+              ],
+              [
+                13.62508,
+                48.55501
+              ],
+              [
+                13.59705,
+                48.57013
+              ],
+              [
+                13.57535,
+                48.55912
+              ],
+              [
+                13.51291,
+                48.59023
+              ],
+              [
+                13.50131,
+                48.58091
+              ],
+              [
+                13.50663,
+                48.57506
+              ],
+              [
+                13.46967,
+                48.55157
+              ],
+              [
+                13.45214,
+                48.56472
+              ],
+              [
+                13.43695,
+                48.55776
+              ],
+              [
+                13.45727,
+                48.51092
+              ],
+              [
+                13.42527,
+                48.45711
+              ],
+              [
+                13.43929,
+                48.43386
+              ],
+              [
+                13.40709,
+                48.37292
+              ],
+              [
+                13.30897,
+                48.31575
+              ],
+              [
+                13.26039,
+                48.29422
+              ],
+              [
+                13.18093,
+                48.29577
+              ],
+              [
+                13.126,
+                48.27867
+              ],
+              [
+                13.0851,
+                48.27711
+              ],
+              [
+                13.02083,
+                48.25689
+              ],
+              [
+                12.95306,
+                48.20629
+              ],
+              [
+                12.87126,
+                48.20318
+              ],
+              [
+                12.84475,
+                48.16556
+              ],
+              [
+                12.836,
+                48.1647
+              ],
+              [
+                12.8362,
+                48.15876
+              ],
+              [
+                12.82673,
+                48.15245
+              ],
+              [
+                12.80676,
+                48.14979
+              ],
+              [
+                12.78595,
+                48.12445
+              ],
+              [
+                12.7617,
+                48.12796
+              ],
+              [
+                12.74973,
+                48.10885
+              ],
+              [
+                12.76141,
+                48.07373
+              ],
+              [
+                12.8549,
+                48.01122
+              ],
+              [
+                12.87476,
+                47.96195
+              ],
+              [
+                12.91683,
+                47.95647
+              ],
+              [
+                12.9211,
+                47.95135
+              ],
+              [
+                12.91985,
+                47.94069
+              ],
+              [
+                12.92668,
+                47.93879
+              ],
+              [
+                12.93419,
+                47.94063
+              ],
+              [
+                12.93642,
+                47.94436
+              ],
+              [
+                12.93886,
+                47.94046
+              ],
+              [
+                12.94163,
+                47.92927
+              ],
+              [
+                13.00588,
+                47.84374
+              ],
+              [
+                12.98543,
+                47.82896
+              ],
+              [
+                12.96311,
+                47.79957
+              ],
+              [
+                12.93202,
+                47.77302
+              ],
+              [
+                12.94371,
+                47.76281
+              ],
+              [
+                12.9353,
+                47.74788
+              ],
+              [
+                12.91711,
+                47.74026
+              ],
+              [
+                12.90274,
+                47.72513
+              ],
+              [
+                12.91333,
+                47.7178
+              ],
+              [
+                12.92969,
+                47.71094
+              ],
+              [
+                12.98578,
+                47.7078
+              ],
+              [
+                13.01382,
+                47.72116
+              ],
+              [
+                13.07692,
+                47.68814
+              ],
+              [
+                13.09562,
+                47.63304
+              ],
+              [
+                13.06407,
+                47.60075
+              ],
+              [
+                13.06641,
+                47.58577
+              ],
+              [
+                13.04537,
+                47.58183
+              ],
+              [
+                13.05355,
+                47.56291
+              ],
+              [
+                13.03252,
+                47.53373
+              ],
+              [
+                13.04537,
+                47.49426
+              ],
+              [
+                12.9998,
+                47.46267
+              ],
+              [
+                12.98344,
+                47.48716
+              ],
+              [
+                12.9624,
+                47.47452
+              ],
+              [
+                12.85256,
+                47.52741
+              ],
+              [
+                12.84672,
+                47.54556
+              ],
+              [
+                12.80699,
+                47.54477
+              ],
+              [
+                12.77427,
+                47.58025
+              ],
+              [
+                12.82101,
+                47.61493
+              ],
+              [
+                12.76492,
+                47.64485
+              ],
+              [
+                12.77777,
+                47.66689
+              ],
+              [
+                12.7357,
+                47.6787
+              ],
+              [
+                12.6071,
+                47.6741
+              ],
+              [
+                12.57438,
+                47.63238
+              ],
+              [
+                12.53816,
+                47.63553
+              ],
+              [
+                12.50076,
+                47.62293
+              ],
+              [
+                12.44117,
+                47.6741
+              ],
+              [
+                12.43883,
+                47.6977
+              ],
+              [
+                12.37222,
+                47.68433
+              ],
+              [
+                12.336,
+                47.69534
+              ],
+              [
+                12.27991,
+                47.68827
+              ],
+              [
+                12.26004,
+                47.67725
+              ],
+              [
+                12.24017,
+                47.69534
+              ],
+              [
+                12.26238,
+                47.73544
+              ],
+              [
+                12.2542,
+                47.7433
+              ],
+              [
+                12.22571,
+                47.71776
+              ],
+              [
+                12.18303,
+                47.70065
+              ],
+              [
+                12.16217,
+                47.70105
+              ],
+              [
+                12.16769,
+                47.68167
+              ],
+              [
+                12.18347,
+                47.66663
+              ],
+              [
+                12.18507,
+                47.65984
+              ],
+              [
+                12.19895,
+                47.64085
+              ],
+              [
+                12.20801,
+                47.61082
+              ],
+              [
+                12.20398,
+                47.60667
+              ],
+              [
+                12.18568,
+                47.6049
+              ],
+              [
+                12.17737,
+                47.60121
+              ],
+              [
+                12.18145,
+                47.61019
+              ],
+              [
+                12.17824,
+                47.61506
+              ],
+              [
+                12.13734,
+                47.60639
+              ],
+              [
+                12.05788,
+                47.61742
+              ],
+              [
+                12.02282,
+                47.61033
+              ],
+              [
+                12.0088,
+                47.62451
+              ],
+              [
+                11.85572,
+                47.60166
+              ],
+              [
+                11.84052,
+                47.58354
+              ],
+              [
+                11.63934,
+                47.59202
+              ],
+              [
+                11.60681,
+                47.57881
+              ],
+              [
+                11.58811,
+                47.55515
+              ],
+              [
+                11.58578,
+                47.52281
+              ],
+              [
+                11.52618,
+                47.50939
+              ],
+              [
+                11.4362,
+                47.51413
+              ],
+              [
+                11.38128,
+                47.47465
+              ],
+              [
+                11.4175,
+                47.44621
+              ],
+              [
+                11.33804,
+                47.44937
+              ],
+              [
+                11.29597,
+                47.42566
+              ],
+              [
+                11.27844,
+                47.39956
+              ],
+              [
+                11.25,
+                47.39802165011982
+              ],
+              [
+                11.25,
+                46.97327977041826
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                11.25,
+                47.43096014580031
+              ],
+              [
+                11.25157,
+                47.43277
+              ],
+              [
+                11.25,
+                47.43274346951871
+              ],
+              [
+                11.25,
+                47.43096014580031
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "BA",
+        "iso1A3": "BIH",
+        "iso1N3": "070",
+        "wikidata": "Q225",
+        "nameEn": "Bosnia and Herzegovina",
+        "groups": [
+          "039",
+          "150",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "387"
+        ],
+        "id": "Q225",
+        "m49": "070",
+        "ccTLD": ".ba",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇧🇦",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 51266.51,
+        "resources": {
+          "ba-facebook": {
+            "id": "ba-facebook",
+            "type": "facebook",
+            "account": "OpenStreetMapBosnaIHercegovina",
+            "locationSet": {
+              "include": [
+                "ba"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Bosnia and Herzegovina",
+              "communityID": "openstreetmapbosniaandherzegovina"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Bosnia and Herzegovina on Facebook",
+              "url": "https://www.facebook.com/OpenStreetMapBosnaIHercegovina",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMapBosnaIHercegovina\">OpenStreetMap Bosnia and Herzegovina on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMapBosnaIHercegovina\">https://www.facebook.com/OpenStreetMapBosnaIHercegovina</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "ba-telegram": {
+            "id": "ba-telegram",
+            "type": "telegram",
+            "account": "osmbih",
+            "locationSet": {
+              "include": [
+                "ba"
+              ]
+            },
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Bosnia and Herzegovina",
+              "communityID": "openstreetmapbosniaandherzegovina"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Bosnia and Herzegovina Telegram",
+              "url": "https://t.me/osmbih",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmbih\">OpenStreetMap Bosnia and Herzegovina Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmbih\">https://t.me/osmbih</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-ba": {
+            "id": "talk-ba",
+            "type": "mailinglist",
+            "account": "talk-ba",
+            "locationSet": {
+              "include": [
+                "ba"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Bosnia and Herzegovina",
+              "communityID": "openstreetmapbosniaandherzegovina"
+            },
+            "resolved": {
+              "name": "talk-ba Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ba",
+              "description": "The official mailing list for OpenStreetMap Bosnia and Herzegovina",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ba\">talk-ba Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ba\">https://lists.openstreetmap.org/listinfo/talk-ba</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Bosnia and Herzegovina"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                15.76371,
+                45.16508
+              ],
+              [
+                15.78842,
+                45.11519
+              ],
+              [
+                15.766754417101712,
+                45.08903556483103
+              ],
+              [
+                16.133699348336474,
+                45.08903556483103
+              ],
+              [
+                16.12153,
+                45.09616
+              ],
+              [
+                15.98412,
+                45.23088
+              ],
+              [
+                15.83512,
+                45.22459
+              ],
+              [
+                15.76371,
+                45.16508
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                16.392253782070785,
+                45.08903556483103
+              ],
+              [
+                16.875,
+                45.08903556483103
+              ],
+              [
+                16.875,
+                45.22670634461109
+              ],
+              [
+                16.83804,
+                45.18951
+              ],
+              [
+                16.81137,
+                45.18434
+              ],
+              [
+                16.78219,
+                45.19002
+              ],
+              [
+                16.74845,
+                45.20393
+              ],
+              [
+                16.64962,
+                45.20714
+              ],
+              [
+                16.60194,
+                45.23042
+              ],
+              [
+                16.56559,
+                45.22307
+              ],
+              [
+                16.5501,
+                45.2212
+              ],
+              [
+                16.52982,
+                45.22713
+              ],
+              [
+                16.49155,
+                45.21153
+              ],
+              [
+                16.4634,
+                45.14522
+              ],
+              [
+                16.40023,
+                45.1147
+              ],
+              [
+                16.392253782070785,
+                45.08903556483103
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "CZ",
+        "iso1A3": "CZE",
+        "iso1N3": "203",
+        "wikidata": "Q213",
+        "nameEn": "Czechia",
+        "groups": [
+          "151",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "420"
+        ],
+        "id": "Q213",
+        "m49": "203",
+        "ccTLD": ".cz",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇨🇿",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 78811.68,
+        "resources": {
+          "czech-community": {
+            "id": "czech-community",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "cz"
+              ]
+            },
+            "languageCodes": [
+              "cs",
+              "en",
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap CZ",
+              "communityID": "openstreetmapcz",
+              "description": "Map portal, website and contacts on OSM members in Czechia",
+              "url": "https://openstreetmap.cz/komunita"
+            },
+            "contacts": [
+              {
+                "name": "osmcz",
+                "email": "dev@openstreetmap.cz"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap CZ",
+              "url": "https://openstreetmap.cz/komunita",
+              "description": "Map portal, website and contacts on OSM members in Czechia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://openstreetmap.cz/komunita\">OpenStreetMap CZ</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://openstreetmap.cz/komunita\">https://openstreetmap.cz/komunita</a>",
+              "descriptionHTML": "Map portal, website and contacts on OSM members in Czechia"
+            }
+          },
+          "czech-discord": {
+            "id": "czech-discord",
+            "type": "discord",
+            "account": "A9eRVaRzRe",
+            "locationSet": {
+              "include": [
+                "cz"
+              ]
+            },
+            "languageCodes": [
+              "cs",
+              "en",
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap CZ",
+              "communityID": "openstreetmapcz",
+              "description": "OpenStreetMap CZ room bridged with IRC, Jabber, Matrix and Telegram"
+            },
+            "resolved": {
+              "name": "OpenStreetMap CZ Discord",
+              "url": "https://discord.gg/A9eRVaRzRe",
+              "description": "OpenStreetMap CZ room bridged with IRC, Jabber, Matrix and Telegram",
+              "nameHTML": "<a target=\"_blank\" href=\"https://discord.gg/A9eRVaRzRe\">OpenStreetMap CZ Discord</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://discord.gg/A9eRVaRzRe\">https://discord.gg/A9eRVaRzRe</a>",
+              "descriptionHTML": "OpenStreetMap CZ room bridged with IRC, Jabber, Matrix and Telegram"
+            }
+          },
+          "czech-irc": {
+            "id": "czech-irc",
+            "type": "irc",
+            "account": "#openstreetmapcz",
+            "locationSet": {
+              "include": [
+                "cz"
+              ]
+            },
+            "languageCodes": [
+              "cs",
+              "en",
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap CZ",
+              "communityID": "openstreetmapcz",
+              "description": "OpenStreetMap CZ room bridged with Discord, Jabber, Matrix and Telegram",
+              "url": "https://web.libera.chat/#openstreetmapcz"
+            },
+            "resolved": {
+              "name": "OpenStreetMap CZ on IRC",
+              "url": "https://web.libera.chat/#openstreetmapcz",
+              "description": "OpenStreetMap CZ room bridged with Discord, Jabber, Matrix and Telegram",
+              "nameHTML": "<a target=\"_blank\" href=\"https://web.libera.chat/#openstreetmapcz\">OpenStreetMap CZ on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://web.libera.chat/#openstreetmapcz\">https://web.libera.chat/#openstreetmapcz</a>",
+              "descriptionHTML": "OpenStreetMap CZ room bridged with Discord, Jabber, Matrix and Telegram"
+            }
+          },
+          "czech-matrix": {
+            "id": "czech-matrix",
+            "type": "matrix",
+            "account": "#osmcz",
+            "locationSet": {
+              "include": [
+                "cz"
+              ]
+            },
+            "languageCodes": [
+              "cs",
+              "en",
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap CZ",
+              "communityID": "openstreetmapcz",
+              "description": "OpenStreetMap CZ room bridged with Discord, IRC, Jabber and Telegram",
+              "url": "https://matrix.to/#/%23osmcz:matrix.org"
+            },
+            "resolved": {
+              "name": "OpenStreetMap CZ Matrix Chat",
+              "url": "https://matrix.to/#/%23osmcz:matrix.org",
+              "description": "OpenStreetMap CZ room bridged with Discord, IRC, Jabber and Telegram",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/%23osmcz:matrix.org\">OpenStreetMap CZ Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/%23osmcz:matrix.org\">https://matrix.to/#/%23osmcz:matrix.org</a>",
+              "descriptionHTML": "OpenStreetMap CZ room bridged with Discord, IRC, Jabber and Telegram"
+            }
+          },
+          "czech-telegram": {
+            "id": "czech-telegram",
+            "type": "telegram",
+            "account": "openstreetmapcz",
+            "locationSet": {
+              "include": [
+                "cz"
+              ]
+            },
+            "languageCodes": [
+              "cs",
+              "en",
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap CZ",
+              "communityID": "openstreetmapcz",
+              "description": "OpenStreetMap CZ room bridged with Discord, IRC, Jabber and Matrix"
+            },
+            "resolved": {
+              "name": "OpenStreetMap CZ Telegram",
+              "url": "https://t.me/openstreetmapcz",
+              "description": "OpenStreetMap CZ room bridged with Discord, IRC, Jabber and Matrix",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/openstreetmapcz\">OpenStreetMap CZ Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/openstreetmapcz\">https://t.me/openstreetmapcz</a>",
+              "descriptionHTML": "OpenStreetMap CZ room bridged with Discord, IRC, Jabber and Matrix"
+            }
+          },
+          "czech-xmpp": {
+            "id": "czech-xmpp",
+            "type": "xmpp",
+            "account": "openstreetmap",
+            "locationSet": {
+              "include": [
+                "cz"
+              ]
+            },
+            "languageCodes": [
+              "cs",
+              "en",
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap CZ",
+              "communityID": "openstreetmapcz",
+              "description": "OpenStreetMap CZ room bridged with Discord, IRC, Matrix and Telegram",
+              "url": "https://chat.jabb.im/?r=openstreetmap@chat.jabb.im"
+            },
+            "resolved": {
+              "name": "OpenStreetMap CZ XMPP",
+              "url": "https://chat.jabb.im/?r=openstreetmap@chat.jabb.im",
+              "description": "OpenStreetMap CZ room bridged with Discord, IRC, Matrix and Telegram",
+              "nameHTML": "<a target=\"_blank\" href=\"https://chat.jabb.im/?r=openstreetmap@chat.jabb.im\">OpenStreetMap CZ XMPP</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://chat.jabb.im/?r=openstreetmap@chat.jabb.im\">https://chat.jabb.im/?r=openstreetmap@chat.jabb.im</a>",
+              "descriptionHTML": "OpenStreetMap CZ room bridged with Discord, IRC, Matrix and Telegram"
+            }
+          },
+          "osmcz-twitter": {
+            "id": "osmcz-twitter",
+            "type": "twitter",
+            "account": "osmcz",
+            "locationSet": {
+              "include": [
+                "cz"
+              ]
+            },
+            "languageCodes": [
+              "cs",
+              "en",
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap CZ",
+              "communityID": "openstreetmapcz",
+              "description": "Follow the Czech community on Twitter - including translated WeeklyOSM!"
+            },
+            "contacts": [
+              {
+                "name": "osmcz",
+                "email": "dev@openstreetmap.cz"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap CZ on Twitter",
+              "url": "https://twitter.com/osmcz",
+              "description": "Follow the Czech community on Twitter - including translated WeeklyOSM!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmcz\">OpenStreetMap CZ on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmcz\">https://twitter.com/osmcz</a>",
+              "descriptionHTML": "Follow the Czech community on Twitter - including translated WeeklyOSM!"
+            }
+          },
+          "talk-cz": {
+            "id": "talk-cz",
+            "type": "mailinglist",
+            "account": "talk-cz",
+            "locationSet": {
+              "include": [
+                "cz"
+              ]
+            },
+            "languageCodes": [
+              "cs",
+              "en",
+              "sk"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap CZ",
+              "communityID": "openstreetmapcz",
+              "url": "https://openstreetmap.cz/talk-cz"
+            },
+            "contacts": [
+              {
+                "name": "osmcz",
+                "email": "dev@openstreetmap.cz"
+              }
+            ],
+            "resolved": {
+              "name": "talk-cz Mailing List",
+              "url": "https://openstreetmap.cz/talk-cz",
+              "description": "The official mailing list for OpenStreetMap CZ",
+              "nameHTML": "<a target=\"_blank\" href=\"https://openstreetmap.cz/talk-cz\">talk-cz Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://openstreetmap.cz/talk-cz\">https://openstreetmap.cz/talk-cz</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap CZ"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                13.637762126836689,
+                48.922499263758255
+              ],
+              [
+                13.67739,
+                48.87886
+              ],
+              [
+                13.73854,
+                48.88538
+              ],
+              [
+                13.76994,
+                48.83537
+              ],
+              [
+                13.78977,
+                48.83319
+              ],
+              [
+                13.8096,
+                48.77877
+              ],
+              [
+                13.84023,
+                48.76988
+              ],
+              [
+                14.06151,
+                48.66873
+              ],
+              [
+                14.01482,
+                48.63788
+              ],
+              [
+                14.09104,
+                48.5943
+              ],
+              [
+                14.20691,
+                48.5898
+              ],
+              [
+                14.33909,
+                48.55852
+              ],
+              [
+                14.43076,
+                48.58855
+              ],
+              [
+                14.4587,
+                48.64695
+              ],
+              [
+                14.56139,
+                48.60429
+              ],
+              [
+                14.60808,
+                48.62881
+              ],
+              [
+                14.66762,
+                48.58215
+              ],
+              [
+                14.71794,
+                48.59794
+              ],
+              [
+                14.72756,
+                48.69502
+              ],
+              [
+                14.80584,
+                48.73489
+              ],
+              [
+                14.80821,
+                48.77711
+              ],
+              [
+                14.81545,
+                48.7874
+              ],
+              [
+                14.94773,
+                48.76268
+              ],
+              [
+                14.95641,
+                48.75915
+              ],
+              [
+                14.9758,
+                48.76857
+              ],
+              [
+                14.98112,
+                48.77524
+              ],
+              [
+                14.9782,
+                48.7766
+              ],
+              [
+                14.98032,
+                48.77959
+              ],
+              [
+                14.95072,
+                48.79101
+              ],
+              [
+                14.98917,
+                48.90082
+              ],
+              [
+                14.985070385566654,
+                48.922499263758255
+              ],
+              [
+                13.637762126836689,
+                48.922499263758255
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                15.505609274108119,
+                48.922499263758255
+              ],
+              [
+                15.51357,
+                48.91549
+              ],
+              [
+                15.61622,
+                48.89541
+              ],
+              [
+                15.6921,
+                48.85973
+              ],
+              [
+                15.75341,
+                48.8516
+              ],
+              [
+                15.78087,
+                48.87644
+              ],
+              [
+                15.84404,
+                48.86921
+              ],
+              [
+                16.06034,
+                48.75436
+              ],
+              [
+                16.37345,
+                48.729
+              ],
+              [
+                16.40915,
+                48.74576
+              ],
+              [
+                16.46134,
+                48.80865
+              ],
+              [
+                16.67008,
+                48.77699
+              ],
+              [
+                16.68518,
+                48.7281
+              ],
+              [
+                16.71883,
+                48.73806
+              ],
+              [
+                16.79779,
+                48.70998
+              ],
+              [
+                16.875,
+                48.71394454184397
+              ],
+              [
+                16.875,
+                48.922499263758255
+              ],
+              [
+                15.505609274108119,
+                48.922499263758255
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "DE",
+        "iso1A3": "DEU",
+        "iso1N3": "276",
+        "wikidata": "Q183",
+        "nameEn": "Germany",
+        "groups": [
+          "155",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "49"
+        ],
+        "id": "Q183",
+        "m49": "276",
+        "ccTLD": ".de",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇩🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 393928.45,
+        "resources": {
+          "de-discourse": {
+            "id": "de-discourse",
+            "type": "discourse",
+            "account": "de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Germany Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/de",
+              "description": "The official forum for OpenStreetMap Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/de\">OpenStreetMap Germany Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/de\">https://community.openstreetmap.org/c/communities/de</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap Germany"
+            }
+          },
+          "de-irc": {
+            "id": "de-irc",
+            "type": "irc",
+            "account": "osm-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-de",
+              "description": "Join #osm-de on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-de\">OpenStreetMap Germany on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-de\">https://webchat.oftc.net/?channels=osm-de</a>",
+              "descriptionHTML": "Join #osm-de on irc.oftc.net (port 6667)"
+            }
+          },
+          "de-mailinglist": {
+            "id": "de-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "talk-de Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-de",
+              "description": "The official mailing list for OpenStreetMap Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-de\">talk-de Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-de\">https://lists.openstreetmap.org/listinfo/talk-de</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Germany"
+            }
+          },
+          "de-matrix": {
+            "id": "de-matrix",
+            "type": "matrix",
+            "account": "#osm-de",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany"
+            },
+            "contacts": [
+              {
+                "name": "Christopher Rossbach",
+                "email": "public.cr@protonmail.ch"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany Matrix Chat",
+              "url": "https://matrix.to/#/#osm-de:matrix.org",
+              "description": "Join our community Matrix chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-de:matrix.org\">OpenStreetMap Germany Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osm-de:matrix.org\">https://matrix.to/#/#osm-de:matrix.org</a>",
+              "descriptionHTML": "Join our community Matrix chat"
+            }
+          },
+          "de-xmpp": {
+            "id": "de-xmpp",
+            "type": "xmpp",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap DE",
+              "communityID": "openstreetmapde",
+              "name": "OpenStreetMap DE XMPP",
+              "description": "Join our XMPP Multi-User Chat: {url}",
+              "url": "xmpp:openstreetmap-de@rooms.dismail.de?join"
+            },
+            "resolved": {
+              "name": "OpenStreetMap DE XMPP",
+              "url": "xmpp:openstreetmap-de@rooms.dismail.de?join",
+              "description": "Join our XMPP Multi-User Chat: xmpp:openstreetmap-de@rooms.dismail.de?join",
+              "nameHTML": "<a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">OpenStreetMap DE XMPP</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">xmpp:openstreetmap-de@rooms.dismail.de?join</a>",
+              "descriptionHTML": "Join our XMPP Multi-User Chat: <a target=\"_blank\" href=\"xmpp:openstreetmap-de@rooms.dismail.de?join\">xmpp:openstreetmap-de@rooms.dismail.de?join</a>"
+            }
+          },
+          "osm-de": {
+            "id": "osm-de",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "de"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Germany",
+              "communityID": "openstreetmapgermany",
+              "description": "The platform for information on OpenStreetMap in Germany",
+              "url": "https://www.openstreetmap.de/"
+            },
+            "contacts": [
+              {
+                "name": "FOSSGIS e.V.",
+                "email": "info@fossgis.de"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Germany",
+              "url": "https://www.openstreetmap.de/",
+              "description": "The platform for information on OpenStreetMap in Germany",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.de/\">OpenStreetMap Germany</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.de/\">https://www.openstreetmap.de/</a>",
+              "descriptionHTML": "The platform for information on OpenStreetMap in Germany"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.25,
+              47.39802165011982
+            ],
+            [
+              11.27844,
+              47.39956
+            ],
+            [
+              11.29597,
+              47.42566
+            ],
+            [
+              11.33804,
+              47.44937
+            ],
+            [
+              11.4175,
+              47.44621
+            ],
+            [
+              11.38128,
+              47.47465
+            ],
+            [
+              11.4362,
+              47.51413
+            ],
+            [
+              11.52618,
+              47.50939
+            ],
+            [
+              11.58578,
+              47.52281
+            ],
+            [
+              11.58811,
+              47.55515
+            ],
+            [
+              11.60681,
+              47.57881
+            ],
+            [
+              11.63934,
+              47.59202
+            ],
+            [
+              11.84052,
+              47.58354
+            ],
+            [
+              11.85572,
+              47.60166
+            ],
+            [
+              12.0088,
+              47.62451
+            ],
+            [
+              12.02282,
+              47.61033
+            ],
+            [
+              12.05788,
+              47.61742
+            ],
+            [
+              12.13734,
+              47.60639
+            ],
+            [
+              12.17824,
+              47.61506
+            ],
+            [
+              12.18145,
+              47.61019
+            ],
+            [
+              12.17737,
+              47.60121
+            ],
+            [
+              12.18568,
+              47.6049
+            ],
+            [
+              12.20398,
+              47.60667
+            ],
+            [
+              12.20801,
+              47.61082
+            ],
+            [
+              12.19895,
+              47.64085
+            ],
+            [
+              12.18507,
+              47.65984
+            ],
+            [
+              12.18347,
+              47.66663
+            ],
+            [
+              12.16769,
+              47.68167
+            ],
+            [
+              12.16217,
+              47.70105
+            ],
+            [
+              12.18303,
+              47.70065
+            ],
+            [
+              12.22571,
+              47.71776
+            ],
+            [
+              12.2542,
+              47.7433
+            ],
+            [
+              12.26238,
+              47.73544
+            ],
+            [
+              12.24017,
+              47.69534
+            ],
+            [
+              12.26004,
+              47.67725
+            ],
+            [
+              12.27991,
+              47.68827
+            ],
+            [
+              12.336,
+              47.69534
+            ],
+            [
+              12.37222,
+              47.68433
+            ],
+            [
+              12.43883,
+              47.6977
+            ],
+            [
+              12.44117,
+              47.6741
+            ],
+            [
+              12.50076,
+              47.62293
+            ],
+            [
+              12.53816,
+              47.63553
+            ],
+            [
+              12.57438,
+              47.63238
+            ],
+            [
+              12.6071,
+              47.6741
+            ],
+            [
+              12.7357,
+              47.6787
+            ],
+            [
+              12.77777,
+              47.66689
+            ],
+            [
+              12.76492,
+              47.64485
+            ],
+            [
+              12.82101,
+              47.61493
+            ],
+            [
+              12.77427,
+              47.58025
+            ],
+            [
+              12.80699,
+              47.54477
+            ],
+            [
+              12.84672,
+              47.54556
+            ],
+            [
+              12.85256,
+              47.52741
+            ],
+            [
+              12.9624,
+              47.47452
+            ],
+            [
+              12.98344,
+              47.48716
+            ],
+            [
+              12.9998,
+              47.46267
+            ],
+            [
+              13.04537,
+              47.49426
+            ],
+            [
+              13.03252,
+              47.53373
+            ],
+            [
+              13.05355,
+              47.56291
+            ],
+            [
+              13.04537,
+              47.58183
+            ],
+            [
+              13.06641,
+              47.58577
+            ],
+            [
+              13.06407,
+              47.60075
+            ],
+            [
+              13.09562,
+              47.63304
+            ],
+            [
+              13.07692,
+              47.68814
+            ],
+            [
+              13.01382,
+              47.72116
+            ],
+            [
+              12.98578,
+              47.7078
+            ],
+            [
+              12.92969,
+              47.71094
+            ],
+            [
+              12.91333,
+              47.7178
+            ],
+            [
+              12.90274,
+              47.72513
+            ],
+            [
+              12.91711,
+              47.74026
+            ],
+            [
+              12.9353,
+              47.74788
+            ],
+            [
+              12.94371,
+              47.76281
+            ],
+            [
+              12.93202,
+              47.77302
+            ],
+            [
+              12.96311,
+              47.79957
+            ],
+            [
+              12.98543,
+              47.82896
+            ],
+            [
+              13.00588,
+              47.84374
+            ],
+            [
+              12.94163,
+              47.92927
+            ],
+            [
+              12.93886,
+              47.94046
+            ],
+            [
+              12.93642,
+              47.94436
+            ],
+            [
+              12.93419,
+              47.94063
+            ],
+            [
+              12.92668,
+              47.93879
+            ],
+            [
+              12.91985,
+              47.94069
+            ],
+            [
+              12.9211,
+              47.95135
+            ],
+            [
+              12.91683,
+              47.95647
+            ],
+            [
+              12.87476,
+              47.96195
+            ],
+            [
+              12.8549,
+              48.01122
+            ],
+            [
+              12.76141,
+              48.07373
+            ],
+            [
+              12.74973,
+              48.10885
+            ],
+            [
+              12.7617,
+              48.12796
+            ],
+            [
+              12.78595,
+              48.12445
+            ],
+            [
+              12.80676,
+              48.14979
+            ],
+            [
+              12.82673,
+              48.15245
+            ],
+            [
+              12.8362,
+              48.15876
+            ],
+            [
+              12.836,
+              48.1647
+            ],
+            [
+              12.84475,
+              48.16556
+            ],
+            [
+              12.87126,
+              48.20318
+            ],
+            [
+              12.95306,
+              48.20629
+            ],
+            [
+              13.02083,
+              48.25689
+            ],
+            [
+              13.0851,
+              48.27711
+            ],
+            [
+              13.126,
+              48.27867
+            ],
+            [
+              13.18093,
+              48.29577
+            ],
+            [
+              13.26039,
+              48.29422
+            ],
+            [
+              13.30897,
+              48.31575
+            ],
+            [
+              13.40709,
+              48.37292
+            ],
+            [
+              13.43929,
+              48.43386
+            ],
+            [
+              13.42527,
+              48.45711
+            ],
+            [
+              13.45727,
+              48.51092
+            ],
+            [
+              13.43695,
+              48.55776
+            ],
+            [
+              13.45214,
+              48.56472
+            ],
+            [
+              13.46967,
+              48.55157
+            ],
+            [
+              13.50663,
+              48.57506
+            ],
+            [
+              13.50131,
+              48.58091
+            ],
+            [
+              13.51291,
+              48.59023
+            ],
+            [
+              13.57535,
+              48.55912
+            ],
+            [
+              13.59705,
+              48.57013
+            ],
+            [
+              13.62508,
+              48.55501
+            ],
+            [
+              13.65186,
+              48.55092
+            ],
+            [
+              13.66113,
+              48.53558
+            ],
+            [
+              13.72802,
+              48.51208
+            ],
+            [
+              13.74816,
+              48.53058
+            ],
+            [
+              13.7513,
+              48.5624
+            ],
+            [
+              13.76921,
+              48.55324
+            ],
+            [
+              13.80519,
+              48.58026
+            ],
+            [
+              13.80038,
+              48.59487
+            ],
+            [
+              13.82609,
+              48.62345
+            ],
+            [
+              13.81901,
+              48.6761
+            ],
+            [
+              13.81283,
+              48.68426
+            ],
+            [
+              13.81791,
+              48.69832
+            ],
+            [
+              13.79337,
+              48.71375
+            ],
+            [
+              13.81863,
+              48.73257
+            ],
+            [
+              13.82266,
+              48.75544
+            ],
+            [
+              13.84023,
+              48.76988
+            ],
+            [
+              13.8096,
+              48.77877
+            ],
+            [
+              13.78977,
+              48.83319
+            ],
+            [
+              13.76994,
+              48.83537
+            ],
+            [
+              13.73854,
+              48.88538
+            ],
+            [
+              13.67739,
+              48.87886
+            ],
+            [
+              13.637762126836689,
+              48.922499263758255
+            ],
+            [
+              11.25,
+              48.922499263758255
+            ],
+            [
+              11.25,
+              47.43274346951871
+            ],
+            [
+              11.25157,
+              47.43277
+            ],
+            [
+              11.25,
+              47.43096014580031
+            ],
+            [
+              11.25,
+              47.39802165011982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[11.57445,48.13711]",
+        "area": 1963.5,
+        "resources": {
+          "de-munchen-wiki": {
+            "id": "de-munchen-wiki",
+            "type": "wiki",
+            "account": "M%C3%BCnchen",
+            "locationSet": {
+              "include": [
+                [
+                  11.57445,
+                  48.13711
+                ]
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "community": "OpenStreetMap München",
+              "communityID": "openstreetmapmunchen",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap München WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/M%C3%BCnchen",
+              "description": "OpenStreetMap München Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/M%C3%BCnchen\">OpenStreetMap München WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/M%C3%BCnchen\">https://wiki.openstreetmap.org/wiki/M%C3%BCnchen</a>",
+              "descriptionHTML": "OpenStreetMap München Wiki page"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.254,
+              48.206
+            ],
+            [
+              11.255,
+              48.067
+            ],
+            [
+              11.377,
+              47.955
+            ],
+            [
+              11.574,
+              47.913
+            ],
+            [
+              11.772,
+              47.955
+            ],
+            [
+              11.894,
+              48.067
+            ],
+            [
+              11.895,
+              48.206
+            ],
+            [
+              11.773,
+              48.319
+            ],
+            [
+              11.574,
+              48.362
+            ],
+            [
+              11.376,
+              48.319
+            ],
+            [
+              11.254,
+              48.206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q183,Q39,Q40]",
+        "area": 518975.04,
+        "resources": {
+          "de-telegram": {
+            "id": "de-telegram",
+            "type": "telegram",
+            "account": "OSM_de",
+            "locationSet": {
+              "include": [
+                "de",
+                "at",
+                "ch"
+              ]
+            },
+            "languageCodes": [
+              "de"
+            ],
+            "strings": {
+              "name": "OpenStreetMap D-A-CH Telegram",
+              "description": "Join the OpenStreetMap D-A-CH Telegram supergroup at {url}"
+            },
+            "contacts": [
+              {
+                "name": "Max N",
+                "email": "abonnements@revolwear.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap D-A-CH Telegram",
+              "url": "https://t.me/OSM_de",
+              "description": "Join the OpenStreetMap D-A-CH Telegram supergroup at https://t.me/OSM_de",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OSM_de\">OpenStreetMap D-A-CH Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OSM_de\">https://t.me/OSM_de</a>",
+              "descriptionHTML": "Join the OpenStreetMap D-A-CH Telegram supergroup at <a target=\"_blank\" href=\"https://t.me/OSM_de\">https://t.me/OSM_de</a>"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.25,
+              46.97327977041826
+            ],
+            [
+              11.33355,
+              46.99862
+            ],
+            [
+              11.50739,
+              47.00644
+            ],
+            [
+              11.74789,
+              46.98484
+            ],
+            [
+              12.19254,
+              47.09331
+            ],
+            [
+              12.21781,
+              47.03996
+            ],
+            [
+              12.11675,
+              47.01241
+            ],
+            [
+              12.2006,
+              46.88854
+            ],
+            [
+              12.27591,
+              46.88651
+            ],
+            [
+              12.38708,
+              46.71529
+            ],
+            [
+              12.59992,
+              46.6595
+            ],
+            [
+              12.94445,
+              46.60401
+            ],
+            [
+              13.27627,
+              46.56059
+            ],
+            [
+              13.64088,
+              46.53438
+            ],
+            [
+              13.7148,
+              46.5222
+            ],
+            [
+              13.89837,
+              46.52331
+            ],
+            [
+              14.00422,
+              46.48474
+            ],
+            [
+              14.04002,
+              46.49117
+            ],
+            [
+              14.12097,
+              46.47724
+            ],
+            [
+              14.15989,
+              46.43327
+            ],
+            [
+              14.28326,
+              46.44315
+            ],
+            [
+              14.314,
+              46.43327
+            ],
+            [
+              14.42608,
+              46.44614
+            ],
+            [
+              14.45877,
+              46.41717
+            ],
+            [
+              14.52176,
+              46.42617
+            ],
+            [
+              14.56463,
+              46.37208
+            ],
+            [
+              14.5942,
+              46.43434
+            ],
+            [
+              14.66892,
+              46.44936
+            ],
+            [
+              14.72185,
+              46.49974
+            ],
+            [
+              14.81836,
+              46.51046
+            ],
+            [
+              14.83549,
+              46.56614
+            ],
+            [
+              14.86419,
+              46.59411
+            ],
+            [
+              14.87129,
+              46.61
+            ],
+            [
+              14.92283,
+              46.60848
+            ],
+            [
+              14.96002,
+              46.63459
+            ],
+            [
+              14.98024,
+              46.6009
+            ],
+            [
+              15.01451,
+              46.641
+            ],
+            [
+              15.14215,
+              46.66131
+            ],
+            [
+              15.23711,
+              46.63994
+            ],
+            [
+              15.41235,
+              46.65556
+            ],
+            [
+              15.45514,
+              46.63697
+            ],
+            [
+              15.46906,
+              46.61321
+            ],
+            [
+              15.54431,
+              46.6312
+            ],
+            [
+              15.55333,
+              46.64988
+            ],
+            [
+              15.54533,
+              46.66985
+            ],
+            [
+              15.59826,
+              46.68908
+            ],
+            [
+              15.62317,
+              46.67947
+            ],
+            [
+              15.63255,
+              46.68069
+            ],
+            [
+              15.6365,
+              46.6894
+            ],
+            [
+              15.6543,
+              46.69228
+            ],
+            [
+              15.6543,
+              46.70616
+            ],
+            [
+              15.67411,
+              46.70735
+            ],
+            [
+              15.69523,
+              46.69823
+            ],
+            [
+              15.72279,
+              46.69548
+            ],
+            [
+              15.73823,
+              46.70011
+            ],
+            [
+              15.76771,
+              46.69863
+            ],
+            [
+              15.78518,
+              46.70712
+            ],
+            [
+              15.8162,
+              46.71897
+            ],
+            [
+              15.87691,
+              46.7211
+            ],
+            [
+              15.94864,
+              46.68769
+            ],
+            [
+              15.98512,
+              46.68463
+            ],
+            [
+              15.99988,
+              46.67947
+            ],
+            [
+              16.04036,
+              46.6549
+            ],
+            [
+              16.04347,
+              46.68694
+            ],
+            [
+              16.02808,
+              46.71094
+            ],
+            [
+              15.99769,
+              46.7266
+            ],
+            [
+              15.98432,
+              46.74991
+            ],
+            [
+              15.99126,
+              46.78199
+            ],
+            [
+              15.99054,
+              46.82772
+            ],
+            [
+              16.05786,
+              46.83927
+            ],
+            [
+              16.10983,
+              46.867
+            ],
+            [
+              16.19904,
+              46.94134
+            ],
+            [
+              16.22403,
+              46.939
+            ],
+            [
+              16.27594,
+              46.9643
+            ],
+            [
+              16.28202,
+              47.00159
+            ],
+            [
+              16.51369,
+              47.00084
+            ],
+            [
+              16.43936,
+              47.03548
+            ],
+            [
+              16.52176,
+              47.05747
+            ],
+            [
+              16.46134,
+              47.09395
+            ],
+            [
+              16.52863,
+              47.13974
+            ],
+            [
+              16.44932,
+              47.14418
+            ],
+            [
+              16.46442,
+              47.16845
+            ],
+            [
+              16.4523,
+              47.18812
+            ],
+            [
+              16.42801,
+              47.18422
+            ],
+            [
+              16.41739,
+              47.20649
+            ],
+            [
+              16.43663,
+              47.21127
+            ],
+            [
+              16.44142,
+              47.25079
+            ],
+            [
+              16.47782,
+              47.25918
+            ],
+            [
+              16.45104,
+              47.41181
+            ],
+            [
+              16.49908,
+              47.39416
+            ],
+            [
+              16.52414,
+              47.41007
+            ],
+            [
+              16.57152,
+              47.40868
+            ],
+            [
+              16.6718,
+              47.46139
+            ],
+            [
+              16.64821,
+              47.50155
+            ],
+            [
+              16.71059,
+              47.52692
+            ],
+            [
+              16.64193,
+              47.63114
+            ],
+            [
+              16.58699,
+              47.61772
+            ],
+            [
+              16.4222,
+              47.66537
+            ],
+            [
+              16.55129,
+              47.72268
+            ],
+            [
+              16.53514,
+              47.73837
+            ],
+            [
+              16.54779,
+              47.75074
+            ],
+            [
+              16.61183,
+              47.76171
+            ],
+            [
+              16.65679,
+              47.74197
+            ],
+            [
+              16.72089,
+              47.73469
+            ],
+            [
+              16.7511,
+              47.67878
+            ],
+            [
+              16.82938,
+              47.68432
+            ],
+            [
+              16.86509,
+              47.72268
+            ],
+            [
+              16.875,
+              47.69019561710398
+            ],
+            [
+              16.875,
+              48.33918522072072
+            ],
+            [
+              16.84243,
+              48.35258
+            ],
+            [
+              16.83317,
+              48.38138
+            ],
+            [
+              16.83588,
+              48.3844
+            ],
+            [
+              16.8497,
+              48.38321
+            ],
+            [
+              16.85204,
+              48.44968
+            ],
+            [
+              16.875,
+              48.47078260019135
+            ],
+            [
+              16.875,
+              48.71394454184397
+            ],
+            [
+              16.79779,
+              48.70998
+            ],
+            [
+              16.71883,
+              48.73806
+            ],
+            [
+              16.68518,
+              48.7281
+            ],
+            [
+              16.67008,
+              48.77699
+            ],
+            [
+              16.46134,
+              48.80865
+            ],
+            [
+              16.40915,
+              48.74576
+            ],
+            [
+              16.37345,
+              48.729
+            ],
+            [
+              16.06034,
+              48.75436
+            ],
+            [
+              15.84404,
+              48.86921
+            ],
+            [
+              15.78087,
+              48.87644
+            ],
+            [
+              15.75341,
+              48.8516
+            ],
+            [
+              15.6921,
+              48.85973
+            ],
+            [
+              15.61622,
+              48.89541
+            ],
+            [
+              15.51357,
+              48.91549
+            ],
+            [
+              15.505609274108119,
+              48.922499263758255
+            ],
+            [
+              14.985070385566654,
+              48.922499263758255
+            ],
+            [
+              14.98917,
+              48.90082
+            ],
+            [
+              14.95072,
+              48.79101
+            ],
+            [
+              14.98032,
+              48.77959
+            ],
+            [
+              14.9782,
+              48.7766
+            ],
+            [
+              14.98112,
+              48.77524
+            ],
+            [
+              14.9758,
+              48.76857
+            ],
+            [
+              14.95641,
+              48.75915
+            ],
+            [
+              14.94773,
+              48.76268
+            ],
+            [
+              14.81545,
+              48.7874
+            ],
+            [
+              14.80821,
+              48.77711
+            ],
+            [
+              14.80584,
+              48.73489
+            ],
+            [
+              14.72756,
+              48.69502
+            ],
+            [
+              14.71794,
+              48.59794
+            ],
+            [
+              14.66762,
+              48.58215
+            ],
+            [
+              14.60808,
+              48.62881
+            ],
+            [
+              14.56139,
+              48.60429
+            ],
+            [
+              14.4587,
+              48.64695
+            ],
+            [
+              14.43076,
+              48.58855
+            ],
+            [
+              14.33909,
+              48.55852
+            ],
+            [
+              14.20691,
+              48.5898
+            ],
+            [
+              14.09104,
+              48.5943
+            ],
+            [
+              14.01482,
+              48.63788
+            ],
+            [
+              14.06151,
+              48.66873
+            ],
+            [
+              13.84023,
+              48.76988
+            ],
+            [
+              13.8096,
+              48.77877
+            ],
+            [
+              13.78977,
+              48.83319
+            ],
+            [
+              13.76994,
+              48.83537
+            ],
+            [
+              13.73854,
+              48.88538
+            ],
+            [
+              13.67739,
+              48.87886
+            ],
+            [
+              13.637762126836689,
+              48.922499263758255
+            ],
+            [
+              11.25,
+              48.922499263758255
+            ],
+            [
+              11.25,
+              46.97327977041826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "HR",
+        "iso1A3": "HRV",
+        "iso1N3": "191",
+        "wikidata": "Q224",
+        "nameEn": "Croatia",
+        "groups": [
+          "039",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "385"
+        ],
+        "id": "Q224",
+        "m49": "191",
+        "ccTLD": ".hr",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇭🇷",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 108479.71,
+        "resources": {
+          "hr-facebook": {
+            "id": "hr-facebook",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "hr"
+              ]
+            },
+            "languageCodes": [
+              "hr"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Croatia",
+              "communityID": "openstreetmapcroatia",
+              "url": "https://www.facebook.com/groups/541098862671461"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Croatia",
+                "email": "info@osm-hr.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Croatia on Facebook",
+              "url": "https://www.facebook.com/groups/541098862671461",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/541098862671461\">OpenStreetMap Croatia on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/541098862671461\">https://www.facebook.com/groups/541098862671461</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "hr-irc": {
+            "id": "hr-irc",
+            "type": "irc",
+            "account": "osm-hr",
+            "locationSet": {
+              "include": [
+                "hr"
+              ]
+            },
+            "languageCodes": [
+              "hr"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Croatia",
+              "communityID": "openstreetmapcroatia",
+              "description": "Join #{account} on irc.freenode.org (port 6667)",
+              "url": "https://webchat.freenode.net/?url=irc://irc.freenode.net/{account}"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Croatia",
+                "email": "info@osm-hr.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Croatia on IRC",
+              "url": "https://webchat.freenode.net/?url=irc://irc.freenode.net/osm-hr",
+              "description": "Join #osm-hr on irc.freenode.org (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.freenode.net/?url=irc://irc.freenode.net/osm-hr\">OpenStreetMap Croatia on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.freenode.net/?url=irc://irc.freenode.net/osm-hr\">https://webchat.freenode.net/?url=irc://irc.freenode.net/osm-hr</a>",
+              "descriptionHTML": "Join #osm-hr on irc.freenode.org (port 6667)"
+            }
+          },
+          "hr-wiki": {
+            "id": "hr-wiki",
+            "type": "wiki",
+            "locationSet": {
+              "include": [
+                "hr"
+              ]
+            },
+            "languageCodes": [
+              "hr"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Croatia",
+              "communityID": "openstreetmapcroatia",
+              "description": "Wikiproject page for Croatia",
+              "url": "https://wiki.openstreetmap.org/wiki/Croatia"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Croatia WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/Croatia",
+              "description": "Wikiproject page for Croatia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Croatia\">OpenStreetMap Croatia WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Croatia\">https://wiki.openstreetmap.org/wiki/Croatia</a>",
+              "descriptionHTML": "Wikiproject page for Croatia"
+            }
+          },
+          "osm-hr": {
+            "id": "osm-hr",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                "hr"
+              ]
+            },
+            "languageCodes": [
+              "hr"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Croatia",
+              "communityID": "openstreetmapcroatia",
+              "description": "The platform for information on OpenStreetMap in Croatia",
+              "url": "https://osm-hr.org/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Croatia",
+                "email": "info@osm-hr.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Croatia",
+              "url": "https://osm-hr.org/",
+              "description": "The platform for information on OpenStreetMap in Croatia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osm-hr.org/\">OpenStreetMap Croatia</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osm-hr.org/\">https://osm-hr.org/</a>",
+              "descriptionHTML": "The platform for information on OpenStreetMap in Croatia"
+            }
+          },
+          "talk-hr": {
+            "id": "talk-hr",
+            "type": "mailinglist",
+            "account": "talk-hr",
+            "locationSet": {
+              "include": [
+                "hr"
+              ]
+            },
+            "languageCodes": [
+              "hr"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Croatia",
+              "communityID": "openstreetmapcroatia"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Croatia",
+                "email": "info@osm-hr.org"
+              }
+            ],
+            "resolved": {
+              "name": "talk-hr Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-hr",
+              "description": "The official mailing list for OpenStreetMap Croatia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-hr\">talk-hr Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-hr\">https://lists.openstreetmap.org/listinfo/talk-hr</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Croatia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.05142,
+              45.33128
+            ],
+            [
+              13.073499204017311,
+              45.08903556483103
+            ],
+            [
+              15.766754417101712,
+              45.08903556483103
+            ],
+            [
+              15.78842,
+              45.11519
+            ],
+            [
+              15.76371,
+              45.16508
+            ],
+            [
+              15.83512,
+              45.22459
+            ],
+            [
+              15.98412,
+              45.23088
+            ],
+            [
+              16.12153,
+              45.09616
+            ],
+            [
+              16.133699348336474,
+              45.08903556483103
+            ],
+            [
+              16.392253782070785,
+              45.08903556483103
+            ],
+            [
+              16.40023,
+              45.1147
+            ],
+            [
+              16.4634,
+              45.14522
+            ],
+            [
+              16.49155,
+              45.21153
+            ],
+            [
+              16.52982,
+              45.22713
+            ],
+            [
+              16.5501,
+              45.2212
+            ],
+            [
+              16.56559,
+              45.22307
+            ],
+            [
+              16.60194,
+              45.23042
+            ],
+            [
+              16.64962,
+              45.20714
+            ],
+            [
+              16.74845,
+              45.20393
+            ],
+            [
+              16.78219,
+              45.19002
+            ],
+            [
+              16.81137,
+              45.18434
+            ],
+            [
+              16.83804,
+              45.18951
+            ],
+            [
+              16.875,
+              45.22670634461109
+            ],
+            [
+              16.875,
+              46.31559428176795
+            ],
+            [
+              16.8541,
+              46.36255
+            ],
+            [
+              16.7154,
+              46.39523
+            ],
+            [
+              16.6639,
+              46.45203
+            ],
+            [
+              16.59527,
+              46.47524
+            ],
+            [
+              16.52604,
+              46.47831
+            ],
+            [
+              16.5007,
+              46.49644
+            ],
+            [
+              16.44036,
+              46.5171
+            ],
+            [
+              16.38771,
+              46.53608
+            ],
+            [
+              16.37193,
+              46.55008
+            ],
+            [
+              16.29793,
+              46.5121
+            ],
+            [
+              16.26733,
+              46.51505
+            ],
+            [
+              16.26759,
+              46.50566
+            ],
+            [
+              16.23961,
+              46.49653
+            ],
+            [
+              16.25124,
+              46.48067
+            ],
+            [
+              16.27398,
+              46.42875
+            ],
+            [
+              16.27329,
+              46.41467
+            ],
+            [
+              16.30162,
+              46.40437
+            ],
+            [
+              16.30233,
+              46.37837
+            ],
+            [
+              16.18824,
+              46.38282
+            ],
+            [
+              16.14859,
+              46.40547
+            ],
+            [
+              16.05281,
+              46.39141
+            ],
+            [
+              16.05065,
+              46.3833
+            ],
+            [
+              16.07314,
+              46.36458
+            ],
+            [
+              16.07616,
+              46.3463
+            ],
+            [
+              15.97965,
+              46.30652
+            ],
+            [
+              15.79284,
+              46.25811
+            ],
+            [
+              15.78817,
+              46.21719
+            ],
+            [
+              15.75479,
+              46.20336
+            ],
+            [
+              15.75436,
+              46.21969
+            ],
+            [
+              15.67395,
+              46.22478
+            ],
+            [
+              15.6434,
+              46.21396
+            ],
+            [
+              15.64904,
+              46.19229
+            ],
+            [
+              15.59909,
+              46.14761
+            ],
+            [
+              15.6083,
+              46.11992
+            ],
+            [
+              15.62317,
+              46.09103
+            ],
+            [
+              15.72977,
+              46.04682
+            ],
+            [
+              15.71246,
+              46.01196
+            ],
+            [
+              15.70327,
+              46.00015
+            ],
+            [
+              15.70636,
+              45.92116
+            ],
+            [
+              15.67967,
+              45.90455
+            ],
+            [
+              15.68383,
+              45.88867
+            ],
+            [
+              15.68232,
+              45.86819
+            ],
+            [
+              15.70411,
+              45.8465
+            ],
+            [
+              15.66662,
+              45.84085
+            ],
+            [
+              15.64185,
+              45.82915
+            ],
+            [
+              15.57952,
+              45.84953
+            ],
+            [
+              15.52234,
+              45.82195
+            ],
+            [
+              15.47325,
+              45.8253
+            ],
+            [
+              15.47531,
+              45.79802
+            ],
+            [
+              15.40836,
+              45.79491
+            ],
+            [
+              15.25423,
+              45.72275
+            ],
+            [
+              15.30872,
+              45.69014
+            ],
+            [
+              15.34919,
+              45.71623
+            ],
+            [
+              15.4057,
+              45.64727
+            ],
+            [
+              15.38952,
+              45.63682
+            ],
+            [
+              15.34214,
+              45.64702
+            ],
+            [
+              15.34695,
+              45.63382
+            ],
+            [
+              15.31027,
+              45.6303
+            ],
+            [
+              15.27747,
+              45.60504
+            ],
+            [
+              15.29837,
+              45.5841
+            ],
+            [
+              15.30249,
+              45.53224
+            ],
+            [
+              15.38188,
+              45.48752
+            ],
+            [
+              15.33051,
+              45.45258
+            ],
+            [
+              15.27758,
+              45.46678
+            ],
+            [
+              15.16862,
+              45.42309
+            ],
+            [
+              15.05187,
+              45.49079
+            ],
+            [
+              15.02385,
+              45.48533
+            ],
+            [
+              14.92266,
+              45.52788
+            ],
+            [
+              14.90554,
+              45.47769
+            ],
+            [
+              14.81992,
+              45.45913
+            ],
+            [
+              14.80124,
+              45.49515
+            ],
+            [
+              14.71718,
+              45.53442
+            ],
+            [
+              14.68605,
+              45.53006
+            ],
+            [
+              14.69694,
+              45.57366
+            ],
+            [
+              14.59576,
+              45.62812
+            ],
+            [
+              14.60977,
+              45.66403
+            ],
+            [
+              14.57397,
+              45.67165
+            ],
+            [
+              14.53816,
+              45.6205
+            ],
+            [
+              14.5008,
+              45.60852
+            ],
+            [
+              14.49769,
+              45.54424
+            ],
+            [
+              14.36693,
+              45.48642
+            ],
+            [
+              14.32487,
+              45.47142
+            ],
+            [
+              14.27681,
+              45.4902
+            ],
+            [
+              14.26611,
+              45.48239
+            ],
+            [
+              14.24239,
+              45.50607
+            ],
+            [
+              14.22371,
+              45.50388
+            ],
+            [
+              14.20348,
+              45.46896
+            ],
+            [
+              14.07116,
+              45.48752
+            ],
+            [
+              14.00578,
+              45.52352
+            ],
+            [
+              13.96063,
+              45.50825
+            ],
+            [
+              13.99488,
+              45.47551
+            ],
+            [
+              13.97309,
+              45.45258
+            ],
+            [
+              13.90771,
+              45.45149
+            ],
+            [
+              13.88124,
+              45.42637
+            ],
+            [
+              13.81742,
+              45.43729
+            ],
+            [
+              13.7785,
+              45.46787
+            ],
+            [
+              13.67398,
+              45.4436
+            ],
+            [
+              13.62902,
+              45.45898
+            ],
+            [
+              13.56979,
+              45.4895
+            ],
+            [
+              13.45644,
+              45.59464
+            ],
+            [
+              13.05142,
+              45.33128
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "HU",
+        "iso1A3": "HUN",
+        "iso1N3": "348",
+        "wikidata": "Q28",
+        "nameEn": "Hungary",
+        "groups": [
+          "151",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "36"
+        ],
+        "id": "Q28",
+        "m49": "348",
+        "ccTLD": ".hu",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇭🇺",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 93019.3,
+        "resources": {
+          "hu-facebook": {
+            "id": "hu-facebook",
+            "type": "facebook",
+            "account": "OpenStreetMap.hu",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Hungary on Facebook",
+              "url": "https://www.facebook.com/OpenStreetMap.hu",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMap.hu\">OpenStreetMap Hungary on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMap.hu\">https://www.facebook.com/OpenStreetMap.hu</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "hu-facebook-group": {
+            "id": "hu-facebook-group",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "name": "{community} Facebook Group",
+              "url": "https://www.facebook.com/groups/osm.hu"
+            },
+            "contacts": [
+              {
+                "name": "Ferenc Veres",
+                "email": "info@openstreetmap.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary Facebook Group",
+              "url": "https://www.facebook.com/groups/osm.hu",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osm.hu\">OpenStreetMap Hungary Facebook Group</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osm.hu\">https://www.facebook.com/groups/osm.hu</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "hu-mailinglist": {
+            "id": "hu-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-hu",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": -2,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary"
+            },
+            "contacts": [
+              {
+                "name": "Péter Gervai",
+                "email": "grin@grin.hu"
+              }
+            ],
+            "resolved": {
+              "name": "talk-hu Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-hu",
+              "description": "The official mailing list for OpenStreetMap Hungary",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-hu\">talk-hu Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-hu\">https://lists.openstreetmap.org/listinfo/talk-hu</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Hungary"
+            }
+          },
+          "hu-matrix": {
+            "id": "hu-matrix",
+            "type": "matrix",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "hu"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "extendedDescription": "OpenStreetMap chat on map topics. One of the OSM community support forums.",
+              "url": "https://matrix.to/#/%23osm:grin.hu"
+            },
+            "contacts": [
+              {
+                "name": "Peter 'grin' Gervai",
+                "email": "grin@grin.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary Matrix Chat",
+              "url": "https://matrix.to/#/%23osm:grin.hu",
+              "description": "Join our community Matrix chat",
+              "extendedDescription": "OpenStreetMap chat on map topics. One of the OSM community support forums.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/%23osm:grin.hu\">OpenStreetMap Hungary Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/%23osm:grin.hu\">https://matrix.to/#/%23osm:grin.hu</a>",
+              "descriptionHTML": "Join our community Matrix chat",
+              "extendedDescriptionHTML": "OpenStreetMap chat on map topics. One of the OSM community support forums."
+            }
+          },
+          "hu-meetup": {
+            "id": "hu-meetup",
+            "type": "meetup",
+            "account": "OpenStreetMap-Hungary",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "description": "The platform for organizing meetups in Hungary"
+            },
+            "contacts": [
+              {
+                "name": "Ferenc Veres",
+                "email": "info@openstreetmap.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary Meetup",
+              "url": "https://www.meetup.com/OpenStreetMap-Hungary",
+              "description": "The platform for organizing meetups in Hungary",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Hungary\">OpenStreetMap Hungary Meetup</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.meetup.com/OpenStreetMap-Hungary\">https://www.meetup.com/OpenStreetMap-Hungary</a>",
+              "descriptionHTML": "The platform for organizing meetups in Hungary"
+            }
+          },
+          "hu-mobilizon": {
+            "id": "hu-mobilizon",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "name": "{community} on Mobilizon",
+              "description": "Upcoming events for the OpenStreetMap Hungary community",
+              "url": "https://mobilizon.grin.hu/@openstreetmap"
+            },
+            "contacts": [
+              {
+                "name": "Péter Gervai",
+                "email": "grin@grin.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary on Mobilizon",
+              "url": "https://mobilizon.grin.hu/@openstreetmap",
+              "description": "Upcoming events for the OpenStreetMap Hungary community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://mobilizon.grin.hu/@openstreetmap\">OpenStreetMap Hungary on Mobilizon</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://mobilizon.grin.hu/@openstreetmap\">https://mobilizon.grin.hu/@openstreetmap</a>",
+              "descriptionHTML": "Upcoming events for the OpenStreetMap Hungary community"
+            }
+          },
+          "hu-tm": {
+            "id": "hu-tm",
+            "type": "url",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": -1,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "name": "{community} Tasking Manager",
+              "description": "Explore active mapping tasks in Hungary",
+              "url": "https://tm.osm.grin.hu/"
+            },
+            "contacts": [
+              {
+                "name": "Péter Gervai",
+                "email": "grin@grin.hu"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Hungary Tasking Manager",
+              "url": "https://tm.osm.grin.hu/",
+              "description": "Explore active mapping tasks in Hungary",
+              "nameHTML": "<a target=\"_blank\" href=\"https://tm.osm.grin.hu/\">OpenStreetMap Hungary Tasking Manager</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://tm.osm.grin.hu/\">https://tm.osm.grin.hu/</a>",
+              "descriptionHTML": "Explore active mapping tasks in Hungary"
+            }
+          },
+          "hu-website": {
+            "id": "hu-website",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "description": "We help grow and improve OpenStreetMap in Hungary.",
+              "url": "https://www.openstreetmap.hu/"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Hungary",
+              "url": "https://www.openstreetmap.hu/",
+              "description": "We help grow and improve OpenStreetMap in Hungary.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.hu/\">OpenStreetMap Hungary</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.hu/\">https://www.openstreetmap.hu/</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in Hungary."
+            }
+          },
+          "hu-wiki": {
+            "id": "hu-wiki",
+            "type": "wiki",
+            "account": "Hungary",
+            "locationSet": {
+              "include": [
+                "hu"
+              ]
+            },
+            "languageCodes": [
+              "hu"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Hungary",
+              "communityID": "openstreetmaphungary",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Hungary WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/Hungary",
+              "description": "OpenStreetMap Hungary Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Hungary\">OpenStreetMap Hungary WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Hungary\">https://wiki.openstreetmap.org/wiki/Hungary</a>",
+              "descriptionHTML": "OpenStreetMap Hungary Wiki page"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.10983,
+              46.867
+            ],
+            [
+              16.14365,
+              46.8547
+            ],
+            [
+              16.15711,
+              46.85434
+            ],
+            [
+              16.21892,
+              46.86961
+            ],
+            [
+              16.2365,
+              46.87775
+            ],
+            [
+              16.2941,
+              46.87137
+            ],
+            [
+              16.34547,
+              46.83836
+            ],
+            [
+              16.3408,
+              46.80641
+            ],
+            [
+              16.31303,
+              46.79838
+            ],
+            [
+              16.30966,
+              46.7787
+            ],
+            [
+              16.37816,
+              46.69975
+            ],
+            [
+              16.42641,
+              46.69228
+            ],
+            [
+              16.41863,
+              46.66238
+            ],
+            [
+              16.38594,
+              46.6549
+            ],
+            [
+              16.39217,
+              46.63673
+            ],
+            [
+              16.50139,
+              46.56684
+            ],
+            [
+              16.52885,
+              46.53303
+            ],
+            [
+              16.52604,
+              46.5051
+            ],
+            [
+              16.59527,
+              46.47524
+            ],
+            [
+              16.6639,
+              46.45203
+            ],
+            [
+              16.7154,
+              46.39523
+            ],
+            [
+              16.8541,
+              46.36255
+            ],
+            [
+              16.875,
+              46.31559428176795
+            ],
+            [
+              16.875,
+              47.69019561710398
+            ],
+            [
+              16.86509,
+              47.72268
+            ],
+            [
+              16.82938,
+              47.68432
+            ],
+            [
+              16.7511,
+              47.67878
+            ],
+            [
+              16.72089,
+              47.73469
+            ],
+            [
+              16.65679,
+              47.74197
+            ],
+            [
+              16.61183,
+              47.76171
+            ],
+            [
+              16.54779,
+              47.75074
+            ],
+            [
+              16.53514,
+              47.73837
+            ],
+            [
+              16.55129,
+              47.72268
+            ],
+            [
+              16.4222,
+              47.66537
+            ],
+            [
+              16.58699,
+              47.61772
+            ],
+            [
+              16.64193,
+              47.63114
+            ],
+            [
+              16.71059,
+              47.52692
+            ],
+            [
+              16.64821,
+              47.50155
+            ],
+            [
+              16.6718,
+              47.46139
+            ],
+            [
+              16.57152,
+              47.40868
+            ],
+            [
+              16.52414,
+              47.41007
+            ],
+            [
+              16.49908,
+              47.39416
+            ],
+            [
+              16.45104,
+              47.41181
+            ],
+            [
+              16.47782,
+              47.25918
+            ],
+            [
+              16.44142,
+              47.25079
+            ],
+            [
+              16.43663,
+              47.21127
+            ],
+            [
+              16.41739,
+              47.20649
+            ],
+            [
+              16.42801,
+              47.18422
+            ],
+            [
+              16.4523,
+              47.18812
+            ],
+            [
+              16.46442,
+              47.16845
+            ],
+            [
+              16.44932,
+              47.14418
+            ],
+            [
+              16.52863,
+              47.13974
+            ],
+            [
+              16.46134,
+              47.09395
+            ],
+            [
+              16.52176,
+              47.05747
+            ],
+            [
+              16.43936,
+              47.03548
+            ],
+            [
+              16.51369,
+              47.00084
+            ],
+            [
+              16.28202,
+              47.00159
+            ],
+            [
+              16.27594,
+              46.9643
+            ],
+            [
+              16.22403,
+              46.939
+            ],
+            [
+              16.19904,
+              46.94134
+            ],
+            [
+              16.10983,
+              46.867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "IT",
+        "iso1A3": "ITA",
+        "iso1N3": "380",
+        "wikidata": "Q38",
+        "nameEn": "Italy",
+        "groups": [
+          "039",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "39"
+        ],
+        "id": "Q38",
+        "m49": "380",
+        "ccTLD": ".it",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇮🇹",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 770978.28,
+        "resources": {
+          "it-chapter": {
+            "id": "it-chapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "it"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Italy",
+              "communityID": "openstreetmapitaly",
+              "description": "We help grow and improve OpenStreetMap in Italy.",
+              "url": "https://osmit.it/#chisiamo"
+            },
+            "contacts": [
+              {
+                "name": "Anisa Kuci",
+                "email": "anisa.kuci@wikimedia.it"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Italy",
+              "url": "https://osmit.it/#chisiamo",
+              "description": "We help grow and improve OpenStreetMap in Italy.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmit.it/#chisiamo\">OpenStreetMap Italy</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmit.it/#chisiamo\">https://osmit.it/#chisiamo</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in Italy."
+            }
+          },
+          "it-discourse": {
+            "id": "it-discourse",
+            "type": "discourse",
+            "account": "it",
+            "locationSet": {
+              "include": [
+                "it"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "it"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Italy",
+              "communityID": "openstreetmapitaly",
+              "name": "Italian Discourse",
+              "description": "Il forum dove poter discutere di OpenStreetMap"
+            },
+            "contacts": [
+              {
+                "name": "Manuel",
+                "email": "mannivuwiki@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "Italian Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/it",
+              "description": "Il forum dove poter discutere di OpenStreetMap",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/it\">Italian Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/it\">https://community.openstreetmap.org/c/communities/it</a>",
+              "descriptionHTML": "Il forum dove poter discutere di OpenStreetMap"
+            }
+          },
+          "it-facebook": {
+            "id": "it-facebook",
+            "type": "facebook",
+            "account": "OpenStreetMap.Italia",
+            "locationSet": {
+              "include": [
+                "it"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Italy",
+              "communityID": "openstreetmapitaly"
+            },
+            "contacts": [
+              {
+                "name": "Simone Cortesi",
+                "email": "simone@cortesi.com"
+              },
+              {
+                "name": "Stefano",
+                "email": "sabas88@gmail.com"
+              },
+              {
+                "name": "Alessandro Palmas",
+                "email": "alessandro.palmas@wikimedia.it"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Italy on Facebook",
+              "url": "https://www.facebook.com/OpenStreetMap.Italia",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMap.Italia\">OpenStreetMap Italy on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/OpenStreetMap.Italia\">https://www.facebook.com/OpenStreetMap.Italia</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "it-irc": {
+            "id": "it-irc",
+            "type": "irc",
+            "account": "osm-it",
+            "locationSet": {
+              "include": [
+                "it"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Italy",
+              "communityID": "openstreetmapitaly"
+            },
+            "contacts": [
+              {
+                "name": "Simone Cortesi",
+                "email": "simone@cortesi.com"
+              },
+              {
+                "name": "Stefano",
+                "email": "sabas88@gmail.com"
+              },
+              {
+                "name": "Alessandro Palmas",
+                "email": "alessandro.palmas@wikimedia.it"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Italy on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-it",
+              "description": "Join #osm-it on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-it\">OpenStreetMap Italy on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-it\">https://webchat.oftc.net/?channels=osm-it</a>",
+              "descriptionHTML": "Join #osm-it on irc.oftc.net (port 6667)"
+            }
+          },
+          "it-mailinglist": {
+            "id": "it-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-it",
+            "locationSet": {
+              "include": [
+                "it"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Italy",
+              "communityID": "openstreetmapitaly"
+            },
+            "contacts": [
+              {
+                "name": "Simone Cortesi",
+                "email": "simone@cortesi.com"
+              },
+              {
+                "name": "Stefano",
+                "email": "sabas88@gmail.com"
+              },
+              {
+                "name": "Alessandro Palmas",
+                "email": "alessandro.palmas@wikimedia.it"
+              }
+            ],
+            "resolved": {
+              "name": "talk-it Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-it",
+              "description": "The official mailing list for OpenStreetMap Italy",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-it\">talk-it Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-it\">https://lists.openstreetmap.org/listinfo/talk-it</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Italy"
+            }
+          },
+          "it-telegram": {
+            "id": "it-telegram",
+            "type": "telegram",
+            "account": "OpenStreetMapItalia",
+            "locationSet": {
+              "include": [
+                "it"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Italy",
+              "communityID": "openstreetmapitaly"
+            },
+            "contacts": [
+              {
+                "name": "Simone Cortesi",
+                "email": "simone@cortesi.com"
+              },
+              {
+                "name": "Stefano",
+                "email": "sabas88@gmail.com"
+              },
+              {
+                "name": "Alessandro Palmas",
+                "email": "alessandro.palmas@wikimedia.it"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Italy Telegram",
+              "url": "https://t.me/OpenStreetMapItalia",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OpenStreetMapItalia\">OpenStreetMap Italy Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OpenStreetMapItalia\">https://t.me/OpenStreetMapItalia</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "it-twitter": {
+            "id": "it-twitter",
+            "type": "twitter",
+            "account": "OpenStreetMapIt",
+            "locationSet": {
+              "include": [
+                "it"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Italy",
+              "communityID": "openstreetmapitaly"
+            },
+            "contacts": [
+              {
+                "name": "Simone Cortesi",
+                "email": "simone@cortesi.com"
+              },
+              {
+                "name": "Stefano",
+                "email": "sabas88@gmail.com"
+              },
+              {
+                "name": "Alessandro Palmas",
+                "email": "alessandro.palmas@wikimedia.it"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Italy on Twitter",
+              "url": "https://twitter.com/OpenStreetMapIt",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/OpenStreetMapIt\">OpenStreetMap Italy on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/OpenStreetMapIt\">https://twitter.com/OpenStreetMapIt</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.25,
+              45.08903556483103
+            ],
+            [
+              13.073499204017311,
+              45.08903556483103
+            ],
+            [
+              13.05142,
+              45.33128
+            ],
+            [
+              13.45644,
+              45.59464
+            ],
+            [
+              13.6076,
+              45.64761
+            ],
+            [
+              13.7198,
+              45.59352
+            ],
+            [
+              13.74587,
+              45.59811
+            ],
+            [
+              13.78445,
+              45.5825
+            ],
+            [
+              13.84106,
+              45.58185
+            ],
+            [
+              13.86771,
+              45.59898
+            ],
+            [
+              13.8695,
+              45.60835
+            ],
+            [
+              13.9191,
+              45.6322
+            ],
+            [
+              13.87933,
+              45.65207
+            ],
+            [
+              13.83422,
+              45.68703
+            ],
+            [
+              13.83332,
+              45.70855
+            ],
+            [
+              13.8235,
+              45.7176
+            ],
+            [
+              13.66986,
+              45.79955
+            ],
+            [
+              13.59784,
+              45.8072
+            ],
+            [
+              13.58858,
+              45.83503
+            ],
+            [
+              13.57563,
+              45.8425
+            ],
+            [
+              13.58644,
+              45.88173
+            ],
+            [
+              13.59565,
+              45.89446
+            ],
+            [
+              13.60857,
+              45.89907
+            ],
+            [
+              13.61931,
+              45.91782
+            ],
+            [
+              13.63815,
+              45.93607
+            ],
+            [
+              13.6329,
+              45.94894
+            ],
+            [
+              13.64307,
+              45.98326
+            ],
+            [
+              13.63458,
+              45.98947
+            ],
+            [
+              13.62074,
+              45.98388
+            ],
+            [
+              13.58903,
+              45.99009
+            ],
+            [
+              13.56759,
+              45.96991
+            ],
+            [
+              13.52963,
+              45.96588
+            ],
+            [
+              13.50104,
+              45.98078
+            ],
+            [
+              13.47474,
+              46.00546
+            ],
+            [
+              13.49702,
+              46.01832
+            ],
+            [
+              13.50998,
+              46.04498
+            ],
+            [
+              13.49568,
+              46.04839
+            ],
+            [
+              13.50104,
+              46.05986
+            ],
+            [
+              13.57072,
+              46.09022
+            ],
+            [
+              13.64053,
+              46.13587
+            ],
+            [
+              13.66472,
+              46.17392
+            ],
+            [
+              13.64451,
+              46.18966
+            ],
+            [
+              13.56682,
+              46.18703
+            ],
+            [
+              13.56114,
+              46.2054
+            ],
+            [
+              13.47587,
+              46.22725
+            ],
+            [
+              13.42218,
+              46.20758
+            ],
+            [
+              13.37671,
+              46.29668
+            ],
+            [
+              13.44808,
+              46.33507
+            ],
+            [
+              13.43418,
+              46.35992
+            ],
+            [
+              13.47019,
+              46.3621
+            ],
+            [
+              13.5763,
+              46.40915
+            ],
+            [
+              13.5763,
+              46.42613
+            ],
+            [
+              13.59777,
+              46.44137
+            ],
+            [
+              13.68684,
+              46.43881
+            ],
+            [
+              13.7148,
+              46.5222
+            ],
+            [
+              13.64088,
+              46.53438
+            ],
+            [
+              13.27627,
+              46.56059
+            ],
+            [
+              12.94445,
+              46.60401
+            ],
+            [
+              12.59992,
+              46.6595
+            ],
+            [
+              12.38708,
+              46.71529
+            ],
+            [
+              12.27591,
+              46.88651
+            ],
+            [
+              12.2006,
+              46.88854
+            ],
+            [
+              12.11675,
+              47.01241
+            ],
+            [
+              12.21781,
+              47.03996
+            ],
+            [
+              12.19254,
+              47.09331
+            ],
+            [
+              11.74789,
+              46.98484
+            ],
+            [
+              11.50739,
+              47.00644
+            ],
+            [
+              11.33355,
+              46.99862
+            ],
+            [
+              11.25,
+              46.97327977041826
+            ],
+            [
+              11.25,
+              45.08903556483103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lombardia.geojson",
+        "area": 28353.91,
+        "resources": {
+          "lombardia-telegram": {
+            "id": "lombardia-telegram",
+            "type": "telegram",
+            "account": "OSMLombardia",
+            "locationSet": {
+              "include": [
+                "lombardia.geojson"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Lombardia",
+              "communityID": "openstreetmaplombardia"
+            },
+            "contacts": [
+              {
+                "name": "Lorenzo Stucchi",
+                "email": "lorenzostucchi95@outlook.it"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Lombardia Telegram",
+              "url": "https://t.me/OSMLombardia",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OSMLombardia\">OpenStreetMap Lombardia Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OSMLombardia\">https://t.me/OSMLombardia</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-it-lombardia_mailinglist": {
+            "id": "talk-it-lombardia_mailinglist",
+            "type": "mailinglist",
+            "account": "talk-it-lombardia",
+            "locationSet": {
+              "include": [
+                "lombardia.geojson"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Italy-Lombardia",
+              "communityID": "openstreetmapitalylombardia"
+            },
+            "contacts": [
+              {
+                "name": "Lorenzo Stucchi",
+                "email": "lorenzostucchi95@outlook.it"
+              }
+            ],
+            "resolved": {
+              "name": "talk-it-lombardia Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-it-lombardia",
+              "description": "The official mailing list for OpenStreetMap Italy-Lombardia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-it-lombardia\">talk-it-lombardia Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-it-lombardia\">https://lists.openstreetmap.org/listinfo/talk-it-lombardia</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Italy-Lombardia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.25,
+              45.08903556483103
+            ],
+            [
+              11.28734867317968,
+              45.08903556483103
+            ],
+            [
+              11.25,
+              45.11935948175691
+            ],
+            [
+              11.25,
+              45.08903556483103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "SK",
+        "iso1A3": "SVK",
+        "iso1N3": "703",
+        "wikidata": "Q214",
+        "nameEn": "Slovakia",
+        "groups": [
+          "151",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "421"
+        ],
+        "id": "Q214",
+        "m49": "703",
+        "ccTLD": ".sk",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇸🇰",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 48982.07,
+        "resources": {
+          "mailinglist-sk-googlegroups": {
+            "id": "mailinglist-sk-googlegroups",
+            "type": "mailinglist",
+            "locationSet": {
+              "include": [
+                "sk"
+              ]
+            },
+            "languageCodes": [
+              "cz",
+              "en",
+              "sk"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Freemap Slovakia",
+              "communityID": "openstreetmapfreemapslovakia",
+              "name": "Slovak mailing list on Google Groups",
+              "description": "Official mailing list for Slovak community",
+              "url": "https://groups.google.com/g/osm_sk"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Slovakia",
+                "email": "osm_sk@googlegroups.com"
+              }
+            ],
+            "resolved": {
+              "name": "Slovak mailing list on Google Groups",
+              "url": "https://groups.google.com/g/osm_sk",
+              "description": "Official mailing list for Slovak community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://groups.google.com/g/osm_sk\">Slovak mailing list on Google Groups</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://groups.google.com/g/osm_sk\">https://groups.google.com/g/osm_sk</a>",
+              "descriptionHTML": "Official mailing list for Slovak community"
+            }
+          },
+          "sk-facebook": {
+            "id": "sk-facebook",
+            "type": "facebook",
+            "account": "FreemapSlovakia",
+            "locationSet": {
+              "include": [
+                "sk"
+              ]
+            },
+            "languageCodes": [
+              "sk"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Freemap Slovakia",
+              "communityID": "openstreetmapfreemapslovakia"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Freemap Slovakia",
+                "email": "podpora@freemap.sk"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Freemap Slovakia on Facebook",
+              "url": "https://www.facebook.com/FreemapSlovakia",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/FreemapSlovakia\">OpenStreetMap Freemap Slovakia on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/FreemapSlovakia\">https://www.facebook.com/FreemapSlovakia</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "sk-freemap": {
+            "id": "sk-freemap",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "sk"
+              ]
+            },
+            "languageCodes": [
+              "cz",
+              "hu",
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Freemap Slovakia",
+              "communityID": "openstreetmapfreemapslovakia",
+              "description": "OpenStreetMap map website with tools in Slovakia and surrounding regions",
+              "url": "https://www.freemap.sk"
+            },
+            "contacts": [
+              {
+                "name": "osm_sk",
+                "email": "osm_sk@googlegroups.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Freemap Slovakia",
+              "url": "https://www.freemap.sk",
+              "description": "OpenStreetMap map website with tools in Slovakia and surrounding regions",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.freemap.sk\">OpenStreetMap Freemap Slovakia</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.freemap.sk\">https://www.freemap.sk</a>",
+              "descriptionHTML": "OpenStreetMap map website with tools in Slovakia and surrounding regions"
+            }
+          },
+          "sk-twitter": {
+            "id": "sk-twitter",
+            "type": "twitter",
+            "account": "FreemapSlovakia",
+            "locationSet": {
+              "include": [
+                "sk"
+              ]
+            },
+            "languageCodes": [
+              "sk"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Freemap Slovakia",
+              "communityID": "openstreetmapfreemapslovakia"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Freemap Slovensko",
+                "email": "podpora@freemap.sk"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Freemap Slovakia on Twitter",
+              "url": "https://twitter.com/FreemapSlovakia",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/FreemapSlovakia\">OpenStreetMap Freemap Slovakia on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/FreemapSlovakia\">https://twitter.com/FreemapSlovakia</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.83317,
+              48.38138
+            ],
+            [
+              16.84243,
+              48.35258
+            ],
+            [
+              16.875,
+              48.33918522072072
+            ],
+            [
+              16.875,
+              48.47078260019135
+            ],
+            [
+              16.85204,
+              48.44968
+            ],
+            [
+              16.8497,
+              48.38321
+            ],
+            [
+              16.83588,
+              48.3844
+            ],
+            [
+              16.83317,
+              48.38138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "SI",
+        "iso1A3": "SVN",
+        "iso1N3": "705",
+        "wikidata": "Q215",
+        "nameEn": "Slovenia",
+        "groups": [
+          "039",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "386"
+        ],
+        "id": "Q215",
+        "m49": "705",
+        "ccTLD": ".si",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇸🇮",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 20480.32,
+        "resources": {
+          "si-discourse": {
+            "id": "si-discourse",
+            "type": "discourse",
+            "account": "si",
+            "locationSet": {
+              "include": [
+                "si"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "sl"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Slovenia",
+              "communityID": "openstreetmapslovenia",
+              "name": "{community} Discourse"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Slovenia Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/si",
+              "description": "The official forum for OpenStreetMap Slovenia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/si\">OpenStreetMap Slovenia Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/si\">https://community.openstreetmap.org/c/communities/si</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap Slovenia"
+            }
+          },
+          "si-github": {
+            "id": "si-github",
+            "type": "github",
+            "account": "openstreetmap-si",
+            "locationSet": {
+              "include": [
+                "si"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "sl"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Slovenia",
+              "communityID": "openstreetmapslovenia",
+              "description": "{community} GitHub"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Slovenia GitHub",
+              "url": "https://github.com/openstreetmap-si",
+              "description": "OpenStreetMap Slovenia GitHub",
+              "nameHTML": "<a target=\"_blank\" href=\"https://github.com/openstreetmap-si\">OpenStreetMap Slovenia GitHub</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://github.com/openstreetmap-si\">https://github.com/openstreetmap-si</a>",
+              "descriptionHTML": "OpenStreetMap Slovenia GitHub"
+            }
+          },
+          "si-twitter": {
+            "id": "si-twitter",
+            "type": "twitter",
+            "account": "OpenStreetMapSi",
+            "locationSet": {
+              "include": [
+                "si"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "sl"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Slovenia",
+              "communityID": "openstreetmapslovenia"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Slovenia on Twitter",
+              "url": "https://twitter.com/OpenStreetMapSi",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/OpenStreetMapSi\">OpenStreetMap Slovenia on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/OpenStreetMapSi\">https://twitter.com/OpenStreetMapSi</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "si-wiki": {
+            "id": "si-wiki",
+            "type": "wiki",
+            "account": "Slovenia",
+            "locationSet": {
+              "include": [
+                "si"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "sl"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Slovenia",
+              "communityID": "openstreetmapslovenia",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Slovenia WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/Slovenia",
+              "description": "OpenStreetMap Slovenia Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Slovenia\">OpenStreetMap Slovenia WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Slovenia\">https://wiki.openstreetmap.org/wiki/Slovenia</a>",
+              "descriptionHTML": "OpenStreetMap Slovenia Wiki page"
+            }
+          },
+          "talk-si": {
+            "id": "talk-si",
+            "type": "mailinglist",
+            "account": "talk-si",
+            "locationSet": {
+              "include": [
+                "si"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "sl"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Slovenia",
+              "communityID": "openstreetmapslovenia"
+            },
+            "resolved": {
+              "name": "talk-si Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-si",
+              "description": "The official mailing list for OpenStreetMap Slovenia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-si\">talk-si Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-si\">https://lists.openstreetmap.org/listinfo/talk-si</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Slovenia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.37671,
+              46.29668
+            ],
+            [
+              13.42218,
+              46.20758
+            ],
+            [
+              13.47587,
+              46.22725
+            ],
+            [
+              13.56114,
+              46.2054
+            ],
+            [
+              13.56682,
+              46.18703
+            ],
+            [
+              13.64451,
+              46.18966
+            ],
+            [
+              13.66472,
+              46.17392
+            ],
+            [
+              13.64053,
+              46.13587
+            ],
+            [
+              13.57072,
+              46.09022
+            ],
+            [
+              13.50104,
+              46.05986
+            ],
+            [
+              13.49568,
+              46.04839
+            ],
+            [
+              13.50998,
+              46.04498
+            ],
+            [
+              13.49702,
+              46.01832
+            ],
+            [
+              13.47474,
+              46.00546
+            ],
+            [
+              13.50104,
+              45.98078
+            ],
+            [
+              13.52963,
+              45.96588
+            ],
+            [
+              13.56759,
+              45.96991
+            ],
+            [
+              13.58903,
+              45.99009
+            ],
+            [
+              13.62074,
+              45.98388
+            ],
+            [
+              13.63458,
+              45.98947
+            ],
+            [
+              13.64307,
+              45.98326
+            ],
+            [
+              13.6329,
+              45.94894
+            ],
+            [
+              13.63815,
+              45.93607
+            ],
+            [
+              13.61931,
+              45.91782
+            ],
+            [
+              13.60857,
+              45.89907
+            ],
+            [
+              13.59565,
+              45.89446
+            ],
+            [
+              13.58644,
+              45.88173
+            ],
+            [
+              13.57563,
+              45.8425
+            ],
+            [
+              13.58858,
+              45.83503
+            ],
+            [
+              13.59784,
+              45.8072
+            ],
+            [
+              13.66986,
+              45.79955
+            ],
+            [
+              13.8235,
+              45.7176
+            ],
+            [
+              13.83332,
+              45.70855
+            ],
+            [
+              13.83422,
+              45.68703
+            ],
+            [
+              13.87933,
+              45.65207
+            ],
+            [
+              13.9191,
+              45.6322
+            ],
+            [
+              13.8695,
+              45.60835
+            ],
+            [
+              13.86771,
+              45.59898
+            ],
+            [
+              13.84106,
+              45.58185
+            ],
+            [
+              13.78445,
+              45.5825
+            ],
+            [
+              13.74587,
+              45.59811
+            ],
+            [
+              13.7198,
+              45.59352
+            ],
+            [
+              13.6076,
+              45.64761
+            ],
+            [
+              13.45644,
+              45.59464
+            ],
+            [
+              13.56979,
+              45.4895
+            ],
+            [
+              13.62902,
+              45.45898
+            ],
+            [
+              13.67398,
+              45.4436
+            ],
+            [
+              13.7785,
+              45.46787
+            ],
+            [
+              13.81742,
+              45.43729
+            ],
+            [
+              13.88124,
+              45.42637
+            ],
+            [
+              13.90771,
+              45.45149
+            ],
+            [
+              13.97309,
+              45.45258
+            ],
+            [
+              13.99488,
+              45.47551
+            ],
+            [
+              13.96063,
+              45.50825
+            ],
+            [
+              14.00578,
+              45.52352
+            ],
+            [
+              14.07116,
+              45.48752
+            ],
+            [
+              14.20348,
+              45.46896
+            ],
+            [
+              14.22371,
+              45.50388
+            ],
+            [
+              14.24239,
+              45.50607
+            ],
+            [
+              14.26611,
+              45.48239
+            ],
+            [
+              14.27681,
+              45.4902
+            ],
+            [
+              14.32487,
+              45.47142
+            ],
+            [
+              14.36693,
+              45.48642
+            ],
+            [
+              14.49769,
+              45.54424
+            ],
+            [
+              14.5008,
+              45.60852
+            ],
+            [
+              14.53816,
+              45.6205
+            ],
+            [
+              14.57397,
+              45.67165
+            ],
+            [
+              14.60977,
+              45.66403
+            ],
+            [
+              14.59576,
+              45.62812
+            ],
+            [
+              14.69694,
+              45.57366
+            ],
+            [
+              14.68605,
+              45.53006
+            ],
+            [
+              14.71718,
+              45.53442
+            ],
+            [
+              14.80124,
+              45.49515
+            ],
+            [
+              14.81992,
+              45.45913
+            ],
+            [
+              14.90554,
+              45.47769
+            ],
+            [
+              14.92266,
+              45.52788
+            ],
+            [
+              15.02385,
+              45.48533
+            ],
+            [
+              15.05187,
+              45.49079
+            ],
+            [
+              15.16862,
+              45.42309
+            ],
+            [
+              15.27758,
+              45.46678
+            ],
+            [
+              15.33051,
+              45.45258
+            ],
+            [
+              15.38188,
+              45.48752
+            ],
+            [
+              15.30249,
+              45.53224
+            ],
+            [
+              15.29837,
+              45.5841
+            ],
+            [
+              15.27747,
+              45.60504
+            ],
+            [
+              15.31027,
+              45.6303
+            ],
+            [
+              15.34695,
+              45.63382
+            ],
+            [
+              15.34214,
+              45.64702
+            ],
+            [
+              15.38952,
+              45.63682
+            ],
+            [
+              15.4057,
+              45.64727
+            ],
+            [
+              15.34919,
+              45.71623
+            ],
+            [
+              15.30872,
+              45.69014
+            ],
+            [
+              15.25423,
+              45.72275
+            ],
+            [
+              15.40836,
+              45.79491
+            ],
+            [
+              15.47531,
+              45.79802
+            ],
+            [
+              15.47325,
+              45.8253
+            ],
+            [
+              15.52234,
+              45.82195
+            ],
+            [
+              15.57952,
+              45.84953
+            ],
+            [
+              15.64185,
+              45.82915
+            ],
+            [
+              15.66662,
+              45.84085
+            ],
+            [
+              15.70411,
+              45.8465
+            ],
+            [
+              15.68232,
+              45.86819
+            ],
+            [
+              15.68383,
+              45.88867
+            ],
+            [
+              15.67967,
+              45.90455
+            ],
+            [
+              15.70636,
+              45.92116
+            ],
+            [
+              15.70327,
+              46.00015
+            ],
+            [
+              15.71246,
+              46.01196
+            ],
+            [
+              15.72977,
+              46.04682
+            ],
+            [
+              15.62317,
+              46.09103
+            ],
+            [
+              15.6083,
+              46.11992
+            ],
+            [
+              15.59909,
+              46.14761
+            ],
+            [
+              15.64904,
+              46.19229
+            ],
+            [
+              15.6434,
+              46.21396
+            ],
+            [
+              15.67395,
+              46.22478
+            ],
+            [
+              15.75436,
+              46.21969
+            ],
+            [
+              15.75479,
+              46.20336
+            ],
+            [
+              15.78817,
+              46.21719
+            ],
+            [
+              15.79284,
+              46.25811
+            ],
+            [
+              15.97965,
+              46.30652
+            ],
+            [
+              16.07616,
+              46.3463
+            ],
+            [
+              16.07314,
+              46.36458
+            ],
+            [
+              16.05065,
+              46.3833
+            ],
+            [
+              16.05281,
+              46.39141
+            ],
+            [
+              16.14859,
+              46.40547
+            ],
+            [
+              16.18824,
+              46.38282
+            ],
+            [
+              16.30233,
+              46.37837
+            ],
+            [
+              16.30162,
+              46.40437
+            ],
+            [
+              16.27329,
+              46.41467
+            ],
+            [
+              16.27398,
+              46.42875
+            ],
+            [
+              16.25124,
+              46.48067
+            ],
+            [
+              16.23961,
+              46.49653
+            ],
+            [
+              16.26759,
+              46.50566
+            ],
+            [
+              16.26733,
+              46.51505
+            ],
+            [
+              16.29793,
+              46.5121
+            ],
+            [
+              16.37193,
+              46.55008
+            ],
+            [
+              16.38771,
+              46.53608
+            ],
+            [
+              16.44036,
+              46.5171
+            ],
+            [
+              16.5007,
+              46.49644
+            ],
+            [
+              16.52604,
+              46.47831
+            ],
+            [
+              16.59527,
+              46.47524
+            ],
+            [
+              16.52604,
+              46.5051
+            ],
+            [
+              16.52885,
+              46.53303
+            ],
+            [
+              16.50139,
+              46.56684
+            ],
+            [
+              16.39217,
+              46.63673
+            ],
+            [
+              16.38594,
+              46.6549
+            ],
+            [
+              16.41863,
+              46.66238
+            ],
+            [
+              16.42641,
+              46.69228
+            ],
+            [
+              16.37816,
+              46.69975
+            ],
+            [
+              16.30966,
+              46.7787
+            ],
+            [
+              16.31303,
+              46.79838
+            ],
+            [
+              16.3408,
+              46.80641
+            ],
+            [
+              16.34547,
+              46.83836
+            ],
+            [
+              16.2941,
+              46.87137
+            ],
+            [
+              16.2365,
+              46.87775
+            ],
+            [
+              16.21892,
+              46.86961
+            ],
+            [
+              16.15711,
+              46.85434
+            ],
+            [
+              16.14365,
+              46.8547
+            ],
+            [
+              16.10983,
+              46.867
+            ],
+            [
+              16.05786,
+              46.83927
+            ],
+            [
+              15.99054,
+              46.82772
+            ],
+            [
+              15.99126,
+              46.78199
+            ],
+            [
+              15.98432,
+              46.74991
+            ],
+            [
+              15.99769,
+              46.7266
+            ],
+            [
+              16.02808,
+              46.71094
+            ],
+            [
+              16.04347,
+              46.68694
+            ],
+            [
+              16.04036,
+              46.6549
+            ],
+            [
+              15.99988,
+              46.67947
+            ],
+            [
+              15.98512,
+              46.68463
+            ],
+            [
+              15.94864,
+              46.68769
+            ],
+            [
+              15.87691,
+              46.7211
+            ],
+            [
+              15.8162,
+              46.71897
+            ],
+            [
+              15.78518,
+              46.70712
+            ],
+            [
+              15.76771,
+              46.69863
+            ],
+            [
+              15.73823,
+              46.70011
+            ],
+            [
+              15.72279,
+              46.69548
+            ],
+            [
+              15.69523,
+              46.69823
+            ],
+            [
+              15.67411,
+              46.70735
+            ],
+            [
+              15.6543,
+              46.70616
+            ],
+            [
+              15.6543,
+              46.69228
+            ],
+            [
+              15.6365,
+              46.6894
+            ],
+            [
+              15.63255,
+              46.68069
+            ],
+            [
+              15.62317,
+              46.67947
+            ],
+            [
+              15.59826,
+              46.68908
+            ],
+            [
+              15.54533,
+              46.66985
+            ],
+            [
+              15.55333,
+              46.64988
+            ],
+            [
+              15.54431,
+              46.6312
+            ],
+            [
+              15.46906,
+              46.61321
+            ],
+            [
+              15.45514,
+              46.63697
+            ],
+            [
+              15.41235,
+              46.65556
+            ],
+            [
+              15.23711,
+              46.63994
+            ],
+            [
+              15.14215,
+              46.66131
+            ],
+            [
+              15.01451,
+              46.641
+            ],
+            [
+              14.98024,
+              46.6009
+            ],
+            [
+              14.96002,
+              46.63459
+            ],
+            [
+              14.92283,
+              46.60848
+            ],
+            [
+              14.87129,
+              46.61
+            ],
+            [
+              14.86419,
+              46.59411
+            ],
+            [
+              14.83549,
+              46.56614
+            ],
+            [
+              14.81836,
+              46.51046
+            ],
+            [
+              14.72185,
+              46.49974
+            ],
+            [
+              14.66892,
+              46.44936
+            ],
+            [
+              14.5942,
+              46.43434
+            ],
+            [
+              14.56463,
+              46.37208
+            ],
+            [
+              14.52176,
+              46.42617
+            ],
+            [
+              14.45877,
+              46.41717
+            ],
+            [
+              14.42608,
+              46.44614
+            ],
+            [
+              14.314,
+              46.43327
+            ],
+            [
+              14.28326,
+              46.44315
+            ],
+            [
+              14.15989,
+              46.43327
+            ],
+            [
+              14.12097,
+              46.47724
+            ],
+            [
+              14.04002,
+              46.49117
+            ],
+            [
+              14.00422,
+              46.48474
+            ],
+            [
+              13.89837,
+              46.52331
+            ],
+            [
+              13.7148,
+              46.5222
+            ],
+            [
+              13.68684,
+              46.43881
+            ],
+            [
+              13.59777,
+              46.44137
+            ],
+            [
+              13.5763,
+              46.42613
+            ],
+            [
+              13.5763,
+              46.40915
+            ],
+            [
+              13.47019,
+              46.3621
+            ],
+            [
+              13.43418,
+              46.35992
+            ],
+            [
+              13.44808,
+              46.33507
+            ],
+            [
+              13.37671,
+              46.29668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[14.50623,46.05101]",
+        "area": 1963.5,
+        "resources": {
+          "si-ljubljana-wiki": {
+            "id": "si-ljubljana-wiki",
+            "type": "wiki",
+            "account": "Ljubljana",
+            "locationSet": {
+              "include": [
+                [
+                  14.50623,
+                  46.05101
+                ]
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "sl"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Ljubljana",
+              "communityID": "openstreetmapljubljana",
+              "description": "{community} Wiki page"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Ljubljana WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/Ljubljana",
+              "description": "OpenStreetMap Ljubljana Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Ljubljana\">OpenStreetMap Ljubljana WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Ljubljana\">https://wiki.openstreetmap.org/wiki/Ljubljana</a>",
+              "descriptionHTML": "OpenStreetMap Ljubljana Wiki page"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.198,
+              46.12
+            ],
+            [
+              14.199,
+              45.981
+            ],
+            [
+              14.317,
+              45.869
+            ],
+            [
+              14.506,
+              45.826
+            ],
+            [
+              14.696,
+              45.869
+            ],
+            [
+              14.814,
+              45.981
+            ],
+            [
+              14.814,
+              46.12
+            ],
+            [
+              14.697,
+              46.233
+            ],
+            [
+              14.506,
+              46.276
+            ],
+            [
+              14.315,
+              46.233
+            ],
+            [
+              14.198,
+              46.12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "south-tyrol.geojson",
+        "area": 8631.87,
+        "resources": {
+          "South-Tyrol-Mailing-List": {
+            "id": "South-Tyrol-Mailing-List",
+            "type": "mailinglist",
+            "account": "talk-it-southtyrol",
+            "locationSet": {
+              "include": [
+                "south-tyrol.geojson"
+              ]
+            },
+            "languageCodes": [
+              "de",
+              "en",
+              "it",
+              "lld"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Italy-South Tyrol",
+              "communityID": "openstreetmapitalysouthtyrol"
+            },
+            "contacts": [
+              {
+                "name": "Martin Raifer",
+                "email": "tyr.asd@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "talk-it-southtyrol Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-it-southtyrol",
+              "description": "The official mailing list for OpenStreetMap Italy-South Tyrol",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-it-southtyrol\">talk-it-southtyrol Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-it-southtyrol\">https://lists.openstreetmap.org/listinfo/talk-it-southtyrol</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Italy-South Tyrol"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.25,
+              46.22374050711489
+            ],
+            [
+              11.399,
+              46.25585
+            ],
+            [
+              11.56929,
+              46.34077
+            ],
+            [
+              11.66336,
+              46.48657
+            ],
+            [
+              11.8515,
+              46.49272
+            ],
+            [
+              12.0163,
+              46.52297
+            ],
+            [
+              12.08771,
+              46.64944
+            ],
+            [
+              12.34039,
+              46.61737
+            ],
+            [
+              12.49969,
+              46.67017
+            ],
+            [
+              12.37335,
+              46.73421
+            ],
+            [
+              12.30469,
+              46.85831
+            ],
+            [
+              12.18384,
+              46.98213
+            ],
+            [
+              12.28546,
+              47.08322
+            ],
+            [
+              12.16736,
+              47.115
+            ],
+            [
+              11.7691,
+              47.01023
+            ],
+            [
+              11.68121,
+              47.04018
+            ],
+            [
+              11.49067,
+              47.01233
+            ],
+            [
+              11.25,
+              46.99835011650918
+            ],
+            [
+              11.25,
+              46.22374050711489
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "trentino.geojson",
+        "area": 7414.09,
+        "resources": {
+          "Trentino-Mailing-List": {
+            "id": "Trentino-Mailing-List",
+            "type": "mailinglist",
+            "account": "talk-it-trentino",
+            "locationSet": {
+              "include": [
+                "trentino.geojson"
+              ]
+            },
+            "languageCodes": [
+              "it"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Italy-Trentino",
+              "communityID": "openstreetmapitalytrentino"
+            },
+            "contacts": [
+              {
+                "name": "Luca Delucchi",
+                "email": "lucadeluge@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "talk-it-trentino Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-it-trentino",
+              "description": "The official mailing list for OpenStreetMap Italy-Trentino",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-it-trentino\">talk-it-trentino Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-it-trentino\">https://lists.openstreetmap.org/listinfo/talk-it-trentino</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Italy-Trentino"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.25,
+              45.8187061074471
+            ],
+            [
+              11.28845,
+              45.8814
+            ],
+            [
+              11.51093,
+              45.97979
+            ],
+            [
+              11.69907,
+              45.95592
+            ],
+            [
+              11.72791,
+              46.07704
+            ],
+            [
+              11.84464,
+              46.08466
+            ],
+            [
+              11.99158,
+              46.18363
+            ],
+            [
+              11.85356,
+              46.34124
+            ],
+            [
+              11.91399,
+              46.44306
+            ],
+            [
+              11.83502,
+              46.54233
+            ],
+            [
+              11.62628,
+              46.5069
+            ],
+            [
+              11.5583,
+              46.40378
+            ],
+            [
+              11.32416,
+              46.30235
+            ],
+            [
+              11.25,
+              46.25730909090909
+            ],
+            [
+              11.25,
+              45.8187061074471
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "EE",
+        "iso1A3": "EST",
+        "iso1N3": "233",
+        "wikidata": "Q191",
+        "nameEn": "Estonia",
+        "aliases": [
+          "EW"
+        ],
+        "groups": [
+          "154",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "372"
+        ],
+        "id": "Q191",
+        "m49": "233",
+        "ccTLD": ".ee",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇪🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 87509.41,
+        "resources": {
+          "ee-wiki": {
+            "id": "ee-wiki",
+            "type": "wiki",
+            "locationSet": {
+              "include": [
+                "ee"
+              ]
+            },
+            "languageCodes": [
+              "ee",
+              "en"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Estonia",
+              "communityID": "openstreetmapestonia",
+              "description": "Information relating to mapping activity that is specific to Estonia.",
+              "url": "https://wiki.openstreetmap.org/wiki/WikiProject_Estonia"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Estonia WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/WikiProject_Estonia",
+              "description": "Information relating to mapping activity that is specific to Estonia.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/WikiProject_Estonia\">OpenStreetMap Estonia WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/WikiProject_Estonia\">https://wiki.openstreetmap.org/wiki/WikiProject_Estonia</a>",
+              "descriptionHTML": "Information relating to mapping activity that is specific to Estonia."
+            }
+          },
+          "talk-ee": {
+            "id": "talk-ee",
+            "type": "mailinglist",
+            "account": "talk-ee",
+            "locationSet": {
+              "include": [
+                "ee"
+              ]
+            },
+            "languageCodes": [
+              "ee",
+              "en"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Estonia",
+              "communityID": "openstreetmapestonia"
+            },
+            "resolved": {
+              "name": "talk-ee Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ee",
+              "description": "The official mailing list for OpenStreetMap Estonia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ee\">talk-ee Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ee\">https://lists.openstreetmap.org/listinfo/talk-ee</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Estonia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.84909,
+              57.57876
+            ],
+            [
+              22.5,
+              57.84710917983538
+            ],
+            [
+              22.5,
+              58.81374171570782
+            ],
+            [
+              20.367074244570773,
+              58.81374171570782
+            ],
+            [
+              19.84909,
+              57.57876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "LV",
+        "iso1A3": "LVA",
+        "iso1N3": "428",
+        "wikidata": "Q211",
+        "nameEn": "Latvia",
+        "groups": [
+          "154",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "371"
+        ],
+        "id": "Q211",
+        "m49": "428",
+        "ccTLD": ".lv",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇱🇻",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 85467.71,
+        "resources": {
+          "lv-discord": {
+            "id": "lv-discord",
+            "type": "discord",
+            "account": "osmlatvija",
+            "locationSet": {
+              "include": [
+                "lv"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "lv"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Latvia",
+              "communityID": "openstreetmaplatvia",
+              "url": "https://discord.com/invite/2ACzy4DrRt"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Latvia Discord",
+              "url": "https://discord.com/invite/2ACzy4DrRt",
+              "description": "Get in touch with other mappers on Discord",
+              "nameHTML": "<a target=\"_blank\" href=\"https://discord.com/invite/2ACzy4DrRt\">OpenStreetMap Latvia Discord</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://discord.com/invite/2ACzy4DrRt\">https://discord.com/invite/2ACzy4DrRt</a>",
+              "descriptionHTML": "Get in touch with other mappers on Discord"
+            }
+          },
+          "lv-signal": {
+            "id": "lv-signal",
+            "type": "signal",
+            "locationSet": {
+              "include": [
+                "lv"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "lv"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Latvia",
+              "communityID": "openstreetmaplatvia",
+              "url": "https://signal.group/#CjQKIBQDZFRYENhgTzY0czaSnYxt6-NCXdW5Rp2o6144bO4wEhCUSXKPmsjKnTbzUgLj0MpL"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Latvia Signal",
+              "url": "https://signal.group/#CjQKIBQDZFRYENhgTzY0czaSnYxt6-NCXdW5Rp2o6144bO4wEhCUSXKPmsjKnTbzUgLj0MpL",
+              "description": "Join our community chat on Signal",
+              "nameHTML": "<a target=\"_blank\" href=\"https://signal.group/#CjQKIBQDZFRYENhgTzY0czaSnYxt6-NCXdW5Rp2o6144bO4wEhCUSXKPmsjKnTbzUgLj0MpL\">OpenStreetMap Latvia Signal</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://signal.group/#CjQKIBQDZFRYENhgTzY0czaSnYxt6-NCXdW5Rp2o6144bO4wEhCUSXKPmsjKnTbzUgLj0MpL\">https://signal.group/#CjQKIBQDZFRYENhgTzY0czaSnYxt6-NCXdW5Rp2o6144bO4wEhCUSXKPmsjKnTbzUgLj0MpL</a>",
+              "descriptionHTML": "Join our community chat on Signal"
+            }
+          },
+          "lv-twitter": {
+            "id": "lv-twitter",
+            "type": "twitter",
+            "account": "osmlatvija",
+            "locationSet": {
+              "include": [
+                "lv"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "lv"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Latvia",
+              "communityID": "openstreetmaplatvia"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Latvia on Twitter",
+              "url": "https://twitter.com/osmlatvija",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmlatvija\">OpenStreetMap Latvia on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmlatvija\">https://twitter.com/osmlatvija</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "lv-wiki": {
+            "id": "lv-wiki",
+            "type": "wiki",
+            "locationSet": {
+              "include": [
+                "lv"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "lv"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Latvia",
+              "communityID": "openstreetmaplatvia",
+              "description": "WikiProject Latvia",
+              "url": "https://wiki.openstreetmap.org/wiki/WikiProject_Latvia"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Latvia WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/WikiProject_Latvia",
+              "description": "WikiProject Latvia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/WikiProject_Latvia\">OpenStreetMap Latvia WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/WikiProject_Latvia\">https://wiki.openstreetmap.org/wiki/WikiProject_Latvia</a>",
+              "descriptionHTML": "WikiProject Latvia"
+            }
+          },
+          "lv-zulip": {
+            "id": "lv-zulip",
+            "type": "zulip",
+            "locationSet": {
+              "include": [
+                "lv"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "lv"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Latvia",
+              "communityID": "openstreetmaplatvia",
+              "url": "osmlatvija.zulipchat.com"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Latvia Zulip",
+              "url": "osmlatvija.zulipchat.com",
+              "description": "Join our community chat on Zulip",
+              "nameHTML": "<a target=\"_blank\" href=\"osmlatvija.zulipchat.com\">OpenStreetMap Latvia Zulip</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"osmlatvija.zulipchat.com\">osmlatvija.zulipchat.com</a>",
+              "descriptionHTML": "Join our community chat on Zulip"
+            }
+          },
+          "talk-lv": {
+            "id": "talk-lv",
+            "type": "mailinglist",
+            "account": "talk-lv",
+            "locationSet": {
+              "include": [
+                "lv"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "lv"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Latvia",
+              "communityID": "openstreetmaplatvia"
+            },
+            "resolved": {
+              "name": "talk-lv Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-lv",
+              "description": "The official mailing list for OpenStreetMap Latvia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-lv\">talk-lv Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-lv\">https://lists.openstreetmap.org/listinfo/talk-lv</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Latvia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.64795,
+              57.06466
+            ],
+            [
+              20.68447,
+              56.04073
+            ],
+            [
+              21.15016,
+              56.07818
+            ],
+            [
+              21.24644,
+              56.16917
+            ],
+            [
+              21.49736,
+              56.29106
+            ],
+            [
+              21.57888,
+              56.31406
+            ],
+            [
+              21.74558,
+              56.33181
+            ],
+            [
+              22.00548,
+              56.41508
+            ],
+            [
+              22.09728,
+              56.42851
+            ],
+            [
+              22.3361,
+              56.4016
+            ],
+            [
+              22.5,
+              56.39546209539661
+            ],
+            [
+              22.5,
+              57.84710917983538
+            ],
+            [
+              19.84909,
+              57.57876
+            ],
+            [
+              19.64795,
+              57.06466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "SE",
+        "iso1A3": "SWE",
+        "iso1N3": "752",
+        "wikidata": "Q34",
+        "nameEn": "Sweden",
+        "groups": [
+          "154",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "46"
+        ],
+        "id": "Q34",
+        "m49": "752",
+        "ccTLD": ".se",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇸🇪",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 589396.28,
+        "resources": {
+          "se-facebook": {
+            "id": "se-facebook",
+            "type": "facebook",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden",
+              "url": "https://www.facebook.com/groups/osmsweden"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Sweden on Facebook",
+              "url": "https://www.facebook.com/groups/osmsweden",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osmsweden\">OpenStreetMap Sweden on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/osmsweden\">https://www.facebook.com/groups/osmsweden</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "se-irc": {
+            "id": "se-irc",
+            "type": "irc",
+            "account": "osm.se",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Sweden on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm.se",
+              "description": "Join #osm.se on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm.se\">OpenStreetMap Sweden on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm.se\">https://webchat.oftc.net/?channels=osm.se</a>",
+              "descriptionHTML": "Join #osm.se on irc.oftc.net (port 6667)"
+            }
+          },
+          "se-telegram": {
+            "id": "se-telegram",
+            "type": "telegram",
+            "account": "osmSE",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Sweden Telegram",
+              "url": "https://t.me/osmSE",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmSE\">OpenStreetMap Sweden Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmSE\">https://t.me/osmSE</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "se-twitter": {
+            "id": "se-twitter",
+            "type": "twitter",
+            "account": "openstreetmapse",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Sweden on Twitter",
+              "url": "https://twitter.com/openstreetmapse",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/openstreetmapse\">OpenStreetMap Sweden on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/openstreetmapse\">https://twitter.com/openstreetmapse</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "talk-se": {
+            "id": "talk-se",
+            "type": "mailinglist",
+            "account": "talk-se",
+            "locationSet": {
+              "include": [
+                "se"
+              ]
+            },
+            "languageCodes": [
+              "sv"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Sweden",
+              "communityID": "openstreetmapsweden"
+            },
+            "resolved": {
+              "name": "talk-se Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-se",
+              "description": "The official mailing list for OpenStreetMap Sweden",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-se\">talk-se Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-se\">https://lists.openstreetmap.org/listinfo/talk-se</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Sweden"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.875,
+              55.970802976244926
+            ],
+            [
+              19.64795,
+              57.06466
+            ],
+            [
+              19.84909,
+              57.57876
+            ],
+            [
+              20.367074244570773,
+              58.81374171570782
+            ],
+            [
+              16.875,
+              58.81374171570782
+            ],
+            [
+              16.875,
+              55.970802976244926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "LT",
+        "iso1A3": "LTU",
+        "iso1N3": "440",
+        "wikidata": "Q37",
+        "nameEn": "Lithuania",
+        "groups": [
+          "154",
+          "150",
+          "EU",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "370"
+        ],
+        "id": "Q37",
+        "m49": "440",
+        "ccTLD": ".lt",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇱🇹",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 67679.59,
+        "resources": {
+          "talk-lt": {
+            "id": "talk-lt",
+            "type": "mailinglist",
+            "account": "talk-lt",
+            "locationSet": {
+              "include": [
+                "lt"
+              ]
+            },
+            "languageCodes": [
+              "lt"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Lithuania",
+              "communityID": "openstreetmaplithuania"
+            },
+            "resolved": {
+              "name": "talk-lt Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-lt",
+              "description": "The official mailing list for OpenStreetMap Lithuania",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-lt\">talk-lt Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-lt\">https://lists.openstreetmap.org/listinfo/talk-lt</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Lithuania"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.651001825070313,
+              55.77657301866769
+            ],
+            [
+              22.5,
+              55.77657301866769
+            ],
+            [
+              22.5,
+              56.39546209539661
+            ],
+            [
+              22.3361,
+              56.4016
+            ],
+            [
+              22.09728,
+              56.42851
+            ],
+            [
+              22.00548,
+              56.41508
+            ],
+            [
+              21.74558,
+              56.33181
+            ],
+            [
+              21.57888,
+              56.31406
+            ],
+            [
+              21.49736,
+              56.29106
+            ],
+            [
+              21.24644,
+              56.16917
+            ],
+            [
+              21.15016,
+              56.07818
+            ],
+            [
+              20.68447,
+              56.04073
+            ],
+            [
+              20.651001825070313,
+              55.77657301866769
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

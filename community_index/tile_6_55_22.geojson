@@ -1,0 +1,871 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "CN",
+        "iso1A3": "CHN",
+        "iso1N3": "156",
+        "wikidata": "Q148",
+        "nameEn": "People's Republic of China",
+        "id": "Q148",
+        "m49": "156",
+        "ccTLD": ".cn",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "030",
+          "142",
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇨🇳",
+        "members": [
+          "Q19188",
+          "HK",
+          "MO"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "callingCodes": [
+          "86",
+          "852",
+          "853"
+        ],
+        "area": 10270857.82,
+        "resources": {
+          "cn-matrix": {
+            "id": "cn-matrix",
+            "type": "matrix",
+            "account": "#osmchina",
+            "locationSet": {
+              "include": [
+                "cn"
+              ]
+            },
+            "languageCodes": [
+              "zh"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap China",
+              "communityID": "openstreetmapchina"
+            },
+            "contacts": [
+              {
+                "name": "LaoshuBaby",
+                "email": "me@laoshubaby.moe"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap China Matrix Chat",
+              "url": "https://matrix.to/#/#osmchina:matrix.org",
+              "description": "Join our community Matrix chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmchina:matrix.org\">OpenStreetMap China Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmchina:matrix.org\">https://matrix.to/#/#osmchina:matrix.org</a>",
+              "descriptionHTML": "Join our community Matrix chat"
+            }
+          },
+          "cn-telegram": {
+            "id": "cn-telegram",
+            "type": "telegram",
+            "account": "osmchina",
+            "locationSet": {
+              "include": [
+                "cn"
+              ]
+            },
+            "languageCodes": [
+              "zh"
+            ],
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap China",
+              "communityID": "openstreetmapchina"
+            },
+            "resolved": {
+              "name": "OpenStreetMap China Telegram",
+              "url": "https://t.me/osmchina",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmchina\">OpenStreetMap China Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmchina\">https://t.me/osmchina</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "osm-cn": {
+            "id": "osm-cn",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                "cn"
+              ]
+            },
+            "languageCodes": [
+              "zh"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap China",
+              "communityID": "openstreetmapchina",
+              "description": "We help grow and improve OpenStreetMap in China.",
+              "url": "https://osmchina.org/"
+            },
+            "contacts": [
+              {
+                "name": "快乐的老鼠宝宝",
+                "email": "keaitianxinmail@qq.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap China",
+              "url": "https://osmchina.org/",
+              "description": "We help grow and improve OpenStreetMap in China.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmchina.org/\">OpenStreetMap China</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmchina.org/\">https://osmchina.org/</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in China."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.375,
+              45.08903556483103
+            ],
+            [
+              131.63055389397613,
+              45.08903556483103
+            ],
+            [
+              131.68466,
+              45.12374
+            ],
+            [
+              131.66852,
+              45.2196
+            ],
+            [
+              131.76532,
+              45.22609
+            ],
+            [
+              131.86903,
+              45.33636
+            ],
+            [
+              131.99417,
+              45.2567
+            ],
+            [
+              132.71189159068155,
+              45.08903556483103
+            ],
+            [
+              133.0601534100098,
+              45.08903556483103
+            ],
+            [
+              133.12293,
+              45.1332
+            ],
+            [
+              133.09279,
+              45.25693
+            ],
+            [
+              133.19419,
+              45.51913
+            ],
+            [
+              133.41083,
+              45.57723
+            ],
+            [
+              133.48457,
+              45.86203
+            ],
+            [
+              133.60442,
+              45.90053
+            ],
+            [
+              133.67569,
+              45.9759
+            ],
+            [
+              133.72695,
+              46.05576
+            ],
+            [
+              133.68047,
+              46.14697
+            ],
+            [
+              133.88097,
+              46.25066
+            ],
+            [
+              133.91496,
+              46.4274
+            ],
+            [
+              133.84104,
+              46.46681
+            ],
+            [
+              134.03538,
+              46.75668
+            ],
+            [
+              134.20016,
+              47.33458
+            ],
+            [
+              134.50898,
+              47.4812
+            ],
+            [
+              134.7671,
+              47.72051
+            ],
+            [
+              134.55508,
+              47.98651
+            ],
+            [
+              134.67098,
+              48.1564
+            ],
+            [
+              134.75328,
+              48.36763
+            ],
+            [
+              134.49516,
+              48.42884
+            ],
+            [
+              132.66989,
+              47.96491
+            ],
+            [
+              132.57309,
+              47.71741
+            ],
+            [
+              131.90448,
+              47.68011
+            ],
+            [
+              131.2635,
+              47.73325
+            ],
+            [
+              131.09871,
+              47.6852
+            ],
+            [
+              130.95985,
+              47.6957
+            ],
+            [
+              130.90915,
+              47.90623
+            ],
+            [
+              130.65103,
+              48.10052
+            ],
+            [
+              130.84462,
+              48.30942
+            ],
+            [
+              130.52147,
+              48.61745
+            ],
+            [
+              130.66946,
+              48.88251
+            ],
+            [
+              130.43232,
+              48.90844
+            ],
+            [
+              130.2355,
+              48.86741
+            ],
+            [
+              130.14914079650757,
+              48.922499263758255
+            ],
+            [
+              129.375,
+              48.922499263758255
+            ],
+            [
+              129.375,
+              45.08903556483103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "m49": "142",
+        "wikidata": "Q48",
+        "nameEn": "Asia",
+        "level": "region",
+        "id": "Q48",
+        "groups": [
+          "001"
+        ],
+        "members": [
+          "Q9143535",
+          "Q9206745",
+          "Q3492",
+          "Q3757",
+          "Q3795",
+          "Q3803",
+          "Q3812",
+          "Q3827",
+          "Q3845",
+          "Q19188",
+          "Q26927",
+          "Q27329",
+          "Q36678",
+          "Q37362",
+          "Q39760",
+          "Q40888",
+          "Q1901211",
+          "Q1973345",
+          "Q6736667",
+          "HK",
+          "MO",
+          "Q23681",
+          "AE",
+          "AF",
+          "AM",
+          "AZ",
+          "BD",
+          "BH",
+          "BN",
+          "BT",
+          "CN",
+          "CY",
+          "GE",
+          "ID",
+          "IL",
+          "IN",
+          "IQ",
+          "IR",
+          "JO",
+          "JP",
+          "KG",
+          "KH",
+          "KP",
+          "KR",
+          "KW",
+          "KZ",
+          "LA",
+          "LB",
+          "LK",
+          "MM",
+          "MN",
+          "MV",
+          "MY",
+          "NP",
+          "OM",
+          "PH",
+          "PK",
+          "PS",
+          "QA",
+          "SA",
+          "SG",
+          "SY",
+          "TH",
+          "TJ",
+          "TL",
+          "TM",
+          "TR",
+          "TW",
+          "UZ",
+          "VN",
+          "YE",
+          "Q36117",
+          "Q644636",
+          "030",
+          "034",
+          "035",
+          "143",
+          "145"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "callingCodes": [
+          "62",
+          "86",
+          "90 392",
+          "91",
+          "7",
+          "970",
+          "60",
+          "357",
+          "971",
+          "93",
+          "374",
+          "994",
+          "880",
+          "973",
+          "673",
+          "975",
+          "995",
+          "852",
+          "972",
+          "964",
+          "98",
+          "962",
+          "81",
+          "996",
+          "855",
+          "850",
+          "82",
+          "965",
+          "856",
+          "961",
+          "94",
+          "95",
+          "976",
+          "853",
+          "960",
+          "977",
+          "968",
+          "63",
+          "92",
+          "974",
+          "966",
+          "65",
+          "963",
+          "66",
+          "992",
+          "670",
+          "993",
+          "90",
+          "886",
+          "998",
+          "84",
+          "967"
+        ],
+        "area": 70709531.04,
+        "resources": {
+          "osm-asia-telegram": {
+            "id": "osm-asia-telegram",
+            "type": "telegram",
+            "account": "OpenStreetMapAsia",
+            "locationSet": {
+              "include": [
+                "142"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Asia",
+              "communityID": "openstreetmapasia"
+            },
+            "contacts": [
+              {
+                "name": "Erwin Olario",
+                "email": "govvin@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Asia Telegram",
+              "url": "https://t.me/OpenStreetMapAsia",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OpenStreetMapAsia\">OpenStreetMap Asia Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OpenStreetMapAsia\">https://t.me/OpenStreetMapAsia</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-asia": {
+            "id": "talk-asia",
+            "type": "mailinglist",
+            "account": "talk-asia",
+            "locationSet": {
+              "include": [
+                "142"
+              ]
+            },
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Asia",
+              "communityID": "openstreetmapasia"
+            },
+            "contacts": [
+              {
+                "name": "Erwin Olario",
+                "email": "govvin@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "talk-asia Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-asia",
+              "description": "The official mailing list for OpenStreetMap Asia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-asia\">talk-asia Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-asia\">https://lists.openstreetmap.org/listinfo/talk-asia</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Asia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.375,
+              45.08903556483103
+            ],
+            [
+              135,
+              45.08903556483103
+            ],
+            [
+              135,
+              48.922499263758255
+            ],
+            [
+              129.375,
+              48.922499263758255
+            ],
+            [
+              129.375,
+              45.08903556483103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "RU",
+        "iso1A3": "RUS",
+        "iso1N3": "643",
+        "wikidata": "Q159",
+        "nameEn": "Russia",
+        "id": "Q159",
+        "m49": "643",
+        "ccTLD": ".ru",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇷🇺",
+        "members": [
+          "Q7835",
+          "Q27329",
+          "Q875134"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "7"
+        ],
+        "area": 25286551.28,
+        "resources": {
+          "ru-telegram": {
+            "id": "ru-telegram",
+            "type": "telegram",
+            "account": "ruosm",
+            "locationSet": {
+              "include": [
+                "ru"
+              ]
+            },
+            "languageCodes": [
+              "ru"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Russia",
+              "communityID": "openstreetmaprussia"
+            },
+            "contacts": [
+              {
+                "name": "Ilya Zverev",
+                "email": "ilya@zverev.info"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Russia Telegram",
+              "url": "https://t.me/ruosm",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/ruosm\">OpenStreetMap Russia Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/ruosm\">https://t.me/ruosm</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "ru-twitter": {
+            "id": "ru-twitter",
+            "type": "twitter",
+            "account": "shtosm",
+            "locationSet": {
+              "include": [
+                "ru"
+              ]
+            },
+            "languageCodes": [
+              "ru"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Russia",
+              "communityID": "openstreetmaprussia"
+            },
+            "contacts": [
+              {
+                "name": "Ilya Zverev",
+                "email": "ilya@zverev.info"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Russia on Twitter",
+              "url": "https://twitter.com/shtosm",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/shtosm\">OpenStreetMap Russia on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/shtosm\">https://twitter.com/shtosm</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "talk-ru": {
+            "id": "talk-ru",
+            "type": "mailinglist",
+            "account": "talk-ru",
+            "locationSet": {
+              "include": [
+                "ru"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Russia",
+              "communityID": "openstreetmaprussia"
+            },
+            "resolved": {
+              "name": "talk-ru Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-ru",
+              "description": "The official mailing list for OpenStreetMap Russia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ru\">talk-ru Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-ru\">https://lists.openstreetmap.org/listinfo/talk-ru</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Russia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                130.14914079650757,
+                48.922499263758255
+              ],
+              [
+                130.2355,
+                48.86741
+              ],
+              [
+                130.43232,
+                48.90844
+              ],
+              [
+                130.66946,
+                48.88251
+              ],
+              [
+                130.52147,
+                48.61745
+              ],
+              [
+                130.84462,
+                48.30942
+              ],
+              [
+                130.65103,
+                48.10052
+              ],
+              [
+                130.90915,
+                47.90623
+              ],
+              [
+                130.95985,
+                47.6957
+              ],
+              [
+                131.09871,
+                47.6852
+              ],
+              [
+                131.2635,
+                47.73325
+              ],
+              [
+                131.90448,
+                47.68011
+              ],
+              [
+                132.57309,
+                47.71741
+              ],
+              [
+                132.66989,
+                47.96491
+              ],
+              [
+                134.49516,
+                48.42884
+              ],
+              [
+                134.75328,
+                48.36763
+              ],
+              [
+                134.67098,
+                48.1564
+              ],
+              [
+                134.55508,
+                47.98651
+              ],
+              [
+                134.7671,
+                47.72051
+              ],
+              [
+                134.50898,
+                47.4812
+              ],
+              [
+                134.20016,
+                47.33458
+              ],
+              [
+                134.03538,
+                46.75668
+              ],
+              [
+                133.84104,
+                46.46681
+              ],
+              [
+                133.91496,
+                46.4274
+              ],
+              [
+                133.88097,
+                46.25066
+              ],
+              [
+                133.68047,
+                46.14697
+              ],
+              [
+                133.72695,
+                46.05576
+              ],
+              [
+                133.67569,
+                45.9759
+              ],
+              [
+                133.60442,
+                45.90053
+              ],
+              [
+                133.48457,
+                45.86203
+              ],
+              [
+                133.41083,
+                45.57723
+              ],
+              [
+                133.19419,
+                45.51913
+              ],
+              [
+                133.09279,
+                45.25693
+              ],
+              [
+                133.12293,
+                45.1332
+              ],
+              [
+                133.0601534100098,
+                45.08903556483103
+              ],
+              [
+                135,
+                45.08903556483103
+              ],
+              [
+                135,
+                48.922499263758255
+              ],
+              [
+                130.14914079650757,
+                48.922499263758255
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                131.63055389397613,
+                45.08903556483103
+              ],
+              [
+                132.71189159068155,
+                45.08903556483103
+              ],
+              [
+                131.99417,
+                45.2567
+              ],
+              [
+                131.86903,
+                45.33636
+              ],
+              [
+                131.76532,
+                45.22609
+              ],
+              [
+                131.66852,
+                45.2196
+              ],
+              [
+                131.68466,
+                45.12374
+              ],
+              [
+                131.63055389397613,
+                45.08903556483103
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

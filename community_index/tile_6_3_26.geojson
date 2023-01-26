@@ -1,0 +1,538 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "m49": "009",
+        "wikidata": "Q538",
+        "nameEn": "Oceania",
+        "level": "region",
+        "id": "Q538",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "members": [
+          "Q43296",
+          "Q46879",
+          "Q47863",
+          "Q62218",
+          "Q123076",
+          "Q130895",
+          "Q131008",
+          "Q131305",
+          "Q782",
+          "Q34366",
+          "Q41684",
+          "Q46275",
+          "Q114935",
+          "Q115459",
+          "Q118863",
+          "Q120755",
+          "Q133888",
+          "Q172216",
+          "Q2093907",
+          "Q2298216",
+          "AS",
+          "CC",
+          "CK",
+          "CX",
+          "GU",
+          "HM",
+          "MP",
+          "NC",
+          "NF",
+          "NU",
+          "PF",
+          "PN",
+          "TK",
+          "WF",
+          "Q851132",
+          "Q2872203",
+          "AU",
+          "FJ",
+          "FM",
+          "KI",
+          "MH",
+          "NR",
+          "NZ",
+          "PG",
+          "PW",
+          "SB",
+          "TO",
+          "TV",
+          "VU",
+          "WS",
+          "Q153732",
+          "053",
+          "054",
+          "057",
+          "061"
+        ],
+        "callingCodes": [
+          "1",
+          "61",
+          "64",
+          "1 684",
+          "682",
+          "679",
+          "691",
+          "1 671",
+          "686",
+          "692",
+          "1 670",
+          "687",
+          "672 3",
+          "674",
+          "683",
+          "689",
+          "675",
+          "680",
+          "677",
+          "690",
+          "676",
+          "688",
+          "678",
+          "681",
+          "685"
+        ],
+        "area": 51690236.92,
+        "resources": {
+          "Maptime-Oceania-Slack": {
+            "id": "Maptime-Oceania-Slack",
+            "type": "slack",
+            "locationSet": {
+              "include": [
+                "009"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 3,
+            "strings": {
+              "name": "Maptime Oceania Slack",
+              "description": "Sign up at {signupUrl}",
+              "signupUrl": "https://bit.ly/maptimeau",
+              "url": "https://maptimeoceania.slack.com"
+            },
+            "contacts": [
+              {
+                "name": "David Dean",
+                "email": "ddean@ieee.org"
+              },
+              {
+                "name": "Philip Mallis",
+                "email": "philip.mallis@unimelb.edu.au"
+              },
+              {
+                "name": "Edoardo Neerhut",
+                "email": "ed@mapillary.com"
+              }
+            ],
+            "resolved": {
+              "name": "Maptime Oceania Slack",
+              "url": "https://maptimeoceania.slack.com",
+              "signupUrl": "https://bit.ly/maptimeau",
+              "description": "Sign up at https://bit.ly/maptimeau",
+              "nameHTML": "<a target=\"_blank\" href=\"https://maptimeoceania.slack.com\">Maptime Oceania Slack</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://maptimeoceania.slack.com\">https://maptimeoceania.slack.com</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://bit.ly/maptimeau\">https://bit.ly/maptimeau</a>",
+              "descriptionHTML": "Sign up at <a target=\"_blank\" href=\"https://bit.ly/maptimeau\">https://bit.ly/maptimeau</a>"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -163.125,
+              27.05912578437406
+            ],
+            [
+              -157.5,
+              27.05912578437406
+            ],
+            [
+              -157.5,
+              31.95216223802496
+            ],
+            [
+              -163.125,
+              31.95216223802496
+            ],
+            [
+              -163.125,
+              27.05912578437406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q538,Q574]",
+        "area": 51729859.46,
+        "resources": {
+          "oceania-discourse": {
+            "id": "oceania-discourse",
+            "type": "discourse",
+            "account": "oceania",
+            "locationSet": {
+              "include": [
+                "009",
+                "tl"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Oceania",
+              "communityID": "openstreetmapoceania"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Oceania Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/oceania",
+              "description": "The official forum for OpenStreetMap Oceania",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/oceania\">OpenStreetMap Oceania Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/oceania\">https://community.openstreetmap.org/c/communities/oceania</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap Oceania"
+            }
+          },
+          "osgeo-oceania": {
+            "id": "osgeo-oceania",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "009",
+                "tl"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "name": "OSGeo Oceania",
+              "description": "We support the development of the OpenStreetMap community in Oceania.",
+              "extendedDescription": "OSGeo Oceania's purpose is to support and grow the open geospatial community in the Oceania region, including the oversight and stewardship of the FOSS4G SotM Oceania conference series.",
+              "url": "https://wiki.osgeo.org/wiki/Oceania"
+            },
+            "contacts": [
+              {
+                "name": "Edoardo Neerhut",
+                "email": "ed@mapillary.com"
+              }
+            ],
+            "resolved": {
+              "name": "OSGeo Oceania",
+              "url": "https://wiki.osgeo.org/wiki/Oceania",
+              "description": "We support the development of the OpenStreetMap community in Oceania.",
+              "extendedDescription": "OSGeo Oceania's purpose is to support and grow the open geospatial community in the Oceania region, including the oversight and stewardship of the FOSS4G SotM Oceania conference series.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.osgeo.org/wiki/Oceania\">OSGeo Oceania</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.osgeo.org/wiki/Oceania\">https://wiki.osgeo.org/wiki/Oceania</a>",
+              "descriptionHTML": "We support the development of the OpenStreetMap community in Oceania.",
+              "extendedDescriptionHTML": "OSGeo Oceania's purpose is to support and grow the open geospatial community in the Oceania region, including the oversight and stewardship of the FOSS4G SotM Oceania conference series."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -163.125,
+              27.05912578437406
+            ],
+            [
+              -157.5,
+              27.05912578437406
+            ],
+            [
+              -157.5,
+              31.95216223802496
+            ],
+            [
+              -163.125,
+              31.95216223802496
+            ],
+            [
+              -163.125,
+              27.05912578437406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "US",
+        "iso1A3": "USA",
+        "iso1N3": "840",
+        "wikidata": "Q30",
+        "nameEn": "United States of America",
+        "id": "Q30",
+        "m49": "840",
+        "ccTLD": ".us",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇺🇸",
+        "members": [
+          "Q25359",
+          "Q43296",
+          "Q46879",
+          "Q47863",
+          "Q62218",
+          "Q123076",
+          "Q130895",
+          "Q131008",
+          "Q131305",
+          "Q782",
+          "Q797",
+          "Q578170",
+          "AS",
+          "GU",
+          "MP",
+          "PR",
+          "UM",
+          "VI",
+          "Q35657",
+          "Q1352230"
+        ],
+        "roadSpeedUnit": "mph",
+        "callingCodes": [
+          "1",
+          "1 684",
+          "1 671",
+          "1 670",
+          "1 787",
+          "1 939",
+          "1 340"
+        ],
+        "area": 21817019.17,
+        "resources": {
+          "OSM-US": {
+            "id": "OSM-US",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "description": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescription": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: {signupUrl}",
+              "signupUrl": "https://www.openstreetmap.us/join",
+              "url": "https://www.openstreetmap.us/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap US",
+                "email": "team@openstreetmap.us"
+              }
+            ],
+            "events": [
+              {
+                "id": "mappingusa2022",
+                "i18n": true,
+                "name": "Mapping USA 2022",
+                "description": "Join us for a free virtual conference in celebration of the Wiki and OpenStreetMap communities across North America!",
+                "where": "virtual",
+                "when": "2022-nov-10",
+                "url": "https://pretix.eu/openstreetmapus/wcna-mappingusa/"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap US",
+              "url": "https://www.openstreetmap.us/",
+              "signupUrl": "https://www.openstreetmap.us/join",
+              "description": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescription": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: https://www.openstreetmap.us/join",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/\">OpenStreetMap US</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/\">https://www.openstreetmap.us/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.us/join\">https://www.openstreetmap.us/join</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in the United States.",
+              "extendedDescriptionHTML": "We support OpenStreetMap by holding annual conferences, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap US here: <a target=\"_blank\" href=\"https://www.openstreetmap.us/join\">https://www.openstreetmap.us/join</a>"
+            }
+          },
+          "OSM-US-Slack": {
+            "id": "OSM-US-Slack",
+            "type": "slack",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "description": "All are welcome! Sign up at {signupUrl}",
+              "signupUrl": "https://slack.openstreetmap.us/",
+              "url": "https://osmus.slack.com"
+            },
+            "contacts": [
+              {
+                "name": "Ian Dees",
+                "email": "ian@openstreetmap.us"
+              },
+              {
+                "name": "Clifford Snow",
+                "email": "clifford@snowandsnow.us"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap US Slack",
+              "url": "https://osmus.slack.com",
+              "signupUrl": "https://slack.openstreetmap.us/",
+              "description": "All are welcome! Sign up at https://slack.openstreetmap.us/",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmus.slack.com\">OpenStreetMap US Slack</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmus.slack.com\">https://osmus.slack.com</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://slack.openstreetmap.us/\">https://slack.openstreetmap.us/</a>",
+              "descriptionHTML": "All are welcome! Sign up at <a target=\"_blank\" href=\"https://slack.openstreetmap.us/\">https://slack.openstreetmap.us/</a>"
+            }
+          },
+          "us-discourse": {
+            "id": "us-discourse",
+            "type": "discourse",
+            "account": "us",
+            "locationSet": {
+              "include": [
+                "us"
+              ]
+            },
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap US",
+              "communityID": "openstreetmapus",
+              "name": "{community} Discourse",
+              "description": "A discussion forum about OpenStreetMap in the United States"
+            },
+            "resolved": {
+              "name": "OpenStreetMap US Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/us",
+              "description": "A discussion forum about OpenStreetMap in the United States",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/us\">OpenStreetMap US Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/us\">https://community.openstreetmap.org/c/communities/us</a>",
+              "descriptionHTML": "A discussion forum about OpenStreetMap in the United States"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -163.125,
+              27.05912578437406
+            ],
+            [
+              -157.5,
+              27.05912578437406
+            ],
+            [
+              -157.5,
+              31.95216223802496
+            ],
+            [
+              -163.125,
+              31.95216223802496
+            ],
+            [
+              -163.125,
+              27.05912578437406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pacific.geojson",
+        "area": 106875700.83,
+        "resources": {
+          "talk-pacific": {
+            "id": "talk-pacific",
+            "type": "mailinglist",
+            "account": "talk-pacific",
+            "locationSet": {
+              "include": [
+                "pacific.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en",
+              "fr",
+              "haw",
+              "mi",
+              "sm",
+              "to",
+              "ty"
+            ],
+            "strings": {
+              "description": "The regional OSM mailing list for and by the peoples of the Moana/Oceania/Pacific",
+              "extendedDescription": "We would like this mailing list to support all peoples of the Pacific, in all of our diversity and aspirations, to share thoughts, questions, projects, and everything related to OpenStreetMap in our sea of islands."
+            },
+            "resolved": {
+              "name": "talk-pacific Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-pacific",
+              "description": "The regional OSM mailing list for and by the peoples of the Moana/Oceania/Pacific",
+              "extendedDescription": "We would like this mailing list to support all peoples of the Pacific, in all of our diversity and aspirations, to share thoughts, questions, projects, and everything related to OpenStreetMap in our sea of islands.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-pacific\">talk-pacific Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-pacific\">https://lists.openstreetmap.org/listinfo/talk-pacific</a>",
+              "descriptionHTML": "The regional OSM mailing list for and by the peoples of the Moana/Oceania/Pacific",
+              "extendedDescriptionHTML": "We would like this mailing list to support all peoples of the Pacific, in all of our diversity and aspirations, to share thoughts, questions, projects, and everything related to OpenStreetMap in our sea of islands."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -163.125,
+              27.05912578437406
+            ],
+            [
+              -157.5,
+              27.05912578437406
+            ],
+            [
+              -157.5,
+              31.95216223802496
+            ],
+            [
+              -163.125,
+              31.95216223802496
+            ],
+            [
+              -163.125,
+              27.05912578437406
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

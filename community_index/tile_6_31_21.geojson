@@ -1,0 +1,1344 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "fr-bzh-historique.geojson",
+        "area": 56712.2,
+        "resources": {
+          "fr-bzh-mailinglist": {
+            "id": "fr-bzh-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-fr-bzh",
+            "locationSet": {
+              "include": [
+                "fr-bzh-historique.geojson"
+              ]
+            },
+            "languageCodes": [
+              "br",
+              "fr"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap BZH",
+              "communityID": "openstreetmapbzh"
+            },
+            "resolved": {
+              "name": "talk-fr-bzh Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-fr-bzh",
+              "description": "The official mailing list for OpenStreetMap BZH",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fr-bzh\">talk-fr-bzh Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fr-bzh\">https://lists.openstreetmap.org/listinfo/talk-fr-bzh</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap BZH"
+            }
+          },
+          "fr-bzh-twitter": {
+            "id": "fr-bzh-twitter",
+            "type": "twitter",
+            "account": "osm_bzh",
+            "locationSet": {
+              "include": [
+                "fr-bzh-historique.geojson"
+              ]
+            },
+            "languageCodes": [
+              "br",
+              "fr"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap BZH",
+              "communityID": "openstreetmapbzh"
+            },
+            "resolved": {
+              "name": "OpenStreetMap BZH on Twitter",
+              "url": "https://twitter.com/osm_bzh",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_bzh\">OpenStreetMap BZH on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_bzh\">https://twitter.com/osm_bzh</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "fr-bzh-website": {
+            "id": "fr-bzh-website",
+            "type": "osm",
+            "locationSet": {
+              "include": [
+                "fr-bzh-historique.geojson"
+              ]
+            },
+            "languageCodes": [
+              "br",
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap BZH",
+              "communityID": "openstreetmapbzh",
+              "description": "The map which speaks Breton",
+              "url": "https://www.openstreetmap.bzh/"
+            },
+            "resolved": {
+              "name": "OpenStreetMap BZH",
+              "url": "https://www.openstreetmap.bzh/",
+              "description": "The map which speaks Breton",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.bzh/\">OpenStreetMap BZH</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.bzh/\">https://www.openstreetmap.bzh/</a>",
+              "descriptionHTML": "The map which speaks Breton"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.489671047742127,
+              48.922499263758255
+            ],
+            [
+              -2.2080029444116986,
+              48.922499263758255
+            ],
+            [
+              -3.51013,
+              49.02166
+            ],
+            [
+              -4.489671047742127,
+              48.922499263758255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "FR",
+        "iso1A3": "FRA",
+        "iso1N3": "250",
+        "wikidata": "Q142",
+        "nameEn": "France",
+        "id": "Q142",
+        "m49": "250",
+        "ccTLD": ".fr",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "EU",
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇫🇷",
+        "members": [
+          "Q46772",
+          "Q190571",
+          "Q201698",
+          "Q1681727",
+          "CP",
+          "FX",
+          "BL",
+          "GF",
+          "GP",
+          "MF",
+          "MQ",
+          "NC",
+          "PF",
+          "PM",
+          "RE",
+          "TF",
+          "WF",
+          "YT"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "590",
+          "33",
+          "594",
+          "596",
+          "687",
+          "689",
+          "508",
+          "262",
+          "681"
+        ],
+        "area": 8153344.09,
+        "resources": {
+          "fr-chapter": {
+            "id": "fr-chapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "We help grow and improve OpenStreetMap in France.",
+              "url": "https://www.openstreetmap.fr/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France",
+              "url": "https://www.openstreetmap.fr/",
+              "description": "We help grow and improve OpenStreetMap in France.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.fr/\">OpenStreetMap France</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.openstreetmap.fr/\">https://www.openstreetmap.fr/</a>",
+              "descriptionHTML": "We help grow and improve OpenStreetMap in France."
+            }
+          },
+          "fr-discord": {
+            "id": "fr-discord",
+            "type": "discord",
+            "account": "wxNGfdT",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 6,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "name": "Discord Communauté OpenStreetMap de France"
+            },
+            "resolved": {
+              "name": "Discord Communauté OpenStreetMap de France",
+              "url": "https://discord.gg/wxNGfdT",
+              "description": "Get in touch with other mappers on Discord",
+              "nameHTML": "<a target=\"_blank\" href=\"https://discord.gg/wxNGfdT\">Discord Communauté OpenStreetMap de France</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://discord.gg/wxNGfdT\">https://discord.gg/wxNGfdT</a>",
+              "descriptionHTML": "Get in touch with other mappers on Discord"
+            }
+          },
+          "fr-facebook": {
+            "id": "fr-facebook",
+            "type": "facebook",
+            "account": "osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on Facebook",
+              "url": "https://www.facebook.com/osmfr",
+              "description": "Join our community on Facebook",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/osmfr\">OpenStreetMap France on Facebook</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/osmfr\">https://www.facebook.com/osmfr</a>",
+              "descriptionHTML": "Join our community on Facebook"
+            }
+          },
+          "fr-forum": {
+            "id": "fr-forum",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -2,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "url": "https://forum.openstreetmap.fr/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Forum",
+              "url": "https://forum.openstreetmap.fr/",
+              "description": "The official forum for OpenStreetMap France",
+              "nameHTML": "<a target=\"_blank\" href=\"https://forum.openstreetmap.fr/\">OpenStreetMap France Forum</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://forum.openstreetmap.fr/\">https://forum.openstreetmap.fr/</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap France"
+            }
+          },
+          "fr-irc": {
+            "id": "fr-irc",
+            "type": "irc",
+            "account": "osm-fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-fr",
+              "description": "Join #osm-fr on irc.oftc.net (port 6667)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fr\">OpenStreetMap France on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-fr\">https://webchat.oftc.net/?channels=osm-fr</a>",
+              "descriptionHTML": "Join #osm-fr on irc.oftc.net (port 6667)"
+            }
+          },
+          "fr-mailinglist": {
+            "id": "fr-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "talk-fr Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-fr",
+              "description": "The official mailing list for OpenStreetMap France",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fr\">talk-fr Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-fr\">https://lists.openstreetmap.org/listinfo/talk-fr</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap France"
+            }
+          },
+          "fr-matrix": {
+            "id": "fr-matrix",
+            "type": "matrix",
+            "account": "#osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "A Matrix group for the OSM France community: {url} (bridged with Telegram)"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Matrix Chat",
+              "url": "https://matrix.to/#/#osmfr:matrix.org",
+              "description": "A Matrix group for the OSM France community: https://matrix.to/#/#osmfr:matrix.org (bridged with Telegram)",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">OpenStreetMap France Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">https://matrix.to/#/#osmfr:matrix.org</a>",
+              "descriptionHTML": "A Matrix group for the OSM France community: <a target=\"_blank\" href=\"https://matrix.to/#/#osmfr:matrix.org\">https://matrix.to/#/#osmfr:matrix.org</a> (bridged with Telegram)"
+            }
+          },
+          "fr-telegram": {
+            "id": "fr-telegram",
+            "type": "telegram",
+            "account": "osmfr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "order": 5,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "A Telegram group for the OSM France community: {url}"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France Telegram",
+              "url": "https://t.me/osmfr",
+              "description": "A Telegram group for the OSM France community: https://t.me/osmfr",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osmfr\">OpenStreetMap France Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osmfr\">https://t.me/osmfr</a>",
+              "descriptionHTML": "A Telegram group for the OSM France community: <a target=\"_blank\" href=\"https://t.me/osmfr\">https://t.me/osmfr</a>"
+            }
+          },
+          "fr-twitter": {
+            "id": "fr-twitter",
+            "type": "twitter",
+            "account": "osm_fr",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France on Twitter",
+              "url": "https://twitter.com/osm_fr",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_fr\">OpenStreetMap France on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osm_fr\">https://twitter.com/osm_fr</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          },
+          "fr-xmpp": {
+            "id": "fr-xmpp",
+            "type": "xmpp",
+            "locationSet": {
+              "include": [
+                "fr"
+              ]
+            },
+            "languageCodes": [
+              "fr"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap France",
+              "communityID": "openstreetmapfrance",
+              "description": "Join osm-fr@chat.jabberfr.org",
+              "url": "xmpp:osm-fr@chat.jabberfr.org?join"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap France",
+                "email": "contact@openstreetmap.fr"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap France XMPP",
+              "url": "xmpp:osm-fr@chat.jabberfr.org?join",
+              "description": "Join osm-fr@chat.jabberfr.org",
+              "nameHTML": "<a target=\"_blank\" href=\"xmpp:osm-fr@chat.jabberfr.org?join\">OpenStreetMap France XMPP</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"xmpp:osm-fr@chat.jabberfr.org?join\">xmpp:osm-fr@chat.jabberfr.org?join</a>",
+              "descriptionHTML": "Join osm-fr@chat.jabberfr.org"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -5.625,
+                48.922499263758255
+              ],
+              [
+                -2.1303392311310123,
+                48.922499263758255
+              ],
+              [
+                -2.65349,
+                49.15373
+              ],
+              [
+                -5.625,
+                48.974223130025635
+              ],
+              [
+                -5.625,
+                48.922499263758255
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -2.09454,
+                49.46288
+              ],
+              [
+                -1.83944,
+                49.23037
+              ],
+              [
+                -1.979660117051339,
+                48.922499263758255
+              ],
+              [
+                0,
+                48.922499263758255
+              ],
+              [
+                0,
+                50.44051833788019
+              ],
+              [
+                -2.02963,
+                49.91866
+              ],
+              [
+                -2.09454,
+                49.46288
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q3336843",
+        "nameEn": "Countries of the United Kingdom",
+        "aliases": [
+          "GB-UKM"
+        ],
+        "country": "GB",
+        "level": "subcountryGroup",
+        "id": "Q3336843",
+        "groups": [
+          "GB",
+          "154",
+          "150",
+          "UN",
+          "001"
+        ],
+        "members": [
+          "Q21",
+          "Q22",
+          "Q25",
+          "Q26"
+        ],
+        "roadSpeedUnit": "mph",
+        "roadHeightUnit": "ft",
+        "driveSide": "left",
+        "callingCodes": [
+          "44"
+        ],
+        "area": 686149.2,
+        "resources": {
+          "gb-irc": {
+            "id": "gb-irc",
+            "type": "irc",
+            "account": "osm-gb",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "cy",
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "extendedDescription": "Join #{account} on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question"
+            },
+            "resolved": {
+              "name": "OpenStreetMap UK on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-gb",
+              "description": "Join #osm-gb on irc.oftc.net (port 6667)",
+              "extendedDescription": "Join #osm-gb on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-gb\">OpenStreetMap UK on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-gb\">https://webchat.oftc.net/?channels=osm-gb</a>",
+              "descriptionHTML": "Join #osm-gb on irc.oftc.net (port 6667)",
+              "extendedDescriptionHTML": "Join #osm-gb on irc.oftc.net (port 6667), please be patient and wait for a few minutes if you ask a question"
+            }
+          },
+          "gb-mailinglist": {
+            "id": "gb-mailinglist",
+            "type": "mailinglist",
+            "account": "talk-gb",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "description": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community"
+            },
+            "resolved": {
+              "name": "talk-gb Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-gb",
+              "description": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-gb\">talk-gb Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-gb\">https://lists.openstreetmap.org/listinfo/talk-gb</a>",
+              "descriptionHTML": "Talk-gb is the main communication forum list for the UK (including Northern Ireland) OSM community"
+            }
+          },
+          "uk-twitter": {
+            "id": "uk-twitter",
+            "type": "twitter",
+            "account": "osmuk",
+            "locationSet": {
+              "include": [
+                "Q3336843"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK on Twitter",
+              "url": "https://twitter.com/osmuk",
+              "description": "Follow us on Twitter",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmuk\">OpenStreetMap UK on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/osmuk\">https://twitter.com/osmuk</a>",
+              "descriptionHTML": "Follow us on Twitter"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.625,
+              49.14646874293604
+            ],
+            [
+              0,
+              50.4668086538037
+            ],
+            [
+              0,
+              52.48278022207821
+            ],
+            [
+              -5.625,
+              52.48278022207821
+            ],
+            [
+              -5.625,
+              49.14646874293604
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "england-west-midlands.geojson",
+        "area": 16886.07,
+        "resources": {
+          "mappa-mercia-group": {
+            "id": "mappa-mercia-group",
+            "type": "group",
+            "locationSet": {
+              "include": [
+                "england-west-midlands.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 5,
+            "strings": {
+              "name": "Mappa Mercia local group",
+              "description": "A home for OpenStreetMap enthusiasts in the Midlands",
+              "extendedDescription": "Mappa Mercia is a project to grow OpenStreetMap in the West Midlands, UK. We run community events, provide training and support local organisations wishing to open up their data.",
+              "url": "http://www.mappa-mercia.org/"
+            },
+            "contacts": [
+              {
+                "name": "Brian Prangle",
+                "email": "community@mappa-mercia.org"
+              }
+            ],
+            "resolved": {
+              "name": "Mappa Mercia local group",
+              "url": "http://www.mappa-mercia.org/",
+              "description": "A home for OpenStreetMap enthusiasts in the Midlands",
+              "extendedDescription": "Mappa Mercia is a project to grow OpenStreetMap in the West Midlands, UK. We run community events, provide training and support local organisations wishing to open up their data.",
+              "nameHTML": "<a target=\"_blank\" href=\"http://www.mappa-mercia.org/\">Mappa Mercia local group</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"http://www.mappa-mercia.org/\">http://www.mappa-mercia.org/</a>",
+              "descriptionHTML": "A home for OpenStreetMap enthusiasts in the Midlands",
+              "extendedDescriptionHTML": "Mappa Mercia is a project to grow OpenStreetMap in the West Midlands, UK. We run community events, provide training and support local organisations wishing to open up their data."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.28493,
+              52.44175
+            ],
+            [
+              -3.10848,
+              51.95414
+            ],
+            [
+              -2.65611,
+              51.7761
+            ],
+            [
+              -1.59859,
+              51.90733
+            ],
+            [
+              -1.1222,
+              52.36367
+            ],
+            [
+              -1.2313349792309385,
+              52.48278022207821
+            ],
+            [
+              -3.272666764181205,
+              52.48278022207821
+            ],
+            [
+              -3.28493,
+              52.44175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "east_midlands.geojson",
+        "area": 19134.46,
+        "resources": {
+          "Nottingham-OSM-pub-meetup": {
+            "id": "Nottingham-OSM-pub-meetup",
+            "type": "group",
+            "locationSet": {
+              "include": [
+                "east_midlands.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 5,
+            "strings": {
+              "name": "East Midlands (Nottingham) Monthly pub meet-up",
+              "description": "Social gathering for East Midlands mappers and users",
+              "extendedDescription": "A group have been meeting since March 2011, initially in Nottingham, and, more recently in Derby, and from time to time elsewhere in the East Midlands. These are social gatherings, but are an excellent place to come and ask specific questions about OSM either in the area or in general. In the summer months we usually do some light mapping for an hour in the vicinity of our meeting place. The group as a whole has a special interest in mapping public rights of way and from time to time has mapping meetings for this purpose.",
+              "url": "https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup"
+            },
+            "contacts": [
+              {
+                "name": "Jerry Clough",
+                "email": "SK53.osm@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "East Midlands (Nottingham) Monthly pub meet-up",
+              "url": "https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup",
+              "description": "Social gathering for East Midlands mappers and users",
+              "extendedDescription": "A group have been meeting since March 2011, initially in Nottingham, and, more recently in Derby, and from time to time elsewhere in the East Midlands. These are social gatherings, but are an excellent place to come and ask specific questions about OSM either in the area or in general. In the summer months we usually do some light mapping for an hour in the vicinity of our meeting place. The group as a whole has a special interest in mapping public rights of way and from time to time has mapping meetings for this purpose.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup\">East Midlands (Nottingham) Monthly pub meet-up</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup\">https://wiki.openstreetmap.org/wiki/Nottingham/Pub_Meetup</a>",
+              "descriptionHTML": "Social gathering for East Midlands mappers and users",
+              "extendedDescriptionHTML": "A group have been meeting since March 2011, initially in Nottingham, and, more recently in Derby, and from time to time elsewhere in the East Midlands. These are social gatherings, but are an excellent place to come and ask specific questions about OSM either in the area or in general. In the summer months we usually do some light mapping for an hour in the vicinity of our meeting place. The group as a whole has a special interest in mapping public rights of way and from time to time has mapping meetings for this purpose."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.2313349792309385,
+              52.48278022207821
+            ],
+            [
+              -1.1222,
+              52.36367
+            ],
+            [
+              -0.8517015640281034,
+              52.48278022207821
+            ],
+            [
+              -1.2313349792309385,
+              52.48278022207821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "+[Q185086,Q3336843]",
+        "area": 695269.91,
+        "resources": {
+          "uk-localchapter": {
+            "id": "uk-localchapter",
+            "type": "osm-lc",
+            "locationSet": {
+              "include": [
+                "Q3336843",
+                "Q185086"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 3,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "description": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescription": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: {signupUrl}",
+              "signupUrl": "https://osmuk.org/become-member/",
+              "url": "https://osmuk.org/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK",
+              "url": "https://osmuk.org/",
+              "signupUrl": "https://osmuk.org/become-member/",
+              "description": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescription": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: https://osmuk.org/become-member/",
+              "nameHTML": "<a target=\"_blank\" href=\"https://osmuk.org/\">OpenStreetMap UK</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://osmuk.org/\">https://osmuk.org/</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://osmuk.org/become-member/\">https://osmuk.org/become-member/</a>",
+              "descriptionHTML": "The official Local Chapter for the UK (including Northern Ireland).",
+              "extendedDescriptionHTML": "We support OpenStreetMap by holding events, providing community resources, building partnerships, and by spreading the word. Join OpenStreetMap UK here: <a target=\"_blank\" href=\"https://osmuk.org/become-member/\">https://osmuk.org/become-member/</a>"
+            }
+          },
+          "uk-loomio": {
+            "id": "uk-loomio",
+            "type": "forum",
+            "locationSet": {
+              "include": [
+                "Q3336843",
+                "Q185086"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 2,
+            "strings": {
+              "community": "OpenStreetMap UK",
+              "communityID": "openstreetmapuk",
+              "name": "OpenStreetMap UK on Loomio",
+              "url": "https://www.loomio.org/openstreetmap-uk/"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap UK",
+                "email": "board@osmuk.org"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap UK on Loomio",
+              "url": "https://www.loomio.org/openstreetmap-uk/",
+              "description": "The official forum for OpenStreetMap UK",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.loomio.org/openstreetmap-uk/\">OpenStreetMap UK on Loomio</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.loomio.org/openstreetmap-uk/\">https://www.loomio.org/openstreetmap-uk/</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap UK"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -5.625,
+                49.14646874293604
+              ],
+              [
+                0,
+                50.4668086538037
+              ],
+              [
+                0,
+                52.48278022207821
+              ],
+              [
+                -5.625,
+                52.48278022207821
+              ],
+              [
+                -5.625,
+                49.14646874293604
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -3.28154,
+                49.57329
+              ],
+              [
+                -2.65349,
+                49.15373
+              ],
+              [
+                -2.1303392311310123,
+                48.922499263758255
+              ],
+              [
+                -1.979660117051339,
+                48.922499263758255
+              ],
+              [
+                -1.83944,
+                49.23037
+              ],
+              [
+                -2.09454,
+                49.46288
+              ],
+              [
+                -2.02963,
+                49.91866
+              ],
+              [
+                -2.49556,
+                49.79012
+              ],
+              [
+                -3.28154,
+                49.57329
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-0.12,51.5]",
+        "area": 1963.5,
+        "resources": {
+          "uk-london-twitter": {
+            "id": "uk-london-twitter",
+            "type": "twitter",
+            "account": "OSMLondon",
+            "locationSet": {
+              "include": [
+                [
+                  -0.12,
+                  51.5
+                ]
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "name": "OpenStreetMap London on Twitter",
+              "description": "OpenStreetMap London on Twitter: {url}"
+            },
+            "contacts": [
+              {
+                "name": "Harry Wood",
+                "email": "mail@harrywood.co.uk"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap London on Twitter",
+              "url": "https://twitter.com/OSMLondon",
+              "description": "OpenStreetMap London on Twitter: https://twitter.com/OSMLondon",
+              "nameHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSMLondon\">OpenStreetMap London on Twitter</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://twitter.com/OSMLondon\">https://twitter.com/OSMLondon</a>",
+              "descriptionHTML": "OpenStreetMap London on Twitter: <a target=\"_blank\" href=\"https://twitter.com/OSMLondon\">https://twitter.com/OSMLondon</a>"
+            }
+          },
+          "uk-london-wiki": {
+            "id": "uk-london-wiki",
+            "type": "wiki",
+            "account": "London",
+            "locationSet": {
+              "include": [
+                [
+                  -0.12,
+                  51.5
+                ]
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "order": 4,
+            "strings": {
+              "community": "OpenStreetMap London",
+              "communityID": "openstreetmaplondon",
+              "description": "{community} Wiki page"
+            },
+            "contacts": [
+              {
+                "name": "Harry Wood",
+                "email": "mail@harrywood.co.uk"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap London WikiProject",
+              "url": "https://wiki.openstreetmap.org/wiki/London",
+              "description": "OpenStreetMap London Wiki page",
+              "nameHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/London\">OpenStreetMap London WikiProject</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://wiki.openstreetmap.org/wiki/London\">https://wiki.openstreetmap.org/wiki/London</a>",
+              "descriptionHTML": "OpenStreetMap London Wiki page"
+            }
+          },
+          "ym-Queen-Mary-University-of-London": {
+            "id": "ym-Queen-Mary-University-of-London",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -0.12,
+                  51.5
+                ]
+              ]
+            },
+            "order": -5,
+            "strings": {
+              "name": "Queen Mary YouthMappers",
+              "description": "YouthMappers chapter at Queen Mary University of London",
+              "extendedDescription": "This chapter will be part of the activities of the Queen Mary Geography Society.",
+              "url": "https://www.facebook.com/groups/qmulgeographysociety/"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "youthmappers@qmul.ac.uk"
+              }
+            ],
+            "resolved": {
+              "name": "Queen Mary YouthMappers",
+              "url": "https://www.facebook.com/groups/qmulgeographysociety/",
+              "description": "YouthMappers chapter at Queen Mary University of London",
+              "extendedDescription": "This chapter will be part of the activities of the Queen Mary Geography Society.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/qmulgeographysociety/\">Queen Mary YouthMappers</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/groups/qmulgeographysociety/\">https://www.facebook.com/groups/qmulgeographysociety/</a>",
+              "descriptionHTML": "YouthMappers chapter at Queen Mary University of London",
+              "extendedDescriptionHTML": "This chapter will be part of the activities of the Queen Mary Geography Society."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.464,
+              51.569
+            ],
+            [
+              -0.463,
+              51.43
+            ],
+            [
+              -0.331,
+              51.318
+            ],
+            [
+              -0.12,
+              51.275
+            ],
+            [
+              0,
+              51.299454976303316
+            ],
+            [
+              0,
+              51.70021126760563
+            ],
+            [
+              -0.12,
+              51.725
+            ],
+            [
+              -0.333,
+              51.681
+            ],
+            [
+              -0.464,
+              51.569
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-3.53515,50.73664]",
+        "area": 1963.5,
+        "resources": {
+          "ym-University-of-Exeter": {
+            "id": "ym-University-of-Exeter",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -3.53515,
+                  50.73664
+                ]
+              ]
+            },
+            "strings": {
+              "name": "University of Exeter British Red Cross Missing Maps",
+              "description": "YouthMappers chapter at University of Exeter",
+              "extendedDescription": "We are a team of enthusiastic Geographers with comprehensive knowledge of GIS. We are passionate about supporting the British Red Cross Society with various humanitarian aid efforts. We are also important teachers of the significance of mapping remotely sensed data and how this helps on the ground. Our mapathons have themed academic focuses that highlight the different GIS research in our geography department, while also functioning as employability awareness events which we use to invite speakers in to talk about their GIS/British Red Cross careers.",
+              "url": "https://www.facebook.com/EUMissingMaps/"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "uniofexemissingmaps@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "University of Exeter British Red Cross Missing Maps",
+              "url": "https://www.facebook.com/EUMissingMaps/",
+              "description": "YouthMappers chapter at University of Exeter",
+              "extendedDescription": "We are a team of enthusiastic Geographers with comprehensive knowledge of GIS. We are passionate about supporting the British Red Cross Society with various humanitarian aid efforts. We are also important teachers of the significance of mapping remotely sensed data and how this helps on the ground. Our mapathons have themed academic focuses that highlight the different GIS research in our geography department, while also functioning as employability awareness events which we use to invite speakers in to talk about their GIS/British Red Cross careers.",
+              "nameHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/EUMissingMaps/\">University of Exeter British Red Cross Missing Maps</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://www.facebook.com/EUMissingMaps/\">https://www.facebook.com/EUMissingMaps/</a>",
+              "descriptionHTML": "YouthMappers chapter at University of Exeter",
+              "extendedDescriptionHTML": "We are a team of enthusiastic Geographers with comprehensive knowledge of GIS. We are passionate about supporting the British Red Cross Society with various humanitarian aid efforts. We are also important teachers of the significance of mapping remotely sensed data and how this helps on the ground. Our mapathons have themed academic focuses that highlight the different GIS research in our geography department, while also functioning as employability awareness events which we use to invite speakers in to talk about their GIS/British Red Cross careers."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.873,
+              50.806
+            ],
+            [
+              -3.872,
+              50.667
+            ],
+            [
+              -3.743,
+              50.555
+            ],
+            [
+              -3.535,
+              50.512
+            ],
+            [
+              -3.327,
+              50.555
+            ],
+            [
+              -3.198,
+              50.667
+            ],
+            [
+              -3.197,
+              50.806
+            ],
+            [
+              -3.326,
+              50.918
+            ],
+            [
+              -3.535,
+              50.961
+            ],
+            [
+              -3.745,
+              50.918
+            ],
+            [
+              -3.873,
+              50.806
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "[-1.56119,52.37905]",
+        "area": 1963.5,
+        "resources": {
+          "ym-University-of-Warwick": {
+            "id": "ym-University-of-Warwick",
+            "type": "youthmappers",
+            "locationSet": {
+              "include": [
+                [
+                  -1.56119,
+                  52.37905
+                ]
+              ]
+            },
+            "strings": {
+              "name": "University of Warwick Resilience Mapping Society",
+              "description": "YouthMappers chapter at University of Warwick",
+              "extendedDescription": "We are a group of enthusiastic mappers based at Warwick University. Our aim is to get people excited about humanitarian mapping and help them understand the impact this activity has on the field. We are closely aligned with Missing Maps and Doctors Without Borders UK and focus on HOT tasks in our mapping activities and workshops. Our mapathons are listed on the Missing Maps page whenever they are scheduled.",
+              "url": "mailto:p.ulbrich@warwick.ac.uk"
+            },
+            "contacts": [
+              {
+                "name": "Organizer",
+                "email": "p.ulbrich@warwick.ac.uk"
+              }
+            ],
+            "resolved": {
+              "name": "University of Warwick Resilience Mapping Society",
+              "url": "mailto:p.ulbrich@warwick.ac.uk",
+              "description": "YouthMappers chapter at University of Warwick",
+              "extendedDescription": "We are a group of enthusiastic mappers based at Warwick University. Our aim is to get people excited about humanitarian mapping and help them understand the impact this activity has on the field. We are closely aligned with Missing Maps and Doctors Without Borders UK and focus on HOT tasks in our mapping activities and workshops. Our mapathons are listed on the Missing Maps page whenever they are scheduled.",
+              "nameHTML": "<a target=\"_blank\" href=\"mailto:p.ulbrich@warwick.ac.uk\">University of Warwick Resilience Mapping Society</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"mailto:p.ulbrich@warwick.ac.uk\">mailto:p.ulbrich@warwick.ac.uk</a>",
+              "descriptionHTML": "YouthMappers chapter at University of Warwick",
+              "extendedDescriptionHTML": "We are a group of enthusiastic mappers based at Warwick University. Our aim is to get people excited about humanitarian mapping and help them understand the impact this activity has on the field. We are closely aligned with Missing Maps and Doctors Without Borders UK and focus on HOT tasks in our mapping activities and workshops. Our mapathons are listed on the Missing Maps page whenever they are scheduled."
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.912,
+              52.448
+            ],
+            [
+              -1.911,
+              52.309
+            ],
+            [
+              -1.777,
+              52.197
+            ],
+            [
+              -1.561,
+              52.154
+            ],
+            [
+              -1.346,
+              52.197
+            ],
+            [
+              -1.212,
+              52.309
+            ],
+            [
+              -1.211,
+              52.448
+            ],
+            [
+              -1.2519360135964792,
+              52.48278022207821
+            ],
+            [
+              -1.8707561968276074,
+              52.48278022207821
+            ],
+            [
+              -1.912,
+              52.448
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

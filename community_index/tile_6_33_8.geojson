@@ -1,0 +1,231 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "NO",
+        "iso1A3": "NOR",
+        "iso1N3": "578",
+        "wikidata": "Q20",
+        "nameEn": "Norway",
+        "id": "Q20",
+        "m49": "578",
+        "ccTLD": ".no",
+        "isoStatus": "official",
+        "level": "country",
+        "groups": [
+          "UN",
+          "001"
+        ],
+        "emojiFlag": "🇳🇴",
+        "members": [
+          "Q14056",
+          "Q25231",
+          "Q98059339",
+          "BV",
+          "SJ"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "callingCodes": [
+          "47 79",
+          "47"
+        ],
+        "area": 1853649.97,
+        "resources": {
+          "no-discourse": {
+            "id": "no-discourse",
+            "type": "discourse",
+            "account": "no",
+            "locationSet": {
+              "include": [
+                "no"
+              ]
+            },
+            "languageCodes": [
+              "no"
+            ],
+            "order": 1,
+            "strings": {
+              "community": "OpenStreetMap Norway",
+              "communityID": "openstreetmapnorway"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Norway",
+                "email": "kart@nuug.no"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Norway Discourse",
+              "url": "https://community.openstreetmap.org/c/communities/no",
+              "description": "The official forum for OpenStreetMap Norway",
+              "nameHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/no\">OpenStreetMap Norway Discourse</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://community.openstreetmap.org/c/communities/no\">https://community.openstreetmap.org/c/communities/no</a>",
+              "descriptionHTML": "The official forum for OpenStreetMap Norway"
+            }
+          },
+          "no-irc": {
+            "id": "no-irc",
+            "type": "irc",
+            "account": "osm-no",
+            "locationSet": {
+              "include": [
+                "no"
+              ]
+            },
+            "languageCodes": [
+              "no"
+            ],
+            "order": -4,
+            "strings": {
+              "community": "OpenStreetMap Norway",
+              "communityID": "openstreetmapnorway",
+              "description": "Chat room for mappers and OpenStreetMap users, developers and enthusiasts in Norway"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Norway",
+                "email": "kart@nuug.no"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Norway on IRC",
+              "url": "https://webchat.oftc.net/?channels=osm-no",
+              "description": "Chat room for mappers and OpenStreetMap users, developers and enthusiasts in Norway",
+              "nameHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-no\">OpenStreetMap Norway on IRC</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://webchat.oftc.net/?channels=osm-no\">https://webchat.oftc.net/?channels=osm-no</a>",
+              "descriptionHTML": "Chat room for mappers and OpenStreetMap users, developers and enthusiasts in Norway"
+            }
+          },
+          "no-mailinglist": {
+            "id": "no-mailinglist",
+            "type": "mailinglist",
+            "locationSet": {
+              "include": [
+                "no"
+              ]
+            },
+            "languageCodes": [
+              "no"
+            ],
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Norway",
+              "communityID": "openstreetmapnorway",
+              "name": "{community} Mailing List",
+              "description": "Mailing list for mappers and OpenStreetMap users, developers and enthusiasts in Norway",
+              "url": "https://lists.nuug.no/mailman/listinfo/kart"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Norway",
+                "email": "kart@nuug.no"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Norway Mailing List",
+              "url": "https://lists.nuug.no/mailman/listinfo/kart",
+              "description": "Mailing list for mappers and OpenStreetMap users, developers and enthusiasts in Norway",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.nuug.no/mailman/listinfo/kart\">OpenStreetMap Norway Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.nuug.no/mailman/listinfo/kart\">https://lists.nuug.no/mailman/listinfo/kart</a>",
+              "descriptionHTML": "Mailing list for mappers and OpenStreetMap users, developers and enthusiasts in Norway"
+            }
+          },
+          "no-matrix": {
+            "id": "no-matrix",
+            "type": "matrix",
+            "account": "#openstreetmap-no",
+            "locationSet": {
+              "include": [
+                "no"
+              ]
+            },
+            "languageCodes": [
+              "no"
+            ],
+            "order": -1,
+            "strings": {
+              "community": "OpenStreetMap Norway",
+              "communityID": "openstreetmapnorway"
+            },
+            "contacts": [
+              {
+                "name": "OpenStreetMap Norway",
+                "email": "kart@nuug.no"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Norway Matrix Chat",
+              "url": "https://matrix.to/#/#openstreetmap-no:matrix.org",
+              "description": "Join our community Matrix chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#openstreetmap-no:matrix.org\">OpenStreetMap Norway Matrix Chat</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://matrix.to/#/#openstreetmap-no:matrix.org\">https://matrix.to/#/#openstreetmap-no:matrix.org</a>",
+              "descriptionHTML": "Join our community Matrix chat"
+            }
+          },
+          "no-telegram": {
+            "id": "no-telegram",
+            "type": "telegram",
+            "account": "OSM_no",
+            "locationSet": {
+              "include": [
+                "no"
+              ]
+            },
+            "languageCodes": [
+              "no"
+            ],
+            "strings": {
+              "community": "OpenStreetMap Norway",
+              "communityID": "openstreetmapnorway"
+            },
+            "contacts": [
+              {
+                "name": "Syver Stensholt",
+                "email": "sssandum@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Norway Telegram",
+              "url": "https://t.me/OSM_no",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OSM_no\">OpenStreetMap Norway Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OSM_no\">https://t.me/OSM_no</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.625,
+              78.06198918665974
+            ],
+            [
+              11.25,
+              78.06198918665974
+            ],
+            [
+              11.25,
+              79.17133464081945
+            ],
+            [
+              5.625,
+              79.17133464081945
+            ],
+            [
+              5.625,
+              78.06198918665974
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

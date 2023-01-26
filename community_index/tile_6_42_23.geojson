@@ -1,0 +1,595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "KZ",
+        "iso1A3": "KAZ",
+        "iso1N3": "398",
+        "wikidata": "Q232",
+        "nameEn": "Kazakhstan",
+        "groups": [
+          "143",
+          "142",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "7"
+        ],
+        "id": "Q232",
+        "m49": "398",
+        "ccTLD": ".kz",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇰🇿",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 2797719.48,
+        "resources": {
+          "kz-telegram": {
+            "id": "kz-telegram",
+            "type": "telegram",
+            "account": "osm_kz",
+            "locationSet": {
+              "include": [
+                "kz"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Kazakhstan",
+              "communityID": "openstreetmapkazakhstan"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Kazakhstan Telegram",
+              "url": "https://t.me/osm_kz",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osm_kz\">OpenStreetMap Kazakhstan Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osm_kz\">https://t.me/osm_kz</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                56.25,
+                45.05745873929331
+              ],
+              [
+                56.39003610097948,
+                45.08903556483103
+              ],
+              [
+                56.25,
+                45.08903556483103
+              ],
+              [
+                56.25,
+                45.05745873929331
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                59.622958868973726,
+                45.08903556483103
+              ],
+              [
+                61.01475,
+                44.41383
+              ],
+              [
+                61.875,
+                43.638209526816716
+              ],
+              [
+                61.875,
+                45.08903556483103
+              ],
+              [
+                59.622958868973726,
+                45.08903556483103
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "m49": "142",
+        "wikidata": "Q48",
+        "nameEn": "Asia",
+        "level": "region",
+        "id": "Q48",
+        "groups": [
+          "001"
+        ],
+        "members": [
+          "Q9143535",
+          "Q9206745",
+          "Q3492",
+          "Q3757",
+          "Q3795",
+          "Q3803",
+          "Q3812",
+          "Q3827",
+          "Q3845",
+          "Q19188",
+          "Q26927",
+          "Q27329",
+          "Q36678",
+          "Q37362",
+          "Q39760",
+          "Q40888",
+          "Q1901211",
+          "Q1973345",
+          "Q6736667",
+          "HK",
+          "MO",
+          "Q23681",
+          "AE",
+          "AF",
+          "AM",
+          "AZ",
+          "BD",
+          "BH",
+          "BN",
+          "BT",
+          "CN",
+          "CY",
+          "GE",
+          "ID",
+          "IL",
+          "IN",
+          "IQ",
+          "IR",
+          "JO",
+          "JP",
+          "KG",
+          "KH",
+          "KP",
+          "KR",
+          "KW",
+          "KZ",
+          "LA",
+          "LB",
+          "LK",
+          "MM",
+          "MN",
+          "MV",
+          "MY",
+          "NP",
+          "OM",
+          "PH",
+          "PK",
+          "PS",
+          "QA",
+          "SA",
+          "SG",
+          "SY",
+          "TH",
+          "TJ",
+          "TL",
+          "TM",
+          "TR",
+          "TW",
+          "UZ",
+          "VN",
+          "YE",
+          "Q36117",
+          "Q644636",
+          "030",
+          "034",
+          "035",
+          "143",
+          "145"
+        ],
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "callingCodes": [
+          "62",
+          "86",
+          "90 392",
+          "91",
+          "7",
+          "970",
+          "60",
+          "357",
+          "971",
+          "93",
+          "374",
+          "994",
+          "880",
+          "973",
+          "673",
+          "975",
+          "995",
+          "852",
+          "972",
+          "964",
+          "98",
+          "962",
+          "81",
+          "996",
+          "855",
+          "850",
+          "82",
+          "965",
+          "856",
+          "961",
+          "94",
+          "95",
+          "976",
+          "853",
+          "960",
+          "977",
+          "968",
+          "63",
+          "92",
+          "974",
+          "966",
+          "65",
+          "963",
+          "66",
+          "992",
+          "670",
+          "993",
+          "90",
+          "886",
+          "998",
+          "84",
+          "967"
+        ],
+        "area": 70709531.04,
+        "resources": {
+          "osm-asia-telegram": {
+            "id": "osm-asia-telegram",
+            "type": "telegram",
+            "account": "OpenStreetMapAsia",
+            "locationSet": {
+              "include": [
+                "142"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Asia",
+              "communityID": "openstreetmapasia"
+            },
+            "contacts": [
+              {
+                "name": "Erwin Olario",
+                "email": "govvin@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "OpenStreetMap Asia Telegram",
+              "url": "https://t.me/OpenStreetMapAsia",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/OpenStreetMapAsia\">OpenStreetMap Asia Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/OpenStreetMapAsia\">https://t.me/OpenStreetMapAsia</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          },
+          "talk-asia": {
+            "id": "talk-asia",
+            "type": "mailinglist",
+            "account": "talk-asia",
+            "locationSet": {
+              "include": [
+                "142"
+              ]
+            },
+            "order": -3,
+            "strings": {
+              "community": "OpenStreetMap Asia",
+              "communityID": "openstreetmapasia"
+            },
+            "contacts": [
+              {
+                "name": "Erwin Olario",
+                "email": "govvin@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "talk-asia Mailing List",
+              "url": "https://lists.openstreetmap.org/listinfo/talk-asia",
+              "description": "The official mailing list for OpenStreetMap Asia",
+              "nameHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-asia\">talk-asia Mailing List</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://lists.openstreetmap.org/listinfo/talk-asia\">https://lists.openstreetmap.org/listinfo/talk-asia</a>",
+              "descriptionHTML": "The official mailing list for OpenStreetMap Asia"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.25,
+              40.97989806962013
+            ],
+            [
+              61.875,
+              40.97989806962013
+            ],
+            [
+              61.875,
+              45.08903556483103
+            ],
+            [
+              56.25,
+              45.08903556483103
+            ],
+            [
+              56.25,
+              40.97989806962013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso1A2": "UZ",
+        "iso1A3": "UZB",
+        "iso1N3": "860",
+        "wikidata": "Q265",
+        "nameEn": "Uzbekistan",
+        "groups": [
+          "143",
+          "142",
+          "UN",
+          "001"
+        ],
+        "callingCodes": [
+          "998"
+        ],
+        "id": "Q265",
+        "m49": "860",
+        "ccTLD": ".uz",
+        "isoStatus": "official",
+        "level": "country",
+        "emojiFlag": "🇺🇿",
+        "roadSpeedUnit": "km/h",
+        "roadHeightUnit": "m",
+        "driveSide": "right",
+        "area": 447949.28,
+        "resources": {
+          "uz-telegram": {
+            "id": "uz-telegram",
+            "type": "telegram",
+            "account": "osm_uz",
+            "locationSet": {
+              "include": [
+                "uz"
+              ]
+            },
+            "strings": {
+              "community": "OpenStreetMap Uzbekistan",
+              "communityID": "openstreetmapuzbekistan"
+            },
+            "resolved": {
+              "name": "OpenStreetMap Uzbekistan Telegram",
+              "url": "https://t.me/osm_uz",
+              "description": "Join our community Telegram chat",
+              "nameHTML": "<a target=\"_blank\" href=\"https://t.me/osm_uz\">OpenStreetMap Uzbekistan Telegram</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://t.me/osm_uz\">https://t.me/osm_uz</a>",
+              "descriptionHTML": "Join our community Telegram chat"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.25,
+              41.30872411157125
+            ],
+            [
+              57.03423,
+              41.25435
+            ],
+            [
+              57.13796,
+              41.36625
+            ],
+            [
+              57.03359,
+              41.41777
+            ],
+            [
+              56.96218,
+              41.80383
+            ],
+            [
+              57.03633,
+              41.92043
+            ],
+            [
+              57.30275,
+              42.14076
+            ],
+            [
+              57.6296,
+              42.16519
+            ],
+            [
+              57.84932,
+              42.18555
+            ],
+            [
+              57.92897,
+              42.24047
+            ],
+            [
+              57.90975,
+              42.4374
+            ],
+            [
+              57.99214,
+              42.50021
+            ],
+            [
+              58.3492,
+              42.43335
+            ],
+            [
+              58.40688,
+              42.29535
+            ],
+            [
+              58.51674,
+              42.30348
+            ],
+            [
+              58.29427,
+              42.56497
+            ],
+            [
+              58.14321,
+              42.62159
+            ],
+            [
+              58.27504,
+              42.69632
+            ],
+            [
+              58.57991,
+              42.64988
+            ],
+            [
+              58.6266,
+              42.79314
+            ],
+            [
+              58.93422,
+              42.5407
+            ],
+            [
+              59.17317,
+              42.52248
+            ],
+            [
+              59.2955,
+              42.37064
+            ],
+            [
+              59.4341,
+              42.29738
+            ],
+            [
+              59.94633,
+              42.27655
+            ],
+            [
+              60.00539,
+              42.212
+            ],
+            [
+              59.96419,
+              42.1428
+            ],
+            [
+              60.04659,
+              42.08982
+            ],
+            [
+              60.0356,
+              42.01028
+            ],
+            [
+              59.95046,
+              41.97966
+            ],
+            [
+              60.33223,
+              41.75058
+            ],
+            [
+              60.08504,
+              41.80997
+            ],
+            [
+              60.06032,
+              41.76287
+            ],
+            [
+              60.18117,
+              41.60082
+            ],
+            [
+              60.06581,
+              41.4363
+            ],
+            [
+              60.5078,
+              41.21694
+            ],
+            [
+              61.03261,
+              41.25691
+            ],
+            [
+              61.22212,
+              41.14946
+            ],
+            [
+              61.33199,
+              41.14946
+            ],
+            [
+              61.39732,
+              41.19873
+            ],
+            [
+              61.4446,
+              41.29407
+            ],
+            [
+              61.875,
+              41.12397690386211
+            ],
+            [
+              61.875,
+              43.638209526816716
+            ],
+            [
+              61.01475,
+              44.41383
+            ],
+            [
+              59.622958868973726,
+              45.08903556483103
+            ],
+            [
+              56.39003610097948,
+              45.08903556483103
+            ],
+            [
+              56.25,
+              45.05745873929331
+            ],
+            [
+              56.25,
+              41.30872411157125
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

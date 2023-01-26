@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "western_australia.geojson",
+        "area": 8156753.18,
+        "resources": {
+          "geogeeks_perth_meetup": {
+            "id": "geogeeks_perth_meetup",
+            "type": "group",
+            "locationSet": {
+              "include": [
+                "western_australia.geojson"
+              ]
+            },
+            "languageCodes": [
+              "en"
+            ],
+            "strings": {
+              "name": "Geogeeks Perth",
+              "description": "Perth-based meetup group for people interested in mapping, geospatial data, and open source. We run regular OSM mapping parties, talks, and social gatherings. Beginners very welcome!",
+              "signupUrl": "https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw",
+              "url": "https://geogeeks.org"
+            },
+            "contacts": [
+              {
+                "name": "Geogeeks Perth",
+                "email": "geogeeks.perth@gmail.com"
+              }
+            ],
+            "resolved": {
+              "name": "Geogeeks Perth",
+              "url": "https://geogeeks.org",
+              "signupUrl": "https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw",
+              "description": "Perth-based meetup group for people interested in mapping, geospatial data, and open source. We run regular OSM mapping parties, talks, and social gatherings. Beginners very welcome!",
+              "nameHTML": "<a target=\"_blank\" href=\"https://geogeeks.org\">Geogeeks Perth</a>",
+              "urlHTML": "<a target=\"_blank\" href=\"https://geogeeks.org\">https://geogeeks.org</a>",
+              "signupUrlHTML": "<a target=\"_blank\" href=\"https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw\">https://join.slack.com/t/geogeeks/shared_invite/zt-13fnotoqb-YkyMTmvwZEB_nDUis_30hw</a>",
+              "descriptionHTML": "Perth-based meetup group for people interested in mapping, geospatial data, and open source. We run regular OSM mapping parties, talks, and social gatherings. Beginners very welcome!"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.29883698674568,
+              -31.95216223802496
+            ],
+            [
+              106.875,
+              -35.190923643146675
+            ],
+            [
+              106.875,
+              -31.95216223802496
+            ],
+            [
+              105.29883698674568,
+              -31.95216223802496
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
