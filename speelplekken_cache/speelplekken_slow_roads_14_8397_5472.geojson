@@ -3046,21 +3046,22 @@
    "type": "Feature",
    "id": "way/564024198",
    "properties": {
+    "bicycle": "no",
     "highway": "path",
     "id": "way/564024198",
-    "_lat": "51.17767445",
+    "_lat": "51.177860550000005",
     "_lon": "4.51974615",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "255.67778931140768",
-    "_length:km": "0.3",
-    "_direction:centerpoint": -168.46068641457092,
-    "_last_edit:contributor": "wegspotter",
-    "_last_edit:contributor:uid": 428001,
-    "_last_edit:changeset": 56657012,
-    "_last_edit:timestamp": "2018-02-25T10:32:23Z",
-    "_version_number": 1,
+    "_length": "210.7657846858757",
+    "_length:km": "0.2",
+    "_direction:centerpoint": -168.46068550747233,
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 131648146,
+    "_last_edit:timestamp": "2023-01-24T11:52:49Z",
+    "_version_number": 2,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3091,24 +3092,16 @@
      [
       4.5203081,
       51.1772647
-     ],
-     [
-      4.520182,
-      51.1769452
-     ],
-     [
-      4.5202666,
-      51.1768925
      ]
     ]
    },
    "_lon": 4.51974615,
-   "_lat": 51.17767445,
+   "_lat": 51.177860550000005,
    "_is_patched": true,
    "bbox": {
     "maxLat": 51.1784564,
     "maxLon": 4.5203081,
-    "minLat": 51.1768925,
+    "minLat": 51.1772647,
     "minLon": 4.5191842
    }
   },
@@ -4518,6 +4511,56 @@
     "maxLon": 4.5158642,
     "minLat": 51.170163,
     "minLon": 4.5157909
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1134777708",
+   "properties": {
+    "highway": "path",
+    "id": "way/1134777708",
+    "_lat": "51.1770786",
+    "_lon": "4.52024505",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "44.91200462553199",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -166.10236086838285,
+    "_last_edit:contributor": "KurtEnKristel",
+    "_last_edit:contributor:uid": 13801441,
+    "_last_edit:changeset": 131648146,
+    "_last_edit:timestamp": "2023-01-24T11:52:49Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5203081,
+      51.1772647
+     ],
+     [
+      4.520182,
+      51.1769452
+     ],
+     [
+      4.5202666,
+      51.1768925
+     ]
+    ]
+   },
+   "_lon": 4.52024505,
+   "_lat": 51.1770786,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1772647,
+    "maxLon": 4.5203081,
+    "minLat": 51.1768925,
+    "minLon": 4.520182
    }
   },
   {
