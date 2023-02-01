@@ -2,7 +2,7 @@
 
 echo "Updating community index..."
 wget https://raw.githubusercontent.com/osmlab/osm-community-index/main/dist/completeFeatureCollection.json -O community_index.geojson
-cat community_index.geojson | jq ".features[] | select(.id == \"Q2\").properties" > global.geojson
+cat community_index.geojson | jq ".features[] | select(.id == \"Q2\").properties.resources" > global.json
 cat community_index.geojson | jq "{type: \"FeatureCollection\", features: [.features[] | select(.id != \"Q2\")]}" > local.geojson
 
 # community_index.geojson

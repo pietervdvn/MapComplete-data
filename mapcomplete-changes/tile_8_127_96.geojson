@@ -361,6 +361,189 @@
         ]
       },
       "id": 119864083
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.25.3",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-01-02T15:15:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "clothes"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/shops.html",
+        "theme": "shops",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 2,
+        "id": 130791955
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1053906,
+          40.3437659
+        ]
+      },
+      "id": 130791955
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.25.3",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-01-03T13:37:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 2,
+        "id": 130827107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3437816,
+          40.5874496
+        ]
+      },
+      "id": 130827107
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 42,
+            "name": "Invalid tag modification"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-755116395",
+            "name": "Área de Servicios de Autocaravanas",
+            "osm_id": 755116395,
+            "reasons": [
+              42
+            ],
+            "version": 6,
+            "primary_tags": {
+              "amenity": "sanitary_dump_station"
+            }
+          }
+        ],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.25.3",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-01-03T11:29:17Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "image": [
+            "https://i.imgur.com/arEGDGz.jpg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "sanitary_dump_station"
+          ],
+          "tourism": [
+            "caravan_site"
+          ],
+          "water_point": [
+            "yes"
+          ],
+          "power_supply": [
+            "no"
+          ],
+          "sanitary_dump_station:grey_water": [
+            "yes"
+          ],
+          "sanitary_dump_station:chemical_toilet": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 7.61387200003051e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 6,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 7,
+        "id": 130822189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40763375,
+          40.5259734
+        ]
+      },
+      "id": 130822189
     }
   ]
 }

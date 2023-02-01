@@ -484,6 +484,223 @@
         ]
       },
       "id": 125110284
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "jdiddid",
+        "uid": "16177995",
+        "editor": "MapComplete 0.25.4",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-01-10T14:04:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "barrier": [
+            "bollard"
+          ],
+          "bicycle": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.00000507182895996503,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cycle_infra.html",
+        "theme": "cycle_infra",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 131108279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.73122645000001,
+          41.6207116
+        ]
+      },
+      "id": 131108279
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "CameronBanga",
+        "uid": "5060217",
+        "editor": "MapComplete 0.25.6",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-01-24T15:33:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "restaurant"
+          ],
+          "cuisine": [
+            "thai"
+          ],
+          "delivery": [
+            "no"
+          ],
+          "takeaway": [
+            "yes"
+          ],
+          "addr:street": [
+            "E Lincolnway Hwy"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "diet:vegetarian": [
+            "limited"
+          ],
+          "addr:housenumber": [
+            "607"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.0000485010707199242,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "move": 1,
+        "theme": "food",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "relocated": 1,
+        "change_over_5000m": 1,
+        "change_within_5000m": 6,
+        "move:node/8731197927": "relocated",
+        "id": 131657290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.049403,
+          41.471634449999996
+        ]
+      },
+      "id": 131657290
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "jdiddid",
+        "uid": "16177995",
+        "editor": "MapComplete 0.26.0",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-01-30T14:29:18Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "dog": [
+            "no"
+          ],
+          "phone": [
+            "+1 219 324 4580",
+            "+1 219 324 9464"
+          ],
+          "amenity": [
+            "restaurant",
+            "fast_food"
+          ],
+          "organic": [
+            "no"
+          ],
+          "website": [
+            "https://www.greatwalllaportein.com/",
+            "https://www.buffalowildwings.com/locations/us/in/laporte/23-pine-lake-avenue/sports-bar-635"
+          ],
+          "building": [
+            "yes",
+            "retail"
+          ],
+          "delivery": [
+            "no",
+            "yes"
+          ],
+          "takeaway": [
+            "yes"
+          ],
+          "diet:vegan": [
+            "no",
+            "limited"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "opening_hours": [
+            "Mo 07:00-16:00;We-Su 07:00-16:00",
+            "Tu-Su 11:00-21:00",
+            "Mo-We 11:00-23:00;Su 11:00-23:00;Th-Sa 11:00-00:00"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "diet:vegetarian": [
+            "yes",
+            "limited"
+          ]
+        },
+        "create": 0,
+        "modify": 24,
+        "delete": 0,
+        "area": 0.000734183504319868,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "answer": 29,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 131883662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.73532435,
+          41.625125100000005
+        ]
+      },
+      "id": 131883662
     }
   ]
 }
