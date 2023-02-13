@@ -1211,9 +1211,9 @@
    "properties": {
     "bicycle": "yes",
     "foot": "yes",
-    "highway": "pedestrian",
+    "highway": "path",
     "lit": "yes",
-    "motor_vehicle": "designated",
+    "motor_vehicle": "customers",
     "name": "Dorpsplaats",
     "surface": "paved",
     "id": "way/23403974",
@@ -1225,11 +1225,11 @@
     "_length": "84.69058114023275",
     "_length:km": "0.1",
     "_direction:centerpoint": 153.95878856518453,
-    "_last_edit:contributor": "lodde1949",
-    "_last_edit:contributor:uid": 138772,
-    "_last_edit:changeset": 54265727,
-    "_last_edit:timestamp": "2017-12-02T10:38:00Z",
-    "_version_number": 13,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 132354277,
+    "_last_edit:timestamp": "2023-02-10T11:50:14Z",
+    "_version_number": 14,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1721,6 +1721,99 @@
   },
   {
    "type": "Feature",
+   "id": "way/25920490",
+   "properties": {
+    "highway": "path",
+    "name": "Boechoutveldweg",
+    "note": "befietst 2023-02-10, geen bordjes'fietpad'.",
+    "surface": "asphalt",
+    "id": "way/25920490",
+    "_lat": "51.174282149999996",
+    "_lon": "4.519162850000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "300.84920001878766",
+    "_length:km": "0.3",
+    "_direction:centerpoint": -7.73992484451368,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 132376234,
+    "_last_edit:timestamp": "2023-02-10T18:54:58Z",
+    "_version_number": 10,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5192372,
+      51.173008
+     ],
+     [
+      4.5191486,
+      51.1737362
+     ],
+     [
+      4.519138,
+      51.1737556
+     ],
+     [
+      4.5191056,
+      51.1737865
+     ],
+     [
+      4.5191082,
+      51.1738179
+     ],
+     [
+      4.5191397,
+      51.173833
+     ],
+     [
+      4.5193519,
+      51.1738466
+     ],
+     [
+      4.5192287,
+      51.1744149
+     ],
+     [
+      4.5191741,
+      51.1746356
+     ],
+     [
+      4.5190967,
+      51.1749444
+     ],
+     [
+      4.5190131,
+      51.1752917
+     ],
+     [
+      4.5189738,
+      51.1754666
+     ],
+     [
+      4.5189923,
+      51.1755563
+     ]
+    ]
+   },
+   "_lon": 4.519162850000001,
+   "_lat": 51.174282149999996,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1755563,
+    "maxLon": 4.5193519,
+    "minLat": 51.173008,
+    "minLon": 4.5189738
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/226260106",
    "properties": {
     "highway": "track",
@@ -1890,21 +1983,21 @@
     "highway": "path",
     "name": "Boechoutveldweg",
     "surface": "asphalt",
-    "width": "3",
+    "width": "2",
     "id": "way/402172771",
-    "_lat": "51.17411155",
-    "_lon": "4.52035515",
+    "_lat": "51.1741101",
+    "_lon": "4.520132",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "186.3403062939981",
-    "_length:km": "0.2",
-    "_direction:centerpoint": -145.66257128336105,
-    "_last_edit:contributor": "lodde1949",
-    "_last_edit:contributor:uid": 138772,
-    "_last_edit:changeset": 54265727,
-    "_last_edit:timestamp": "2017-12-02T10:38:02Z",
-    "_version_number": 2,
+    "_length": "133.28233290407513",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -146.83193506837904,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 132354277,
+    "_last_edit:timestamp": "2023-02-10T11:50:14Z",
+    "_version_number": 3,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -1913,16 +2006,16 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.5213584,
-      51.1739898
+      4.5209121,
+      51.1743736
      ],
      [
-      4.5209175,
-      51.1743765
+      4.5208742,
+      51.1743691
      ],
      [
-      4.5208108,
-      51.1743344
+      4.52074,
+      51.1743023
      ],
      [
       4.5206605,
@@ -1954,12 +2047,12 @@
      ]
     ]
    },
-   "_lon": 4.52035515,
-   "_lat": 51.17411155,
+   "_lon": 4.520132,
+   "_lat": 51.1741101,
    "_is_patched": true,
    "bbox": {
-    "maxLat": 51.1743765,
-    "maxLon": 4.5213584,
+    "maxLat": 51.1743736,
+    "maxLon": 4.5209121,
     "minLat": 51.1738466,
     "minLon": 4.5193519
    }
@@ -2321,7 +2414,13 @@
    },
    "_lon": 4.52594635,
    "_lat": 51.1793537,
-   "_is_patched": true
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.179496,
+    "maxLon": 4.5263497,
+    "minLat": 51.1792114,
+    "minLon": 4.525543
+   }
   },
   {
    "type": "Feature",
@@ -2433,6 +2532,81 @@
     "maxLon": 4.5247596,
     "minLat": 51.1756552,
     "minLon": 4.5243971
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/551959670",
+   "properties": {
+    "access": "unknown",
+    "highway": "track",
+    "id": "way/551959670",
+    "_lat": "51.171479500000004",
+    "_lon": "4.512670249999999",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "389.75343599189443",
+    "_length:km": "0.4",
+    "_direction:centerpoint": 168.2538994747989,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 132354277,
+    "_last_edit:timestamp": "2023-02-10T11:50:14Z",
+    "_version_number": 3,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5111566,
+      51.1721587
+     ],
+     [
+      4.512649,
+      51.1723914
+     ],
+     [
+      4.5133156,
+      51.1724889
+     ],
+     [
+      4.5134121,
+      51.1724486
+     ],
+     [
+      4.5136106,
+      51.1719037
+     ],
+     [
+      4.5136669,
+      51.1718028
+     ],
+     [
+      4.5139647,
+      51.1709048
+     ],
+     [
+      4.5141503,
+      51.1705252
+     ],
+     [
+      4.5141839,
+      51.1704701
+     ]
+    ]
+   },
+   "_lon": 4.512670249999999,
+   "_lat": 51.171479500000004,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1724889,
+    "maxLon": 4.5141839,
+    "minLat": 51.1704701,
+    "minLon": 4.5111566
    }
   },
   {
@@ -3040,69 +3214,6 @@
     "maxLon": 4.5186491,
     "minLat": 51.1667929,
     "minLon": 4.5181489
-   }
-  },
-  {
-   "type": "Feature",
-   "id": "way/564024198",
-   "properties": {
-    "bicycle": "no",
-    "highway": "path",
-    "id": "way/564024198",
-    "_lat": "51.177860550000005",
-    "_lon": "4.51974615",
-    "_layer": "slow_roads",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "210.7657846858757",
-    "_length:km": "0.2",
-    "_direction:centerpoint": -168.46068550747233,
-    "_last_edit:contributor": "KurtEnKristel",
-    "_last_edit:contributor:uid": 13801441,
-    "_last_edit:changeset": 131648146,
-    "_last_edit:timestamp": "2023-01-24T11:52:49Z",
-    "_version_number": 2,
-    "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.5192368,
-      51.1784564
-     ],
-     [
-      4.5192111,
-      51.1783719
-     ],
-     [
-      4.5191842,
-      51.1781475
-     ],
-     [
-      4.5195182,
-      51.1781491
-     ],
-     [
-      4.5192915,
-      51.177453
-     ],
-     [
-      4.5203081,
-      51.1772647
-     ]
-    ]
-   },
-   "_lon": 4.51974615,
-   "_lat": 51.177860550000005,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1784564,
-    "maxLon": 4.5203081,
-    "minLat": 51.1772647,
-    "minLon": 4.5191842
    }
   },
   {
@@ -4561,6 +4672,104 @@
     "maxLon": 4.5203081,
     "minLat": 51.1768925,
     "minLon": 4.520182
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1142184140",
+   "properties": {
+    "highway": "track",
+    "note": "befietst eind 2022, noch track noch pad zichtbaar.",
+    "surface": "compacted",
+    "tracktype": "grade2",
+    "id": "way/1142184140",
+    "_lat": "51.171483699999996",
+    "_lon": "4.51120235",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "14.848315851058853",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 155.80103439482235,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 132354277,
+    "_last_edit:timestamp": "2023-02-10T11:50:14Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5111587,
+      51.1715446
+     ],
+     [
+      4.511246,
+      51.1714228
+     ]
+    ]
+   },
+   "_lon": 4.51120235,
+   "_lat": 51.171483699999996,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1715446,
+    "maxLon": 4.511246,
+    "minLat": 51.1714228,
+    "minLon": 4.5111587
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1142184141",
+   "properties": {
+    "highway": "path",
+    "name": "Boechoutveldweg",
+    "surface": "paving_stones",
+    "width": "3",
+    "id": "way/1142184141",
+    "_lat": "51.174181700000005",
+    "_lon": "4.52113525",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "52.81427652697086",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -36.093833852556855,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 132354277,
+    "_last_edit:timestamp": "2023-02-10T11:50:14Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.5213584,
+      51.1739898
+     ],
+     [
+      4.5209121,
+      51.1743736
+     ]
+    ]
+   },
+   "_lon": 4.52113525,
+   "_lat": 51.174181700000005,
+   "_is_patched": true,
+   "bbox": {
+    "maxLat": 51.1743736,
+    "maxLon": 4.5213584,
+    "minLat": 51.1739898,
+    "minLon": 4.5209121
    }
   },
   {
