@@ -102,32 +102,37 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
-    "check_date": "2021-06-12",
+    "check_date": "2023-01-22",
+    "direction": "180",
+    "material": "wood",
+    "seats": "4",
     "id": "node/2118997150",
-    "_lat": "51.1837911",
-    "_lon": "4.7265512",
+    "_lat": "51.1838054",
+    "_lon": "4.7263018",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 106244169,
-    "_last_edit:timestamp": "2021-06-12T08:37:36Z",
-    "_version_number": 3,
+    "_direction:numerical": 180,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 131572332,
+    "_last_edit:timestamp": "2023-01-22T16:17:17Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.7265512,
-     51.1837911
+     4.7263018,
+     51.1838054
     ]
    },
-   "_lon": 4.7265512,
-   "_lat": 51.1837911
+   "_lon": 4.7263018,
+   "_lat": 51.1838054
   },
   {
    "type": "Feature",
@@ -2162,6 +2167,9 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "direction": "350",
+    "material": "wood",
+    "seats": "4",
     "id": "node/8826982875",
     "_lat": "51.1838954",
     "_lon": "4.7304205",
@@ -2170,11 +2178,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 106244540,
-    "_last_edit:timestamp": "2021-06-12T08:35:50Z",
-    "_version_number": 1,
+    "_direction:numerical": 350,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 131572332,
+    "_last_edit:timestamp": "2023-01-22T16:17:17Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2193,6 +2203,7 @@
    "id": "node/9676979615",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
     "survey:date": "2019-11-06 18:23:11.646362",
     "id": "node/9676979615",
     "_lat": "51.2197325",
@@ -2202,11 +2213,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Toerisme Vlaanderen - Pin je punt",
-    "_last_edit:contributor:uid": 15015689,
-    "_last_edit:changeset": 119903076,
-    "_last_edit:timestamp": "2022-04-19T11:42:40Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "staf",
+    "_last_edit:contributor:uid": 377797,
+    "_last_edit:changeset": 131688657,
+    "_last_edit:timestamp": "2023-01-25T10:31:29Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2356,32 +2367,35 @@
    "id": "node/9677061090",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "material": "wood",
+    "seats": "12",
     "survey:date": "2020-05-06 12:26:49.37112",
     "id": "node/9677061090",
-    "_lat": "51.1891475",
-    "_lon": "4.7408306",
+    "_lat": "51.1891517",
+    "_lon": "4.740844",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Toerisme Vlaanderen - Pin je punt",
-    "_last_edit:contributor:uid": 15015689,
-    "_last_edit:changeset": 119903076,
-    "_last_edit:timestamp": "2022-04-19T11:42:40Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 131572744,
+    "_last_edit:timestamp": "2023-01-22T16:28:31Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.7408306,
-     51.1891475
+     4.740844,
+     51.1891517
     ]
    },
-   "_lon": 4.7408306,
-   "_lat": 51.1891475
+   "_lon": 4.740844,
+   "_lat": 51.1891517
   },
   {
    "type": "Feature",
@@ -2646,30 +2660,30 @@
     "amenity": "bench",
     "survey:date": "2020-05-06 12:26:49.313097",
     "id": "node/9677061359",
-    "_lat": "51.1890095",
-    "_lon": "4.7417427",
+    "_lat": "51.1890202",
+    "_lon": "4.7417645",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Toerisme Vlaanderen - Pin je punt",
-    "_last_edit:contributor:uid": 15015689,
-    "_last_edit:changeset": 119903076,
-    "_last_edit:timestamp": "2022-04-19T11:42:40Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 131572744,
+    "_last_edit:timestamp": "2023-01-22T16:28:31Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.7417427,
-     51.1890095
+     4.7417645,
+     51.1890202
     ]
    },
-   "_lon": 4.7417427,
-   "_lat": 51.1890095
+   "_lon": 4.7417645,
+   "_lat": 51.1890202
   },
   {
    "type": "Feature",
@@ -2938,6 +2952,43 @@
    },
    "_lon": 4.7309721,
    "_lat": 51.2163806
+  },
+  {
+   "type": "Feature",
+   "id": "node/10574603027",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "110",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/10574603027",
+    "_lat": "51.1850727",
+    "_lon": "4.730858",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 110,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 131572332,
+    "_last_edit:timestamp": "2023-01-22T16:17:17Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.730858,
+     51.1850727
+    ]
+   },
+   "_lon": 4.730858,
+   "_lat": 51.1850727
   }
  ]
 }

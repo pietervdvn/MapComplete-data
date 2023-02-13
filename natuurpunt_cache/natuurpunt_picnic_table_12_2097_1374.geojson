@@ -107,6 +107,7 @@
    "type": "Feature",
    "id": "node/1029881285",
    "properties": {
+    "covered": "no",
     "leisure": "picnic_table",
     "id": "node/1029881285",
     "_lat": "50.8137178",
@@ -116,11 +117,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 118508440,
-    "_last_edit:timestamp": "2022-03-15T11:54:45Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "Luernos",
+    "_last_edit:contributor:uid": 14314300,
+    "_last_edit:changeset": 132072349,
+    "_last_edit:timestamp": "2023-02-04T11:30:03Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -235,6 +236,7 @@
    "properties": {
     "backrest": "yes",
     "check_date": "2022-08-23",
+    "covered": "no",
     "leisure": "picnic_table",
     "material": "wood",
     "seats": "6",
@@ -247,11 +249,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "mux4",
-    "_last_edit:contributor:uid": 3159922,
-    "_last_edit:changeset": 125257961,
-    "_last_edit:timestamp": "2022-08-23T08:03:07Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "Hartmut Holzgraefe",
+    "_last_edit:contributor:uid": 12448,
+    "_last_edit:changeset": 132076220,
+    "_last_edit:timestamp": "2023-02-04T13:23:35Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -523,6 +525,7 @@
    "type": "Feature",
    "id": "node/8518976324",
    "properties": {
+    "covered": "no",
     "leisure": "picnic_table",
     "id": "node/8518976324",
     "_lat": "50.8193453",
@@ -532,11 +535,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "rriemann",
-    "_last_edit:contributor:uid": 2066198,
-    "_last_edit:changeset": 101009649,
-    "_last_edit:timestamp": "2021-03-14T22:12:45Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "TMMM",
+    "_last_edit:contributor:uid": 5774181,
+    "_last_edit:changeset": 132068756,
+    "_last_edit:timestamp": "2023-02-04T09:35:00Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -889,6 +892,7 @@
    "properties": {
     "bench": "yes",
     "colour": "grey",
+    "covered": "no",
     "leisure": "picnic_table",
     "lit": "no",
     "material": "concrete",
@@ -901,11 +905,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "elucci",
-    "_last_edit:contributor:uid": 12638075,
-    "_last_edit:changeset": 123779644,
-    "_last_edit:timestamp": "2022-07-18T20:54:33Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "benjabelge",
+    "_last_edit:contributor:uid": 9628241,
+    "_last_edit:changeset": 132359203,
+    "_last_edit:timestamp": "2023-02-10T13:14:40Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1281,6 +1285,107 @@
    },
    "_lon": 4.375935,
    "_lat": 50.8358989
+  },
+  {
+   "type": "Feature",
+   "id": "node/10605246605",
+   "properties": {
+    "leisure": "picnic_table",
+    "id": "node/10605246605",
+    "_lat": "50.8191409",
+    "_lon": "4.3579055",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "ray331",
+    "_last_edit:contributor:uid": 11726860,
+    "_last_edit:changeset": 132061344,
+    "_last_edit:timestamp": "2023-02-03T23:53:12Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3579055,
+     50.8191409
+    ]
+   },
+   "_lon": 4.3579055,
+   "_lat": 50.8191409
+  },
+  {
+   "type": "Feature",
+   "id": "node/10615724713",
+   "properties": {
+    "bench": "yes",
+    "leisure": "picnic_table",
+    "lit": "no",
+    "material": "concrete",
+    "sport": "chess",
+    "id": "node/10615724713",
+    "_lat": "50.8389558",
+    "_lon": "4.3513001",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "elucci",
+    "_last_edit:contributor:uid": 12638075,
+    "_last_edit:changeset": 132215428,
+    "_last_edit:timestamp": "2023-02-07T16:46:10Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3513001,
+     50.8389558
+    ]
+   },
+   "_lon": 4.3513001,
+   "_lat": 50.8389558
+  },
+  {
+   "type": "Feature",
+   "id": "node/10615724714",
+   "properties": {
+    "bench": "yes",
+    "leisure": "picnic_table",
+    "lit": "no",
+    "material": "concrete",
+    "sport": "chess",
+    "id": "node/10615724714",
+    "_lat": "50.8389475",
+    "_lon": "4.3513217",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "elucci",
+    "_last_edit:contributor:uid": 12638075,
+    "_last_edit:changeset": 132215428,
+    "_last_edit:timestamp": "2023-02-07T16:46:10Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3513217,
+     50.8389475
+    ]
+   },
+   "_lon": 4.3513217,
+   "_lat": 50.8389475
   }
  ]
 }

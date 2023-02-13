@@ -130,6 +130,7 @@
    "type": "Feature",
    "id": "node/3287823469",
    "properties": {
+    "covered": "no",
     "leisure": "picnic_table",
     "note": "originally mapped as picnic_site as a node, so there's a small chance there is more than one table around",
     "id": "node/3287823469",
@@ -140,11 +141,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "joost schouppe",
-    "_last_edit:contributor:uid": 67832,
-    "_last_edit:changeset": 118814528,
-    "_last_edit:timestamp": "2022-03-23T10:49:23Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "Knnf",
+    "_last_edit:contributor:uid": 18381660,
+    "_last_edit:changeset": 131899675,
+    "_last_edit:timestamp": "2023-01-30T23:07:54Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -224,6 +225,7 @@
    "type": "Feature",
    "id": "node/6356377588",
    "properties": {
+    "covered": "no",
     "leisure": "picnic_table",
     "name": "Vikingbos",
     "note": "originally mapped as picnic_site as a node, so there's a small chance there is more than one table around",
@@ -235,11 +237,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "cimm",
-    "_last_edit:contributor:uid": 3921,
-    "_last_edit:changeset": 122402089,
-    "_last_edit:timestamp": "2022-06-15T07:15:40Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "Knnf",
+    "_last_edit:contributor:uid": 18381660,
+    "_last_edit:changeset": 131902176,
+    "_last_edit:timestamp": "2023-01-31T01:59:06Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -536,6 +538,39 @@
    },
    "_lon": 3.6994515,
    "_lat": 51.0736308
+  },
+  {
+   "type": "Feature",
+   "id": "node/10605620548",
+   "properties": {
+    "backrest": "no",
+    "covered": "no",
+    "leisure": "picnic_table",
+    "id": "node/10605620548",
+    "_lat": "51.0749963",
+    "_lon": "3.7505502",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Ruben Van de Velde",
+    "_last_edit:contributor:uid": 2676725,
+    "_last_edit:changeset": 132067774,
+    "_last_edit:timestamp": "2023-02-04T08:56:15Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.7505502,
+     51.0749963
+    ]
+   },
+   "_lon": 3.7505502,
+   "_lat": 51.0749963
   }
  ]
 }

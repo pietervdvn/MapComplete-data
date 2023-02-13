@@ -1822,8 +1822,10 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "red",
     "direction": "5",
     "image": "https://i.imgur.com/4yIX9LL.jpg",
+    "material": "steel",
     "seats": "3",
     "survey:date": "2022-03-31",
     "id": "node/9625920470",
@@ -1836,11 +1838,11 @@
     "_length:km": "0.0",
     "_direction:numerical": 5,
     "_direction:leftright": "right",
-    "_last_edit:contributor": "Hilde OSM",
-    "_last_edit:contributor:uid": 15275790,
-    "_last_edit:changeset": 119146600,
-    "_last_edit:timestamp": "2022-03-31T08:29:09Z",
-    "_version_number": 4,
+    "_last_edit:contributor": "Michiel V",
+    "_last_edit:contributor:uid": 12747784,
+    "_last_edit:changeset": 132147423,
+    "_last_edit:timestamp": "2023-02-06T08:53:13Z",
+    "_version_number": 5,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1892,6 +1894,46 @@
    },
    "_lon": 4.7992225,
    "_lat": 50.8905493
+  },
+  {
+   "type": "Feature",
+   "id": "node/10610529717",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "179",
+    "inscription": "Ik heb het nog nooit gedaan dus ik denk dat ik het wel kan.",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-02-05",
+    "id": "node/10610529717",
+    "_lat": "50.8977035",
+    "_lon": "4.7646318",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 179,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Michiel V",
+    "_last_edit:contributor:uid": 12747784,
+    "_last_edit:changeset": 132147423,
+    "_last_edit:timestamp": "2023-02-06T08:55:13Z",
+    "_version_number": 4,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7646318,
+     50.8977035
+    ]
+   },
+   "_lon": 4.7646318,
+   "_lat": 50.8977035
   }
  ]
 }

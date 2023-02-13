@@ -3,82 +3,6 @@
  "features": [
   {
    "type": "Feature",
-   "id": "way/183387845",
-   "properties": {
-    "amenity": "bench",
-    "id": "way/183387845",
-    "_lat": "50.9504883",
-    "_lon": "4.8996488",
-    "_layer": "bench",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "1.245463703105768",
-    "_length:km": "0.0",
-    "_direction:centerpoint": 179.35545805718814,
-    "_last_edit:contributor": "Polyglot",
-    "_last_edit:contributor:uid": 15188,
-    "_last_edit:changeset": 13292570,
-    "_last_edit:timestamp": "2012-09-29T05:55:41Z",
-    "_version_number": 1,
-    "_geometry:type": "LineString",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.8996487,
-      50.9504939
-     ],
-     [
-      4.8996489,
-      50.9504827
-     ]
-    ]
-   },
-   "_lon": 4.8996488,
-   "_lat": 50.9504883
-  },
-  {
-   "type": "Feature",
-   "id": "way/194213220",
-   "properties": {
-    "amenity": "bench",
-    "id": "way/194213220",
-    "_lat": "50.9358986",
-    "_lon": "4.90928655",
-    "_layer": "bench",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "1.1569594804902545",
-    "_length:km": "0.0",
-    "_direction:centerpoint": -178.26460778293688,
-    "_last_edit:contributor": "Polyglot",
-    "_last_edit:contributor:uid": 15188,
-    "_last_edit:changeset": 14132872,
-    "_last_edit:timestamp": "2012-12-02T23:14:56Z",
-    "_version_number": 1,
-    "_geometry:type": "LineString",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.9092868,
-      50.9359038
-     ],
-     [
-      4.9092863,
-      50.9358934
-     ]
-    ]
-   },
-   "_lon": 4.90928655,
-   "_lat": 50.9358986
-  },
-  {
-   "type": "Feature",
    "id": "way/194213221",
    "properties": {
     "amenity": "bench",
@@ -155,44 +79,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/194213223",
-   "properties": {
-    "amenity": "bench",
-    "id": "way/194213223",
-    "_lat": "50.93588415",
-    "_lon": "4.9092858",
-    "_layer": "bench",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "1.190530004057101",
-    "_length:km": "0.0",
-    "_direction:centerpoint": -177.97613871553628,
-    "_last_edit:contributor": "Polyglot",
-    "_last_edit:contributor:uid": 15188,
-    "_last_edit:changeset": 14132872,
-    "_last_edit:timestamp": "2012-12-02T23:14:56Z",
-    "_version_number": 1,
-    "_geometry:type": "LineString",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.9092861,
-      50.9358895
-     ],
-     [
-      4.9092855,
-      50.9358788
-     ]
-    ]
-   },
-   "_lon": 4.9092858,
-   "_lat": 50.93588415
-  },
-  {
-   "type": "Feature",
    "id": "way/194213224",
    "properties": {
     "amenity": "bench",
@@ -228,44 +114,6 @@
    },
    "_lon": 4.9090442,
    "_lat": 50.93580355
-  },
-  {
-   "type": "Feature",
-   "id": "way/196795388",
-   "properties": {
-    "amenity": "bench",
-    "id": "way/196795388",
-    "_lat": "50.9338479",
-    "_lon": "4.91598125",
-    "_layer": "bench",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "1.1424724956151537",
-    "_length:km": "0.0",
-    "_direction:centerpoint": 88.88462454400577,
-    "_last_edit:contributor": "Polyglot",
-    "_last_edit:contributor:uid": 15188,
-    "_last_edit:changeset": 14300706,
-    "_last_edit:timestamp": "2012-12-17T00:06:31Z",
-    "_version_number": 1,
-    "_geometry:type": "LineString",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.9159731,
-      50.9338478
-     ],
-     [
-      4.9159894,
-      50.933848
-     ]
-    ]
-   },
-   "_lon": 4.91598125,
-   "_lat": 50.9338479
   },
   {
    "type": "Feature",
@@ -366,33 +214,38 @@
    "id": "node/2070907021",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "colour": "brown",
+    "image": "https://i.imgur.com/thytwBq.jpg",
     "material": "wood",
+    "seats:separated": "no",
     "state": "delapidated",
+    "survey:date": "2023-02-12",
     "id": "node/2070907021",
-    "_lat": "50.928193",
-    "_lon": "4.9157372",
+    "_lat": "50.9281684",
+    "_lon": "4.9157806",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Polyglot",
-    "_last_edit:contributor:uid": 15188,
-    "_last_edit:changeset": 14300706,
-    "_last_edit:timestamp": "2012-12-17T00:06:24Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 132454151,
+    "_last_edit:timestamp": "2023-02-12T16:48:43Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.9157372,
-     50.928193
+     4.9157806,
+     50.9281684
     ]
    },
-   "_lon": 4.9157372,
-   "_lat": 50.928193
+   "_lon": 4.9157806,
+   "_lat": 50.9281684
   },
   {
    "type": "Feature",
@@ -432,31 +285,33 @@
    "id": "node/2070907067",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
+    "material": "wood",
     "id": "node/2070907067",
-    "_lat": "50.9310714",
-    "_lon": "4.9132924",
+    "_lat": "50.9310518",
+    "_lon": "4.9131762",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Polyglot",
-    "_last_edit:contributor:uid": 15188,
-    "_last_edit:changeset": 14300706,
-    "_last_edit:timestamp": "2012-12-17T00:06:25Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 132457791,
+    "_last_edit:timestamp": "2023-02-12T18:22:34Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.9132924,
-     50.9310714
+     4.9131762,
+     50.9310518
     ]
    },
-   "_lon": 4.9132924,
-   "_lat": 50.9310714
+   "_lon": 4.9131762,
+   "_lat": 50.9310518
   },
   {
    "type": "Feature",

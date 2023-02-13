@@ -2827,7 +2827,8 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
-    "colour": "brown",
+    "colour": "green",
+    "mapillary": "606289553707926",
     "material": "wood",
     "seats": "3",
     "id": "node/1241207082",
@@ -2838,11 +2839,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Peer van Daalen",
-    "_last_edit:contributor:uid": 1769550,
-    "_last_edit:changeset": 88835913,
-    "_last_edit:timestamp": "2020-08-02T10:35:54Z",
-    "_version_number": 6,
+    "_last_edit:contributor": "jeroenrozema74",
+    "_last_edit:contributor:uid": 183483,
+    "_last_edit:changeset": 131981311,
+    "_last_edit:timestamp": "2023-02-01T22:57:10Z",
+    "_version_number": 7,
     "_geometry:type": "Point",
     "_country": "de"
    },
@@ -9498,30 +9499,30 @@
    "properties": {
     "amenity": "bench",
     "id": "node/6576874595",
-    "_lat": "50.7729081",
-    "_lon": "5.9856484",
+    "_lat": "50.7728945",
+    "_lon": "5.9856591",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Wim van der Ven",
-    "_last_edit:contributor:uid": 1817282,
-    "_last_edit:changeset": 71709514,
-    "_last_edit:timestamp": "2019-06-28T14:03:42Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "jeroenrozema74",
+    "_last_edit:contributor:uid": 183483,
+    "_last_edit:changeset": 131553838,
+    "_last_edit:timestamp": "2023-01-21T21:08:27Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "nl"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.9856484,
-     50.7729081
+     5.9856591,
+     50.7728945
     ]
    },
-   "_lon": 5.9856484,
-   "_lat": 50.7729081
+   "_lon": 5.9856591,
+   "_lat": 50.7728945
   },
   {
    "type": "Feature",
@@ -10679,6 +10680,10 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "green",
+    "mapillary": "606289553707926",
+    "material": "wood",
+    "seats": "3",
     "id": "node/7777559036",
     "_lat": "50.7524074",
     "_lon": "6.0494374",
@@ -10687,11 +10692,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Peer van Daalen",
-    "_last_edit:contributor:uid": 1769550,
-    "_last_edit:changeset": 88835913,
-    "_last_edit:timestamp": "2020-08-02T10:35:54Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "jeroenrozema74",
+    "_last_edit:contributor:uid": 183483,
+    "_last_edit:changeset": 131981311,
+    "_last_edit:timestamp": "2023-02-01T22:57:10Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "de"
    },
@@ -16109,6 +16114,101 @@
    },
    "_lon": 6.0483746,
    "_lat": 50.7429435
+  },
+  {
+   "type": "Feature",
+   "id": "node/10581645834",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "mapillary": "195612406381649",
+    "id": "node/10581645834",
+    "_lat": "50.7404272",
+    "_lon": "5.9806904",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jeroenrozema74",
+    "_last_edit:contributor:uid": 183483,
+    "_last_edit:changeset": 131694308,
+    "_last_edit:timestamp": "2023-01-25T12:53:20Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.9806904,
+     50.7404272
+    ]
+   },
+   "_lon": 5.9806904,
+   "_lat": 50.7404272
+  },
+  {
+   "type": "Feature",
+   "id": "node/10589804783",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/10589804783",
+    "_lat": "50.7694907",
+    "_lon": "6.0502357",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jeroenrozema74",
+    "_last_edit:contributor:uid": 183483,
+    "_last_edit:changeset": 131822269,
+    "_last_edit:timestamp": "2023-01-28T21:13:31Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "de"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.0502357,
+     50.7694907
+    ]
+   },
+   "_lon": 6.0502357,
+   "_lat": 50.7694907
+  },
+  {
+   "type": "Feature",
+   "id": "node/10589804784",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/10589804784",
+    "_lat": "50.7694895",
+    "_lon": "6.0502797",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jeroenrozema74",
+    "_last_edit:contributor:uid": 183483,
+    "_last_edit:changeset": 131822269,
+    "_last_edit:timestamp": "2023-01-28T21:13:31Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "de"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.0502797,
+     50.7694895
+    ]
+   },
+   "_lon": 6.0502797,
+   "_lat": 50.7694895
   }
  ]
 }
