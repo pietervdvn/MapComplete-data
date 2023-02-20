@@ -3,6 +3,55 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/1147538190",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "mapillary": "1181968505926673",
+    "material": "wood",
+    "id": "way/1147538190",
+    "_lat": "51.1413394",
+    "_lon": "5.1467811999999995",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "4.8438468274383535",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -135.1444648202951,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 132738512,
+    "_last_edit:timestamp": "2023-02-19T08:08:50Z",
+    "_version_number": 1,
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      5.1467997,
+      51.1413538
+     ],
+     [
+      5.1467784,
+      51.1413507
+     ],
+     [
+      5.1467627,
+      51.1413408
+     ],
+     [
+      5.1467652,
+      51.141325
+     ]
+    ]
+   },
+   "_lon": 5.1467811999999995,
+   "_lat": 51.1413394
+  },
+  {
+   "type": "Feature",
    "id": "node/4946229440",
    "properties": {
     "amenity": "bench",
@@ -1320,6 +1369,39 @@
    },
    "_lon": 5.1134242,
    "_lat": 51.1471392
+  },
+  {
+   "type": "Feature",
+   "id": "node/10677687752",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "mapillary": "727780761814992",
+    "id": "node/10677687752",
+    "_lat": "51.1413857",
+    "_lon": "5.1450384",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 132738512,
+    "_last_edit:timestamp": "2023-02-19T08:08:50Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.1450384,
+     51.1413857
+    ]
+   },
+   "_lon": 5.1450384,
+   "_lat": 51.1413857
   }
  ]
 }
