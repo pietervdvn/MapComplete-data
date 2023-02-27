@@ -362,31 +362,38 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "colour": "gray",
+    "direction": "196",
+    "image": "https://i.imgur.com/AqAkXZf.jpg",
+    "seats:separated": "no",
+    "survey:date": "2023-02-26",
     "id": "node/7814408149",
-    "_lat": "51.2311376",
-    "_lon": "5.0540634",
+    "_lat": "51.2311775",
+    "_lon": "5.0540397",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 103523092,
-    "_last_edit:timestamp": "2021-04-24T08:26:33Z",
-    "_version_number": 2,
+    "_direction:numerical": 196,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133051719,
+    "_last_edit:timestamp": "2023-02-26T17:10:59Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.0540634,
-     51.2311376
+     5.0540397,
+     51.2311775
     ]
    },
-   "_lon": 5.0540634,
-   "_lat": 51.2311376
+   "_lon": 5.0540397,
+   "_lat": 51.2311775
   },
   {
    "type": "Feature",
@@ -742,31 +749,35 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "image": "https://i.imgur.com/Kcs3Fcb.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-02-26",
     "id": "node/8281460865",
-    "_lat": "51.2324743",
-    "_lon": "5.051578",
+    "_lat": "51.2324142",
+    "_lon": "5.0514074",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 103523092,
-    "_last_edit:timestamp": "2021-04-24T08:23:55Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133051719,
+    "_last_edit:timestamp": "2023-02-26T17:09:53Z",
+    "_version_number": 6,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.051578,
-     51.2324743
+     5.0514074,
+     51.2324142
     ]
    },
-   "_lon": 5.051578,
-   "_lat": 51.2324743
+   "_lon": 5.0514074,
+   "_lat": 51.2324142
   },
   {
    "type": "Feature",
@@ -1431,6 +1442,86 @@
    },
    "_lon": 5.0862548,
    "_lat": 51.2312398
+  },
+  {
+   "type": "Feature",
+   "id": "node/10695175597",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "97",
+    "image": "https://i.imgur.com/9Tnw6SD.jpg",
+    "inscription": "Leugenbank",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-02-26",
+    "id": "node/10695175597",
+    "_lat": "51.2315156",
+    "_lon": "5.0385677",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 97,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133051719,
+    "_last_edit:timestamp": "2023-02-26T17:13:14Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0385677,
+     51.2315156
+    ]
+   },
+   "_lon": 5.0385677,
+   "_lat": 51.2315156
+  },
+  {
+   "type": "Feature",
+   "id": "node/10695221533",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "283",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-02-26",
+    "id": "node/10695221533",
+    "_lat": "51.2321481",
+    "_lon": "5.0511658",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 283,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133051719,
+    "_last_edit:timestamp": "2023-02-26T17:08:32Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0511658,
+     51.2321481
+    ]
+   },
+   "_lon": 5.0511658,
+   "_lat": 51.2321481
   }
  ]
 }
