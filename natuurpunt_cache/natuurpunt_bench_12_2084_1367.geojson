@@ -13802,42 +13802,19 @@
   },
   {
    "type": "Feature",
-   "id": "node/5467685657",
-   "properties": {
-    "amenity": "bench",
-    "backrest": "yes",
-    "id": "node/5467685657",
-    "_lat": "51.2168488",
-    "_lon": "3.1906399",
-    "_layer": "bench",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 57044943,
-    "_last_edit:timestamp": "2018-03-09T21:17:43Z",
-    "_version_number": 2,
-    "_geometry:type": "Point",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.1906399,
-     51.2168488
-    ]
-   },
-   "_lon": 3.1906399,
-   "_lat": 51.2168488
-  },
-  {
-   "type": "Feature",
    "id": "node/5467685658",
    "properties": {
     "amenity": "bench",
+    "artwork_type": "woodcarving",
     "backrest": "yes",
+    "direction": "123",
+    "image": "https://i.imgur.com/PFKo2GK.jpg",
+    "image:0": "https://i.imgur.com/DtHBSuV.jpg",
+    "material": "wood",
+    "not:historic": "memorial",
+    "seats:separated": "no",
+    "survey:date": "2023-02-27",
+    "tourism": "artwork",
     "id": "node/5467685658",
     "_lat": "51.2169686",
     "_lon": "3.1906716",
@@ -13846,11 +13823,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 123,
+    "_direction:leftright": "right",
     "_last_edit:contributor": "Pieter Vander Vennet",
     "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 57044943,
-    "_last_edit:timestamp": "2018-03-09T21:17:43Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 133093034,
+    "_last_edit:timestamp": "2023-02-27T15:45:06Z",
+    "_version_number": 6,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -13869,8 +13848,16 @@
    "id": "node/5467694848",
    "properties": {
     "amenity": "bench",
+    "artwork_type": "woodcarving",
     "backrest": "no",
+    "direction": "3",
+    "image": "https://i.imgur.com/hhi9QWn.jpg",
+    "image:0": "https://i.imgur.com/YxjPKQn.jpg",
     "material": "wood",
+    "not:historic": "memorial",
+    "seats:separated": "no",
+    "survey:date": "2023-02-27",
+    "tourism": "artwork",
     "id": "node/5467694848",
     "_lat": "51.2163233",
     "_lon": "3.1954974",
@@ -13879,11 +13866,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "M!dgard",
-    "_last_edit:contributor:uid": 763799,
-    "_last_edit:changeset": 126045518,
-    "_last_edit:timestamp": "2022-09-11T11:31:40Z",
-    "_version_number": 2,
+    "_direction:numerical": 3,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 133093034,
+    "_last_edit:timestamp": "2023-02-27T15:43:59Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -24294,6 +24283,44 @@
    },
    "_lon": 3.2469186,
    "_lat": 51.2167566
+  },
+  {
+   "type": "Feature",
+   "id": "node/10697406361",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "260",
+    "image": "https://i.imgur.com/VSuqSQn.jpg",
+    "not:inscription": "yes",
+    "seats:separated": "no",
+    "id": "node/10697406361",
+    "_lat": "51.2116589",
+    "_lon": "3.1809926",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 260,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 133093034,
+    "_last_edit:timestamp": "2023-02-27T15:58:57Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.1809926,
+     51.2116589
+    ]
+   },
+   "_lon": 3.1809926,
+   "_lat": 51.2116589
   }
  ]
 }

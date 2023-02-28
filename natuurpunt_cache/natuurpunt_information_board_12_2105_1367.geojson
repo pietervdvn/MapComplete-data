@@ -288,30 +288,30 @@
     "information": "board",
     "tourism": "information",
     "id": "node/7605703911",
-    "_lat": "51.2324821",
-    "_lon": "5.0514852",
+    "_lat": "51.2324219",
+    "_lon": "5.0514439",
     "_layer": "information_board",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "staf",
-    "_last_edit:contributor:uid": 377797,
-    "_last_edit:changeset": 103523178,
-    "_last_edit:timestamp": "2021-04-24T08:23:51Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133079741,
+    "_last_edit:timestamp": "2023-02-27T09:54:49Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.0514852,
-     51.2324821
+     5.0514439,
+     51.2324219
     ]
    },
-   "_lon": 5.0514852,
-   "_lat": 51.2324821
+   "_lon": 5.0514439,
+   "_lat": 51.2324219
   },
   {
    "type": "Feature",
@@ -393,12 +393,15 @@
    "type": "Feature",
    "id": "node/10695281541",
    "properties": {
+    "board_type": "wildlife",
     "image": "https://i.imgur.com/TBd9zNK.jpg",
     "information": "board",
+    "mapillary": "212759327910356",
+    "name": "Watervogels in het Prinsenpark",
     "tourism": "information",
     "id": "node/10695281541",
-    "_lat": "51.2289869",
-    "_lon": "5.0315459",
+    "_lat": "51.2289831",
+    "_lon": "5.031567",
     "_layer": "information_board",
     "_surface": "0",
     "_surface:ha": "0",
@@ -406,8 +409,41 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 133053078,
-    "_last_edit:timestamp": "2023-02-26T17:44:39Z",
+    "_last_edit:changeset": 133106823,
+    "_last_edit:timestamp": "2023-02-27T22:58:55Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.031567,
+     51.2289831
+    ]
+   },
+   "_lon": 5.031567,
+   "_lat": 51.2289831
+  },
+  {
+   "type": "Feature",
+   "id": "node/10696692019",
+   "properties": {
+    "information": "board",
+    "operator": "VMM",
+    "tourism": "information",
+    "id": "node/10696692019",
+    "_lat": "51.2312482",
+    "_lon": "5.0535668",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133079741,
+    "_last_edit:timestamp": "2023-02-27T09:54:49Z",
     "_version_number": 1,
     "_geometry:type": "Point",
     "_country": "be"
@@ -415,12 +451,82 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.0315459,
-     51.2289869
+     5.0535668,
+     51.2312482
     ]
    },
-   "_lon": 5.0315459,
-   "_lat": 51.2289869
+   "_lon": 5.0535668,
+   "_lat": 51.2312482
+  },
+  {
+   "type": "Feature",
+   "id": "node/10696963333",
+   "properties": {
+    "information": "board",
+    "mapillary": "875298967032730",
+    "name": "Heide",
+    "tourism": "information",
+    "id": "node/10696963333",
+    "_lat": "51.2249956",
+    "_lon": "5.0482492",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133084334,
+    "_last_edit:timestamp": "2023-02-27T11:47:11Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0482492,
+     51.2249956
+    ]
+   },
+   "_lon": 5.0482492,
+   "_lat": 51.2249956
+  },
+  {
+   "type": "Feature",
+   "id": "node/10698269373",
+   "properties": {
+    "direction": "310",
+    "information": "board",
+    "mapillary": "1191006655140594",
+    "tourism": "information",
+    "id": "node/10698269373",
+    "_lat": "51.2325548",
+    "_lon": "5.0456898",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 310,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133107669,
+    "_last_edit:timestamp": "2023-02-27T23:42:18Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0456898,
+     51.2325548
+    ]
+   },
+   "_lon": 5.0456898,
+   "_lat": 51.2325548
   }
  ]
 }
