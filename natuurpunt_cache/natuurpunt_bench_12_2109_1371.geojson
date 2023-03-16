@@ -1150,6 +1150,11 @@
    "id": "node/7274098667",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "245",
+    "image": "https://i.imgur.com/mQPNsIc.jpg",
+    "material": "wood",
     "id": "node/7274098667",
     "_lat": "50.9595868",
     "_lon": "5.3949694",
@@ -1158,11 +1163,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "GuyVV",
-    "_last_edit:contributor:uid": 579178,
-    "_last_edit:changeset": 81898496,
-    "_last_edit:timestamp": "2020-03-07T12:54:36Z",
-    "_version_number": 1,
+    "_direction:numerical": 245,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133698981,
+    "_last_edit:timestamp": "2023-03-15T09:14:27Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1181,6 +1188,13 @@
    "id": "node/7274098668",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "243",
+    "image": "https://i.imgur.com/tH1a6q9.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-03-15",
     "id": "node/7274098668",
     "_lat": "50.9599439",
     "_lon": "5.3948121",
@@ -1189,11 +1203,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "GuyVV",
-    "_last_edit:contributor:uid": 579178,
-    "_last_edit:changeset": 81898496,
-    "_last_edit:timestamp": "2020-03-07T12:54:36Z",
-    "_version_number": 1,
+    "_direction:numerical": 243,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133698981,
+    "_last_edit:timestamp": "2023-03-15T09:13:38Z",
+    "_version_number": 3,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -2090,6 +2106,13 @@
    "id": "node/9341706777",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "white",
+    "direction": "280",
+    "image": "https://i.imgur.com/g8MccSC.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-03-15",
     "id": "node/9341706777",
     "_lat": "50.9594075",
     "_lon": "5.3968406",
@@ -2098,11 +2121,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 114976726,
-    "_last_edit:timestamp": "2021-12-15T19:20:03Z",
-    "_version_number": 1,
+    "_direction:numerical": 280,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133698981,
+    "_last_edit:timestamp": "2023-03-15T09:17:37Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -4731,6 +4756,347 @@
    },
    "_lon": 5.3677862,
    "_lat": 50.9937699
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736527063",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "0",
+    "image": "https://i.imgur.com/qXQ1Mtd.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-03-15",
+    "id": "node/10736527063",
+    "_lat": "50.960808",
+    "_lon": "5.3766019",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 0,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133698981,
+    "_last_edit:timestamp": "2023-03-15T08:23:33Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3766019,
+     50.960808
+    ]
+   },
+   "_lon": 5.3766019,
+   "_lat": 50.960808
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736639095",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "image": "https://i.imgur.com/lA4wlHN.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "id": "node/10736639095",
+    "_lat": "50.9675338",
+    "_lon": "5.408272",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133702591,
+    "_last_edit:timestamp": "2023-03-15T10:03:55Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.408272,
+     50.9675338
+    ]
+   },
+   "_lon": 5.408272,
+   "_lat": 50.9675338
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736657382",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "image": "https://i.imgur.com/mUJaPi4.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-03-15",
+    "id": "node/10736657382",
+    "_lat": "50.9684172",
+    "_lon": "5.4067941",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133701975,
+    "_last_edit:timestamp": "2023-03-15T09:51:35Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4067941,
+     50.9684172
+    ]
+   },
+   "_lon": 5.4067941,
+   "_lat": 50.9684172
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736672573",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "212",
+    "image": "https://i.imgur.com/gCbzAvA.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-03-15",
+    "id": "node/10736672573",
+    "_lat": "50.9659612",
+    "_lon": "5.4040745",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 212,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133701975,
+    "_last_edit:timestamp": "2023-03-15T09:39:13Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4040745,
+     50.9659612
+    ]
+   },
+   "_lon": 5.4040745,
+   "_lat": 50.9659612
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736680437",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "31",
+    "image": "https://i.imgur.com/s82CtN5.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-03-15",
+    "id": "node/10736680437",
+    "_lat": "50.9687466",
+    "_lon": "5.4069093",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 31,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133701975,
+    "_last_edit:timestamp": "2023-03-15T09:50:46Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4069093,
+     50.9687466
+    ]
+   },
+   "_lon": 5.4069093,
+   "_lat": 50.9687466
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736694205",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "225",
+    "image": "https://i.imgur.com/ebLbzP3.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-03-15",
+    "id": "node/10736694205",
+    "_lat": "50.9667703",
+    "_lon": "5.4029316",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 225,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133701975,
+    "_last_edit:timestamp": "2023-03-15T09:43:18Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4029316,
+     50.9667703
+    ]
+   },
+   "_lon": 5.4029316,
+   "_lat": 50.9667703
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736700591",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "348",
+    "image": "https://i.imgur.com/szlGmEp.jpg",
+    "material": "wood",
+    "seats:separated": "no",
+    "id": "node/10736700591",
+    "_lat": "50.96762",
+    "_lon": "5.4084088",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 348,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133702591,
+    "_last_edit:timestamp": "2023-03-15T10:02:43Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4084088,
+     50.96762
+    ]
+   },
+   "_lon": 5.4084088,
+   "_lat": 50.96762
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736702992",
+   "properties": {
+    "amenity": "bench",
+    "id": "node/10736702992",
+    "_lat": "50.9690023",
+    "_lon": "5.4076586",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133701975,
+    "_last_edit:timestamp": "2023-03-15T09:53:21Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4076586,
+     50.9690023
+    ]
+   },
+   "_lon": 5.4076586,
+   "_lat": 50.9690023
+  },
+  {
+   "type": "Feature",
+   "id": "node/10736711634",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "144",
+    "material": "wood",
+    "seats:separated": "no",
+    "survey:date": "2023-03-15",
+    "id": "node/10736711634",
+    "_lat": "50.9689138",
+    "_lon": "5.4073805",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 144,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 133701975,
+    "_last_edit:timestamp": "2023-03-15T09:52:49Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4073805,
+     50.9689138
+    ]
+   },
+   "_lon": 5.4073805,
+   "_lat": 50.9689138
   }
  ]
 }

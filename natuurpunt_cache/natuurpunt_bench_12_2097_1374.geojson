@@ -19925,6 +19925,7 @@
    "id": "node/5586153279",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
     "id": "node/5586153279",
     "_lat": "50.8181129",
     "_lon": "4.3847832",
@@ -19933,11 +19934,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "dantka",
-    "_last_edit:contributor:uid": 4528905,
-    "_last_edit:changeset": 58752885,
-    "_last_edit:timestamp": "2018-05-07T09:51:58Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "mux4",
+    "_last_edit:contributor:uid": 3159922,
+    "_last_edit:changeset": 133720112,
+    "_last_edit:timestamp": "2023-03-15T17:52:47Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -58764,6 +58765,74 @@
    },
    "_lon": 4.3768189,
    "_lat": 50.8391842
+  },
+  {
+   "type": "Feature",
+   "id": "node/10738040787",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "id": "node/10738040787",
+    "_lat": "50.8032025",
+    "_lon": "4.3425087",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "elucci",
+    "_last_edit:contributor:uid": 12638075,
+    "_last_edit:changeset": 133725337,
+    "_last_edit:timestamp": "2023-03-15T21:13:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3425087,
+     50.8032025
+    ]
+   },
+   "_lon": 4.3425087,
+   "_lat": 50.8032025
+  },
+  {
+   "type": "Feature",
+   "id": "node/10738070242",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "material": "wood",
+    "id": "node/10738070242",
+    "_lat": "50.8029816",
+    "_lon": "4.3414746",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "elucci",
+    "_last_edit:contributor:uid": 12638075,
+    "_last_edit:changeset": 133725337,
+    "_last_edit:timestamp": "2023-03-15T21:13:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3414746,
+     50.8029816
+    ]
+   },
+   "_lon": 4.3414746,
+   "_lat": 50.8029816
   }
  ]
 }
