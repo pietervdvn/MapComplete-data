@@ -4164,6 +4164,240 @@
         ]
       },
       "id": 131584023
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "P Kanzler",
+        "uid": "6173912",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-02-19T20:46:09Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "mall"
+          ],
+          "building": [
+            "retail"
+          ],
+          "toilets:fee": [
+            "no"
+          ],
+          "toilets:access": [
+            "yes"
+          ],
+          "toilets:handwashing": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000466646475999688,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 3,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 132764958
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.012269499999999,
+          49.4115439
+        ]
+      },
+      "id": 132764958
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 42,
+            "name": "Invalid tag modification"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9143207800",
+            "name": "Erzählkugel",
+            "osm_id": 9143207800,
+            "reasons": [
+              42
+            ],
+            "version": 4,
+            "primary_tags": {}
+          }
+        ],
+        "user": "-karlos-",
+        "uid": "72555",
+        "editor": "MapComplete 0.27.0",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-03-11T14:38:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fixme": [
+            "A mapcomplete user marked this feature to be deleted (disused)"
+          ],
+          "tourism": [
+            "artwork"
+          ],
+          "razed:tourism": [
+            "artwork"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "locale": "de",
+        "imagery": "osm",
+        "soft-delete": 1,
+        "change_within_5000m": 1,
+        "soft-delete:node/9143207800": "disused",
+        "id": 133555754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.146362,
+          49.7252582
+        ]
+      },
+      "id": 133555754
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "-karlos-",
+        "uid": "72555",
+        "editor": "MapComplete 0.27.0",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-03-11T14:27:03Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/D5J4drz.jpg"
+          ],
+          "amenity": [
+            "restaurant"
+          ],
+          "diet:halal": [
+            "no"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "payment:cards": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "answer": 2,
+        "locale": "de",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_500m": 3,
+        "id": 133555368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0832071,
+          49.7126574
+        ]
+      },
+      "id": 133555368
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "womped",
+        "uid": "1880469",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-21T07:27:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q117230973",
+            "Q1504690"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0000243004624999969,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology",
+        "theme": "etymology",
+        "answer": 2,
+        "locale": "de",
+        "imagery": "osm",
+        "id": 133926883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.12998665,
+          49.6082478
+        ]
+      },
+      "id": 133926883
     }
   ]
 }

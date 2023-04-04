@@ -285,6 +285,137 @@
         ]
       },
       "id": 119764245
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "MFN2003",
+        "uid": "18522291",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-02-19T23:02:39Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "cafe"
+          ],
+          "toilets:fee": [
+            "yes"
+          ],
+          "toilets:charge": [
+            "Bottle of water"
+          ],
+          "toilets:description": [
+            "Current code is 3035 (70% confident)"
+          ],
+          "toilets:handwashing": [
+            "yes"
+          ],
+          "toilets:paper_supplied": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 132768511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1027878,
+          42.3650595
+        ]
+      },
+      "id": 132768511
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "chmrr",
+        "uid": "18545655",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-02-26T02:49:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/jF9ednU.jpg",
+            "https://i.imgur.com/U6zLua4.jpg",
+            "https://i.imgur.com/afItkOu.jpg",
+            "https://i.imgur.com/PY3DGPt.jpg",
+            "https://i.imgur.com/GJjHDhr.jpg",
+            "https://i.imgur.com/fyvs4HA.jpg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "bicycle_parking": [
+            "bollard",
+            "stands"
+          ]
+        },
+        "create": 0,
+        "modify": 22,
+        "delete": 0,
+        "area": 0.0000672877589500049,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix",
+        "theme": "cyclofix",
+        "answer": 18,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 6,
+        "id": 133027871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07155524999999,
+          42.45401095
+        ]
+      },
+      "id": 133027871
     }
   ]
 }

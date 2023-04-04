@@ -21451,6 +21451,185 @@
         ]
       },
       "id": 131845066
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "hnker",
+        "uid": "296088",
+        "editor": "MapComplete 0.26.0",
+        "comment": "Adding data with #MapComplete for theme #cafes_and_pubs",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-02-06T22:39:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "cafe"
+          ],
+          "smoking": [
+            "outside"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "opening_hours": [
+            "Fr 15:30-02:00;Th 15:30-01:00;We 15:30-00:00",
+            "Mo, We, Fr 11:00-18:00"
+          ],
+          "payment:cards": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cafes_and_pubs.html",
+        "theme": "cafes_and_pubs",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 132179808
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6995304,
+          50.1204857
+        ]
+      },
+      "id": 132179808
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Stefan Wienert",
+        "uid": "13705491",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-02-13T20:34:45Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "leisure": [
+            "playground"
+          ],
+          "surface": [
+            "sand"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 132508115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5331429,
+          50.0510944
+        ]
+      },
+      "id": 132508115
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Stefan Wienert",
+        "uid": "13705491",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-02-13T20:18:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "rental": [
+            "E-Cargo-Bikes"
+          ],
+          "amenity": [
+            "bicycle_rental"
+          ],
+          "payment:app": [
+            "yes"
+          ],
+          "payment:cash": [
+            "no"
+          ],
+          "payment:cards": [
+            "no"
+          ],
+          "bicycle_rental": [
+            "docking_station"
+          ],
+          "payment:membership_card": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 132507561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5132428,
+          50.0548615
+        ]
+      },
+      "id": 132507561
     }
   ]
 }

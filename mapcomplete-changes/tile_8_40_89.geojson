@@ -1138,6 +1138,104 @@
         ]
       },
       "id": 126567510
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Wim L",
+        "uid": "223681",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-02-18T21:20:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "public_bookcase"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/bookcases.html",
+        "theme": "bookcases",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_100m": 1,
+        "id": 132729558
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3636768,
+          47.6412904
+        ]
+      },
+      "id": 132729558
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "yekibud",
+        "uid": "17012880",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-03-18T04:15:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "restaurant"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "theme": "food",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "Mapbox",
+        "change_over_5000m": 2,
+        "id": 133810350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43435735,
+          47.2131479
+        ]
+      },
+      "id": 133810350
     }
   ]
 }

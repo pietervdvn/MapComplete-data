@@ -1329,6 +1329,115 @@
         ]
       },
       "id": 131798977
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "mottiger",
+        "uid": "7504544",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-02-23T21:50:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "pedestrian"
+          ],
+          "name:etymology:wikidata": [
+            "Q65968",
+            "Q369093",
+            "Q666668",
+            "Q680",
+            "Q88490932"
+          ]
+        },
+        "create": 0,
+        "modify": 14,
+        "delete": 0,
+        "area": 0.000137607826589897,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 17,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 132944819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.30980525,
+          47.04343905
+        ]
+      },
+      "id": 132944819
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "ReTroll",
+        "uid": "4909451",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-24T13:37:27Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/YcZolNA.jpg"
+          ],
+          "amenity": [
+            "public_bookcase"
+          ]
+        },
+        "create": 3,
+        "modify": 18,
+        "delete": 1,
+        "area": 0.000179323314059973,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/bookcases.html",
+        "theme": "bookcases",
+        "answer": 23,
+        "locale": "en",
+        "imagery": "osm",
+        "deletion": 1,
+        "add-image": 4,
+        "deletion:node/10759095261": "duplicate",
+        "id": 134068571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.24501225,
+          47.136665
+        ]
+      },
+      "id": 134068571
     }
   ]
 }
