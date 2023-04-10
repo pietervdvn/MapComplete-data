@@ -1840,6 +1840,8 @@
    "properties": {
     "amenity": "bench",
     "backrest": "yes",
+    "material": "wood",
+    "seats:separated": "no",
     "id": "node/9673961427",
     "_lat": "50.9796682",
     "_lon": "5.6506194",
@@ -1848,11 +1850,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "maestro_alubia",
-    "_last_edit:contributor:uid": 17492,
-    "_last_edit:changeset": 119849631,
-    "_last_edit:timestamp": "2022-04-18T10:07:55Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "mjans",
+    "_last_edit:contributor:uid": 5199038,
+    "_last_edit:changeset": 134686266,
+    "_last_edit:timestamp": "2023-04-09T12:34:45Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -3898,6 +3900,72 @@
    },
    "_lon": 5.6860263,
    "_lat": 51.0066182
+  },
+  {
+   "type": "Feature",
+   "id": "node/10796986658",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "material": "wood",
+    "id": "node/10796986658",
+    "_lat": "50.9713811",
+    "_lon": "5.6480159",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "mjans",
+    "_last_edit:contributor:uid": 5199038,
+    "_last_edit:changeset": 134686655,
+    "_last_edit:timestamp": "2023-04-09T12:45:20Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.6480159,
+     50.9713811
+    ]
+   },
+   "_lon": 5.6480159,
+   "_lat": 50.9713811
+  },
+  {
+   "type": "Feature",
+   "id": "node/10796986659",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "material": "wood",
+    "id": "node/10796986659",
+    "_lat": "50.9693346",
+    "_lon": "5.6632325",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "mjans",
+    "_last_edit:contributor:uid": 5199038,
+    "_last_edit:changeset": 134686655,
+    "_last_edit:timestamp": "2023-04-09T12:45:20Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.6632325,
+     50.9693346
+    ]
+   },
+   "_lon": 5.6632325,
+   "_lat": 50.9693346
   }
  ]
 }
