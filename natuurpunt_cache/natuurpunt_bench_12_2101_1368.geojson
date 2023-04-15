@@ -1046,6 +1046,11 @@
    "id": "node/8224920702",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
+    "colour": "gray",
+    "direction": "250",
+    "material": "metal",
+    "seats": "2",
     "id": "node/8224920702",
     "_lat": "51.1683334",
     "_lon": "4.7447691",
@@ -1054,11 +1059,13 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
+    "_direction:numerical": 250,
+    "_direction:leftright": "left",
     "_last_edit:contributor": "Stinus_Clasius",
     "_last_edit:contributor:uid": 1086503,
-    "_last_edit:changeset": 95764774,
-    "_last_edit:timestamp": "2020-12-13T17:43:02Z",
-    "_version_number": 1,
+    "_last_edit:changeset": 134920670,
+    "_last_edit:timestamp": "2023-04-14T20:44:01Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -4029,6 +4036,184 @@
    },
    "_lon": 4.7415565,
    "_lat": 51.1694359
+  },
+  {
+   "type": "Feature",
+   "id": "node/10812608307",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "150",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/10812608307",
+    "_lat": "51.1661898",
+    "_lon": "4.7432204",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 150,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 134920670,
+    "_last_edit:timestamp": "2023-04-14T20:44:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7432204,
+     51.1661898
+    ]
+   },
+   "_lon": 4.7432204,
+   "_lat": 51.1661898
+  },
+  {
+   "type": "Feature",
+   "id": "node/10812608308",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "material": "wood",
+    "id": "node/10812608308",
+    "_lat": "51.1661633",
+    "_lon": "4.7434652",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 134920670,
+    "_last_edit:timestamp": "2023-04-14T20:44:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7434652,
+     51.1661633
+    ]
+   },
+   "_lon": 4.7434652,
+   "_lat": 51.1661633
+  },
+  {
+   "type": "Feature",
+   "id": "node/10812608309",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "material": "wood",
+    "id": "node/10812608309",
+    "_lat": "51.1662339",
+    "_lon": "4.7436147",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 134920670,
+    "_last_edit:timestamp": "2023-04-14T20:44:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7436147,
+     51.1662339
+    ]
+   },
+   "_lon": 4.7436147,
+   "_lat": 51.1662339
+  },
+  {
+   "type": "Feature",
+   "id": "node/10812608320",
+   "properties": {
+    "amenity": "bench",
+    "colour": "brown",
+    "direction": "340",
+    "material": "wood",
+    "seats": "4",
+    "id": "node/10812608320",
+    "_lat": "51.1686911",
+    "_lon": "4.7448573",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 340,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 134920670,
+    "_last_edit:timestamp": "2023-04-14T20:44:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7448573,
+     51.1686911
+    ]
+   },
+   "_lon": 4.7448573,
+   "_lat": 51.1686911
+  },
+  {
+   "type": "Feature",
+   "id": "node/10812608322",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "colour": "brown",
+    "direction": "90",
+    "material": "wood",
+    "seats": "3",
+    "id": "node/10812608322",
+    "_lat": "51.1695852",
+    "_lon": "4.7429093",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 90,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Stinus_Clasius",
+    "_last_edit:contributor:uid": 1086503,
+    "_last_edit:changeset": 134920670,
+    "_last_edit:timestamp": "2023-04-14T20:44:01Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7429093,
+     51.1695852
+    ]
+   },
+   "_lon": 4.7429093,
+   "_lat": 51.1695852
   }
  ]
 }
