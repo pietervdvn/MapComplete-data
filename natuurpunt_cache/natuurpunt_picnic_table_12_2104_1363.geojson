@@ -3,45 +3,6 @@
  "features": [
   {
    "type": "Feature",
-   "id": "way/1029329279",
-   "properties": {
-    "description": "Reuzenpicnictafel",
-    "leisure": "picnic_table",
-    "id": "way/1029329279",
-    "_lat": "51.42040355",
-    "_lon": "4.981369900000001",
-    "_layer": "picnic_table",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "7.410225287949959",
-    "_length:km": "0.0",
-    "_direction:centerpoint": 54.49893371020786,
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 117162880,
-    "_last_edit:timestamp": "2022-02-08T14:10:23Z",
-    "_version_number": 1,
-    "_geometry:type": "LineString",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "LineString",
-    "coordinates": [
-     [
-      4.9813264,
-      51.4203842
-     ],
-     [
-      4.9814134,
-      51.4204229
-     ]
-    ]
-   },
-   "_lon": 4.981369900000001,
-   "_lat": 51.42040355
-  },
-  {
-   "type": "Feature",
    "id": "node/857476831",
    "properties": {
     "leisure": "picnic_table",
@@ -354,6 +315,38 @@
    },
    "_lon": 4.93302,
    "_lat": 51.4051761
+  },
+  {
+   "type": "Feature",
+   "id": "node/10828052036",
+   "properties": {
+    "description": "Reuzenpicnictafel",
+    "leisure": "picnic_table",
+    "id": "node/10828052036",
+    "_lat": "51.4204036",
+    "_lon": "4.9813699",
+    "_layer": "picnic_table",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Raymond Hoogervorst",
+    "_last_edit:contributor:uid": 8966539,
+    "_last_edit:changeset": 135169718,
+    "_last_edit:timestamp": "2023-04-20T21:23:14Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9813699,
+     51.4204036
+    ]
+   },
+   "_lon": 4.9813699,
+   "_lat": 51.4204036
   }
  ]
 }
