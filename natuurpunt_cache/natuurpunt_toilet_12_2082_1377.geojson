@@ -345,6 +345,87 @@
   },
   {
    "type": "Feature",
+   "id": "way/1166326546",
+   "properties": {
+    "access": "permit",
+    "amenity": "toilets",
+    "fee": "yes",
+    "indoor": "room",
+    "layer": "-1",
+    "level": "-1",
+    "operator": "2theloo",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "website": "https://www.garesetconnexions.sncf/fr/gare/fradj/lille-flandres/services/110/services-pratiques/toilettes",
+    "wheelchair": "yes",
+    "id": "way/1166326546",
+    "_lat": "50.636611200000004",
+    "_lon": "3.070144",
+    "_layer": "toilet",
+    "_surface": "61.74854271089884",
+    "_surface:ha": "0",
+    "_length": "32.704432483662615",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Carto'Cité",
+    "_last_edit:contributor:uid": 5426135,
+    "_last_edit:changeset": 135471648,
+    "_last_edit:timestamp": "2023-04-28T14:13:33Z",
+    "_version_number": 2,
+    "_geometry:type": "Polygon",
+    "_country": "fr"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.0701672,
+       50.6365591
+      ],
+      [
+       3.0702065,
+       50.6366366
+      ],
+      [
+       3.0701045,
+       50.6366633
+      ],
+      [
+       3.0700928,
+       50.6366224
+      ],
+      [
+       3.0700815,
+       50.6365827
+      ],
+      [
+       3.0701158,
+       50.6365784
+      ],
+      [
+       3.0701302,
+       50.6365758
+      ],
+      [
+       3.070143,
+       50.6365723
+      ],
+      [
+       3.0701573,
+       50.6365655
+      ],
+      [
+       3.0701672,
+       50.6365591
+      ]
+     ]
+    ]
+   },
+   "_lon": 3.070144,
+   "_lat": 50.636611200000004
+  },
+  {
+   "type": "Feature",
    "id": "node/841814947",
    "properties": {
     "amenity": "toilets",
@@ -838,45 +919,6 @@
    },
    "_lon": 3.0740356,
    "_lat": 50.637394
-  },
-  {
-   "type": "Feature",
-   "id": "node/9623211600",
-   "properties": {
-    "access": "permit",
-    "amenity": "toilets",
-    "fee": "yes",
-    "layer": "-1",
-    "operator": "Gare et Connexion",
-    "toilets:disposal": "flush",
-    "unisex": "yes",
-    "website": "https://www.garesetconnexions.sncf/fr/gare/fradj/lille-flandres/services/110/services-pratiques/toilettes",
-    "wheelchair": "yes",
-    "id": "node/9623211600",
-    "_lat": "50.6365889",
-    "_lon": "3.0701229",
-    "_layer": "toilet",
-    "_surface": "0",
-    "_surface:ha": "0",
-    "_length": "0",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "MaxThiel",
-    "_last_edit:contributor:uid": 12656102,
-    "_last_edit:changeset": 125176691,
-    "_last_edit:timestamp": "2022-08-21T10:13:40Z",
-    "_version_number": 2,
-    "_geometry:type": "Point",
-    "_country": "fr"
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     3.0701229,
-     50.6365889
-    ]
-   },
-   "_lon": 3.0701229,
-   "_lat": 50.6365889
   },
   {
    "type": "Feature",
