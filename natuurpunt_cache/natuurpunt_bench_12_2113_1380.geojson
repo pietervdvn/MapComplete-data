@@ -633,6 +633,7 @@
    "id": "node/4259095867",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
     "id": "node/4259095867",
     "_lat": "50.4624359",
     "_lon": "5.7501816",
@@ -641,11 +642,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 40212072,
-    "_last_edit:timestamp": "2016-06-22T18:58:53Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Theswitch",
+    "_last_edit:contributor:uid": 11766217,
+    "_last_edit:changeset": 135496135,
+    "_last_edit:timestamp": "2023-04-29T09:08:18Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -978,31 +979,33 @@
    "properties": {
     "amenity": "bench",
     "backrest": "no",
+    "colour": "brown",
+    "material": "wood",
     "id": "node/5562199016",
-    "_lat": "50.4607983",
-    "_lon": "5.751082",
+    "_lat": "50.4608135",
+    "_lon": "5.7510606",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Pieter Vander Vennet",
-    "_last_edit:contributor:uid": 3818858,
-    "_last_edit:changeset": 58204891,
-    "_last_edit:timestamp": "2018-04-18T15:13:28Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Jakka",
+    "_last_edit:contributor:uid": 2403313,
+    "_last_edit:changeset": 135497052,
+    "_last_edit:timestamp": "2023-04-29T09:38:54Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.751082,
-     50.4607983
+     5.7510606,
+     50.4608135
     ]
    },
-   "_lon": 5.751082,
-   "_lat": 50.4607983
+   "_lon": 5.7510606,
+   "_lat": 50.4608135
   },
   {
    "type": "Feature",
@@ -2042,6 +2045,74 @@
    },
    "_lon": 5.7748135,
    "_lat": 50.5104152
+  },
+  {
+   "type": "Feature",
+   "id": "node/10855677202",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "colour": "brown",
+    "material": "wood",
+    "id": "node/10855677202",
+    "_lat": "50.460831",
+    "_lon": "5.7510625",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jakka",
+    "_last_edit:contributor:uid": 2403313,
+    "_last_edit:changeset": 135497052,
+    "_last_edit:timestamp": "2023-04-29T09:38:54Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.7510625,
+     50.460831
+    ]
+   },
+   "_lon": 5.7510625,
+   "_lat": 50.460831
+  },
+  {
+   "type": "Feature",
+   "id": "node/10855677203",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "no",
+    "colour": "brown",
+    "material": "wood",
+    "id": "node/10855677203",
+    "_lat": "50.4608245",
+    "_lon": "5.7510401",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jakka",
+    "_last_edit:contributor:uid": 2403313,
+    "_last_edit:changeset": 135497052,
+    "_last_edit:timestamp": "2023-04-29T09:38:54Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.7510401,
+     50.4608245
+    ]
+   },
+   "_lon": 5.7510401,
+   "_lat": 50.4608245
   }
  ]
 }
