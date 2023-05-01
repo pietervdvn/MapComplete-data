@@ -59,143 +59,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/445674918",
-   "properties": {
-    "amenity": "toilets",
-    "building": "yes",
-    "fee": "no",
-    "id": "way/445674918",
-    "_lat": "51.00193905",
-    "_lon": "5.7067902",
-    "_layer": "toilet",
-    "_surface": "81.63507603368869",
-    "_surface:ha": "0",
-    "_length": "42.75488461008427",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "takje",
-    "_last_edit:contributor:uid": 9291395,
-    "_last_edit:changeset": 76363879,
-    "_last_edit:timestamp": "2019-10-29T20:10:14Z",
-    "_version_number": 3,
-    "_geometry:type": "Polygon",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       5.7067808,
-       51.0019923
-      ],
-      [
-       5.7067143,
-       51.0019882
-      ],
-      [
-       5.7067345,
-       51.0018858
-      ],
-      [
-       5.7068106,
-       51.0018911
-      ],
-      [
-       5.7068052,
-       51.0019209
-      ],
-      [
-       5.7068661,
-       51.001925
-      ],
-      [
-       5.7068617,
-       51.0019528
-      ],
-      [
-       5.706862,
-       51.0019717
-      ],
-      [
-       5.7067944,
-       51.0019615
-      ],
-      [
-       5.7067808,
-       51.0019923
-      ]
-     ]
-    ]
-   },
-   "_lon": 5.7067902,
-   "_lat": 51.00193905
-  },
-  {
-   "type": "Feature",
-   "id": "way/739913658",
-   "properties": {
-    "amenity": "toilets",
-    "building": "yes",
-    "id": "way/739913658",
-    "_lat": "51.003325849999996",
-    "_lon": "5.70704025",
-    "_layer": "toilet",
-    "_surface": "117.15501340467175",
-    "_surface:ha": "0",
-    "_length": "45.63470332084798",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "takje",
-    "_last_edit:contributor:uid": 9291395,
-    "_last_edit:changeset": 76363879,
-    "_last_edit:timestamp": "2019-10-29T20:10:14Z",
-    "_version_number": 2,
-    "_geometry:type": "Polygon",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       5.7069354,
-       51.0033378
-      ],
-      [
-       5.7070997,
-       51.0032614
-      ],
-      [
-       5.7071451,
-       51.0032862
-      ],
-      [
-       5.7071324,
-       51.0033562
-      ],
-      [
-       5.7070575,
-       51.0033903
-      ],
-      [
-       5.7070164,
-       51.0033589
-      ],
-      [
-       5.7069813,
-       51.0033752
-      ],
-      [
-       5.7069354,
-       51.0033378
-      ]
-     ]
-    ]
-   },
-   "_lon": 5.70704025,
-   "_lat": 51.003325849999996
-  },
-  {
-   "type": "Feature",
    "id": "node/6928740074",
    "properties": {
     "amenity": "toilets",
@@ -302,6 +165,72 @@
    },
    "_lon": 5.7067001,
    "_lat": 50.9998862
+  },
+  {
+   "type": "Feature",
+   "id": "node/10858406301",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "id": "node/10858406301",
+    "_lat": "51.0019762",
+    "_lon": "5.7068371",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 135550119,
+    "_last_edit:timestamp": "2023-04-30T19:09:36Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.7068371,
+     51.0019762
+    ]
+   },
+   "_lon": 5.7068371,
+   "_lat": 51.0019762
+  },
+  {
+   "type": "Feature",
+   "id": "node/10858685598",
+   "properties": {
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "id": "node/10858685598",
+    "_lat": "51.0032915",
+    "_lon": "5.7071343",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 135551357,
+    "_last_edit:timestamp": "2023-04-30T19:49:35Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.7071343,
+     51.0032915
+    ]
+   },
+   "_lon": 5.7071343,
+   "_lat": 51.0032915
   }
  ]
 }
