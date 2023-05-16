@@ -3627,6 +3627,7 @@
    "id": "node/8512098656",
    "properties": {
     "amenity": "bench",
+    "backrest": "yes",
     "id": "node/8512098656",
     "_lat": "51.4235357",
     "_lon": "5.4424934",
@@ -3635,11 +3636,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "EnumMapper",
-    "_last_edit:contributor:uid": 2188716,
-    "_last_edit:changeset": 100936783,
-    "_last_edit:timestamp": "2021-03-12T23:09:25Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Icewind1991",
+    "_last_edit:contributor:uid": 1883461,
+    "_last_edit:changeset": 136090200,
+    "_last_edit:timestamp": "2023-05-14T15:30:53Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "nl"
    },
@@ -4913,6 +4914,72 @@
    },
    "_lon": 5.4087299,
    "_lat": 51.4149314
+  },
+  {
+   "type": "Feature",
+   "id": "node/10896276593",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "material": "plastic",
+    "id": "node/10896276593",
+    "_lat": "51.4240296",
+    "_lon": "5.4424407",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Icewind1991",
+    "_last_edit:contributor:uid": 1883461,
+    "_last_edit:changeset": 136090428,
+    "_last_edit:timestamp": "2023-05-14T15:36:04Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "nl"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4424407,
+     51.4240296
+    ]
+   },
+   "_lon": 5.4424407,
+   "_lat": 51.4240296
+  },
+  {
+   "type": "Feature",
+   "id": "node/10896276594",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "material": "wood",
+    "id": "node/10896276594",
+    "_lat": "51.4240348",
+    "_lon": "5.4425512",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Icewind1991",
+    "_last_edit:contributor:uid": 1883461,
+    "_last_edit:changeset": 136090428,
+    "_last_edit:timestamp": "2023-05-14T15:36:04Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "nl"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4425512,
+     51.4240348
+    ]
+   },
+   "_lon": 5.4425512,
+   "_lat": 51.4240348
   }
  ]
 }
