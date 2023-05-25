@@ -3474,7 +3474,7 @@
     "maxspeed:zone": "yes",
     "name": "Zuidervelodroom",
     "oneway": "no",
-    "parking:lane:both": "no",
+    "parking:both": "no",
     "surface": "paving_stones",
     "id": "way/144105510",
     "_lat": "51.20235755",
@@ -3485,11 +3485,11 @@
     "_length": "267.23217890862253",
     "_length:km": "0.3",
     "_direction:centerpoint": -45.0851859054274,
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 128527049,
-    "_last_edit:timestamp": "2022-11-05T16:05:51Z",
-    "_version_number": 13,
+    "_last_edit:contributor": "marc__marc",
+    "_last_edit:contributor:uid": 7272314,
+    "_last_edit:changeset": 136520094,
+    "_last_edit:timestamp": "2023-05-24T23:07:01Z",
+    "_version_number": 14,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -3538,7 +3538,7 @@
     "maxspeed:zone": "yes",
     "name": "Zuidervelodroom",
     "oneway": "no",
-    "parking:lane:both": "no",
+    "parking:both": "no",
     "surface": "paving_stones",
     "id": "way/144105511",
     "_lat": "51.20221045",
@@ -3549,11 +3549,11 @@
     "_length": "133.88833711011895",
     "_length:km": "0.1",
     "_direction:centerpoint": 134.13984686725502,
-    "_last_edit:contributor": "Rembrandt De Vlaeminck",
-    "_last_edit:contributor:uid": 504998,
-    "_last_edit:changeset": 133777275,
-    "_last_edit:timestamp": "2023-03-17T08:00:58Z",
-    "_version_number": 12,
+    "_last_edit:contributor": "marc__marc",
+    "_last_edit:contributor:uid": 7272314,
+    "_last_edit:changeset": 136520094,
+    "_last_edit:timestamp": "2023-05-24T23:07:01Z",
+    "_version_number": 13,
     "_geometry:type": "LineString",
     "_country": "be",
     "_part_of_walking_routes": ""
@@ -7354,6 +7354,68 @@
    },
    "_lon": 4.4094155,
    "_lat": 51.19916685,
+   "_is_patched": true
+  },
+  {
+   "type": "Feature",
+   "id": "way/780454277",
+   "properties": {
+    "highway": "footway",
+    "ramp:bicycle": "yes",
+    "surface": "concrete",
+    "id": "way/780454277",
+    "_lat": "51.198779599999995",
+    "_lon": "4.4104606",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "55.97023443082047",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -73.78590833788101,
+    "_last_edit:contributor": "joost schouppe",
+    "_last_edit:contributor:uid": 67832,
+    "_last_edit:changeset": 136445442,
+    "_last_edit:timestamp": "2023-05-23T08:45:09Z",
+    "_version_number": 3,
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_part_of_walking_routes": ""
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4108493,
+      51.1987506
+     ],
+     [
+      4.4107678,
+      51.1987614
+     ],
+     [
+      4.4107071,
+      51.1987599
+     ],
+     [
+      4.4106417,
+      51.1987497
+     ],
+     [
+      4.4105856,
+      51.1987379
+     ],
+     [
+      4.4105296,
+      51.1987379
+     ],
+     [
+      4.4100719,
+      51.1988213
+     ]
+    ]
+   },
+   "_lon": 4.4104606,
+   "_lat": 51.198779599999995,
    "_is_patched": true
   },
   {
