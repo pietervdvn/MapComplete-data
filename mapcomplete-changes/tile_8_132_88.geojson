@@ -681,6 +681,80 @@
         ]
       },
       "id": 134341913
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 42,
+            "name": "Invalid tag modification"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-2537766756",
+            "name": "Le Palais de Chine",
+            "osm_id": 2537766756,
+            "reasons": [
+              42
+            ],
+            "version": 4,
+            "primary_tags": {}
+          }
+        ],
+        "user": "agentcobra",
+        "uid": "515545",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-03T11:17:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fixme": [
+            "A mapcomplete user marked this feature to be deleted (shop_closed)"
+          ],
+          "amenity": [
+            "restaurant",
+            "fast_food"
+          ],
+          "disused:amenity": [
+            "restaurant"
+          ]
+        },
+        "create": 1,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.00000474587800002222,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/food.html",
+        "move": 1,
+        "theme": "food",
+        "answer": 9,
+        "locale": "fr",
+        "imagery": "osm",
+        "soft-delete": 1,
+        "change_over_5000m": 1,
+        "change_within_5000m": 11,
+        "move:node/10781596454": "improve_accuracy",
+        "soft-delete:node/2537766756": "shop_closed",
+        "id": 134450056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13023755,
+          48.6935216
+        ]
+      },
+      "id": 134450056
     }
   ]
 }

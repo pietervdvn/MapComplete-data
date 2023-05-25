@@ -727,6 +727,83 @@
         ]
       },
       "id": 126564856
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Diego Canales",
+        "uid": "555543",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-26T09:49:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes"
+          ],
+          "bicycle": [
+            "yes"
+          ],
+          "highway": [
+            "crossing",
+            "residential",
+            "footway",
+            "tertiary",
+            "primary"
+          ],
+          "surface": [
+            "fine_gravel"
+          ],
+          "cycleway": [
+            "no"
+          ],
+          "smoothness": [
+            "excellent",
+            "intermediate"
+          ],
+          "tactile_paving": [
+            "no"
+          ],
+          "crossing:island": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 11,
+        "delete": 0,
+        "area": 0.0000528343943999851,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 16,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 16,
+        "id": 135377410
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1707633,
+          19.3475931
+        ]
+      },
+      "id": 135377410
     }
   ]
 }

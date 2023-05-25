@@ -158,6 +158,89 @@
         ]
       },
       "id": 125990613
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-10777861409",
+            "name": "La Ferme de Labergement",
+            "osm_id": 10777861409,
+            "reasons": [
+              43
+            ],
+            "version": 6,
+            "primary_tags": {
+              "shop": "boutique de produits laitiers vente directe"
+            }
+          },
+          {
+            "url": "node-10777877953",
+            "name": "Les Vieux Fourneaux",
+            "osm_id": 10777877953,
+            "reasons": [
+              43
+            ],
+            "version": 4,
+            "primary_tags": {
+              "shop": "café - épicerie - snacking"
+            }
+          }
+        ],
+        "user": "zaimpassa",
+        "uid": "18827012",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-04-01T13:03:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "boutique de produits laitiers vente directe",
+            "café - épicerie - snacking"
+          ]
+        },
+        "create": 2,
+        "modify": 13,
+        "delete": 0,
+        "area": 0.0000756857938399276,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/shops.html",
+        "move": 1,
+        "theme": "shops",
+        "answer": 12,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 2,
+        "move:node/10777877953": "improve_accuracy",
+        "id": 134380297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9248294999999995,
+          47.54232355
+        ]
+      },
+      "id": 134380297
     }
   ]
 }

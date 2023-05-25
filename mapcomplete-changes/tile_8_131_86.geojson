@@ -18934,6 +18934,167 @@
         ]
       },
       "id": 134337289
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kathelijne",
+        "uid": "6761922",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #ghostbikes",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-11T08:44:46Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/ghostbikes.html",
+        "theme": "ghostbikes",
+        "locale": "nl",
+        "imagery": "CartoDB.Positron",
+        "deletion": 1,
+        "change_over_5000m": 2,
+        "deletion:node/10801207797": "testing point",
+        "id": 134763336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5834231,
+          50.6223845
+        ]
+      },
+      "id": 134763336
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "FabienneWilmet",
+        "uid": "13029843",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-04-12T20:43:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 134836406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7095326,
+          50.5613835
+        ]
+      },
+      "id": 134836406
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "eMerzh",
+        "uid": "15399",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-29T09:37:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "tertiary",
+            "secondary",
+            "track"
+          ],
+          "leisure": [
+            "sports_centre"
+          ],
+          "name:etymology:wikidata": [
+            "Q26158",
+            "Q46",
+            "Q215420",
+            "Q2734060",
+            "Q107706",
+            "Q833418",
+            "Q3321619",
+            "Q198632",
+            "Q1322131",
+            "Q558465",
+            "Q160742",
+            "Q39861",
+            "Q1129",
+            "Q7178"
+          ]
+        },
+        "create": 0,
+        "modify": 45,
+        "delete": 0,
+        "area": 0.000519144615719901,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology",
+        "theme": "etymology",
+        "answer": 62,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_within_1000m": 14,
+        "change_within_5000m": 48,
+        "id": 135497004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.389916599999999,
+          50.6796166
+        ]
+      },
+      "id": 135497004
     }
   ]
 }

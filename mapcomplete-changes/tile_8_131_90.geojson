@@ -187,6 +187,334 @@
         ]
       },
       "id": 132589983
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          },
+          {
+            "id": 489,
+            "name": "Mapbox: Spam text"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-660382050",
+            "name": "Groupe scolaire Jean-Jacques Rousseau",
+            "osm_id": 660382050,
+            "reasons": [
+              43
+            ],
+            "version": 8,
+            "primary_tags": {
+              "landuse": "education"
+            }
+          },
+          {
+            "url": "way-363599674",
+            "name": "Groupe scolaire Jacques Prévert",
+            "osm_id": 363599674,
+            "reasons": [
+              43
+            ],
+            "version": 9,
+            "primary_tags": {
+              "landuse": "education"
+            }
+          },
+          {
+            "url": "way-368841914",
+            "name": "Groupe scolaire Paul-Émile Victor",
+            "osm_id": 368841914,
+            "reasons": [
+              43
+            ],
+            "version": 7,
+            "primary_tags": {
+              "landuse": "education"
+            }
+          },
+          {
+            "url": "way-1127526029",
+            "note": "Spam text reported in [\"name\",\"name:etymology:wikidata\"] tags in the feature",
+            "osm_id": 1127526029,
+            "reasons": [
+              489
+            ],
+            "version": 3
+          }
+        ],
+        "user": "GEO ECLA",
+        "uid": "14145128",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-04-13T15:03:34Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "place": [
+            "square"
+          ],
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "secondary",
+            "tertiary",
+            "living_street",
+            "residential",
+            "pedestrian",
+            "service",
+            "unclassified",
+            "tertiary_link",
+            "primary",
+            "track"
+          ],
+          "landuse": [
+            "greenfield",
+            "education"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "tourism": [
+            "museum"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q392158",
+            "Q207660",
+            "Q179888",
+            "Q4044",
+            "Q529",
+            "Q632",
+            "Q5749",
+            "Q1248451",
+            "Q1507090",
+            "Q159700",
+            "Q3173508",
+            "Q333489",
+            "Q186652",
+            "Q1857969",
+            "Q12688",
+            "Q3288927",
+            "Q41180",
+            "Q336010",
+            "Q877804",
+            "Q3372191",
+            "Q3045187",
+            "Q622365",
+            "Q1145",
+            "Q254",
+            "Q180278",
+            "Q4700",
+            "Q1151",
+            "Q56158",
+            "Q680897",
+            "Q381244",
+            "Q188971",
+            "Q379953",
+            "Q3085048",
+            "Q98248509",
+            "Q15981",
+            "Q157309",
+            "Q602468",
+            "Q2661320",
+            "Q55965",
+            "Q1290",
+            "Q274251",
+            "Q3102420",
+            "Q951329",
+            "Q1228942",
+            "Q6792948",
+            "Q39607",
+            "Q276480",
+            "Q959708",
+            "Q3215916",
+            "Q2042",
+            "Q711542",
+            "Q81114",
+            "Q216092",
+            "Q8312077",
+            "Q446435",
+            "Q2908",
+            "Q4724",
+            "Q520892",
+            "Q165274",
+            "Q1307585",
+            "Q295090",
+            "Q1349289",
+            "Q314265",
+            "Q6527",
+            "Q63704"
+          ]
+        },
+        "create": 0,
+        "modify": 259,
+        "delete": 0,
+        "area": 0.00132066359493997,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 352,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 134867002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5593543,
+          46.67483885
+        ]
+      },
+      "id": 134867002
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "lmagreault",
+        "uid": "260065",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-04-13T14:59:16Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary"
+          ],
+          "name:etymology:wikidata": [
+            "Q3085048"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 4.05391360010515e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 134866856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5654534,
+          46.674537799999996
+        ]
+      },
+      "id": 134866856
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "GEO ECLA",
+        "uid": "14145128",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-14T07:19:47Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "primary",
+            "secondary",
+            "living_street",
+            "residential",
+            "tertiary",
+            "unclassified",
+            "service",
+            "footway",
+            "steps"
+          ],
+          "name:etymology:wikidata": [
+            "Q3526506",
+            "Q3188938",
+            "Q1096347",
+            "Q25395206",
+            "Q334965",
+            "Q4583",
+            "Q2730042",
+            "Q1986768",
+            "Q106837997",
+            "Q649050",
+            "Q3103564",
+            "Q2185",
+            "Q221303",
+            "Q11984965",
+            "Q18425",
+            "Q3163662",
+            "Q232873",
+            "Q3469808",
+            "Q717756",
+            "Q192615",
+            "Q2484224",
+            "Q37776",
+            "Q314265",
+            "Q1065312"
+          ]
+        },
+        "create": 0,
+        "modify": 102,
+        "delete": 0,
+        "area": 0.00124237167359986,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 133,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_within_1000m": 5,
+        "change_within_5000m": 49,
+        "id": 134888971
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.557070599999999,
+          46.677343300000004
+        ]
+      },
+      "id": 134888971
     }
   ]
 }

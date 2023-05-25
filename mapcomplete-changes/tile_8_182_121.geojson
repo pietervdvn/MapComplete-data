@@ -201,6 +201,119 @@
         ]
       },
       "id": 130207577
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "iamMY",
+        "uid": "10412695",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #transit",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-19T18:19:15Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bin": [
+            "no"
+          ],
+          "highway": [
+            "bus_stop"
+          ],
+          "shelter": [
+            "yes"
+          ],
+          "wheelchair": [
+            "limited"
+          ],
+          "tactile_paving": [
+            "no"
+          ],
+          "public_transport": [
+            "platform"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 1.06033651785102,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/transit.html",
+        "theme": "transit",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 135116085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68179975,
+          9.314928949999999
+        ]
+      },
+      "id": 135116085
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "iamMY",
+        "uid": "10412695",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #atm",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-19T17:35:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "atm": [
+            "separate",
+            "no"
+          ],
+          "amenity": [
+            "bank"
+          ],
+          "building": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0000348707917499839,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/atm.html",
+        "theme": "atm",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "EsriWorldImagery",
+        "change_within_5000m": 4,
+        "id": 135114133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06010125,
+          8.64300645
+        ]
+      },
+      "id": 135114133
     }
   ]
 }
