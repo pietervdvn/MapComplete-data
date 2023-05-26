@@ -175,7 +175,10 @@
    "type": "Feature",
    "id": "node/6034784731",
    "properties": {
+    "board_type": "history",
     "information": "board",
+    "name": "De Holsteen",
+    "subject:wikidata": "Q2977230",
     "tourism": "information",
     "id": "node/6034784731",
     "_lat": "50.9959082",
@@ -185,11 +188,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "StijnRR",
-    "_last_edit:contributor:uid": 911613,
-    "_last_edit:changeset": 64148680,
-    "_last_edit:timestamp": "2018-11-03T18:57:05Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 136532183,
+    "_last_edit:timestamp": "2023-05-25T08:30:23Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -207,9 +210,11 @@
    "type": "Feature",
    "id": "node/6034784737",
    "properties": {
+    "board_type": "history",
     "information": "board",
     "survey:date": "2023-05-24",
     "tourism": "information",
+    "wikimedia_commons": "File:Belgisch militair kamp 1831-1835 bord.jpg",
     "id": "node/6034784737",
     "_lat": "51.007028",
     "_lon": "5.4165532",
@@ -220,9 +225,9 @@
     "_length:km": "0.0",
     "_last_edit:contributor": "dentonny",
     "_last_edit:contributor:uid": 4198737,
-    "_last_edit:changeset": 136518860,
-    "_last_edit:timestamp": "2023-05-24T21:51:53Z",
-    "_version_number": 3,
+    "_last_edit:changeset": 136561849,
+    "_last_edit:timestamp": "2023-05-25T22:44:15Z",
+    "_version_number": 4,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -643,6 +648,41 @@
    },
    "_lon": 5.4048068,
    "_lat": 50.9680218
+  },
+  {
+   "type": "Feature",
+   "id": "node/10925886240",
+   "properties": {
+    "board_type": "history",
+    "information": "board",
+    "name": "Sporen uit het verleden",
+    "subject:wikidata": "Q2977230",
+    "tourism": "information",
+    "id": "node/10925886240",
+    "_lat": "50.996259",
+    "_lon": "5.4169277",
+    "_layer": "information_board",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "dentonny",
+    "_last_edit:contributor:uid": 4198737,
+    "_last_edit:changeset": 136532183,
+    "_last_edit:timestamp": "2023-05-25T08:30:23Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4169277,
+     50.996259
+    ]
+   },
+   "_lon": 5.4169277,
+   "_lat": 50.996259
   }
  ]
 }
