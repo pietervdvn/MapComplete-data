@@ -199,6 +199,7 @@
    "id": "node/1463922313",
    "properties": {
     "amenity": "bench",
+    "backrest": "no",
     "id": "node/1463922313",
     "_lat": "51.260953",
     "_lon": "4.7045696",
@@ -207,11 +208,11 @@
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "escada",
-    "_last_edit:contributor:uid": 436365,
-    "_last_edit:changeset": 9539085,
-    "_last_edit:timestamp": "2011-10-12T13:42:31Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "staf",
+    "_last_edit:contributor:uid": 377797,
+    "_last_edit:changeset": 136685392,
+    "_last_edit:timestamp": "2023-05-29T08:15:41Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
@@ -1189,6 +1190,70 @@
    },
    "_lon": 4.6590709,
    "_lat": 51.2528517
+  },
+  {
+   "type": "Feature",
+   "id": "node/10936240380",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "id": "node/10936240380",
+    "_lat": "51.2667082",
+    "_lon": "4.7044835",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "staf",
+    "_last_edit:contributor:uid": 377797,
+    "_last_edit:changeset": 136682266,
+    "_last_edit:timestamp": "2023-05-29T06:52:50Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7044835,
+     51.2667082
+    ]
+   },
+   "_lon": 4.7044835,
+   "_lat": 51.2667082
+  },
+  {
+   "type": "Feature",
+   "id": "node/10936295116",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "id": "node/10936295116",
+    "_lat": "51.264326",
+    "_lon": "4.7023806",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "staf",
+    "_last_edit:contributor:uid": 377797,
+    "_last_edit:changeset": 136682347,
+    "_last_edit:timestamp": "2023-05-29T06:55:19Z",
+    "_version_number": 1,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7023806,
+     51.264326
+    ]
+   },
+   "_lon": 4.7023806,
+   "_lat": 51.264326
   }
  ]
 }
