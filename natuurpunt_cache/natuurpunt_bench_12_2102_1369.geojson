@@ -543,32 +543,35 @@
    "id": "node/9677061327",
    "properties": {
     "amenity": "bench",
-    "survey:date": "2020-05-06 12:26:58.091341",
+    "backrest": "yes",
+    "direction": "110",
     "id": "node/9677061327",
-    "_lat": "51.0748175",
-    "_lon": "4.7911217",
+    "_lat": "51.0748287",
+    "_lon": "4.7909593",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Toerisme Vlaanderen - Pin je punt",
-    "_last_edit:contributor:uid": 15015689,
-    "_last_edit:changeset": 119903076,
-    "_last_edit:timestamp": "2022-04-19T11:42:40Z",
-    "_version_number": 1,
+    "_direction:numerical": 110,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Koen_VdE",
+    "_last_edit:contributor:uid": 3574538,
+    "_last_edit:changeset": 137005811,
+    "_last_edit:timestamp": "2023-06-06T09:23:13Z",
+    "_version_number": 2,
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.7911217,
-     51.0748175
+     4.7909593,
+     51.0748287
     ]
    },
-   "_lon": 4.7911217,
-   "_lat": 51.0748175
+   "_lon": 4.7909593,
+   "_lat": 51.0748287
   },
   {
    "type": "Feature",
@@ -639,19 +642,58 @@
    "id": "node/9677061405",
    "properties": {
     "amenity": "bench",
-    "survey:date": "2020-05-06 12:26:50.941424",
+    "backrest": "yes",
+    "direction": "0",
+    "material": "plastic",
     "id": "node/9677061405",
-    "_lat": "51.0747685",
-    "_lon": "4.7918298",
+    "_lat": "51.0748227",
+    "_lon": "4.7918614",
     "_layer": "bench",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Toerisme Vlaanderen - Pin je punt",
-    "_last_edit:contributor:uid": 15015689,
-    "_last_edit:changeset": 119903076,
-    "_last_edit:timestamp": "2022-04-19T11:42:40Z",
+    "_direction:numerical": 0,
+    "_direction:leftright": "right",
+    "_last_edit:contributor": "Koen_VdE",
+    "_last_edit:contributor:uid": 3574538,
+    "_last_edit:changeset": 137005811,
+    "_last_edit:timestamp": "2023-06-06T09:23:13Z",
+    "_version_number": 2,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7918614,
+     51.0748227
+    ]
+   },
+   "_lon": 4.7918614,
+   "_lat": 51.0748227
+  },
+  {
+   "type": "Feature",
+   "id": "node/10959196587",
+   "properties": {
+    "amenity": "bench",
+    "backrest": "yes",
+    "direction": "190",
+    "id": "node/10959196587",
+    "_lat": "51.0748426",
+    "_lon": "4.7910022",
+    "_layer": "bench",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_direction:numerical": 190,
+    "_direction:leftright": "left",
+    "_last_edit:contributor": "Koen_VdE",
+    "_last_edit:contributor:uid": 3574538,
+    "_last_edit:changeset": 137005811,
+    "_last_edit:timestamp": "2023-06-06T09:23:13Z",
     "_version_number": 1,
     "_geometry:type": "Point",
     "_country": "be"
@@ -659,12 +701,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.7918298,
-     51.0747685
+     4.7910022,
+     51.0748426
     ]
    },
-   "_lon": 4.7918298,
-   "_lat": 51.0747685
+   "_lon": 4.7910022,
+   "_lat": 51.0748426
   }
  ]
 }
