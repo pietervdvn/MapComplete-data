@@ -117,58 +117,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/406646513",
-   "properties": {
-    "amenity": "toilets",
-    "building": "yes",
-    "id": "way/406646513",
-    "_lat": "51.0650646",
-    "_lon": "3.10452005",
-    "_layer": "toilet",
-    "_surface": "59.23120025655475",
-    "_surface:ha": "0",
-    "_length": "36.2528123144503",
-    "_length:km": "0.0",
-    "_last_edit:contributor": "Wafelijzer",
-    "_last_edit:contributor:uid": 3234853,
-    "_last_edit:changeset": 38177791,
-    "_last_edit:timestamp": "2016-03-30T19:09:16Z",
-    "_version_number": 1,
-    "_geometry:type": "Polygon",
-    "_country": "be"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       3.1044157,
-       51.065062
-      ],
-      [
-       3.1044355,
-       51.0650264
-      ],
-      [
-       3.1046244,
-       51.0650664
-      ],
-      [
-       3.1046021,
-       51.0651028
-      ],
-      [
-       3.1044157,
-       51.065062
-      ]
-     ]
-    ]
-   },
-   "_lon": 3.10452005,
-   "_lat": 51.0650646
-  },
-  {
-   "type": "Feature",
    "id": "node/9579346408",
    "properties": {
     "amenity": "toilets",
@@ -197,6 +145,37 @@
    },
    "_lon": 3.1412134,
    "_lat": 51.0275662
+  },
+  {
+   "type": "Feature",
+   "id": "node/10966048817",
+   "properties": {
+    "amenity": "toilets",
+    "id": "node/10966048817",
+    "_lat": "51.0650515",
+    "_lon": "3.104323",
+    "_layer": "toilet",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Jakka",
+    "_last_edit:contributor:uid": 2403313,
+    "_last_edit:changeset": 137150320,
+    "_last_edit:timestamp": "2023-06-09T19:07:11Z",
+    "_version_number": 3,
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.104323,
+     51.0650515
+    ]
+   },
+   "_lon": 3.104323,
+   "_lat": 51.0650515
   }
  ]
 }
