@@ -3,6 +3,49 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/23229652",
+   "properties": {
+    "highway": "living_street",
+    "name": "Kerkplein",
+    "id": "way/23229652",
+    "_lat": "51.201058149999994",
+    "_lon": "4.3456019999999995",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "45.93778946528241",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 86.3764158864991,
+    "_last_edit:contributor": "lodde1949",
+    "_last_edit:contributor:uid": 138772,
+    "_last_edit:changeset": 36409533,
+    "_last_edit:timestamp": "2016-01-06T18:05:23Z",
+    "_version_number": 4,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3452853,
+      51.2010861
+     ],
+     [
+      4.3454323,
+      51.2010302
+     ],
+     [
+      4.3459187,
+      51.2010495
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/23229664",
    "properties": {
     "highway": "living_street",
@@ -21,9 +64,9 @@
     "_last_edit:changeset": 28598438,
     "_last_edit:timestamp": "2015-02-03T20:52:59Z",
     "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -45,15 +88,430 @@
       51.2011502
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/23229666",
+   "properties": {
+    "highway": "living_street",
+    "name": "Kerkplein",
+    "id": "way/23229666",
+    "_lat": "51.20134815",
+    "_lon": "4.345936350000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "72.94068771023184",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -16.38791829214039,
+    "_last_edit:contributor": "lodde1949",
+    "_last_edit:contributor:uid": 138772,
+    "_last_edit:changeset": 36409533,
+    "_last_edit:timestamp": "2016-01-06T18:05:23Z",
+    "_version_number": 4,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.3450906499999995,
-   "_lat": 51.20147025,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2017903,
-    "maxLon": 4.3451878,
-    "minLat": 51.2011502,
-    "minLon": 4.3449935
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3459187,
+      51.2010495
+     ],
+     [
+      4.3460132,
+      51.2010802
+     ],
+     [
+      4.3460456,
+      51.2011267
+     ],
+     [
+      4.3460124,
+      51.201252
+     ],
+     [
+      4.3458271,
+      51.2016468
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/24406446",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "footway",
+    "lit": "no",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "surface": "unpaved",
+    "id": "way/24406446",
+    "_lat": "51.192739200000005",
+    "_lon": "4.34281265",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "503.63385068078236",
+    "_length:km": "0.5",
+    "_direction:centerpoint": -29.44966128904459,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 11,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3447967,
+      51.191262
+     ],
+     [
+      4.3448233,
+      51.1913236
+     ],
+     [
+      4.344839,
+      51.19136
+     ],
+     [
+      4.3448213,
+      51.1915042
+     ],
+     [
+      4.3448648,
+      51.1916935
+     ],
+     [
+      4.3447532,
+      51.1918549
+     ],
+     [
+      4.3445756,
+      51.1919261
+     ],
+     [
+      4.3444302,
+      51.1920429
+     ],
+     [
+      4.3440307,
+      51.1923875
+     ],
+     [
+      4.3433334,
+      51.1924951
+     ],
+     [
+      4.3428398,
+      51.1925893
+     ],
+     [
+      4.3427004,
+      51.1926699
+     ],
+     [
+      4.3423248,
+      51.1930868
+     ],
+     [
+      4.3422605,
+      51.1933289
+     ],
+     [
+      4.3418742,
+      51.1936718
+     ],
+     [
+      4.3417669,
+      51.1937928
+     ],
+     [
+      4.3417669,
+      51.1939004
+     ],
+     [
+      4.3417777,
+      51.194055
+     ],
+     [
+      4.3417777,
+      51.1941693
+     ],
+     [
+      4.3415953,
+      51.1942164
+     ],
+     [
+      4.341091,
+      51.1941492
+     ],
+     [
+      4.3407605,
+      51.1941931
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27602555",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Kampstraat",
+    "id": "way/27602555",
+    "_lat": "51.201338500000006",
+    "_lon": "4.33400335",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "68.14822391604648",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -137.4920813868379,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T16:18:17Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3343338,
+      51.2015644
+     ],
+     [
+      4.3336729,
+      51.2011126
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27602564",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Kampstraat",
+    "id": "way/27602564",
+    "_lat": "51.201024200000006",
+    "_lon": "4.333735300000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "26.43518502138956",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 138.64184727675013,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T16:19:04Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3336729,
+      51.2011126
+     ],
+     [
+      4.33363,
+      51.2010857
+     ],
+     [
+      4.3338406,
+      51.2009358
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27602566",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Kampstraat",
+    "id": "way/27602566",
+    "_lat": "51.201235499999996",
+    "_lon": "4.3334946",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "36.936770897814974",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -42.27184330228907,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T16:19:10Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3336729,
+      51.2011126
+     ],
+     [
+      4.3333163,
+      51.2013584
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27602568",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Kampstraat",
+    "id": "way/27602568",
+    "_lat": "51.2019857",
+    "_lon": "4.33313655",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "50.26753981935792",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -129.37685199765968,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T16:19:19Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3334154,
+      51.2021291
+     ],
+     [
+      4.3328577,
+      51.2018423
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27602571",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Kampstraat",
+    "id": "way/27602571",
+    "_lat": "51.20193985",
+    "_lon": "4.3327200999999995",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "28.95292950908695",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -41.470944826225804,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T16:19:33Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3328577,
+      51.2018423
+     ],
+     [
+      4.3325825,
+      51.2020374
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27602576",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Kampstraat",
+    "id": "way/27602576",
+    "_lat": "51.201707999999996",
+    "_lon": "4.3330167",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "37.65104424705487",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 138.32784021971221,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T16:19:48Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3328577,
+      51.2018423
+     ],
+     [
+      4.3329048,
+      51.2017644
+     ],
+     [
+      4.3331757,
+      51.2015737
+     ]
+    ]
    }
   },
   {
@@ -76,9 +534,9 @@
     "_last_edit:changeset": 105892623,
     "_last_edit:timestamp": "2021-06-05T17:58:07Z",
     "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -108,15 +566,6 @@
       51.2016746
      ]
     ]
-   },
-   "_lon": 4.3416881499999995,
-   "_lat": 51.201095499999994,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2016746,
-    "maxLon": 4.3423188,
-    "minLat": 51.2005164,
-    "minLon": 4.3410575
    }
   },
   {
@@ -139,9 +588,9 @@
     "_last_edit:changeset": 81829845,
     "_last_edit:timestamp": "2020-03-05T15:53:18Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -167,15 +616,6 @@
       51.2018591
      ]
     ]
-   },
-   "_lon": 4.34250685,
-   "_lat": 51.20150889999999,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2019263,
-    "maxLon": 4.3434328,
-    "minLat": 51.2010915,
-    "minLon": 4.3415809
    }
   },
   {
@@ -198,9 +638,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -246,15 +686,195 @@
       51.2042864
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27605451",
+   "properties": {
+    "highway": "living_street",
+    "name": "Leo Verbeecklaan",
+    "id": "way/27605451",
+    "_lat": "51.203961899999996",
+    "_lon": "4.3440445",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "117.56644539255909",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -121.41395452723658,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105893355,
+    "_last_edit:timestamp": "2021-06-05T18:25:10Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.34543875,
-   "_lat": 51.2039184,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2045533,
-    "maxLon": 4.3463078,
-    "minLat": 51.2032835,
-    "minLon": 4.3445697
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3445697,
+      51.2042864
+     ],
+     [
+      4.3443567,
+      51.2042116
+     ],
+     [
+      4.3435505,
+      51.2039031
+     ],
+     [
+      4.3435387,
+      51.2038775
+     ],
+     [
+      4.3435193,
+      51.2038285
+     ],
+     [
+      4.3436355,
+      51.2037138
+     ],
+     [
+      4.3437371,
+      51.2036374
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27605457",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Leo Verbeecklaan",
+    "oneway": "yes",
+    "id": "way/27605457",
+    "_lat": "51.20457035",
+    "_lon": "4.34407955",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "95.53524529566252",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -42.746713239729296,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T18:30:31Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3445697,
+      51.2042864
+     ],
+     [
+      4.3437449,
+      51.2048455
+     ],
+     [
+      4.3435894,
+      51.2048543
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27605461",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Leo Verbeecklaan",
+    "oneway": "yes",
+    "id": "way/27605461",
+    "_lat": "51.20453295",
+    "_lon": "4.34397305",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "92.08822055899924",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 137.67405533522265,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T18:30:36Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3435894,
+      51.2048543
+     ],
+     [
+      4.3435921,
+      51.2047376
+     ],
+     [
+      4.3443567,
+      51.2042116
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27605480",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Leo Verbeecklaan",
+    "id": "way/27605480",
+    "_lat": "51.2049195",
+    "_lon": "4.34347165",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "21.895832287663666",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -48.53059924349786,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T18:31:05Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3435894,
+      51.2048543
+     ],
+     [
+      4.3433539,
+      51.2049847
+     ]
+    ]
    }
   },
   {
@@ -278,9 +898,9 @@
     "_last_edit:changeset": 165005,
     "_last_edit:timestamp": "2008-10-08T18:32:20Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -294,15 +914,6 @@
       51.2050971
      ]
     ]
-   },
-   "_lon": 4.343264850000001,
-   "_lat": 51.2050409,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2050971,
-    "maxLon": 4.3433539,
-    "minLat": 51.2049847,
-    "minLon": 4.3431758
    }
   },
   {
@@ -326,9 +937,9 @@
     "_last_edit:changeset": 165005,
     "_last_edit:timestamp": "2008-10-08T18:51:47Z",
     "_version_number": 4,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -346,15 +957,50 @@
       51.2048842
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27605524",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "highway": "living_street",
+    "name": "Idsteinlaan",
+    "id": "way/27605524",
+    "_lat": "51.20482455",
+    "_lon": "4.3428979000000005",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "17.642033969905846",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 136.31254053605272,
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T18:33:01Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.3429953,
-   "_lat": 51.20499065,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2050971,
-    "maxLon": 4.3431758,
-    "minLat": 51.2048842,
-    "minLon": 4.3428148
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3428148,
+      51.2048842
+     ],
+     [
+      4.3428662,
+      51.2048402
+     ],
+     [
+      4.342981,
+      51.2047649
+     ]
+    ]
    }
   },
   {
@@ -378,9 +1024,9 @@
     "_last_edit:changeset": 165005,
     "_last_edit:timestamp": "2008-10-08T18:33:26Z",
     "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -398,15 +1044,6 @@
       51.2049847
      ]
     ]
-   },
-   "_lon": 4.34316745,
-   "_lat": 51.2048748,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2049847,
-    "maxLon": 4.3433539,
-    "minLat": 51.2047649,
-    "minLon": 4.342981
    }
   },
   {
@@ -430,9 +1067,9 @@
     "_last_edit:changeset": 165005,
     "_last_edit:timestamp": "2008-10-08T18:33:37Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -446,15 +1083,445 @@
       51.2049882
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27605567",
+   "properties": {
+    "highway": "living_street",
+    "name": "Paul Van Goethemstraat",
+    "id": "way/27605567",
+    "_lat": "51.2052518",
+    "_lon": "4.3422782",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "110.79217432273902",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -42.2095136594991,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105892559,
+    "_last_edit:timestamp": "2021-06-05T17:55:46Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.34308955,
-   "_lat": 51.20493635,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2049882,
-    "maxLon": 4.3431763,
-    "minLat": 51.2048845,
-    "minLon": 4.3430028
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3428148,
+      51.2048842
+     ],
+     [
+      4.3419644,
+      51.2054716
+     ],
+     [
+      4.3418673,
+      51.2055387
+     ],
+     [
+      4.3417416,
+      51.2056194
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/27605574",
+   "properties": {
+    "highway": "path",
+    "name": "Paul Van Goethemstraat",
+    "surface": "compacted",
+    "id": "way/27605574",
+    "_lat": "51.20592245",
+    "_lon": "4.3413391",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "88.26780249110134",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -41.37782353046513,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105892559,
+    "_last_edit:timestamp": "2021-06-05T17:55:46Z",
+    "_version_number": 6,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3417416,
+      51.2056194
+     ],
+     [
+      4.341056,
+      51.206107
+     ],
+     [
+      4.3409756,
+      51.2061558
+     ],
+     [
+      4.3409366,
+      51.2062255
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/30166914",
+   "properties": {
+    "highway": "track",
+    "name": "Visserstraat",
+    "surface": "unpaved",
+    "tracktype": "grade5",
+    "id": "way/30166914",
+    "_lat": "51.20409375",
+    "_lon": "4.33422985",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "303.396523889757",
+    "_length:km": "0.3",
+    "_direction:centerpoint": 98.49607684882274,
+    "_last_edit:contributor": "koninklijke",
+    "_last_edit:contributor:uid": 2029979,
+    "_last_edit:changeset": 71544908,
+    "_last_edit:timestamp": "2019-06-24T02:28:25Z",
+    "_version_number": 4,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3322092,
+      51.2037861
+     ],
+     [
+      4.3326984,
+      51.2039313
+     ],
+     [
+      4.3329559,
+      51.204041
+     ],
+     [
+      4.3333061,
+      51.2041931
+     ],
+     [
+      4.3335558,
+      51.2043057
+     ],
+     [
+      4.3337969,
+      51.2043799
+     ],
+     [
+      4.334069,
+      51.2044014
+     ],
+     [
+      4.3345936,
+      51.2043523
+     ],
+     [
+      4.3357025,
+      51.2043453
+     ],
+     [
+      4.3359085,
+      51.2043077
+     ],
+     [
+      4.3362505,
+      51.2042167
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/56420282",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "surface": "unpaved",
+    "id": "way/56420282",
+    "_lat": "51.1952602",
+    "_lon": "4.3425844",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "351.9765884823558",
+    "_length:km": "0.4",
+    "_direction:centerpoint": -132.70773870411372,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 6,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3444083,
+      51.1963273
+     ],
+     [
+      4.3443705,
+      51.1961999
+     ],
+     [
+      4.3441237,
+      51.1959847
+     ],
+     [
+      4.3435337,
+      51.1957427
+     ],
+     [
+      4.3429221,
+      51.1954267
+     ],
+     [
+      4.3422247,
+      51.1950233
+     ],
+     [
+      4.3414952,
+      51.1946131
+     ],
+     [
+      4.3407605,
+      51.1941931
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/238954525",
+   "properties": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "lit": "yes",
+    "name": "Kortegaard",
+    "surface": "paved",
+    "id": "way/238954525",
+    "_lat": "51.204352799999995",
+    "_lon": "4.34889075",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "32.43339076254377",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 142.63257886261113,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105893444,
+    "_last_edit:timestamp": "2021-06-05T18:28:18Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3487225,
+      51.2043911
+     ],
+     [
+      4.348754,
+      51.2043862
+     ],
+     [
+      4.348883,
+      51.204425
+     ],
+     [
+      4.349059,
+      51.2042806
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/238954526",
+   "properties": {
+    "highway": "living_street",
+    "lit": "yes",
+    "name": "Kortegaard",
+    "surface": "paved",
+    "id": "way/238954526",
+    "_lat": "51.2047222",
+    "_lon": "4.3483933",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "125.39033464228089",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 154.29307476673398,
+    "_last_edit:contributor": "Lucapersempre",
+    "_last_edit:contributor:uid": 171749,
+    "_last_edit:changeset": 17973088,
+    "_last_edit:timestamp": "2013-09-22T12:47:25Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3481346,
+      51.2051302
+     ],
+     [
+      4.348255,
+      51.2049175
+     ],
+     [
+      4.3480641,
+      51.2048301
+     ],
+     [
+      4.3484605,
+      51.2043142
+     ],
+     [
+      4.3487225,
+      51.2043911
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/238954528",
+   "properties": {
+    "highway": "living_street",
+    "lit": "yes",
+    "name": "11 Geniestraat",
+    "surface": "paved",
+    "id": "way/238954528",
+    "_lat": "51.205658400000004",
+    "_lon": "4.34862125",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "186.6786613336304",
+    "_length:km": "0.2",
+    "_direction:centerpoint": 168.4361393389037,
+    "_last_edit:contributor": "lodde1949",
+    "_last_edit:contributor:uid": 138772,
+    "_last_edit:changeset": 36425753,
+    "_last_edit:timestamp": "2016-01-07T14:42:35Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3492733,
+      51.2061676
+     ],
+     [
+      4.3479692,
+      51.2059701
+     ],
+     [
+      4.3480641,
+      51.2057317
+     ],
+     [
+      4.3481963,
+      51.2053269
+     ],
+     [
+      4.3482353,
+      51.2051492
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/266507570",
+   "properties": {
+    "highway": "path",
+    "id": "way/266507570",
+    "_lat": "51.1993243",
+    "_lon": "4.33921065",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "98.08870836677565",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -118.4466218250076,
+    "_last_edit:contributor": "JanFi",
+    "_last_edit:contributor:uid": 672253,
+    "_last_edit:changeset": 21130099,
+    "_last_edit:timestamp": "2014-03-16T06:54:06Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3398568,
+      51.1994837
+     ],
+     [
+      4.3393628,
+      51.1994359
+     ],
+     [
+      4.3385645,
+      51.1991649
+     ]
+    ]
    }
   },
   {
@@ -484,9 +1551,9 @@
     "_last_edit:changeset": 120240203,
     "_last_edit:timestamp": "2022-04-27T05:40:34Z",
     "_version_number": 5,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -508,15 +1575,6 @@
       51.1927624
      ]
     ]
-   },
-   "_lon": 4.3504068,
-   "_lat": 51.19311915,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1934759,
-    "maxLon": 4.3508414,
-    "minLat": 51.1927624,
-    "minLon": 4.3499722
    }
   },
   {
@@ -539,9 +1597,9 @@
     "_last_edit:changeset": 57040034,
     "_last_edit:timestamp": "2018-03-09T18:23:57Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -635,15 +1693,6 @@
       51.1959806
      ]
     ]
-   },
-   "_lon": 4.3516479,
-   "_lat": 51.19595235,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1966161,
-    "maxLon": 4.3547414,
-    "minLat": 51.1952886,
-    "minLon": 4.3485544
    }
   },
   {
@@ -666,9 +1715,9 @@
     "_last_edit:changeset": 120242079,
     "_last_edit:timestamp": "2022-04-27T06:33:39Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -694,15 +1743,165 @@
       51.19432
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/574138040",
+   "properties": {
+    "highway": "track",
+    "service": "alley",
+    "tracktype": "grade1",
+    "vicinal_ref": "Sentier nr. 20",
+    "id": "way/574138040",
+    "_lat": "51.20504625",
+    "_lon": "4.34569185",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "71.75018295530423",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 148.42860463233123,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105893355,
+    "_last_edit:timestamp": "2021-06-05T18:25:10Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.3487234,
-   "_lat": 51.19490295,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1954859,
-    "maxLon": 4.349246,
-    "minLat": 51.19432,
-    "minLon": 4.3482008
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3458236,
+      51.2053049
+     ],
+     [
+      4.3458116,
+      51.2052618
+     ],
+     [
+      4.3455389,
+      51.2050906
+     ],
+     [
+      4.3455675,
+      51.2050744
+     ],
+     [
+      4.3456493,
+      51.204991
+     ],
+     [
+      4.3457727,
+      51.204871
+     ],
+     [
+      4.3458448,
+      51.2047876
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/625202356",
+   "properties": {
+    "highway": "footway",
+    "id": "way/625202356",
+    "_lat": "51.2017716",
+    "_lon": "4.3493703",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "157.17692552720862",
+    "_length:km": "0.2",
+    "_direction:centerpoint": -111.47202449481516,
+    "_last_edit:contributor": "JanFi",
+    "_last_edit:contributor:uid": 672253,
+    "_last_edit:changeset": 62540376,
+    "_last_edit:timestamp": "2018-09-13T05:25:11Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3500521,
+      51.2020911
+     ],
+     [
+      4.3500915,
+      51.2019476
+     ],
+     [
+      4.3502016,
+      51.2018097
+     ],
+     [
+      4.3487507,
+      51.2014521
+     ],
+     [
+      4.348539,
+      51.2014856
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/656307847",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "surface": "unpaved",
+    "id": "way/656307847",
+    "_lat": "51.194198400000005",
+    "_lon": "4.3406379",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "12.915582685140945",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -41.91923119908258,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3406886,
+      51.1941507
+     ],
+     [
+      4.3406564,
+      51.1941978
+     ],
+     [
+      4.3405872,
+      51.1942461
+     ]
+    ]
    }
   },
   {
@@ -724,9 +1923,9 @@
     "_last_edit:changeset": 79761149,
     "_last_edit:timestamp": "2020-01-19T17:51:14Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -784,15 +1983,192 @@
       51.2048532
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/778595942",
+   "properties": {
+    "highway": "path",
+    "name": "Pastoor Coplaan",
+    "id": "way/778595942",
+    "_lat": "51.205248",
+    "_lon": "4.3414126",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "94.48230413616857",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 47.44949178215607,
+    "_last_edit:contributor": "A127",
+    "_last_edit:contributor:uid": 9374269,
+    "_last_edit:changeset": 81829674,
+    "_last_edit:timestamp": "2020-03-05T15:47:30Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.3513666,
-   "_lat": 51.20607875,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2073298,
-    "maxLon": 4.353075,
-    "minLat": 51.2048277,
-    "minLon": 4.3496582
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3409579,
+      51.2049573
+     ],
+     [
+      4.3410925,
+      51.2050078
+     ],
+     [
+      4.3412293,
+      51.2050649
+     ],
+     [
+      4.341452,
+      51.205164
+     ],
+     [
+      4.3418114,
+      51.2053707
+     ],
+     [
+      4.3418673,
+      51.2055387
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/778597066",
+   "properties": {
+    "highway": "pedestrian",
+    "name": "Kerkstraat",
+    "id": "way/778597066",
+    "_lat": "51.200675950000004",
+    "_lon": "4.34162865",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "95.54431399261564",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -123.17072210213594,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105892623,
+    "_last_edit:timestamp": "2021-06-05T17:58:07Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3421001,
+      51.2007152
+     ],
+     [
+      4.3415488,
+      51.2004894
+     ],
+     [
+      4.3411572,
+      51.2008625
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/778597872",
+   "properties": {
+    "highway": "path",
+    "id": "way/778597872",
+    "_lat": "51.198187",
+    "_lon": "4.337509450000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "85.50307210763312",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 149.35501579061088,
+    "_last_edit:contributor": "A127",
+    "_last_edit:contributor:uid": 9374269,
+    "_last_edit:changeset": 81829881,
+    "_last_edit:timestamp": "2020-03-05T15:56:25Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3371512,
+      51.1984947
+     ],
+     [
+      4.3375413,
+      51.1980821
+     ],
+     [
+      4.3376513,
+      51.1979947
+     ],
+     [
+      4.3378677,
+      51.1978793
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/843272544",
+   "properties": {
+    "highway": "path",
+    "id": "way/843272544",
+    "_lat": "51.20146604999999",
+    "_lon": "4.3332391",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "26.69679500121832",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -25.29612797450195,
+    "_last_edit:contributor": "A127",
+    "_last_edit:contributor:uid": 9374269,
+    "_last_edit:changeset": 90264214,
+    "_last_edit:timestamp": "2020-09-01T20:38:43Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3333163,
+      51.2013584
+     ],
+     [
+      4.3331619,
+      51.2015631
+     ],
+     [
+      4.3331757,
+      51.2015737
+     ]
+    ]
    }
   },
   {
@@ -816,9 +2192,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -860,15 +2236,56 @@
       51.2042518
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/843272827",
+   "properties": {
+    "highway": "path",
+    "id": "way/843272827",
+    "_lat": "51.20400015",
+    "_lon": "4.3469657999999995",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "67.99068827013588",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 65.17107931603843,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105893444,
+    "_last_edit:timestamp": "2021-06-05T18:28:18Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.346519799999999,
-   "_lat": 51.20380865,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2042518,
-    "maxLon": 4.3467721,
-    "minLat": 51.2033655,
-    "minLon": 4.3462675
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3465196,
+      51.2038786
+     ],
+     [
+      4.3467343,
+      51.2039182
+     ],
+     [
+      4.3469806,
+      51.2039896
+     ],
+     [
+      4.3470132,
+      51.2039955
+     ],
+     [
+      4.347412,
+      51.2041217
+     ]
+    ]
    }
   },
   {
@@ -890,9 +2307,9 @@
     "_last_edit:changeset": 90264337,
     "_last_edit:timestamp": "2020-09-01T20:42:40Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -906,15 +2323,6 @@
       51.2025939
      ]
     ]
-   },
-   "_lon": 4.3472724,
-   "_lat": 51.2025711,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2025939,
-    "maxLon": 4.3473405,
-    "minLat": 51.2025483,
-    "minLon": 4.3472043
    }
   },
   {
@@ -936,9 +2344,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1032,15 +2440,156 @@
       51.2028666
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/924798906",
+   "properties": {
+    "highway": "footway",
+    "id": "way/924798906",
+    "_lat": "51.20191125",
+    "_lon": "4.3458934",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "59.264685228956644",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 175.5948547533718,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105893621,
+    "_last_edit:timestamp": "2021-06-05T18:34:30Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.34677505,
-   "_lat": 51.20225895,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2028666,
-    "maxLon": 4.3484614,
-    "minLat": 51.2016513,
-    "minLon": 4.3450887
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3459204,
+      51.2021741
+     ],
+     [
+      4.3458664,
+      51.2020816
+     ],
+     [
+      4.3458703,
+      51.2020502
+     ],
+     [
+      4.3459197,
+      51.2016484
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/924909197",
+   "properties": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "id": "way/924909197",
+    "_lat": "51.1988298",
+    "_lon": "4.337857850000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "124.95773073248286",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -124.66990638890846,
+    "_last_edit:contributor": "s8evq",
+    "_last_edit:contributor:uid": 3710738,
+    "_last_edit:changeset": 129656222,
+    "_last_edit:timestamp": "2022-12-02T19:35:15Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3385645,
+      51.1991649
+     ],
+     [
+      4.3373361,
+      51.1986325
+     ],
+     [
+      4.3372778,
+      51.1985474
+     ],
+     [
+      4.3371512,
+      51.1984947
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/933744086",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "surface": "unpaved",
+    "id": "way/933744086",
+    "_lat": "51.1940394",
+    "_lon": "4.3404446",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "58.168371683611944",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -115.98617861067731,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3407605,
+      51.1941931
+     ],
+     [
+      4.3406886,
+      51.1941507
+     ],
+     [
+      4.3406248,
+      51.1941242
+     ],
+     [
+      4.340551,
+      51.1940147
+     ],
+     [
+      4.3401287,
+      51.1938857
+     ]
+    ]
    }
   },
   {
@@ -1070,9 +2619,9 @@
     "_last_edit:changeset": 120239960,
     "_last_edit:timestamp": "2022-04-27T05:32:34Z",
     "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1150,15 +2699,6 @@
       51.1938857
      ]
     ]
-   },
-   "_lon": 4.3373206500000006,
-   "_lat": 51.1908557,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1938857,
-    "maxLon": 4.3401287,
-    "minLat": 51.1878257,
-    "minLon": 4.3345126
    }
   },
   {
@@ -1180,9 +2720,9 @@
     "_last_edit:changeset": 105892623,
     "_last_edit:timestamp": "2021-06-05T17:58:07Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1200,15 +2740,53 @@
       51.2009952
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/951525314",
+   "properties": {
+    "highway": "living_street",
+    "name": "Seefhoeklaan",
+    "id": "way/951525314",
+    "_lat": "51.201280600000004",
+    "_lon": "4.34105205",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "48.19705084802496",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 56.375343063250014,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105892623,
+    "_last_edit:timestamp": "2021-06-05T17:58:07Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.34211305,
-   "_lat": 51.20108075,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2011663,
-    "maxLon": 4.3422106,
-    "minLat": 51.2009952,
-    "minLon": 4.3420155
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3407657,
+      51.2011591
+     ],
+     [
+      4.3409347,
+      51.2012347
+     ],
+     [
+      4.3409729,
+      51.2012498
+     ],
+     [
+      4.3413384,
+      51.2014021
+     ]
+    ]
    }
   },
   {
@@ -1231,9 +2809,9 @@
     "_last_edit:changeset": 105893355,
     "_last_edit:timestamp": "2021-06-05T18:25:10Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1255,15 +2833,60 @@
       51.2042518
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/951529546",
+   "properties": {
+    "highway": "footway",
+    "id": "way/951529546",
+    "_lat": "51.20399999999999",
+    "_lon": "4.34324385",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "56.69416757697962",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 103.96229244768189,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105893355,
+    "_last_edit:timestamp": "2021-06-05T18:25:10Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.3460649,
-   "_lat": 51.204519700000006,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2047876,
-    "maxLon": 4.346285,
-    "minLat": 51.2042518,
-    "minLon": 4.3458448
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.342949,
+      51.2041225
+     ],
+     [
+      4.3429899,
+      51.2040963
+     ],
+     [
+      4.3430731,
+      51.2040114
+     ],
+     [
+      4.3430556,
+      51.2039501
+     ],
+     [
+      4.3431529,
+      51.2039376
+     ],
+     [
+      4.3435387,
+      51.2038775
+     ]
+    ]
    }
   },
   {
@@ -1285,9 +2908,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1301,15 +2924,6 @@
       51.2025931
      ]
     ]
-   },
-   "_lon": 4.3479715500000005,
-   "_lat": 51.2025552,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2025931,
-    "maxLon": 4.348007,
-    "minLat": 51.2025173,
-    "minLon": 4.3479361
    }
   },
   {
@@ -1331,9 +2945,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1351,15 +2965,48 @@
       51.2020502
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/951531324",
+   "properties": {
+    "highway": "path",
+    "id": "way/951531324",
+    "_lat": "51.20224845",
+    "_lon": "4.3476535",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "18.868890106546527",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 92.14613304271703,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105893621,
+    "_last_edit:timestamp": "2021-06-05T18:34:30Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.3457893,
-   "_lat": 51.20203215,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2020502,
-    "maxLon": 4.3458703,
-    "minLat": 51.2020141,
-    "minLon": 4.3457083
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3475229,
+      51.2022368
+     ],
+     [
+      4.3476677,
+      51.2022334
+     ],
+     [
+      4.3477841,
+      51.2022635
+     ]
+    ]
    }
   },
   {
@@ -1381,9 +3028,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1397,15 +3044,6 @@
       51.2027411
      ]
     ]
-   },
-   "_lon": 4.34652855,
-   "_lat": 51.2026343,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2027411,
-    "maxLon": 4.3468834,
-    "minLat": 51.2025275,
-    "minLon": 4.3461737
    }
   },
   {
@@ -1427,9 +3065,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1463,15 +3101,60 @@
       51.2028569
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/951531327",
+   "properties": {
+    "highway": "path",
+    "id": "way/951531327",
+    "_lat": "51.202576",
+    "_lon": "4.3458934",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "96.2907759513503",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 64.38706422063579,
+    "_last_edit:contributor": "wegspotter",
+    "_last_edit:contributor:uid": 428001,
+    "_last_edit:changeset": 105893621,
+    "_last_edit:timestamp": "2021-06-05T18:34:30Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.3462698500000005,
-   "_lat": 51.202735950000005,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2028569,
-    "maxLon": 4.3464285,
-    "minLat": 51.202615,
-    "minLon": 4.3461112
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3457469,
+      51.2023993
+     ],
+     [
+      4.3461737,
+      51.2025275
+     ],
+     [
+      4.3461112,
+      51.202615
+     ],
+     [
+      4.3460128,
+      51.2027527
+     ],
+     [
+      4.3456131,
+      51.2026519
+     ],
+     [
+      4.3456343,
+      51.2026009
+     ]
+    ]
    }
   },
   {
@@ -1493,9 +3176,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1541,15 +3224,6 @@
       51.203104
      ]
     ]
-   },
-   "_lon": 4.346576000000001,
-   "_lat": 51.202997249999996,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2032048,
-    "maxLon": 4.3468308,
-    "minLat": 51.2027897,
-    "minLon": 4.3463212
    }
   },
   {
@@ -1571,9 +3245,9 @@
     "_last_edit:changeset": 105893621,
     "_last_edit:timestamp": "2021-06-05T18:34:30Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1739,15 +3413,222 @@
       51.2020206
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/953562049",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "footway",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "surface": "gravel",
+    "width": "1",
+    "id": "way/953562049",
+    "_lat": "51.19389795",
+    "_lon": "4.3496091",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "107.20684088310823",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 156.09383286835018,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.34733565,
-   "_lat": 51.20264145,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2032623,
-    "maxLon": 4.3484348,
-    "minLat": 51.2020206,
-    "minLon": 4.3462365
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.349246,
+      51.19432
+     ],
+     [
+      4.3496462,
+      51.1937542
+     ],
+     [
+      4.3499722,
+      51.1934759
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/998513941",
+   "properties": {
+    "highway": "path",
+    "id": "way/998513941",
+    "_lat": "51.20000125",
+    "_lon": "4.32999805",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "58.39730989598245",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 47.89336116378672,
+    "_last_edit:contributor": "A127",
+    "_last_edit:contributor:uid": 9374269,
+    "_last_edit:changeset": 113298794,
+    "_last_edit:timestamp": "2021-11-02T19:18:08Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3296762,
+      51.1998456
+     ],
+     [
+      4.3302259,
+      51.2001569
+     ],
+     [
+      4.3303199,
+      51.2001414
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/24406446",
+   "properties": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "footway",
+    "lit": "no",
+    "mofa": "no",
+    "moped": "no",
+    "motor_vehicle": "no",
+    "surface": "unpaved",
+    "id": "way/24406446",
+    "_lat": "51.192739200000005",
+    "_lon": "4.34281265",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "503.63385068078236",
+    "_length:km": "0.5",
+    "_direction:centerpoint": -29.44966128904459,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 120240203,
+    "_last_edit:timestamp": "2022-04-27T05:40:34Z",
+    "_version_number": 11,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3447967,
+      51.191262
+     ],
+     [
+      4.3448233,
+      51.1913236
+     ],
+     [
+      4.344839,
+      51.19136
+     ],
+     [
+      4.3448213,
+      51.1915042
+     ],
+     [
+      4.3448648,
+      51.1916935
+     ],
+     [
+      4.3447532,
+      51.1918549
+     ],
+     [
+      4.3445756,
+      51.1919261
+     ],
+     [
+      4.3444302,
+      51.1920429
+     ],
+     [
+      4.3440307,
+      51.1923875
+     ],
+     [
+      4.3433334,
+      51.1924951
+     ],
+     [
+      4.3428398,
+      51.1925893
+     ],
+     [
+      4.3427004,
+      51.1926699
+     ],
+     [
+      4.3423248,
+      51.1930868
+     ],
+     [
+      4.3422605,
+      51.1933289
+     ],
+     [
+      4.3418742,
+      51.1936718
+     ],
+     [
+      4.3417669,
+      51.1937928
+     ],
+     [
+      4.3417669,
+      51.1939004
+     ],
+     [
+      4.3417777,
+      51.194055
+     ],
+     [
+      4.3417777,
+      51.1941693
+     ],
+     [
+      4.3415953,
+      51.1942164
+     ],
+     [
+      4.341091,
+      51.1941492
+     ],
+     [
+      4.3407605,
+      51.1941931
+     ]
+    ]
    }
   },
   {
@@ -1777,9 +3658,9 @@
     "_last_edit:changeset": 120240203,
     "_last_edit:timestamp": "2022-04-27T05:40:34Z",
     "_version_number": 5,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1801,10 +3682,7 @@
       51.1927624
      ]
     ]
-   },
-   "_lon": 4.3504068,
-   "_lat": 51.19311915,
-   "_is_patched": true
+   }
   },
   {
    "type": "Feature",
@@ -1833,9 +3711,9 @@
     "_last_edit:changeset": 120239960,
     "_last_edit:timestamp": "2022-04-27T05:32:34Z",
     "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -1913,15 +3791,6 @@
       51.1938857
      ]
     ]
-   },
-   "_lon": 4.3373206500000006,
-   "_lat": 51.1908557,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1938857,
-    "maxLon": 4.3401287,
-    "minLat": 51.1878257,
-    "minLon": 4.3345126
    }
   },
   {
@@ -1944,9 +3813,9 @@
     "_last_edit:changeset": 57040034,
     "_last_edit:timestamp": "2018-03-09T18:23:57Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -2040,15 +3909,6 @@
       51.1959806
      ]
     ]
-   },
-   "_lon": 4.3516479,
-   "_lat": 51.19595235,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1966161,
-    "maxLon": 4.3547414,
-    "minLat": 51.1952886,
-    "minLon": 4.3485544
    }
   },
   {
@@ -2070,9 +3930,9 @@
     "_last_edit:changeset": 79761149,
     "_last_edit:timestamp": "2020-01-19T17:51:14Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -2130,15 +3990,6 @@
       51.2048532
      ]
     ]
-   },
-   "_lon": 4.3513666,
-   "_lat": 51.20607875,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2073298,
-    "maxLon": 4.353075,
-    "minLat": 51.2048277,
-    "minLon": 4.3496582
    }
   },
   {
@@ -2168,9 +4019,9 @@
     "_last_edit:changeset": 120240203,
     "_last_edit:timestamp": "2022-04-27T05:40:34Z",
     "_version_number": 5,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -2192,10 +4043,7 @@
       51.1927624
      ]
     ]
-   },
-   "_lon": 4.3504068,
-   "_lat": 51.19311915,
-   "_is_patched": true
+   }
   }
  ]
 }

@@ -3,6 +3,656 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/781191613",
+   "properties": {
+    "highway": "footway",
+    "id": "way/781191613",
+    "_lat": "51.20692245",
+    "_lon": "4.4168427999999995",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "84.32490429591006",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 97.35438424320164,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82187147,
+    "_last_edit:timestamp": "2020-03-14T06:57:18Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4164677,
+      51.2067132
+     ],
+     [
+      4.4164939,
+      51.2067403
+     ],
+     [
+      4.4165128,
+      51.2067522
+     ],
+     [
+      4.4165339,
+      51.2067615
+     ],
+     [
+      4.4165986,
+      51.2067837
+     ],
+     [
+      4.4167157,
+      51.2068213
+     ],
+     [
+      4.4167619,
+      51.2068339
+     ],
+     [
+      4.4168113,
+      51.206844
+     ],
+     [
+      4.4168586,
+      51.2068497
+     ],
+     [
+      4.4168957,
+      51.2068467
+     ],
+     [
+      4.4169217,
+      51.206846
+     ],
+     [
+      4.4169542,
+      51.206846
+     ],
+     [
+      4.4169883,
+      51.2068496
+     ],
+     [
+      4.4170216,
+      51.206858
+     ],
+     [
+      4.4170485,
+      51.2068669
+     ],
+     [
+      4.4170694,
+      51.2068786
+     ],
+     [
+      4.4170888,
+      51.2068935
+     ],
+     [
+      4.4171074,
+      51.206911
+     ],
+     [
+      4.417127,
+      51.2069265
+     ],
+     [
+      4.4171501,
+      51.2069429
+     ],
+     [
+      4.4171794,
+      51.2069564
+     ],
+     [
+      4.4172179,
+      51.2069729
+     ],
+     [
+      4.4170346,
+      51.2071317
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "relation/11003003",
+   "properties": {
+    "area": "yes",
+    "highway": "pedestrian",
+    "name": "Dageraadplaats",
+    "type": "multipolygon",
+    "id": "relation/11003003",
+    "_lat": "51.207200799999995",
+    "_lon": "4.4302347",
+    "_layer": "slow_roads",
+    "_surface": "3465.506451484046",
+    "_surface:ha": "0.3",
+    "_length": "543.1184083489727",
+    "_length:km": "0.5",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 83634316,
+    "_last_edit:timestamp": "2020-04-16T08:15:55Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4295831,
+       51.2070083
+      ],
+      [
+       4.4302885,
+       51.2067507
+      ],
+      [
+       4.4306966,
+       51.2071894
+      ],
+      [
+       4.4308863,
+       51.2073933
+      ],
+      [
+       4.4305436,
+       51.2075184
+      ],
+      [
+       4.4301807,
+       51.2076509
+      ],
+      [
+       4.4299919,
+       51.2074479
+      ],
+      [
+       4.4296716,
+       51.2071035
+      ],
+      [
+       4.4295831,
+       51.2070083
+      ]
+     ],
+     [
+      [
+       4.4302559,
+       51.2075683
+      ],
+      [
+       4.4307614,
+       51.2073862
+      ],
+      [
+       4.43067,
+       51.2072866
+      ],
+      [
+       4.4301645,
+       51.2074687
+      ],
+      [
+       4.4302559,
+       51.2075683
+      ]
+     ],
+     [
+      [
+       4.4302769,
+       51.2073791
+      ],
+      [
+       4.4304645,
+       51.2073104
+      ],
+      [
+       4.430262,
+       51.2070936
+      ],
+      [
+       4.4300744,
+       51.2071624
+      ],
+      [
+       4.4302769,
+       51.2073791
+      ]
+     ],
+     [
+      [
+       4.4299101,
+       51.2070338
+      ],
+      [
+       4.4300136,
+       51.2071476
+      ],
+      [
+       4.4302749,
+       51.2070543
+      ],
+      [
+       4.4301714,
+       51.2069406
+      ],
+      [
+       4.4299101,
+       51.2070338
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/210459403",
+   "properties": {
+    "bicycle": "yes",
+    "highway": "pedestrian",
+    "lit": "yes",
+    "name": "Dageraadplaats",
+    "surface": "sett",
+    "id": "way/210459403",
+    "_lat": "51.207184299999994",
+    "_lon": "4.43022055",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "230.60308408144823",
+    "_length:km": "0.2",
+    "_direction:centerpoint": 30.233887660097665,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 136139274,
+    "_last_edit:timestamp": "2023-05-15T18:47:27Z",
+    "_version_number": 14,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4302588,
+      51.2067177
+     ],
+     [
+      4.4302695,
+      51.2067296
+     ],
+     [
+      4.4302885,
+      51.2067507
+     ],
+     [
+      4.4306966,
+      51.2071894
+     ],
+     [
+      4.4308863,
+      51.2073933
+     ],
+     [
+      4.4305436,
+      51.2075184
+     ],
+     [
+      4.4301807,
+      51.2076509
+     ],
+     [
+      4.4299919,
+      51.2074479
+     ],
+     [
+      4.4296716,
+      51.2071035
+     ],
+     [
+      4.4295831,
+      51.2070083
+     ],
+     [
+      4.4295773,
+      51.2070016
+     ],
+     [
+      4.4295677,
+      51.2069908
+     ],
+     [
+      4.4295548,
+      51.206976
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781191613",
+   "properties": {
+    "highway": "footway",
+    "id": "way/781191613",
+    "_lat": "51.20692245",
+    "_lon": "4.4168427999999995",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "84.32490429591006",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 97.35438424320164,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82187147,
+    "_last_edit:timestamp": "2020-03-14T06:57:18Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4164677,
+      51.2067132
+     ],
+     [
+      4.4164939,
+      51.2067403
+     ],
+     [
+      4.4165128,
+      51.2067522
+     ],
+     [
+      4.4165339,
+      51.2067615
+     ],
+     [
+      4.4165986,
+      51.2067837
+     ],
+     [
+      4.4167157,
+      51.2068213
+     ],
+     [
+      4.4167619,
+      51.2068339
+     ],
+     [
+      4.4168113,
+      51.206844
+     ],
+     [
+      4.4168586,
+      51.2068497
+     ],
+     [
+      4.4168957,
+      51.2068467
+     ],
+     [
+      4.4169217,
+      51.206846
+     ],
+     [
+      4.4169542,
+      51.206846
+     ],
+     [
+      4.4169883,
+      51.2068496
+     ],
+     [
+      4.4170216,
+      51.206858
+     ],
+     [
+      4.4170485,
+      51.2068669
+     ],
+     [
+      4.4170694,
+      51.2068786
+     ],
+     [
+      4.4170888,
+      51.2068935
+     ],
+     [
+      4.4171074,
+      51.206911
+     ],
+     [
+      4.417127,
+      51.2069265
+     ],
+     [
+      4.4171501,
+      51.2069429
+     ],
+     [
+      4.4171794,
+      51.2069564
+     ],
+     [
+      4.4172179,
+      51.2069729
+     ],
+     [
+      4.4170346,
+      51.2071317
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781191614",
+   "properties": {
+    "highway": "footway",
+    "id": "way/781191614",
+    "_lat": "51.206905500000005",
+    "_lon": "4.41671675",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "19.55061037845153",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 28.607123142502402,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82187147,
+    "_last_edit:timestamp": "2020-03-14T06:57:18Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4167157,
+      51.2068213
+     ],
+     [
+      4.4167235,
+      51.2068389
+     ],
+     [
+      4.4167241,
+      51.2068511
+     ],
+     [
+      4.4167168,
+      51.2068612
+     ],
+     [
+      4.4167054,
+      51.2068767
+     ],
+     [
+      4.416702,
+      51.2068902
+     ],
+     [
+      4.4167047,
+      51.2069002
+     ],
+     [
+      4.4167168,
+      51.2069141
+     ],
+     [
+      4.4167275,
+      51.2069276
+     ],
+     [
+      4.4167315,
+      51.2069393
+     ],
+     [
+      4.4167315,
+      51.2069528
+     ],
+     [
+      4.4167268,
+      51.2069897
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781191615",
+   "properties": {
+    "highway": "footway",
+    "id": "way/781191615",
+    "_lat": "51.20689605",
+    "_lon": "4.4167515999999996",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "11.369089218690698",
+    "_length:km": "0.0",
+    "_direction:centerpoint": 17.125094559298372,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82187147,
+    "_last_edit:timestamp": "2020-03-14T06:57:18Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4167241,
+      51.2068511
+     ],
+     [
+      4.4167355,
+      51.2068545
+     ],
+     [
+      4.4167496,
+      51.2068629
+     ],
+     [
+      4.416761,
+      51.2068738
+     ],
+     [
+      4.4167691,
+      51.2068847
+     ],
+     [
+      4.4167751,
+      51.2068969
+     ],
+     [
+      4.4167791,
+      51.2069116
+     ],
+     [
+      4.4167778,
+      51.206941
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/493690463",
+   "properties": {
+    "highway": "footway",
+    "surface": "paved",
+    "id": "way/493690463",
+    "_lat": "51.20708585",
+    "_lon": "4.4605035",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "55.541017777109474",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 21.80732904822675,
+    "_last_edit:contributor": "carlo_derwig",
+    "_last_edit:contributor:uid": 5921694,
+    "_last_edit:changeset": 48701322,
+    "_last_edit:timestamp": "2017-05-15T13:10:05Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4603377,
+      51.206879
+     ],
+     [
+      4.4605102,
+      51.2071491
+     ],
+     [
+      4.4605672,
+      51.207135
+     ],
+     [
+      4.4606693,
+      51.2072927
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/493690474",
    "properties": {
     "highway": "footway",
@@ -21,9 +671,9 @@
     "_last_edit:changeset": 82772282,
     "_last_edit:timestamp": "2020-03-29T08:57:17Z",
     "_version_number": 4,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_part_of_walking_routes": ""
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -125,10 +775,7 @@
       51.2062449
      ]
     ]
-   },
-   "_lon": 4.459424350000001,
-   "_lat": 51.2066452,
-   "_is_patched": true
+   }
   },
   {
    "type": "Feature",
@@ -149,9 +796,10 @@
     "_last_edit:changeset": 82015736,
     "_last_edit:timestamp": "2020-03-10T16:22:37Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
-    "_part_of_walking_routes": ""
+    "_is_shadowed": "yes"
    },
    "geometry": {
     "type": "LineString",
@@ -189,10 +837,56 @@
       51.2073769
      ]
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/926142962",
+   "properties": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "surface": "paved",
+    "id": "way/926142962",
+    "_lat": "51.207054049999996",
+    "_lon": "4.4596613000000005",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "102.02191249813485",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -67.58834030460855,
+    "_last_edit:contributor": "sh85",
+    "_last_edit:contributor:uid": 1721850,
+    "_last_edit:changeset": 102315569,
+    "_last_edit:timestamp": "2021-04-05T08:42:45Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.44707775,
-   "_lat": 51.207126099999996,
-   "_is_patched": true
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4603377,
+      51.206879
+     ],
+     [
+      4.4602846,
+      51.2068992
+     ],
+     [
+      4.4596955,
+      51.2070455
+     ],
+     [
+      4.4589849,
+      51.2072291
+     ]
+    ]
+   }
   }
  ]
 }

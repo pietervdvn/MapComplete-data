@@ -3,44 +3,3455 @@
  "features": [
   {
    "type": "Feature",
-   "id": "node/8708939326",
+   "id": "way/448452349",
    "properties": {
-    "access": "yes",
+    "leisure": "pitch",
+    "id": "way/448452349",
+    "_lat": "51.1946565",
+    "_lon": "4.4256335",
+    "_layer": "sport_pitch",
+    "_surface": "337.84524479190543",
+    "_surface:ha": "0",
+    "_length": "77.52260552143623",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "joost schouppe",
+    "_last_edit:contributor:uid": 67832,
+    "_last_edit:changeset": 43002189,
+    "_last_edit:timestamp": "2016-10-19T07:58:12Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4254888,
+       51.1947488
+      ],
+      [
+       4.4254295,
+       51.1946363
+      ],
+      [
+       4.4257782,
+       51.1945642
+      ],
+      [
+       4.4258375,
+       51.1946767
+      ],
+      [
+       4.4254888,
+       51.1947488
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/489752979",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "basketball",
+    "surface": "asphalt",
+    "id": "way/489752979",
+    "_lat": "51.1949295",
+    "_lon": "4.41713425",
+    "_layer": "sport_pitch",
+    "_surface": "359.86534913363204",
+    "_surface:ha": "0",
+    "_length": "79.81419520748936",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 114142661,
+    "_last_edit:timestamp": "2021-11-23T14:16:40Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4171497,
+       51.1950621
+      ],
+      [
+       4.4169516,
+       51.1948618
+      ],
+      [
+       4.4171187,
+       51.1947969
+      ],
+      [
+       4.4173169,
+       51.1949972
+      ],
+      [
+       4.4171497,
+       51.1950621
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/776278514",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "boules",
+    "surface": "fine_gravel",
+    "id": "way/776278514",
+    "_lat": "51.20222255",
+    "_lon": "4.42264925",
+    "_layer": "sport_pitch",
+    "_surface": "125.59659130633523",
+    "_surface:ha": "0",
+    "_length": "47.7409386925268",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 113526700,
+    "_last_edit:timestamp": "2021-11-08T15:12:48Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.422637,
+       51.2023025
+      ],
+      [
+       4.4225566,
+       51.202167
+      ],
+      [
+       4.4226615,
+       51.2021426
+      ],
+      [
+       4.4227419,
+       51.2022781
+      ],
+      [
+       4.422637,
+       51.2023025
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/776278525",
+   "properties": {
+    "leisure": "pitch",
+    "id": "way/776278525",
+    "_lat": "51.20470335",
+    "_lon": "4.4231909",
+    "_layer": "sport_pitch",
+    "_surface": "249.52121855183736",
+    "_surface:ha": "0",
+    "_length": "68.26109878289371",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82754091,
+    "_last_edit:timestamp": "2020-03-28T13:56:08Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4231639,
+       51.2048169
+      ],
+      [
+       4.4230736,
+       51.2046143
+      ],
+      [
+       4.4232255,
+       51.2045898
+      ],
+      [
+       4.4232923,
+       51.2047584
+      ],
+      [
+       4.4233082,
+       51.2047958
+      ],
+      [
+       4.4231639,
+       51.2048169
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/178176712",
+   "properties": {
     "leisure": "pitch",
     "lit": "no",
     "sport": "soccer",
     "surface": "grass",
-    "id": "node/8708939326",
-    "_lat": "51.189184",
-    "_lon": "4.4434778",
+    "id": "way/178176712",
+    "_lat": "51.18706775",
+    "_lon": "4.43798215",
+    "_layer": "sport_pitch",
+    "_surface": "6821.083500486787",
+    "_surface:ha": "0.6",
+    "_length": "340.1168592135629",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 119862871,
+    "_last_edit:timestamp": "2022-04-18T14:42:47Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4370949,
+       51.1870521
+      ],
+      [
+       4.4384103,
+       51.1865804
+      ],
+      [
+       4.4388694,
+       51.1870834
+      ],
+      [
+       4.4375539,
+       51.1875551
+      ],
+      [
+       4.4370949,
+       51.1870521
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/178176713",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "soccer",
+    "surface": "grass",
+    "id": "way/178176713",
+    "_lat": "51.18625645",
+    "_lon": "4.437627",
+    "_layer": "sport_pitch",
+    "_surface": "6002.56534085111",
+    "_surface:ha": "0.6",
+    "_length": "324.406858147855",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 119862871,
+    "_last_edit:timestamp": "2022-04-18T14:42:45Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4367685,
+       51.1862704
+      ],
+      [
+       4.4380798,
+       51.185799
+      ],
+      [
+       4.4384855,
+       51.1862425
+      ],
+      [
+       4.4371742,
+       51.1867139
+      ],
+      [
+       4.4367685,
+       51.1862704
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/178176716",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "soccer",
+    "surface": "grass",
+    "id": "way/178176716",
+    "_lat": "51.185709",
+    "_lon": "4.43879395",
+    "_layer": "sport_pitch",
+    "_surface": "7070.667353687577",
+    "_surface:ha": "0.7",
+    "_length": "344.0364890767894",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 119862871,
+    "_last_edit:timestamp": "2022-04-18T14:42:40Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4380048,
+       51.1854476
+      ],
+      [
+       4.4388494,
+       51.1851506
+      ],
+      [
+       4.4395831,
+       51.1859704
+      ],
+      [
+       4.4387385,
+       51.1862674
+      ],
+      [
+       4.4380048,
+       51.1854476
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553558",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/680553558",
+    "_lat": "51.18589335",
+    "_lon": "4.4368917",
+    "_layer": "sport_pitch",
+    "_surface": "266.73279511880946",
+    "_surface:ha": "0",
+    "_length": "70.27793048080015",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "CommCody",
+    "_last_edit:contributor:uid": 9580682,
+    "_last_edit:changeset": 68698185,
+    "_last_edit:timestamp": "2019-03-30T13:48:16Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4367677,
+       51.1859837
+      ],
+      [
+       4.4368634,
+       51.1857755
+      ],
+      [
+       4.4370157,
+       51.185803
+      ],
+      [
+       4.43692,
+       51.1860112
+      ],
+      [
+       4.4367677,
+       51.1859837
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553559",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/680553559",
+    "_lat": "51.185936",
+    "_lon": "4.4371191",
+    "_layer": "sport_pitch",
+    "_surface": "270.0044300990619",
+    "_surface:ha": "0",
+    "_length": "70.41920743825857",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "CommCody",
+    "_last_edit:contributor:uid": 9580682,
+    "_last_edit:changeset": 68698185,
+    "_last_edit:timestamp": "2019-03-30T13:48:16Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4369945,
+       51.1860259
+      ],
+      [
+       4.4370886,
+       51.1858185
+      ],
+      [
+       4.4372437,
+       51.1858462
+      ],
+      [
+       4.4371496,
+       51.1860535
+      ],
+      [
+       4.4369945,
+       51.1860259
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553560",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "squash;padel",
+    "id": "way/680553560",
+    "_lat": "51.18565705",
+    "_lon": "4.43720715",
+    "_layer": "sport_pitch",
+    "_surface": "87.74248505946828",
+    "_surface:ha": "0",
+    "_length": "37.452248139277124",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "kjon",
+    "_last_edit:contributor:uid": 44217,
+    "_last_edit:changeset": 102266296,
+    "_last_edit:timestamp": "2021-04-04T11:17:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4371233,
+       51.1856851
+      ],
+      [
+       4.4371563,
+       51.1856067
+      ],
+      [
+       4.437291,
+       51.185629
+      ],
+      [
+       4.437258,
+       51.1857074
+      ],
+      [
+       4.4371233,
+       51.1856851
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553561",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "squash;padel",
+    "id": "way/680553561",
+    "_lat": "51.185574450000004",
+    "_lon": "4.4372461",
+    "_layer": "sport_pitch",
+    "_surface": "87.78175078572828",
+    "_surface:ha": "0",
+    "_length": "37.460802073802114",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "kjon",
+    "_last_edit:contributor:uid": 44217,
+    "_last_edit:changeset": 102266296,
+    "_last_edit:timestamp": "2021-04-04T11:17:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4371622,
+       51.1856025
+      ],
+      [
+       4.4371952,
+       51.1855241
+      ],
+      [
+       4.43733,
+       51.1855464
+      ],
+      [
+       4.4372969,
+       51.1856248
+      ],
+      [
+       4.4371622,
+       51.1856025
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553562",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "squash;padel",
+    "id": "way/680553562",
+    "_lat": "51.1856301",
+    "_lon": "4.4370356",
+    "_layer": "sport_pitch",
+    "_surface": "87.88630935357158",
+    "_surface:ha": "0",
+    "_length": "37.482280703250964",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "kjon",
+    "_last_edit:contributor:uid": 44217,
+    "_last_edit:changeset": 102266296,
+    "_last_edit:timestamp": "2021-04-04T11:17:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4369517,
+       51.1856582
+      ],
+      [
+       4.4369848,
+       51.1855797
+      ],
+      [
+       4.4371195,
+       51.185602
+      ],
+      [
+       4.4370865,
+       51.1856805
+      ],
+      [
+       4.4369517,
+       51.1856582
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553563",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "squash;padel",
+    "id": "way/680553563",
+    "_lat": "51.1855435",
+    "_lon": "4.4370768",
+    "_layer": "sport_pitch",
+    "_surface": "87.88647448628628",
+    "_surface:ha": "0",
+    "_length": "37.4823170458464",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "kjon",
+    "_last_edit:contributor:uid": 44217,
+    "_last_edit:changeset": 102266296,
+    "_last_edit:timestamp": "2021-04-04T11:17:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4369929,
+       51.1855716
+      ],
+      [
+       4.4370259,
+       51.1854931
+      ],
+      [
+       4.4371607,
+       51.1855154
+      ],
+      [
+       4.4371276,
+       51.1855939
+      ],
+      [
+       4.4369929,
+       51.1855716
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553564",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "squash;padel",
+    "id": "way/680553564",
+    "_lat": "51.185596849999996",
+    "_lon": "4.4368709",
+    "_layer": "sport_pitch",
+    "_surface": "87.78170811400652",
+    "_surface:ha": "0",
+    "_length": "37.46079266506092",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "kjon",
+    "_last_edit:contributor:uid": 44217,
+    "_last_edit:changeset": 102266296,
+    "_last_edit:timestamp": "2021-04-04T11:17:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.436787,
+       51.1856249
+      ],
+      [
+       4.4368201,
+       51.1855465
+      ],
+      [
+       4.4369548,
+       51.1855688
+      ],
+      [
+       4.4369218,
+       51.1856472
+      ],
+      [
+       4.436787,
+       51.1856249
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553565",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "squash;padel",
+    "id": "way/680553565",
+    "_lat": "51.18550965",
+    "_lon": "4.4369103",
+    "_layer": "sport_pitch",
+    "_surface": "87.78187421477102",
+    "_surface:ha": "0",
+    "_length": "37.46082926183687",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "kjon",
+    "_last_edit:contributor:uid": 44217,
+    "_last_edit:changeset": 102266296,
+    "_last_edit:timestamp": "2021-04-04T11:17:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4368264,
+       51.1855377
+      ],
+      [
+       4.4368594,
+       51.1854593
+      ],
+      [
+       4.4369942,
+       51.1854816
+      ],
+      [
+       4.4369611,
+       51.18556
+      ],
+      [
+       4.4368264,
+       51.1855377
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553566",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "korfball",
+    "id": "way/680553566",
+    "_lat": "51.18500055",
+    "_lon": "4.4372465000000005",
+    "_layer": "sport_pitch",
+    "_surface": "811.6282653195628",
+    "_surface:ha": "0",
+    "_length": "120.77303278894783",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "kjon",
+    "_last_edit:contributor:uid": 44217,
+    "_last_edit:changeset": 102266296,
+    "_last_edit:timestamp": "2021-04-04T11:17:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4370614,
+       51.1851665
+      ],
+      [
+       4.4371463,
+       51.1848081
+      ],
+      [
+       4.4374316,
+       51.1848347
+      ],
+      [
+       4.4373467,
+       51.185193
+      ],
+      [
+       4.4370614,
+       51.1851665
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680553567",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "korfball",
+    "id": "way/680553567",
+    "_lat": "51.18465995",
+    "_lon": "4.4372048",
+    "_layer": "sport_pitch",
+    "_surface": "811.6757026805391",
+    "_surface:ha": "0",
+    "_length": "120.7711836762065",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "kjon",
+    "_last_edit:contributor:uid": 44217,
+    "_last_edit:changeset": 102266296,
+    "_last_edit:timestamp": "2021-04-04T11:17:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4369878,
+       51.18451
+      ],
+      [
+       4.4375264,
+       51.1846414
+      ],
+      [
+       4.4374217,
+       51.1848099
+      ],
+      [
+       4.4368832,
+       51.1846785
+      ],
+      [
+       4.4369878,
+       51.18451
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680667878",
+   "properties": {
+    "hoops": "2",
+    "leisure": "pitch",
+    "sport": "basketball",
+    "id": "way/680667878",
+    "_lat": "51.187371299999995",
+    "_lon": "4.4371738",
+    "_layer": "sport_pitch",
+    "_surface": "686.7442912970578",
+    "_surface:ha": "0",
+    "_length": "103.72006136221799",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "stijnh",
+    "_last_edit:contributor:uid": 14414954,
+    "_last_edit:changeset": 117082748,
+    "_last_edit:timestamp": "2022-02-06T15:13:45Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4369393,
+       51.1872868
+      ],
+      [
+       4.4371727,
+       51.1872021
+      ],
+      [
+       4.4374083,
+       51.187461
+      ],
+      [
+       4.4372027,
+       51.1875405
+      ],
+      [
+       4.4371765,
+       51.1875308
+      ],
+      [
+       4.4371118,
+       51.1874994
+      ],
+      [
+       4.4370602,
+       51.1874683
+      ],
+      [
+       4.437016,
+       51.1874299
+      ],
+      [
+       4.4369838,
+       51.1873869
+      ],
+      [
+       4.4369566,
+       51.1873398
+      ],
+      [
+       4.4369393,
+       51.1872868
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/775468366",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "no",
+    "outdoor": "yes",
+    "sport": "table_tennis",
+    "id": "way/775468366",
+    "_lat": "51.1917067",
+    "_lon": "4.4288048",
+    "_layer": "sport_pitch",
+    "_surface": "29.684781259831695",
+    "_surface:ha": "0",
+    "_length": "23.247078896369306",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 114030988,
+    "_last_edit:timestamp": "2021-11-20T15:22:24Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4287429,
+       51.1917012
+      ],
+      [
+       4.428773,
+       51.191673
+      ],
+      [
+       4.4288667,
+       51.1917122
+      ],
+      [
+       4.4288366,
+       51.1917404
+      ],
+      [
+       4.4287429,
+       51.1917012
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781380794",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/781380794",
+    "_lat": "51.17986945",
+    "_lon": "4.4316506",
+    "_layer": "sport_pitch",
+    "_surface": "193.4422307658911",
+    "_surface:ha": "0",
+    "_length": "63.40287261194598",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82202610,
+    "_last_edit:timestamp": "2020-03-14T20:03:29Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4317335,
+       51.1799691
+      ],
+      [
+       4.4314882,
+       51.1798268
+      ],
+      [
+       4.4315678,
+       51.1797698
+      ],
+      [
+       4.431813,
+       51.1799169
+      ],
+      [
+       4.4317335,
+       51.1799691
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781380795",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/781380795",
+    "_lat": "51.1799734",
+    "_lon": "4.43132215",
+    "_layer": "sport_pitch",
+    "_surface": "248.2863057511896",
+    "_surface:ha": "0",
+    "_length": "67.85158200432502",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82202610,
+    "_last_edit:timestamp": "2020-03-14T20:03:29Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4313798,
+       51.1798641
+      ],
+      [
+       4.4314917,
+       51.1799292
+      ],
+      [
+       4.4312645,
+       51.1800827
+      ],
+      [
+       4.4311526,
+       51.1800177
+      ],
+      [
+       4.4313798,
+       51.1798641
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781380796",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/781380796",
+    "_lat": "51.1800599",
+    "_lon": "4.431465299999999",
+    "_layer": "sport_pitch",
+    "_surface": "248.37074688182628",
+    "_surface:ha": "0",
+    "_length": "67.86137220382562",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82202610,
+    "_last_edit:timestamp": "2020-03-14T20:03:29Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4315229,
+       51.1799506
+      ],
+      [
+       4.4316349,
+       51.1800157
+      ],
+      [
+       4.4314076,
+       51.1801692
+      ],
+      [
+       4.4312957,
+       51.1801042
+      ],
+      [
+       4.4315229,
+       51.1799506
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781380797",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/781380797",
+    "_lat": "51.180148450000004",
+    "_lon": "4.431618200000001",
+    "_layer": "sport_pitch",
+    "_surface": "248.5020190792131",
+    "_surface:ha": "0",
+    "_length": "67.87702050876236",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82202610,
+    "_last_edit:timestamp": "2020-03-14T20:03:29Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4316758,
+       51.1800391
+      ],
+      [
+       4.4317878,
+       51.1801042
+      ],
+      [
+       4.4315605,
+       51.1802578
+      ],
+      [
+       4.4314486,
+       51.1801927
+      ],
+      [
+       4.4316758,
+       51.1800391
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781380798",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/781380798",
+    "_lat": "51.180176849999995",
+    "_lon": "4.430923699999999",
+    "_layer": "sport_pitch",
+    "_surface": "248.50186600458713",
+    "_surface:ha": "0",
+    "_length": "67.87700018781327",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82202610,
+    "_last_edit:timestamp": "2020-03-14T20:03:29Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4309813,
+       51.1800675
+      ],
+      [
+       4.4310933,
+       51.1801326
+      ],
+      [
+       4.430866,
+       51.1802862
+      ],
+      [
+       4.4307541,
+       51.1802211
+      ],
+      [
+       4.4309813,
+       51.1800675
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781380799",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/781380799",
+    "_lat": "51.180265399999996",
+    "_lon": "4.43108435",
+    "_layer": "sport_pitch",
+    "_surface": "248.2847330869733",
+    "_surface:ha": "0",
+    "_length": "67.85137311564185",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82202610,
+    "_last_edit:timestamp": "2020-03-14T20:03:29Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.431142,
+       51.1801561
+      ],
+      [
+       4.4312539,
+       51.1802212
+      ],
+      [
+       4.4310267,
+       51.1803747
+      ],
+      [
+       4.4309148,
+       51.1803097
+      ],
+      [
+       4.431142,
+       51.1801561
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781380800",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/781380800",
+    "_lat": "51.180358",
+    "_lon": "4.43123465",
+    "_layer": "sport_pitch",
+    "_surface": "248.28423437010895",
+    "_surface:ha": "0",
+    "_length": "67.85130687071313",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82202610,
+    "_last_edit:timestamp": "2020-03-14T20:03:29Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4312923,
+       51.1802487
+      ],
+      [
+       4.4314042,
+       51.1803138
+      ],
+      [
+       4.431177,
+       51.1804673
+      ],
+      [
+       4.4310651,
+       51.1804023
+      ],
+      [
+       4.4312923,
+       51.1802487
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/781380801",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/781380801",
+    "_lat": "51.18044085",
+    "_lon": "4.43138625",
+    "_layer": "sport_pitch",
+    "_surface": "248.41549773767548",
+    "_surface:ha": "0",
+    "_length": "67.86696099165576",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82202610,
+    "_last_edit:timestamp": "2020-03-14T20:03:29Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4314439,
+       51.1803315
+      ],
+      [
+       4.4315558,
+       51.1803966
+      ],
+      [
+       4.4313286,
+       51.1805502
+      ],
+      [
+       4.4312167,
+       51.1804851
+      ],
+      [
+       4.4314439,
+       51.1803315
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/948081510",
+   "properties": {
+    "access": "private",
+    "hoops": "2",
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "basketball",
+    "surface": "paved",
+    "id": "way/948081510",
+    "_lat": "51.187473999999995",
+    "_lon": "4.4364547000000005",
+    "_layer": "sport_pitch",
+    "_surface": "150.95186715214925",
+    "_surface:ha": "0",
+    "_length": "56.27825659024788",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Michel Stuyts",
+    "_last_edit:contributor:uid": 62284,
+    "_last_edit:changeset": 105477450,
+    "_last_edit:timestamp": "2021-05-28T09:07:06Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4363935,
+       51.1875664
+      ],
+      [
+       4.4364012,
+       51.1874971
+      ],
+      [
+       4.4364142,
+       51.1873789
+      ],
+      [
+       4.4365159,
+       51.1873807
+      ],
+      [
+       4.4364982,
+       51.1875691
+      ],
+      [
+       4.4363935,
+       51.1875664
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/44847205",
+   "properties": {
+    "leisure": "pitch",
+    "name": "Koninklijke Borgerhoutse Base & Softballclub Squirrels",
+    "sport": "baseball",
+    "id": "way/44847205",
+    "_lat": "51.19401895",
+    "_lon": "4.4523359",
+    "_layer": "sport_pitch",
+    "_surface": "10035.662347761026",
+    "_surface:ha": "1",
+    "_length": "379.8285157679065",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82968465,
+    "_last_edit:timestamp": "2020-04-02T09:23:15Z",
+    "_version_number": 5,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.451688,
+       51.1943466
+      ],
+      [
+       4.4514648,
+       51.1937666
+      ],
+      [
+       4.4514834,
+       51.1937103
+      ],
+      [
+       4.4515272,
+       51.1936515
+      ],
+      [
+       4.4516424,
+       51.193624
+      ],
+      [
+       4.4517654,
+       51.193594
+      ],
+      [
+       4.4523907,
+       51.1934749
+      ],
+      [
+       4.4528525,
+       51.1936139
+      ],
+      [
+       4.453207,
+       51.1942224
+      ],
+      [
+       4.4521701,
+       51.1945231
+      ],
+      [
+       4.4521088,
+       51.1945409
+      ],
+      [
+       4.4520284,
+       51.1945568
+      ],
+      [
+       4.451944,
+       51.194563
+      ],
+      [
+       4.4518737,
+       51.1945538
+      ],
+      [
+       4.4518239,
+       51.1945397
+      ],
+      [
+       4.4517832,
+       51.1945158
+      ],
+      [
+       4.4517539,
+       51.1944773
+      ],
+      [
+       4.4517265,
+       51.1944319
+      ],
+      [
+       4.451688,
+       51.1943466
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/44847208",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "id": "way/44847208",
+    "_lat": "51.19400165",
+    "_lon": "4.45539555",
+    "_layer": "sport_pitch",
+    "_surface": "5956.0517584301415",
+    "_surface:ha": "0.5",
+    "_length": "318.1584647022817",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 71021569,
+    "_last_edit:timestamp": "2019-06-07T12:13:48Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4546657,
+       51.1937535
+      ],
+      [
+       4.4554074,
+       51.1934803
+      ],
+      [
+       4.4561254,
+       51.1942501
+      ],
+      [
+       4.4553835,
+       51.194523
+      ],
+      [
+       4.4546657,
+       51.1937535
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/44847209",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "baseball",
+    "id": "way/44847209",
+    "_lat": "51.193677199999996",
+    "_lon": "4.45652595",
+    "_layer": "sport_pitch",
+    "_surface": "9413.214833336966",
+    "_surface:ha": "0.9",
+    "_length": "370.46419624319316",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 71023658,
+    "_last_edit:timestamp": "2019-06-07T13:21:33Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4556314,
+       51.1935587
+      ],
+      [
+       4.4561782,
+       51.193137
+      ],
+      [
+       4.4562194,
+       51.1931134
+      ],
+      [
+       4.456265,
+       51.1931062
+      ],
+      [
+       4.4563139,
+       51.1931094
+      ],
+      [
+       4.4563687,
+       51.1931232
+      ],
+      [
+       4.4571415,
+       51.1933399
+      ],
+      [
+       4.4571803,
+       51.1934235
+      ],
+      [
+       4.4573533,
+       51.1935475
+      ],
+      [
+       4.4573914,
+       51.1935851
+      ],
+      [
+       4.4574137,
+       51.1936295
+      ],
+      [
+       4.4574205,
+       51.1936744
+      ],
+      [
+       4.4574047,
+       51.1937294
+      ],
+      [
+       4.4573598,
+       51.1937731
+      ],
+      [
+       4.4571786,
+       51.1938792
+      ],
+      [
+       4.4567864,
+       51.1940508
+      ],
+      [
+       4.4562786,
+       51.1942482
+      ],
+      [
+       4.4556314,
+       51.1935587
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/44847213",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/44847213",
+    "_lat": "51.19473055",
+    "_lon": "4.4546748",
+    "_layer": "sport_pitch",
+    "_surface": "374.3587818544176",
+    "_surface:ha": "0",
+    "_length": "81.1244746338123",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82967495,
+    "_last_edit:timestamp": "2020-04-02T09:08:25Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4544933,
+       51.1946583
+      ],
+      [
+       4.4546699,
+       51.1945958
+      ],
+      [
+       4.4548563,
+       51.1948028
+      ],
+      [
+       4.4546797,
+       51.1948653
+      ],
+      [
+       4.4544933,
+       51.1946583
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/44858852",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/44858852",
+    "_lat": "51.196290450000006",
+    "_lon": "4.4580172000000005",
+    "_layer": "sport_pitch",
+    "_surface": "328.6016162655195",
+    "_surface:ha": "0",
+    "_length": "77.75511881474296",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82711202,
+    "_last_edit:timestamp": "2020-03-27T11:08:37Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4578936,
+       51.1963968
+      ],
+      [
+       4.4578078,
+       51.1962995
+      ],
+      [
+       4.4581407,
+       51.1961841
+      ],
+      [
+       4.4582266,
+       51.1962815
+      ],
+      [
+       4.4578936,
+       51.1963968
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/44858853",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/44858853",
+    "_lat": "51.19608615",
+    "_lon": "4.457739549999999",
+    "_layer": "sport_pitch",
+    "_surface": "439.4726014157083",
+    "_surface:ha": "0",
+    "_length": "88.98007284377303",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82711202,
+    "_last_edit:timestamp": "2020-03-27T11:08:37Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4575436,
+       51.1960013
+      ],
+      [
+       4.4577286,
+       51.195937
+      ],
+      [
+       4.4579355,
+       51.1961711
+      ],
+      [
+       4.4577505,
+       51.1962353
+      ],
+      [
+       4.4575436,
+       51.1960013
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/147562734",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "id": "way/147562734",
+    "_lat": "51.1938433",
+    "_lon": "4.4538232",
+    "_layer": "sport_pitch",
+    "_surface": "5869.814718326264",
+    "_surface:ha": "0.5",
+    "_length": "318.3614738332187",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 10514973,
+    "_last_edit:timestamp": "2012-01-27T18:27:32Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4529973,
+       51.193756
+      ],
+      [
+       4.4543649,
+       51.193443
+      ],
+      [
+       4.4546491,
+       51.1939307
+      ],
+      [
+       4.4532816,
+       51.1942436
+      ],
+      [
+       4.4529973,
+       51.193756
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/147562736",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "id": "way/147562736",
+    "_lat": "51.1934166",
+    "_lon": "4.4549199999999995",
+    "_layer": "sport_pitch",
+    "_surface": "1450.9087642065633",
+    "_surface:ha": "0.1",
+    "_length": "173.4691381002587",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 10514973,
+    "_last_edit:timestamp": "2012-01-27T18:27:32Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4544319,
+       51.1934176
+      ],
+      [
+       4.4552997,
+       51.1932244
+      ],
+      [
+       4.4554081,
+       51.1934155
+      ],
+      [
+       4.4545403,
+       51.1936088
+      ],
+      [
+       4.4544319,
+       51.1934176
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/505305889",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "basketball",
+    "id": "way/505305889",
+    "_lat": "51.2060373",
+    "_lon": "4.44522685",
+    "_layer": "sport_pitch",
+    "_surface": "540.5175581621187",
+    "_surface:ha": "0",
+    "_length": "95.7982870065124",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82015736,
+    "_last_edit:timestamp": "2020-03-10T16:22:37Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.444977,
+       51.2060415
+      ],
+      [
+       4.4453382,
+       51.2058969
+      ],
+      [
+       4.4454767,
+       51.2060367
+      ],
+      [
+       4.4451139,
+       51.2061777
+      ],
+      [
+       4.444977,
+       51.2060415
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/674186853",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "basketball",
+    "id": "way/674186853",
+    "_lat": "51.20401775",
+    "_lon": "4.44282085",
+    "_layer": "sport_pitch",
+    "_surface": "421.0712968013065",
+    "_surface:ha": "0",
+    "_length": "84.88606327776318",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 67730741,
+    "_last_edit:timestamp": "2019-03-03T08:18:51Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4427279,
+       51.2041444
+      ],
+      [
+       4.442599,
+       51.2040283
+      ],
+      [
+       4.4429139,
+       51.2038911
+      ],
+      [
+       4.4430427,
+       51.2040072
+      ],
+      [
+       4.4427279,
+       51.2041444
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/759055068",
+   "properties": {
+    "leisure": "pitch",
+    "id": "way/759055068",
+    "_lat": "51.194866649999994",
+    "_lon": "4.4567118",
+    "_layer": "sport_pitch",
+    "_surface": "326.67165159666826",
+    "_surface:ha": "0",
+    "_length": "75.44149169947265",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82712335,
+    "_last_edit:timestamp": "2020-03-27T11:35:12Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4565469,
+       51.1947969
+      ],
+      [
+       4.4567186,
+       51.194742
+      ],
+      [
+       4.4568767,
+       51.1949375
+      ],
+      [
+       4.456705,
+       51.1949913
+      ],
+      [
+       4.4565469,
+       51.1947969
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/785060008",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/785060008",
+    "_lat": "51.19601695",
+    "_lon": "4.45794235",
+    "_layer": "sport_pitch",
+    "_surface": "439.4647581663159",
+    "_surface:ha": "0",
+    "_length": "88.98446441646682",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82711202,
+    "_last_edit:timestamp": "2020-03-27T11:08:37Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4577464,
+       51.195932
+      ],
+      [
+       4.4579314,
+       51.1958678
+      ],
+      [
+       4.4581383,
+       51.1961019
+      ],
+      [
+       4.4579533,
+       51.1961661
+      ],
+      [
+       4.4577464,
+       51.195932
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/785060009",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/785060009",
+    "_lat": "51.19594525",
+    "_lon": "4.45814775",
+    "_layer": "sport_pitch",
+    "_surface": "439.53141062901125",
+    "_surface:ha": "0",
+    "_length": "88.98724206935704",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82711202,
+    "_last_edit:timestamp": "2020-03-27T11:08:37Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4579518,
+       51.1958603
+      ],
+      [
+       4.4581369,
+       51.1957961
+      ],
+      [
+       4.4583437,
+       51.1960302
+      ],
+      [
+       4.4581587,
+       51.1960944
+      ],
+      [
+       4.4579518,
+       51.1958603
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/785065244",
+   "properties": {
+    "leisure": "pitch",
+    "id": "way/785065244",
+    "_lat": "51.194796100000005",
+    "_lon": "4.456939800000001",
+    "_layer": "sport_pitch",
+    "_surface": "322.87088523363445",
+    "_surface:ha": "0",
+    "_length": "75.11531591139048",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82712335,
+    "_last_edit:timestamp": "2020-03-27T11:35:12Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4567769,
+       51.1947249
+      ],
+      [
+       4.4569472,
+       51.1946717
+      ],
+      [
+       4.4571027,
+       51.1948673
+      ],
+      [
+       4.4569325,
+       51.1949205
+      ],
+      [
+       4.4567769,
+       51.1947249
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/785065245",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "basketball",
+    "id": "way/785065245",
+    "_lat": "51.19502",
+    "_lon": "4.45697205",
+    "_layer": "sport_pitch",
+    "_surface": "526.0299513912174",
+    "_surface:ha": "0",
+    "_length": "95.99312095425296",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82712335,
+    "_last_edit:timestamp": "2020-03-27T11:35:12Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4568258,
+       51.1951502
+      ],
+      [
+       4.4567181,
+       51.1950145
+      ],
+      [
+       4.4571183,
+       51.1948898
+      ],
+      [
+       4.457226,
+       51.1950255
+      ],
+      [
+       4.4568258,
+       51.1951502
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/787077904",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/787077904",
+    "_lat": "51.194655999999995",
+    "_lon": "4.4548864",
+    "_layer": "sport_pitch",
+    "_surface": "374.2745462561538",
+    "_surface:ha": "0",
+    "_length": "81.11202602332892",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82967495,
+    "_last_edit:timestamp": "2020-04-02T09:08:25Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4547049,
+       51.1945838
+      ],
+      [
+       4.4548816,
+       51.1945213
+      ],
+      [
+       4.4550679,
+       51.1947283
+      ],
+      [
+       4.4548913,
+       51.1947907
+      ],
+      [
+       4.4547049,
+       51.1945838
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/787077905",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/787077905",
+    "_lat": "51.1944127",
+    "_lon": "4.45440365",
+    "_layer": "sport_pitch",
+    "_surface": "374.32502023970676",
+    "_surface:ha": "0",
+    "_length": "81.11905726891122",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82967495,
+    "_last_edit:timestamp": "2020-04-02T09:08:25Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4542221,
+       51.1943405
+      ],
+      [
+       4.4543988,
+       51.194278
+      ],
+      [
+       4.4545852,
+       51.194485
+      ],
+      [
+       4.4544086,
+       51.1945474
+      ],
+      [
+       4.4542221,
+       51.1943405
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/787077906",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/787077906",
+    "_lat": "51.194342649999996",
+    "_lon": "4.4546018",
+    "_layer": "sport_pitch",
+    "_surface": "374.41804170729023",
+    "_surface:ha": "0",
+    "_length": "81.12740664209609",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82967495,
+    "_last_edit:timestamp": "2020-04-02T09:08:25Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4544203,
+       51.1942704
+      ],
+      [
+       4.454597,
+       51.1942079
+      ],
+      [
+       4.4547833,
+       51.1944149
+      ],
+      [
+       4.4546067,
+       51.1944774
+      ],
+      [
+       4.4544203,
+       51.1942704
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/787077907",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/787077907",
+    "_lat": "51.19424645",
+    "_lon": "4.4548813",
+    "_layer": "sport_pitch",
+    "_surface": "374.4188234263557",
+    "_surface:ha": "0",
+    "_length": "81.1274780469132",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82967495,
+    "_last_edit:timestamp": "2020-04-02T09:08:25Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4546998,
+       51.1941742
+      ],
+      [
+       4.4548765,
+       51.1941117
+      ],
+      [
+       4.4550628,
+       51.1943187
+      ],
+      [
+       4.4548862,
+       51.1943812
+      ],
+      [
+       4.4546998,
+       51.1941742
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/787077908",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "tennis",
+    "id": "way/787077908",
+    "_lat": "51.19416365",
+    "_lon": "4.45433555",
+    "_layer": "sport_pitch",
+    "_surface": "374.28642797245465",
+    "_surface:ha": "0",
+    "_length": "81.11613467293789",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82967495,
+    "_last_edit:timestamp": "2020-04-02T09:08:25Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4542205,
+       51.1942775
+      ],
+      [
+       4.4541206,
+       51.1941669
+      ],
+      [
+       4.4544506,
+       51.1940498
+      ],
+      [
+       4.4545505,
+       51.1941604
+      ],
+      [
+       4.4542205,
+       51.1942775
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1028667798",
+   "properties": {
+    "access": "yes",
+    "hoops": "1",
+    "leisure": "pitch",
+    "sport": "basketball",
+    "id": "way/1028667798",
+    "_lat": "51.19855465",
+    "_lon": "4.44585225",
+    "_layer": "sport_pitch",
+    "_surface": "162.88208147215525",
+    "_surface:ha": "0",
+    "_length": "51.306311308625034",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "stijnh",
+    "_last_edit:contributor:uid": 14414954,
+    "_last_edit:changeset": 117082748,
+    "_last_edit:timestamp": "2022-02-06T15:13:45Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.445761,
+       51.1986128
+      ],
+      [
+       4.4457402,
+       51.19851
+      ],
+      [
+       4.4459428,
+       51.1984965
+      ],
+      [
+       4.4459643,
+       51.1985974
+      ],
+      [
+       4.445761,
+       51.1986128
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1028667799",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "id": "way/1028667799",
+    "_lat": "51.1984635",
+    "_lon": "4.4458350499999995",
+    "_layer": "sport_pitch",
+    "_surface": "63.75756302828084",
+    "_surface:ha": "0",
+    "_length": "33.6055430542945",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "stijnh",
+    "_last_edit:contributor:uid": 14414954,
+    "_last_edit:changeset": 117082748,
+    "_last_edit:timestamp": "2022-02-06T15:13:45Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4457616,
+       51.1984945
+      ],
+      [
+       4.445753,
+       51.1984432
+      ],
+      [
+       4.4459125,
+       51.1984325
+      ],
+      [
+       4.4459171,
+       51.1984846
+      ],
+      [
+       4.4457616,
+       51.1984945
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "node/7358221998",
+   "properties": {
+    "leisure": "pitch",
+    "name": "Avia Tennisclub",
+    "id": "node/7358221998",
+    "_lat": "51.1945095",
+    "_lon": "4.4546281",
     "_layer": "sport_pitch",
     "_surface": "0",
     "_surface:ha": "0",
     "_length": "0",
     "_length:km": "0.0",
-    "_last_edit:contributor": "Michel Stuyts",
-    "_last_edit:contributor:uid": 62284,
-    "_last_edit:changeset": 104303980,
-    "_last_edit:timestamp": "2021-05-07T08:59:48Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 82968618,
+    "_last_edit:timestamp": "2020-04-02T09:25:47Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Point",
     "_country": "be"
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.4434778,
-     51.189184
+     4.4546281,
+     51.1945095
     ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/44847209",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "baseball",
+    "id": "way/44847209",
+    "_lat": "51.193677199999996",
+    "_lon": "4.45652595",
+    "_layer": "sport_pitch",
+    "_surface": "9413.214833336966",
+    "_surface:ha": "0.9",
+    "_length": "370.46419624319316",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 71023658,
+    "_last_edit:timestamp": "2019-06-07T13:21:33Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
    },
-   "_lon": 4.4434778,
-   "_lat": 51.189184,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.189184,
-    "maxLon": 4.4434778,
-    "minLat": 51.189184,
-    "minLon": 4.4434778
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4556314,
+       51.1935587
+      ],
+      [
+       4.4561782,
+       51.193137
+      ],
+      [
+       4.4562194,
+       51.1931134
+      ],
+      [
+       4.456265,
+       51.1931062
+      ],
+      [
+       4.4563139,
+       51.1931094
+      ],
+      [
+       4.4563687,
+       51.1931232
+      ],
+      [
+       4.4571415,
+       51.1933399
+      ],
+      [
+       4.4571803,
+       51.1934235
+      ],
+      [
+       4.4573533,
+       51.1935475
+      ],
+      [
+       4.4573914,
+       51.1935851
+      ],
+      [
+       4.4574137,
+       51.1936295
+      ],
+      [
+       4.4574205,
+       51.1936744
+      ],
+      [
+       4.4574047,
+       51.1937294
+      ],
+      [
+       4.4573598,
+       51.1937731
+      ],
+      [
+       4.4571786,
+       51.1938792
+      ],
+      [
+       4.4567864,
+       51.1940508
+      ],
+      [
+       4.4562786,
+       51.1942482
+      ],
+      [
+       4.4556314,
+       51.1935587
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/178176712",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "soccer",
+    "surface": "grass",
+    "id": "way/178176712",
+    "_lat": "51.18706775",
+    "_lon": "4.43798215",
+    "_layer": "sport_pitch",
+    "_surface": "6821.083500486787",
+    "_surface:ha": "0.6",
+    "_length": "340.1168592135629",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 119862871,
+    "_last_edit:timestamp": "2022-04-18T14:42:47Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4370949,
+       51.1870521
+      ],
+      [
+       4.4384103,
+       51.1865804
+      ],
+      [
+       4.4388694,
+       51.1870834
+      ],
+      [
+       4.4375539,
+       51.1875551
+      ],
+      [
+       4.4370949,
+       51.1870521
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/178176713",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "soccer",
+    "surface": "grass",
+    "id": "way/178176713",
+    "_lat": "51.18625645",
+    "_lon": "4.437627",
+    "_layer": "sport_pitch",
+    "_surface": "6002.56534085111",
+    "_surface:ha": "0.6",
+    "_length": "324.406858147855",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 119862871,
+    "_last_edit:timestamp": "2022-04-18T14:42:45Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4367685,
+       51.1862704
+      ],
+      [
+       4.4380798,
+       51.185799
+      ],
+      [
+       4.4384855,
+       51.1862425
+      ],
+      [
+       4.4371742,
+       51.1867139
+      ],
+      [
+       4.4367685,
+       51.1862704
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/178176714",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "soccer",
+    "surface": "artificial_turf",
+    "id": "way/178176714",
+    "_lat": "51.18635595",
+    "_lon": "4.4397712",
+    "_layer": "sport_pitch",
+    "_surface": "7817.680109173653",
+    "_surface:ha": "0.7",
+    "_length": "363.82344658877366",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 119862871,
+    "_last_edit:timestamp": "2022-04-18T14:42:39Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4388229,
+       51.1863367
+      ],
+      [
+       4.4402274,
+       51.1858345
+      ],
+      [
+       4.4407195,
+       51.1863751
+      ],
+      [
+       4.439315,
+       51.1868774
+      ],
+      [
+       4.4388229,
+       51.1863367
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/178176716",
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "soccer",
+    "surface": "grass",
+    "id": "way/178176716",
+    "_lat": "51.185709",
+    "_lon": "4.43879395",
+    "_layer": "sport_pitch",
+    "_surface": "7070.667353687577",
+    "_surface:ha": "0.7",
+    "_length": "344.0364890767894",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 119862871,
+    "_last_edit:timestamp": "2022-04-18T14:42:40Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4380048,
+       51.1854476
+      ],
+      [
+       4.4388494,
+       51.1851506
+      ],
+      [
+       4.4395831,
+       51.1859704
+      ],
+      [
+       4.4387385,
+       51.1862674
+      ],
+      [
+       4.4380048,
+       51.1854476
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/178177166",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "id": "way/178177166",
+    "_lat": "51.187703150000004",
+    "_lon": "4.4403776",
+    "_layer": "sport_pitch",
+    "_surface": "7355.593594295441",
+    "_surface:ha": "0.7",
+    "_length": "351.66434994411446",
+    "_length:km": "0.4",
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 12881441,
+    "_last_edit:timestamp": "2012-08-27T16:18:54Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4395754,
+       51.187978
+      ],
+      [
+       4.4403244,
+       51.1871311
+      ],
+      [
+       4.4411798,
+       51.1874284
+      ],
+      [
+       4.4404308,
+       51.1882752
+      ],
+      [
+       4.4395754,
+       51.187978
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/316213892",
+   "properties": {
+    "leisure": "pitch",
+    "id": "way/316213892",
+    "_lat": "51.1925891",
+    "_lon": "4.44505925",
+    "_layer": "sport_pitch",
+    "_surface": "167.57431109379843",
+    "_surface:ha": "0",
+    "_length": "54.264985314221704",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 113322693,
+    "_last_edit:timestamp": "2021-11-03T09:32:19Z",
+    "_version_number": 4,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4449225,
+       51.1925612
+      ],
+      [
+       4.4450205,
+       51.1925023
+      ],
+      [
+       4.445196,
+       51.192617
+      ],
+      [
+       4.445098,
+       51.1926759
+      ],
+      [
+       4.4449225,
+       51.1925612
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/316220770",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "volleyball",
+    "id": "way/316220770",
+    "_lat": "51.1925891",
+    "_lon": "4.44505925",
+    "_layer": "sport_pitch",
+    "_surface": "167.57431108949118",
+    "_surface:ha": "0",
+    "_length": "54.264985314221704",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "lodde1949",
+    "_last_edit:contributor:uid": 138772,
+    "_last_edit:changeset": 51007853,
+    "_last_edit:timestamp": "2017-08-10T16:58:55Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.445098,
+       51.1926759
+      ],
+      [
+       4.4449225,
+       51.1925612
+      ],
+      [
+       4.4450205,
+       51.1925023
+      ],
+      [
+       4.445196,
+       51.192617
+      ],
+      [
+       4.445098,
+       51.1926759
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/680667877",
+   "properties": {
+    "hoops": "2",
+    "leisure": "pitch",
+    "sport": "basketball",
+    "surface": "paving_stones",
+    "id": "way/680667877",
+    "_lat": "51.186788199999995",
+    "_lon": "4.43878235",
+    "_layer": "sport_pitch",
+    "_surface": "629.5320243368047",
+    "_surface:ha": "0",
+    "_length": "100.56886055416238",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "ThVerhulst",
+    "_last_edit:contributor:uid": 13383776,
+    "_last_edit:changeset": 119862865,
+    "_last_edit:timestamp": "2022-04-18T14:42:42Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4389957,
+       51.1868925
+      ],
+      [
+       4.4388098,
+       51.1869583
+      ],
+      [
+       4.438569,
+       51.1866998
+      ],
+      [
+       4.4387737,
+       51.1866181
+      ],
+      [
+       4.438797,
+       51.1866302
+      ],
+      [
+       4.4388507,
+       51.1866598
+      ],
+      [
+       4.4388928,
+       51.1866898
+      ],
+      [
+       4.4389233,
+       51.186722
+      ],
+      [
+       4.4389503,
+       51.1867599
+      ],
+      [
+       4.4389711,
+       51.1867963
+      ],
+      [
+       4.4389879,
+       51.1868397
+      ],
+      [
+       4.4389957,
+       51.1868727
+      ],
+      [
+       4.4389957,
+       51.1868925
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/918926704",
+   "properties": {
+    "hoops": "1",
+    "leisure": "pitch",
+    "sport": "basketball",
+    "id": "way/918926704",
+    "_lat": "51.186540300000004",
+    "_lon": "4.4449302",
+    "_layer": "sport_pitch",
+    "_surface": "41.92923290543305",
+    "_surface:ha": "0",
+    "_length": "27.198325863419136",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "stijnh",
+    "_last_edit:contributor:uid": 14414954,
+    "_last_edit:changeset": 117082748,
+    "_last_edit:timestamp": "2022-02-06T15:13:45Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4448599,
+       51.1865301
+      ],
+      [
+       4.4449041,
+       51.1864981
+      ],
+      [
+       4.4450005,
+       51.1865506
+      ],
+      [
+       4.4449563,
+       51.1865825
+      ],
+      [
+       4.4448599,
+       51.1865301
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1092882056",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "multi",
+    "id": "way/1092882056",
+    "_lat": "51.1891765",
+    "_lon": "4.4434834",
+    "_layer": "sport_pitch",
+    "_surface": "2336.9600993801905",
+    "_surface:ha": "0.2",
+    "_length": "208.10530767469237",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "Jorisbo",
+    "_last_edit:contributor:uid": 1983103,
+    "_last_edit:changeset": 125941159,
+    "_last_edit:timestamp": "2022-09-08T12:30:36Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4429399,
+       51.189093
+      ],
+      [
+       4.4432337,
+       51.1888588
+      ],
+      [
+       4.4440269,
+       51.189272
+      ],
+      [
+       4.4437303,
+       51.1894942
+      ],
+      [
+       4.4429399,
+       51.189093
+      ]
+     ]
+    ]
    }
   }
  ]

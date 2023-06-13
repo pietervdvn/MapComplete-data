@@ -3,21 +3,108 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/27605450",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "leisure": "playground",
+    "id": "way/27605450",
+    "_lat": "51.2039851",
+    "_lon": "4.3455001499999995",
+    "_layer": "playground",
+    "_surface": "630.8306020067636",
+    "_surface:ha": "0",
+    "_length": "104.03722861945838",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T18:29:16Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.3452641,
+       51.2040604
+      ],
+      [
+       4.3455044,
+       51.203813
+      ],
+      [
+       4.3457362,
+       51.2038937
+      ],
+      [
+       4.3455044,
+       51.2041572
+      ],
+      [
+       4.3452641,
+       51.2040604
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "node/303119531",
+   "properties": {
+    "created_by": "Potlatch 0.10d",
+    "leisure": "playground",
+    "id": "node/303119531",
+    "_lat": "51.1996236",
+    "_lon": "4.340655",
+    "_layer": "playground",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "Eimai",
+    "_last_edit:contributor:uid": 6072,
+    "_last_edit:changeset": 165005,
+    "_last_edit:timestamp": "2008-10-08T18:04:32Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.340655,
+     51.1996236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/24276592",
    "properties": {
     "leisure": "playground",
     "id": "way/24276592",
-    "_lat": "51.182253900000006",
+    "_lat": "51.1822555",
     "_lon": "4.3458305500000005",
     "_layer": "playground",
-    "_length": "503.8589643140219",
+    "_surface": "8526.775199915968",
+    "_surface:ha": "0.8",
+    "_length": "504.476847975847",
     "_length:km": "0.5",
     "_last_edit:contributor": "Jorisbo",
     "_last_edit:contributor:uid": 1983103,
     "_last_edit:changeset": 111176954,
     "_last_edit:timestamp": "2021-09-14T06:57:37Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -69,8 +156,8 @@
        51.18285
       ],
       [
-       4.3468936,
-       51.1830477
+       4.3468992,
+       51.1830509
       ],
       [
        4.3459715,
@@ -86,15 +173,6 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.3458305500000005,
-   "_lat": 51.182253900000006,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1830477,
-    "maxLon": 4.347093,
-    "minLat": 51.1814601,
-    "minLon": 4.3445681
    }
   },
   {
@@ -102,19 +180,23 @@
    "id": "way/420850790",
    "properties": {
     "leisure": "playground",
-    "name": "speeltuin polderstad",
+    "name": "Speeltuin Polderstad",
     "id": "way/420850790",
     "_lat": "51.1849347",
-    "_lon": "4.341847400000001",
+    "_lon": "4.341847550000001",
     "_layer": "playground",
-    "_length": "145.90354813644223",
+    "_surface": "523.55148775333",
+    "_surface:ha": "0",
+    "_length": "145.92597112899327",
     "_length:km": "0.1",
-    "_last_edit:contributor": "liamsa",
-    "_last_edit:contributor:uid": 4011811,
-    "_last_edit:changeset": 39561139,
-    "_last_edit:timestamp": "2016-05-25T17:10:38Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "RubOSM",
+    "_last_edit:contributor:uid": 2096650,
+    "_last_edit:changeset": 124363253,
+    "_last_edit:timestamp": "2022-08-01T20:12:04Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -122,8 +204,8 @@
     "coordinates": [
      [
       [
-       4.3415615,
-       51.1851029
+       4.3415618,
+       51.1850981
       ],
       [
        4.3419485,
@@ -154,39 +236,35 @@
        51.1851486
       ],
       [
-       4.3415615,
-       51.1851029
+       4.3415618,
+       51.1850981
       ]
      ]
     ]
-   },
-   "_lon": 4.341847400000001,
-   "_lat": 51.1849347,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1851486,
-    "maxLon": 4.3421333,
-    "minLat": 51.1847208,
-    "minLon": 4.3415615
    }
   },
   {
    "type": "Feature",
    "id": "way/779060340",
    "properties": {
+    "access": "yes",
     "leisure": "playground",
     "id": "way/779060340",
     "_lat": "51.179452",
     "_lon": "4.346061150000001",
     "_layer": "playground",
+    "_surface": "2578.0389942163633",
+    "_surface:ha": "0.2",
     "_length": "211.69785601922652",
     "_length:km": "0.2",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 81899548,
-    "_last_edit:timestamp": "2020-03-07T13:40:25Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "koenstr",
+    "_last_edit:contributor:uid": 2769604,
+    "_last_edit:changeset": 121569703,
+    "_last_edit:timestamp": "2022-05-27T10:56:52Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -295,15 +373,6 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.346061150000001,
-   "_lat": 51.179452,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1798165,
-    "maxLon": 4.3464818,
-    "minLat": 51.1790875,
-    "minLon": 4.3456405
    }
   },
   {
@@ -315,16 +384,20 @@
     "name": "Familiale School Eduard Poppe",
     "id": "way/838956865",
     "_lat": "51.1821618",
-    "_lon": "4.34731835",
+    "_lon": "4.3473177",
     "_layer": "playground",
-    "_length": "131.6464946004593",
+    "_surface": "1095.4199335161052",
+    "_surface:ha": "0.1",
+    "_length": "131.84814134065033",
     "_length:km": "0.1",
-    "_last_edit:contributor": "H4N5-antw",
-    "_last_edit:contributor:uid": 10846743,
-    "_last_edit:changeset": 89699069,
-    "_last_edit:timestamp": "2020-08-20T15:07:32Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "pfiers",
+    "_last_edit:contributor:uid": 3797928,
+    "_last_edit:changeset": 130948336,
+    "_last_edit:timestamp": "2023-01-06T13:46:33Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -344,12 +417,16 @@
        51.1822861
       ],
       [
+       4.347384,
+       51.1823638
+      ],
+      [
        4.347372,
        51.1823694
       ],
       [
-       4.3469931,
-       51.1821845
+       4.3469918,
+       51.1821849
       ],
       [
        4.347264,
@@ -369,34 +446,30 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.34731835,
-   "_lat": 51.1821618,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1823694,
-    "maxLon": 4.3476436,
-    "minLat": 51.1819542,
-    "minLon": 4.3469931
    }
   },
   {
    "type": "Feature",
    "id": "way/779060340",
    "properties": {
+    "access": "yes",
     "leisure": "playground",
     "id": "way/779060340",
     "_lat": "51.179452",
     "_lon": "4.346061150000001",
     "_layer": "playground",
+    "_surface": "2578.0389942163633",
+    "_surface:ha": "0.2",
     "_length": "211.69785601922652",
     "_length:km": "0.2",
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 81899548,
-    "_last_edit:timestamp": "2020-03-07T13:40:25Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "koenstr",
+    "_last_edit:contributor:uid": 2769604,
+    "_last_edit:changeset": 121569703,
+    "_last_edit:timestamp": "2022-05-27T10:56:52Z",
+    "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -505,15 +578,6 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.346061150000001,
-   "_lat": 51.179452,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1798165,
-    "maxLon": 4.3464818,
-    "minLat": 51.1790875,
-    "minLon": 4.3456405
    }
   }
  ]

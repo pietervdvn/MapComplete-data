@@ -3,6 +3,36 @@
  "features": [
   {
    "type": "Feature",
+   "id": "node/2271511862",
+   "properties": {
+    "leisure": "playground",
+    "id": "node/2271511862",
+    "_lat": "51.2047751",
+    "_lon": "4.5269551",
+    "_layer": "playground",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "jvh",
+    "_last_edit:contributor:uid": 41722,
+    "_last_edit:changeset": 15771706,
+    "_last_edit:timestamp": "2013-04-18T10:16:48Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.5269551,
+     51.2047751
+    ]
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/23436459",
    "properties": {
     "leisure": "playground",
@@ -10,6 +40,8 @@
     "_lat": "51.194639699999996",
     "_lon": "4.551860850000001",
     "_layer": "playground",
+    "_surface": "13287.794329753895",
+    "_surface:ha": "1.3",
     "_length": "521.0963633414813",
     "_length:km": "0.5",
     "_last_edit:contributor": "Jorisbo",
@@ -17,7 +49,9 @@
     "_last_edit:changeset": 70828513,
     "_last_edit:timestamp": "2019-06-01T06:12:50Z",
     "_version_number": 3,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -66,15 +100,6 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.551860850000001,
-   "_lat": 51.194639699999996,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1956559,
-    "maxLon": 4.5525557,
-    "minLat": 51.1936235,
-    "minLon": 4.551166
    }
   },
   {
@@ -86,6 +111,8 @@
     "_lat": "51.1943667",
     "_lon": "4.56179265",
     "_layer": "playground",
+    "_surface": "957.3927507378761",
+    "_surface:ha": "0",
     "_length": "119.5369711740285",
     "_length:km": "0.1",
     "_last_edit:contributor": "lodde1949",
@@ -93,7 +120,9 @@
     "_last_edit:changeset": 54409669,
     "_last_edit:timestamp": "2017-12-06T18:21:16Z",
     "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -158,15 +187,6 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.56179265,
-   "_lat": 51.1943667,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1945525,
-    "maxLon": 4.5620401,
-    "minLat": 51.1941809,
-    "minLon": 4.5615452
    }
   }
  ]

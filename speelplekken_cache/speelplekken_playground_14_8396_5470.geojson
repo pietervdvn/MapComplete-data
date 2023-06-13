@@ -3,6 +3,228 @@
  "features": [
   {
    "type": "Feature",
+   "id": "way/495068906",
+   "properties": {
+    "leisure": "playground",
+    "id": "way/495068906",
+    "_lat": "51.19817725",
+    "_lon": "4.4734984",
+    "_layer": "playground",
+    "_surface": "1992.22603461148",
+    "_surface:ha": "0.1",
+    "_length": "175.6020224951582",
+    "_length:km": "0.2",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 100218608,
+    "_last_edit:timestamp": "2021-03-01T16:22:44Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4731178,
+       51.1983243
+      ],
+      [
+       4.4731551,
+       51.1981792
+      ],
+      [
+       4.4732018,
+       51.1980498
+      ],
+      [
+       4.4736307,
+       51.197927
+      ],
+      [
+       4.473879,
+       51.1982595
+      ],
+      [
+       4.4737516,
+       51.1983141
+      ],
+      [
+       4.4736564,
+       51.1984082
+      ],
+      [
+       4.4735236,
+       51.1984275
+      ],
+      [
+       4.4733681,
+       51.198388
+      ],
+      [
+       4.4731307,
+       51.1984116
+      ],
+      [
+       4.4731178,
+       51.1983243
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/912455546",
+   "properties": {
+    "leisure": "playground",
+    "playground": "sandpit",
+    "surface": "sand",
+    "id": "way/912455546",
+    "_lat": "51.1983108",
+    "_lon": "4.4735352",
+    "_layer": "playground",
+    "_surface": "130.9981977064604",
+    "_surface:ha": "0",
+    "_length": "58.21682196047564",
+    "_length:km": "0.1",
+    "_last_edit:contributor": "Pieter Vander Vennet",
+    "_last_edit:contributor:uid": 3818858,
+    "_last_edit:changeset": 100218608,
+    "_last_edit:timestamp": "2021-03-01T16:22:44Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.4734117,
+       51.1983351
+      ],
+      [
+       4.4734123,
+       51.1982824
+      ],
+      [
+       4.4734893,
+       51.1982828
+      ],
+      [
+       4.4734896,
+       51.1982569
+      ],
+      [
+       4.4735684,
+       51.1982573
+      ],
+      [
+       4.4735681,
+       51.1982813
+      ],
+      [
+       4.4736587,
+       51.1982818
+      ],
+      [
+       4.4736581,
+       51.1983305
+      ],
+      [
+       4.4735691,
+       51.19833
+      ],
+      [
+       4.4735687,
+       51.1983647
+      ],
+      [
+       4.4734923,
+       51.1983643
+      ],
+      [
+       4.4734926,
+       51.1983355
+      ],
+      [
+       4.4734117,
+       51.1983351
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "node/180498601",
+   "properties": {
+    "access": "yes",
+    "created_by": "Potlatch 0.5d",
+    "leisure": "playground",
+    "id": "node/180498601",
+    "_lat": "51.1980384",
+    "_lon": "4.4625466",
+    "_layer": "playground",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "WesternSquirrel",
+    "_last_edit:contributor:uid": 7589630,
+    "_last_edit:changeset": 133600466,
+    "_last_edit:timestamp": "2023-03-12T20:38:19Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4625466,
+     51.1980384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "node/7040083874",
+   "properties": {
+    "leisure": "playground",
+    "id": "node/7040083874",
+    "_lat": "51.2018371",
+    "_lon": "4.4713808",
+    "_layer": "playground",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "0",
+    "_length:km": "0.0",
+    "_last_edit:contributor": "QuercE",
+    "_last_edit:contributor:uid": 551808,
+    "_last_edit:changeset": 78081814,
+    "_last_edit:timestamp": "2019-12-07T09:07:59Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Point",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.4713808,
+     51.2018371
+    ]
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/694792467",
    "properties": {
     "leisure": "playground",
@@ -10,6 +232,8 @@
     "_lat": "51.20564375",
     "_lon": "4.4915135500000005",
     "_layer": "playground",
+    "_surface": "3279.328918848198",
+    "_surface:ha": "0.3",
     "_length": "230.93988920999269",
     "_length:km": "0.2",
     "_last_edit:contributor": "Jorisbo",
@@ -17,7 +241,9 @@
     "_last_edit:changeset": 70964467,
     "_last_edit:timestamp": "2019-06-05T18:52:57Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -54,15 +280,6 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.4915135500000005,
-   "_lat": 51.20564375,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.2058882,
-    "maxLon": 4.4920546,
-    "minLat": 51.2053993,
-    "minLon": 4.4909725
    }
   },
   {
@@ -74,6 +291,8 @@
     "_lat": "51.195248649999996",
     "_lon": "4.4859591",
     "_layer": "playground",
+    "_surface": "370.05892443539443",
+    "_surface:ha": "0",
     "_length": "78.85973215962201",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -81,7 +300,9 @@
     "_last_edit:changeset": 99655109,
     "_last_edit:timestamp": "2021-02-20T18:21:15Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -186,15 +407,6 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.4859591,
-   "_lat": 51.195248649999996,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.195344,
-    "maxLon": 4.4861577,
-    "minLat": 51.1951533,
-    "minLon": 4.4857605
    }
   },
   {
@@ -208,6 +420,8 @@
     "_lat": "51.1970035",
     "_lon": "4.4907964",
     "_layer": "playground",
+    "_surface": "1191.4475582593693",
+    "_surface:ha": "0.1",
     "_length": "139.85790666388448",
     "_length:km": "0.1",
     "_last_edit:contributor": "Pieter Vander Vennet",
@@ -215,7 +429,9 @@
     "_last_edit:changeset": 100340165,
     "_last_edit:timestamp": "2021-03-03T10:15:04Z",
     "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
+    "_country": "be",
     "_is_shadowed": "yes"
    },
    "geometry": {
@@ -252,15 +468,6 @@
       ]
      ]
     ]
-   },
-   "_lon": 4.4907964,
-   "_lat": 51.1970035,
-   "_is_patched": true,
-   "bbox": {
-    "maxLat": 51.1972224,
-    "maxLon": 4.4910425,
-    "minLat": 51.1967846,
-    "minLon": 4.4905503
    }
   }
  ]
