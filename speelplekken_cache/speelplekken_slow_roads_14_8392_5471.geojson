@@ -20727,61 +20727,6 @@
   },
   {
    "type": "Feature",
-   "id": "way/488775100",
-   "properties": {
-    "highway": "pedestrian",
-    "lit": "yes",
-    "name": "Fransenplaats",
-    "place": "square",
-    "surface": "paving_stones",
-    "id": "way/488775100",
-    "_lat": "51.2006557",
-    "_lon": "4.3981086000000005",
-    "_layer": "slow_roads",
-    "_surface": "475.58774027106233",
-    "_surface:ha": "0",
-    "_length": "88.77725079045041",
-    "_length:km": "0.1",
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 114526862,
-    "_last_edit:timestamp": "2021-12-03T15:12:10Z",
-    "_version_number": 9,
-    "_backend": "https://openstreetmap.org",
-    "_geometry:type": "Polygon",
-    "_country": "be",
-    "_is_shadowed": "yes"
-   },
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       4.3978846,
-       51.2006282
-      ],
-      [
-       4.398069,
-       51.2005138
-      ],
-      [
-       4.3983326,
-       51.2006849
-      ],
-      [
-       4.3981509,
-       51.2007976
-      ],
-      [
-       4.3978846,
-       51.2006282
-      ]
-     ]
-    ]
-   }
-  },
-  {
-   "type": "Feature",
    "id": "way/489628990",
    "properties": {
     "area": "yes",
@@ -21285,23 +21230,24 @@
    "id": "way/8052292",
    "properties": {
     "bicycle": "yes",
-    "highway": "footway",
+    "highway": "pedestrian",
     "lit": "yes",
+    "name": "Fransenplaats",
     "surface": "paving_stones",
     "id": "way/8052292",
-    "_lat": "51.2007223",
-    "_lon": "4.39797415",
+    "_lat": "51.2007312",
+    "_lon": "4.3979536",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "36.71664304905184",
+    "_length": "36.84526390882777",
     "_length:km": "0.0",
-    "_direction:centerpoint": -135.57037307632072,
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 114526862,
-    "_last_edit:timestamp": "2021-12-03T15:12:12Z",
-    "_version_number": 7,
+    "_direction:centerpoint": -135.8114700106384,
+    "_last_edit:contributor": "GeertDD",
+    "_last_edit:contributor:uid": 2776338,
+    "_last_edit:changeset": 137416627,
+    "_last_edit:timestamp": "2023-06-16T14:16:40Z",
+    "_version_number": 8,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be"
@@ -21310,12 +21256,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.3981586,
-      51.2008402
+      4.3981379,
+      51.20085
      ],
      [
-      4.3977897,
-      51.2006044
+      4.3977693,
+      51.2006124
      ]
     ]
    }
@@ -28013,23 +27959,26 @@
    "type": "Feature",
    "id": "way/781766098",
    "properties": {
-    "highway": "footway",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "pedestrian",
     "lit": "yes",
+    "name": "Fransenplaats",
     "surface": "paving_stones",
     "id": "way/781766098",
-    "_lat": "51.20058625",
+    "_lat": "51.20058615",
     "_lon": "4.3981815",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "40.696681070062226",
+    "_length": "40.801740253753714",
     "_length:km": "0.0",
-    "_direction:centerpoint": 43.87371297538824,
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 114526862,
-    "_last_edit:timestamp": "2021-12-03T15:12:18Z",
-    "_version_number": 3,
+    "_direction:centerpoint": 43.87371295868742,
+    "_last_edit:contributor": "GeertDD",
+    "_last_edit:contributor:uid": 2776338,
+    "_last_edit:changeset": 137416627,
+    "_last_edit:timestamp": "2023-06-16T14:16:40Z",
+    "_version_number": 4,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be"
@@ -28040,6 +27989,10 @@
      [
       4.3979592,
       51.2004776
+     ],
+     [
+      4.3980134,
+      51.2004774
      ],
      [
       4.3980937,

@@ -769,6 +769,7 @@
    "id": "way/798938113",
    "properties": {
     "leisure": "pitch",
+    "sport": "running",
     "id": "way/798938113",
     "_lat": "51.1999808",
     "_lon": "4.3380334000000005",
@@ -777,11 +778,11 @@
     "_surface:ha": "0",
     "_length": "192.44127112371964",
     "_length:km": "0.2",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 84490653,
-    "_last_edit:timestamp": "2020-05-01T19:37:08Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Gpoilvet",
+    "_last_edit:contributor:uid": 9574710,
+    "_last_edit:changeset": 137410926,
+    "_last_edit:timestamp": "2023-06-16T11:49:48Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
     "_country": "be",
@@ -851,8 +852,8 @@
    "type": "Feature",
    "id": "way/798938224",
    "properties": {
-    "building": "yes",
     "leisure": "pitch",
+    "sport": "running",
     "id": "way/798938224",
     "_lat": "51.200267",
     "_lon": "4.33887165",
@@ -861,11 +862,11 @@
     "_surface:ha": "0",
     "_length": "194.79289506896183",
     "_length:km": "0.2",
-    "_last_edit:contributor": "Jakka",
-    "_last_edit:contributor:uid": 2403313,
-    "_last_edit:changeset": 84490692,
-    "_last_edit:timestamp": "2020-05-01T19:38:08Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "Gpoilvet",
+    "_last_edit:contributor:uid": 9574710,
+    "_last_edit:changeset": 137410926,
+    "_last_edit:timestamp": "2023-06-16T11:49:48Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "Polygon",
     "_country": "be",
@@ -894,6 +895,58 @@
       [
        4.3384758,
        51.20062
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1182456453",
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "id": "way/1182456453",
+    "_lat": "51.199004099999996",
+    "_lon": "4.33403555",
+    "_layer": "sport_pitch",
+    "_surface": "6237.993085887405",
+    "_surface:ha": "0.6",
+    "_length": "325.93279037547956",
+    "_length:km": "0.3",
+    "_last_edit:contributor": "Gpoilvet",
+    "_last_edit:contributor:uid": 9574710,
+    "_last_edit:changeset": 137410926,
+    "_last_edit:timestamp": "2023-06-16T11:49:46Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "Polygon",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.3347835,
+       51.1987479
+      ],
+      [
+       4.3340441,
+       51.1995382
+      ],
+      [
+       4.3332876,
+       51.1992603
+      ],
+      [
+       4.334027,
+       51.19847
+      ],
+      [
+       4.3347835,
+       51.1987479
       ]
      ]
     ]

@@ -988,21 +988,24 @@
    "type": "Feature",
    "id": "way/363176664",
    "properties": {
+    "bicycle": "dismount",
     "highway": "path",
+    "level": "2",
+    "note": "level:2 klinkt vreemd, er zijn twee hoge bouwlagen onder dit pad boven op het buitenfort",
     "id": "way/363176664",
-    "_lat": "51.1738097",
-    "_lon": "4.4599346",
+    "_lat": "51.1739371",
+    "_lon": "4.4602238",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "159.87871314323246",
-    "_length:km": "0.2",
-    "_direction:centerpoint": -125.68864711831911,
-    "_last_edit:contributor": "RobSmits",
-    "_last_edit:contributor:uid": 3105444,
-    "_last_edit:changeset": 32984728,
-    "_last_edit:timestamp": "2015-07-30T15:57:44Z",
-    "_version_number": 1,
+    "_length": "109.91355601034432",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -159.7572102144568,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 137377375,
+    "_last_edit:timestamp": "2023-06-15T15:29:36Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be"
@@ -1039,24 +1042,12 @@
       51.1735603
      ],
      [
+      4.4599783,
+      51.1735465
+     ],
+     [
       4.4599357,
       51.1735293
-     ],
-     [
-      4.4597852,
-      51.1734351
-     ],
-     [
-      4.4595736,
-      51.1733822
-     ],
-     [
-      4.4594617,
-      51.173325
-     ],
-     [
-      4.4593573,
-      51.1732745
      ]
     ]
    }
@@ -1066,6 +1057,8 @@
    "id": "way/366400553",
    "properties": {
     "highway": "path",
+    "level": "0",
+    "note": "level-0 klinkt vreemd, maar deze tunnel is een doorgang door een man-made building, op maaiveldhoogrte",
     "surface": "paving_stones",
     "tunnel": "yes",
     "id": "way/366400553",
@@ -1077,11 +1070,11 @@
     "_length": "23.90560344836573",
     "_length:km": "0.0",
     "_direction:centerpoint": 124.02573157166361,
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 131667304,
-    "_last_edit:timestamp": "2023-01-24T19:52:36Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 137377375,
+    "_last_edit:timestamp": "2023-06-15T15:29:36Z",
+    "_version_number": 4,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be"
@@ -1346,7 +1339,9 @@
    "type": "Feature",
    "id": "way/943949016",
    "properties": {
+    "bicycle": "dismount",
     "highway": "path",
+    "incline": "up",
     "surface": "unpaved",
     "id": "way/943949016",
     "_lat": "51.174256299999996",
@@ -1357,11 +1352,11 @@
     "_length": "102.10238215734394",
     "_length:km": "0.1",
     "_direction:centerpoint": -102.70398632909749,
-    "_last_edit:contributor": "Globelotter",
-    "_last_edit:contributor:uid": 6141733,
-    "_last_edit:changeset": 104837164,
-    "_last_edit:timestamp": "2021-05-17T16:09:48Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 137377375,
+    "_last_edit:timestamp": "2023-06-15T15:29:36Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be"
@@ -1437,6 +1432,46 @@
      [
       4.4615712,
       51.1746799
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1182283994",
+   "properties": {
+    "highway": "path",
+    "incline": "-30%",
+    "surface": "ground",
+    "width": "1.5",
+    "id": "way/1182283994",
+    "_lat": "51.173176850000004",
+    "_lon": "4.46034415",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "96.74730698144434",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 148.1791867926938,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 137377375,
+    "_last_edit:timestamp": "2023-06-15T15:29:36Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4599783,
+      51.1735465
+     ],
+     [
+      4.46071,
+      51.1728072
      ]
     ]
    }
@@ -10762,21 +10797,24 @@
    "type": "Feature",
    "id": "way/363176664",
    "properties": {
+    "bicycle": "dismount",
     "highway": "path",
+    "level": "2",
+    "note": "level:2 klinkt vreemd, er zijn twee hoge bouwlagen onder dit pad boven op het buitenfort",
     "id": "way/363176664",
-    "_lat": "51.1738097",
-    "_lon": "4.4599346",
+    "_lat": "51.1739371",
+    "_lon": "4.4602238",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "159.87871314323246",
-    "_length:km": "0.2",
-    "_direction:centerpoint": -125.68864711831911,
-    "_last_edit:contributor": "RobSmits",
-    "_last_edit:contributor:uid": 3105444,
-    "_last_edit:changeset": 32984728,
-    "_last_edit:timestamp": "2015-07-30T15:57:44Z",
-    "_version_number": 1,
+    "_length": "109.91355601034432",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -159.7572102144568,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 137377375,
+    "_last_edit:timestamp": "2023-06-15T15:29:36Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be"
@@ -10813,24 +10851,12 @@
       51.1735603
      ],
      [
+      4.4599783,
+      51.1735465
+     ],
+     [
       4.4599357,
       51.1735293
-     ],
-     [
-      4.4597852,
-      51.1734351
-     ],
-     [
-      4.4595736,
-      51.1733822
-     ],
-     [
-      4.4594617,
-      51.173325
-     ],
-     [
-      4.4593573,
-      51.1732745
      ]
     ]
    }
@@ -10840,6 +10866,8 @@
    "id": "way/366400553",
    "properties": {
     "highway": "path",
+    "level": "0",
+    "note": "level-0 klinkt vreemd, maar deze tunnel is een doorgang door een man-made building, op maaiveldhoogrte",
     "surface": "paving_stones",
     "tunnel": "yes",
     "id": "way/366400553",
@@ -10851,11 +10879,11 @@
     "_length": "23.90560344836573",
     "_length:km": "0.0",
     "_direction:centerpoint": 124.02573157166361,
-    "_last_edit:contributor": "Jorisbo",
-    "_last_edit:contributor:uid": 1983103,
-    "_last_edit:changeset": 131667304,
-    "_last_edit:timestamp": "2023-01-24T19:52:36Z",
-    "_version_number": 3,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 137377375,
+    "_last_edit:timestamp": "2023-06-15T15:29:36Z",
+    "_version_number": 4,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be"
@@ -14379,7 +14407,9 @@
    "type": "Feature",
    "id": "way/943949016",
    "properties": {
+    "bicycle": "dismount",
     "highway": "path",
+    "incline": "up",
     "surface": "unpaved",
     "id": "way/943949016",
     "_lat": "51.174256299999996",
@@ -14390,11 +14420,11 @@
     "_length": "102.10238215734394",
     "_length:km": "0.1",
     "_direction:centerpoint": -102.70398632909749,
-    "_last_edit:contributor": "Globelotter",
-    "_last_edit:contributor:uid": 6141733,
-    "_last_edit:changeset": 104837164,
-    "_last_edit:timestamp": "2021-05-17T16:09:48Z",
-    "_version_number": 1,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 137377375,
+    "_last_edit:timestamp": "2023-06-15T15:29:36Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be"
@@ -15197,6 +15227,46 @@
      [
       4.4625548,
       51.1735175
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1182283994",
+   "properties": {
+    "highway": "path",
+    "incline": "-30%",
+    "surface": "ground",
+    "width": "1.5",
+    "id": "way/1182283994",
+    "_lat": "51.173176850000004",
+    "_lon": "4.46034415",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "96.74730698144434",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 148.1791867926938,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 137377375,
+    "_last_edit:timestamp": "2023-06-15T15:29:36Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4599783,
+      51.1735465
+     ],
+     [
+      4.46071,
+      51.1728072
      ]
     ]
    }
