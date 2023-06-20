@@ -5,6 +5,53 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "nutsd02440",
+        "uid": "14948432",
+        "editor": "MapComplete 0.15.0-rc-1",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-01-26T21:10:49Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "pietervdvn.github.io",
+        "path": "mc/develop/",
+        "theme": "surveillance",
+        "imagery": "osm",
+        "language": "en",
+        "add-image": 1,
+        "id": 116639191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73682,
+          42.6813272
+        ]
+      },
+      "id": 116639191
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [],
         "tags": [],
         "features": [],
@@ -247,6 +294,68 @@
         ]
       },
       "id": 124616833
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "LaurenHedges",
+        "uid": "14608323",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-16T15:17:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes"
+          ],
+          "highway": [
+            "service"
+          ],
+          "surface": [
+            "asphalt"
+          ],
+          "cycleway": [
+            "no"
+          ],
+          "maxspeed": [
+            "50"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.00000603266831001889,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cycle_infra.html",
+        "theme": "cycle_infra",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "Canvec_French",
+        "id": 124977612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03860635,
+          42.31586235
+        ]
+      },
+      "id": 124977612
     }
   ]
 }

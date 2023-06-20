@@ -51,6 +51,46 @@
         "features": [],
         "user": "Niels Elgaard Larsen",
         "uid": "1288",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #dog",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-22T23:16:29Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 0,
+        "delete": 0,
+        "area": 6.1459368000196e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "dog",
+        "locale": "da",
+        "imagery": "osm",
+        "id": 120072188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8344846,
+          55.9031466
+        ]
+      },
+      "id": 120072188
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Niels Elgaard Larsen",
+        "uid": "1288",
         "editor": "MapComplete 0.19.0",
         "comment": "Adding data with #MapComplete for theme #pets",
         "comments_count": 0,
@@ -82,6 +122,238 @@
         ]
       },
       "id": 120392156
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Niels Madsen",
+        "uid": "16042981",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-05T20:53:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ],
+          "no:network": [
+            "yes"
+          ],
+          "authentication:app": [
+            "no"
+          ],
+          "authentication:nfc": [
+            "no"
+          ],
+          "authentication:none": [
+            "yes"
+          ],
+          "authentication:debit_card": [
+            "no"
+          ],
+          "authentication:money_card": [
+            "no"
+          ],
+          "authentication:phone_call": [
+            "no"
+          ],
+          "authentication:short_message": [
+            "no"
+          ],
+          "authentication:membership_card": [
+            "no"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.101134954537915,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 125830978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8999919,
+          56.131505950000005
+        ]
+      },
+      "id": 125830978
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Niels Madsen",
+        "uid": "16042981",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-05T13:51:13Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ]
+        },
+        "create": 1,
+        "modify": 7,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 11,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 1,
+        "id": 125816677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3729714,
+          55.9633926
+        ]
+      },
+      "id": 125816677
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Niels Madsen",
+        "uid": "16042981",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-11T21:13:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ],
+          "socket:typee": [
+            "1"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "cyclosm",
+        "id": 126065155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5503967,
+          56.1703798
+        ]
+      },
+      "id": 126065155
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Niels Madsen",
+        "uid": "16042981",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-11T11:29:02Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ]
+        },
+        "create": 7,
+        "modify": 8,
+        "delete": 0,
+        "area": 0.910588701798561,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 9,
+        "locale": "da",
+        "imagery": "osm",
+        "add-image": 2,
+        "id": 126045436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.470066,
+          56.057036499999995
+        ]
+      },
+      "id": 126045436
     },
     {
       "type": "Feature",

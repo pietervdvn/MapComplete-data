@@ -256,6 +256,98 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "H@mlet",
+        "uid": "691314",
+        "editor": "MapComplete 0.14.0",
+        "comment": "Adding data with #MapComplete for theme #maps",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-01-18T16:51:45Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "maps",
+        "answer": 2,
+        "imagery": "osm",
+        "deletion": 1,
+        "language": "en",
+        "deletion:node/9428929578": "testing point",
+        "id": 116307441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6632915,
+          48.2497405
+        ]
+      },
+      "id": 116307441
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "PerseRafique",
+        "uid": "13230763",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-02T20:22:15Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees",
+        "theme": "trees",
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126908627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.644972,
+          48.0929399
+        ]
+      },
+      "id": 126908627
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "Koen Rijnsent",
         "uid": "4569696",
         "editor": "MapComplete 0.23.2",
@@ -595,6 +687,204 @@
         ]
       },
       "id": 127629117
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Erin76",
+        "uid": "8982454",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-22T19:37:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary",
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q20882",
+            "Q312391",
+            "Q33977",
+            "Q171730",
+            "Q81685",
+            "Q158772",
+            "Q18434",
+            "Q157155",
+            "Q158768",
+            "Q158749",
+            "Q680897",
+            "Q101228494",
+            "Q127539",
+            "Q2854225",
+            "Q12091",
+            "Q20710",
+            "Q755",
+            "Q17621323",
+            "Q719314",
+            "Q1666",
+            "Q1631",
+            "Q2847279",
+            "Q1989914",
+            "Q165110",
+            "Q2850173",
+            "Q288394",
+            "Q435208",
+            "Q111248840"
+          ]
+        },
+        "create": 0,
+        "modify": 48,
+        "delete": 0,
+        "area": 0.000502555611540046,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 57,
+        "locale": "nl",
+        "imagery": "osm",
+        "id": 127935755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.72733845,
+          48.499142199999994
+        ]
+      },
+      "id": 127935755
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Jackoop",
+        "uid": "17480813",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-24T23:54:10Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "manual": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_repair_station",
+            "bicycle_parking"
+          ],
+          "manometer": [
+            "yes"
+          ]
+        },
+        "create": 2,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.000130445150939987,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 8,
+        "locale": "fr",
+        "imagery": "CartoDB.Voyager",
+        "id": 128017821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6690998000000001,
+          48.10920525
+        ]
+      },
+      "id": 128017821
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Jackoop",
+        "uid": "17480813",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-10-24T23:53:09Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "manual": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_repair_station"
+          ],
+          "manometer": [
+            "yes"
+          ],
+          "service:bicycle:stand": [
+            "yes"
+          ],
+          "service:bicycle:tools": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000123048392999941,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 7,
+        "locale": "fr",
+        "imagery": "CartoDB.Voyager",
+        "id": 128017806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6790194500000002,
+          48.1077663
+        ]
+      },
+      "id": 128017806
     },
     {
       "type": "Feature",
@@ -3364,6 +3654,47 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "Ydel",
+        "uid": "3842332",
+        "editor": "MapComplete 0.16.6",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-03-14T13:53:16Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 118471072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.168353,
+          47.8407103
+        ]
+      },
+      "id": 118471072
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "Koreller",
         "uid": "12419855",
         "editor": "MapComplete 0.18.0",
@@ -3397,6 +3728,88 @@
         ]
       },
       "id": 119783430
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Plumf",
+        "uid": "3304272",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-20T17:50:46Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 3,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 119965684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8280242,
+          48.5778598
+        ]
+      },
+      "id": 119965684
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Plumf",
+        "uid": "3304272",
+        "editor": "MapComplete 0.18.2",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-20T17:47:54Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 6.90633750000299e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hailhydrant.html",
+        "theme": "hailhydrant",
+        "answer": 1,
+        "locale": "fr",
+        "imagery": "HDM_HOT",
+        "id": 119965512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5874722500000003,
+          48.51163495
+        ]
+      },
+      "id": 119965512
     },
     {
       "type": "Feature",
@@ -3597,6 +4010,443 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "LeTopographeFou",
+        "uid": "3178375",
+        "editor": "MapComplete 0.20.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-12T19:48:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "tertiary",
+            "residential",
+            "living_street"
+          ],
+          "name:etymology:wikidata": [
+            "Q274344",
+            "Q1290",
+            "Q15975",
+            "Q2714608",
+            "Q49767",
+            "Q2908",
+            "Q487523",
+            "Q535",
+            "Q188697",
+            "Q311854",
+            "Q6527",
+            "Q3079979",
+            "Q179680",
+            "Q9191",
+            "Q448",
+            "Q9068",
+            "Q70326",
+            "Q43444",
+            "Q602468",
+            "Q219621",
+            "Q493",
+            "Q298394",
+            "Q41568",
+            "Q3132164",
+            "Q9711",
+            "Q153232",
+            "Q34670"
+          ]
+        },
+        "create": 0,
+        "modify": 37,
+        "delete": 0,
+        "area": 0.000215474712900032,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 41,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 122296228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95494945,
+          48.068634599999996
+        ]
+      },
+      "id": 122296228
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "LeTopographeFou",
+        "uid": "3178375",
+        "editor": "MapComplete 0.20.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-14T20:21:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "secondary",
+            "primary",
+            "residential",
+            "unclassified",
+            "service",
+            "footway",
+            "living_street",
+            "path"
+          ],
+          "name:etymology:wikidata": [
+            "Q2475967",
+            "Q379693",
+            "Q81114",
+            "Q446435",
+            "Q632",
+            "Q1248451",
+            "Q85",
+            "Q2773178",
+            "Q1178",
+            "Q360312",
+            "Q251037",
+            "Q520977",
+            "Q3176402",
+            "Q56158",
+            "Q18434",
+            "Q3087522",
+            "Q151164",
+            "Q1379409",
+            "Q1151",
+            "Q191974",
+            "Q3142036",
+            "Q158768",
+            "Q529",
+            "Q33977",
+            "Q201143",
+            "Q194436",
+            "Q2706190",
+            "Q517",
+            "Q3167875",
+            "Q315708",
+            "Q1719774",
+            "Q1382004",
+            "Q4700",
+            "Q7226",
+            "Q2042",
+            "Q180278",
+            "Q104919",
+            "Q376383",
+            "Q233488",
+            "Q155144",
+            "Q3185261",
+            "Q3363340",
+            "Q333388",
+            "Q3292391",
+            "Q555329",
+            "Q29558817",
+            "Q959708"
+          ]
+        },
+        "create": 0,
+        "modify": 85,
+        "delete": 0,
+        "area": 0.000567453109440028,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 98,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 122388502
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9569148,
+          48.0610795
+        ]
+      },
+      "id": 122388502
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "LeTopographeFou",
+        "uid": "3178375",
+        "editor": "MapComplete 0.20.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-16T19:45:59Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "unclassified",
+            "residential",
+            "secondary",
+            "service"
+          ],
+          "railway": [
+            "abandoned"
+          ],
+          "name:etymology:wikidata": [
+            "Q232873",
+            "Q274251",
+            "Q334965",
+            "Q12688",
+            "Q2475967",
+            "Q253224",
+            "Q171730",
+            "Q680897",
+            "Q326724",
+            "Q537061",
+            "Q622365",
+            "Q2979",
+            "Q437983",
+            "Q206832",
+            "Q1760271",
+            "Q47162",
+            "Q200639",
+            "Q440",
+            "Q188971",
+            "Q3292642",
+            "Q4583",
+            "Q386438",
+            "Q2850234",
+            "Q106126",
+            "Q41269",
+            "Q123041",
+            "Q63704",
+            "Q437091",
+            "Q3275603",
+            "Q1393036",
+            "Q2750648",
+            "Q41921",
+            "Q3816",
+            "Q7197",
+            "Q34189",
+            "Q81685",
+            "Q7504",
+            "Q454",
+            "Q212620",
+            "Q271991",
+            "Q56158",
+            "Q254",
+            "Q236438",
+            "Q745809",
+            "Q216092",
+            "Q358167",
+            "Q208230",
+            "Q106208",
+            "Q8750",
+            "Q39607",
+            "Q18425",
+            "Q1248451",
+            "Q675"
+          ]
+        },
+        "create": 0,
+        "modify": 104,
+        "delete": 0,
+        "area": 0.000904889712639932,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 131,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 122479307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9712543499999997,
+          48.052709199999995
+        ]
+      },
+      "id": 122479307
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "LeTopographeFou",
+        "uid": "3178375",
+        "editor": "MapComplete 0.20.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-17T13:21:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "secondary",
+            "residential",
+            "steps",
+            "footway"
+          ],
+          "railway": [
+            "abandoned"
+          ],
+          "name:etymology:wikidata": [
+            "Q2038",
+            "Q70423982",
+            "Q3150",
+            "Q176271",
+            "Q171480",
+            "Q295090",
+            "Q7226",
+            "Q134114",
+            "Q274251",
+            "Q107343710",
+            "Q3371499",
+            "Q3141517",
+            "Q15407202",
+            "Q298051",
+            "Q132684",
+            "Q288394",
+            "Q236630",
+            "Q12431",
+            "Q16945181",
+            "Q17362349",
+            "Q34189",
+            "Q161955",
+            "Q862935",
+            "Q295830",
+            "Q2097468",
+            "Q462604",
+            "Q454199",
+            "Q2834988",
+            "Q42037",
+            "Q47162",
+            "Q312391"
+          ]
+        },
+        "create": 0,
+        "modify": 47,
+        "delete": 0,
+        "area": 0.000809472763880064,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 56,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 122508929
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9634152,
+          48.07136425
+        ]
+      },
+      "id": 122508929
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "LeTopographeFou",
+        "uid": "3178375",
+        "editor": "MapComplete 0.20.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-06-18T13:13:47Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary",
+            "residential",
+            "pedestrian"
+          ],
+          "name:etymology:wikidata": [
+            "Q46490",
+            "Q983629",
+            "Q755",
+            "Q26026",
+            "Q754863",
+            "Q316536",
+            "Q2946681",
+            "Q166171",
+            "Q312391"
+          ]
+        },
+        "create": 0,
+        "modify": 18,
+        "delete": 0,
+        "area": 0.000579283256770051,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 18,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 122546842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9571255499999998,
+          48.07170955
+        ]
+      },
+      "id": 122546842
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "cyril42e",
         "uid": "1801525",
         "editor": "MapComplete 0.23.0",
@@ -3638,6 +4488,760 @@
         ]
       },
       "id": 123896692
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-24T12:12:28Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 124007155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8395688,
+          48.6975766
+        ]
+      },
+      "id": 124007155
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T17:07:40Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 124357030
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1429616,
+          48.8569232
+        ]
+      },
+      "id": 124357030
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T16:57:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "change_within_50m": 1,
+        "id": 124356326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1840108,
+          48.8408836
+        ]
+      },
+      "id": 124356326
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T12:27:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osmfr",
+        "change_over_5000m": 1,
+        "change_within_50m": 1,
+        "id": 124343603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1840108,
+          48.8408836
+        ]
+      },
+      "id": 124343603
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T12:25:36Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_50m": 2,
+        "id": 124343528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1840101,
+          48.8408813
+        ]
+      },
+      "id": 124343528
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T12:24:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "toilets",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "change_within_5000m": 2,
+        "id": 124343496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2088943,
+          48.8247885
+        ]
+      },
+      "id": 124343496
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T09:26:45Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osmfr",
+        "change_over_5000m": 1,
+        "change_within_5000m": 1,
+        "id": 124334876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2088473,
+          48.8247743
+        ]
+      },
+      "id": 124334876
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T09:25:26Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_5000m": 1,
+        "id": 124334814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2088473,
+          48.8247743
+        ]
+      },
+      "id": 124334814
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-01T09:22:33Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 2,
+        "modify": 0,
+        "delete": 0,
+        "area": 0.000800073854190064,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 2,
+        "change_within_25m": 1,
+        "change_within_5000m": 1,
+        "id": 124334690
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.22350695,
+          48.81113015
+        ]
+      },
+      "id": 124334690
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-02T16:09:13Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "toilets",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "change_within_50m": 2,
+        "id": 124399066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1048152,
+          48.7866771
+        ]
+      },
+      "id": 124399066
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-02T13:10:45Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_50m": 1,
+        "id": 124391868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1048755,
+          48.7866709
+        ]
+      },
+      "id": 124391868
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-02T13:09:18Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "change_within_50m": 1,
+        "id": 124391803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1048755,
+          48.7866709
+        ]
+      },
+      "id": 124391803
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-02T11:52:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/playgrounds.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 124388502
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1429616,
+          48.8569232
+        ]
+      },
+      "id": 124388502
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-03T16:08:10Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 2,
+        "id": 124443629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0258885,
+          48.7696206
+        ]
+      },
+      "id": 124443629
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "cyril42e",
+        "uid": "1801525",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-03T16:07:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 124443592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.025914,
+          48.7696719
+        ]
+      },
+      "id": 124443592
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "codll",
+        "uid": "59347",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-08T21:03:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes"
+          ],
+          "highway": [
+            "secondary"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 8.04009590004687e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 124657957
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.101255549999999,
+          47.994768050000005
+        ]
+      },
+      "id": 124657957
     },
     {
       "type": "Feature",
@@ -4552,6 +6156,934 @@
         ]
       },
       "id": 126145178
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          },
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Ronan Blot",
+        "uid": "7041246",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T12:52:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "tertiary",
+            "living_street",
+            "secondary",
+            "primary",
+            "unclassified",
+            "service",
+            "pedestrian",
+            "footway",
+            "steps",
+            "construction"
+          ],
+          "railway": [
+            "abandoned"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "name:etymology": [
+            "Un ensemble de terrains acheté par la Ville, dont un ancien hippodrome  et une ferme nommée les Basses-Gayeules. Ces terrains furent ensuite convertis en une base de loisirs, les Gayeulles, qui finira par donner son nom au parc entier.",
+            "à un lieu-dit.",
+            "un lieu-dit. Cette voie fut dénommée par délibération du Conseil Municipal de la Ville de Rennes le 8 mars 1962.",
+            "Docteur Bertheux.  Professeur à l'école de médecine  (21 août 1852, Goven, Ille-et-Vilaine - février 1914, Nantes)",
+            "Alphonse Pellé (1887 - 1963) et Abel Pellé (1898 - 1971), médecins rennais."
+          ],
+          "name:etymology:wikidata": [
+            "Q69543075",
+            "Q12091",
+            "Q1379409",
+            "Q311854",
+            "Q157155",
+            "Q3132050",
+            "Q312758",
+            "Q29234",
+            "Q163108",
+            "Q1142",
+            "Q12193",
+            "Q16626757",
+            "Q1173",
+            "Q13950",
+            "Q9696",
+            "Q170247",
+            "Q34670",
+            "Q647",
+            "Q755",
+            "Q111461362",
+            "Q37064",
+            "Q551744",
+            "Q215161",
+            "Q134672",
+            "Q462604",
+            "Q102231",
+            "Q90",
+            "Q1137",
+            "Q206221",
+            "Q231771",
+            "Q203371",
+            "Q3085048",
+            "Q557496",
+            "Q255",
+            "Q4700",
+            "Q254",
+            "Q7312",
+            "Q194436",
+            "Q1268",
+            "Q180278",
+            "Q1178",
+            "Q1151",
+            "Q16394",
+            "Q156901",
+            "Q42292",
+            "Q160110",
+            "Q146095",
+            "Q158772",
+            "Q15878",
+            "Q200639",
+            "Q1160023",
+            "Q4043",
+            "Q8016",
+            "Q12745",
+            "Q16661480",
+            "Q15968970",
+            "Q2947761",
+            "Q650399",
+            "Q105731",
+            "Q13917",
+            "Q36167",
+            "Q1070570",
+            "Q13416868",
+            "Q2499032",
+            "Q815838",
+            "Q101711"
+          ]
+        },
+        "create": 0,
+        "modify": 321,
+        "delete": 0,
+        "area": 0.00696554519550019,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 411,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126133048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.70545865,
+          48.1396854
+        ]
+      },
+      "id": 126133048
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "user_13095807",
+        "uid": "13095807",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T11:48:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bin": [
+            "yes"
+          ],
+          "bench": [
+            "no"
+          ],
+          "highway": [
+            "crossing",
+            "bus_stop",
+            "secondary",
+            "tertiary",
+            "primary",
+            "residential",
+            "unclassified",
+            "living_street",
+            "pedestrian",
+            "service",
+            "footway",
+            "path",
+            "cycleway",
+            "construction"
+          ],
+          "railway": [
+            "abandoned"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "name:etymology": [
+            "à Jean-Jacques Duboys des Sauzais, bienfaiteur des pauvres (1792 - 1862)",
+            "Hippolyte Le Graverend,  avocat ( 1806 - 1870 ) avait légué aux hospices de Rennes toute sa fortune, évaluée à près de 600 000 Francs, et avait fondé, en annexe de ces établissements, un asile",
+            "d'un jardinier propriétaire du terrain, mais aurait plus probablement comme origine la déformation de campus Sancti Jacobi, nom cité en 1312 (Saint-Jacques)",
+            "lieu de la Croix Carrée était cité dès 1505 et tient son nom d'une maison qui portait ce nom en bordure de l'actuelle rue de Fougères",
+            "Yves-Vincent Fablet de La Motte, dit de La Motte-Fablet. Maire de Rennes  (1745, Saint-Germain, en Rennes - 1828, Rennes)",
+            "foulons fabriquaient des draps, et étaient nombreux à Rennes, à proximité de bras du fleuve, fournissant l'eau utilisée pour faire tourner les moulins à foulon qui servaient à battre la laine tissée. Mais c’est dans cette rue qu’ils habitaient.",
+            "Gaston Tardif, résistant déporté  ( 5 août 1913, Rennes - 6 août 1944)",
+            "unknown",
+            "à la date du 19 mars 1962, marquant la fin de la guerre d'Algérie à la suite des accords d'Evian signés le 18 mars",
+            "Hippolyte Le Graverend,  avocat ( 1806 - 1870 )avait légué aux hospices de Rennes toute sa fortune, évaluée à près de 600 000 Francs, et avait fondé, en annexe de ces établissements, un asile"
+          ],
+          "crossing:island": [
+            "no"
+          ],
+          "public_transport": [
+            "platform"
+          ],
+          "name:etymology:wikidata": [
+            "Q234704",
+            "Q2607651",
+            "Q4043",
+            "Q186492",
+            "Q677193",
+            "Q648164",
+            "Q71657",
+            "Q476672",
+            "Q311663",
+            "Q3419248",
+            "Q201143",
+            "Q3083324",
+            "Q81114",
+            "Q3086457",
+            "Q367042",
+            "Q535",
+            "Q2500775",
+            "Q314905",
+            "Q3816",
+            "Q322453",
+            "Q210421",
+            "Q214370",
+            "Q273334",
+            "Q725816",
+            "Q55905",
+            "Q745809",
+            "Q71503",
+            "Q1708279",
+            "Q2414232",
+            "Q186652",
+            "Q3047459",
+            "Q171826",
+            "Q207958",
+            "Q19885813",
+            "Q3173181",
+            "Q46772",
+            "Q864271",
+            "Q358325",
+            "Q21789619",
+            "Q3141517",
+            "Q273607",
+            "Q288394",
+            "Q345",
+            "Q195450",
+            "Q188697",
+            "Q319302",
+            "Q12193",
+            "Q3154767",
+            "Q12688",
+            "Q128405",
+            "Q195514",
+            "Q683415",
+            "Q3158013",
+            "Q15969615",
+            "Q15916381",
+            "Q184319",
+            "Q2038",
+            "Q201311",
+            "Q1127173",
+            "Q1666",
+            "Q230365",
+            "Q191974",
+            "Q179888",
+            "Q487523",
+            "Q208965"
+          ]
+        },
+        "create": 0,
+        "modify": 354,
+        "delete": 0,
+        "area": 0.0066249853199794,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 469,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126130180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7094151499999999,
+          48.131050200000004
+        ]
+      },
+      "id": 126130180
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "user_13095807",
+        "uid": "13095807",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T09:16:17Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "leisure": [
+            "park"
+          ],
+          "name:etymology": [
+            "Le square de La Motte, anciennement appelé « promenade de La Motte surplombant la Vilaine », est un jardin situé à Rennes à proximité du centre-ville.",
+            "Son nom fait référence à une montagne dominant le lac de Tibériade en Israël, le mont Thabor."
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0000303580816200269,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 2,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126122941
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67054235,
+          48.113887899999995
+        ]
+      },
+      "id": 126122941
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "user_13095807",
+        "uid": "13095807",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-13T09:13:37Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "primary",
+            "tertiary",
+            "living_street",
+            "residential",
+            "secondary"
+          ],
+          "leisure": [
+            "sports_centre"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "building": [
+            "civic"
+          ],
+          "name:etymology": [
+            "son établissement sur une partie des fossés de la deuxième enceinte de la ville comblés avec des décombres de l'incendie de 1720. Au 19e siècle, des Rennais l'appelaient aussi rue de la Douve ou rue du Point du jour",
+            "Maurice Guillaudot, militaire français, ancien combattant de la Première Guerre mondiale et résistant français, né le 28 juin 1893 à Paris et mort le 25 mai 19791 à Hédé (Ille-et-Vilaine). Compagnon de la Libération par décret du 19 octobre 1945."
+          ],
+          "name:etymology:wikidata": [
+            "Q518748",
+            "Q237103",
+            "Q199985",
+            "Q267962",
+            "Q648164",
+            "Q1450952",
+            "Q3389224"
+          ]
+        },
+        "create": 0,
+        "modify": 39,
+        "delete": 0,
+        "area": 0.000167302905029977,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 53,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126122839
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67034305,
+          48.11670495
+        ]
+      },
+      "id": 126122839
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          },
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Ronan Blot",
+        "uid": "7041246",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-14T13:39:09Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "social_facility"
+          ],
+          "highway": [
+            "secondary",
+            "residential",
+            "tertiary",
+            "primary",
+            "unclassified",
+            "pedestrian",
+            "footway",
+            "path",
+            "cycleway",
+            "living_street",
+            "service",
+            "primary_link",
+            "steps",
+            "secondary_link"
+          ],
+          "leisure": [
+            "park",
+            "sports_centre",
+            "stadium"
+          ],
+          "railway": [
+            "abandoned"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology": [
+            "Bonnets Rouges, mouvement Populaire Breton de 1675 - Révolte du Papier Timbré",
+            "une ancienne auberge qui portait le nom d'\"Auberge du Louis d'Or\"",
+            "à des propriétaires fonciers bourgeois du quartier nommés Jouaust.",
+            "un lieu-dit et est établie sur l'ancien domaine agricole.",
+            "Constant Véron, industriel rennais dans le textile. (1866 - 1941)",
+            "des propriétaires fonciers bourgeois du quartier nommés Jouaust."
+          ],
+          "image:streetsign": [
+            "https://i.imgur.com/EBKOkAn.jpg",
+            "https://i.imgur.com/Iz4KVY3.jpg",
+            "https://i.imgur.com/BfoKYbg.jpg",
+            "https://i.imgur.com/BIB4gIc.jpg"
+          ],
+          "name:etymology:wikidata": [
+            "Q6602",
+            "Q312391",
+            "Q9711",
+            "Q7226",
+            "Q219621",
+            "Q3131134",
+            "Q111244856",
+            "Q71724",
+            "Q3084254",
+            "Q3587835",
+            "Q3265618",
+            "Q3426598",
+            "Q3579907",
+            "Q2861958",
+            "Q207709",
+            "Q163118",
+            "Q29",
+            "Q34",
+            "Q318617",
+            "Q105981",
+            "Q288394",
+            "Q31",
+            "Q110222770",
+            "Q2097468",
+            "Q3287289",
+            "Q3107436",
+            "Q1049728",
+            "Q159646",
+            "Q332320",
+            "Q603485",
+            "Q158768",
+            "Q156214",
+            "Q2997144",
+            "Q27",
+            "Q21195",
+            "Q274464",
+            "Q2977663",
+            "Q2959289",
+            "Q312758",
+            "Q777486",
+            "Q7841",
+            "Q1754",
+            "Q453613",
+            "Q25287",
+            "Q1121760",
+            "Q1757",
+            "Q32",
+            "Q186822",
+            "Q90",
+            "Q1711650",
+            "Q237103",
+            "Q457505",
+            "Q585",
+            "Q2166628",
+            "Q7231",
+            "Q153178"
+          ]
+        },
+        "create": 0,
+        "modify": 397,
+        "delete": 0,
+        "area": 0.00339279605378049,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 503,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 6,
+        "id": 126183408
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69139325,
+          48.1008104
+        ]
+      },
+      "id": 126183408
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          },
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Ronan Blot",
+        "uid": "7041246",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-14T07:34:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "arts_centre"
+          ],
+          "highway": [
+            "primary",
+            "tertiary",
+            "residential",
+            "cycleway",
+            "primary_link",
+            "living_street",
+            "pedestrian",
+            "service",
+            "unclassified",
+            "path",
+            "footway"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "boundary": [
+            "political",
+            "administrative"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology": [
+            "un manoir de la Motte Brûlon qui sera loti à la fin du 19e siècle et en première partie du 20e.",
+            "Le lieu appartenait à l'abbaye voisine des Bénédictines et fut nommé \"la Motte à Madame\" en l'honneur de Madame l'abbesse de l'abbaye de Saint-Georges, cette dénomination a aussi une connotation grivoise en référence au pubis féminin.",
+            "Au XIVème siècle, le manoir de la \"Bellangeraie\" était une ancienne propriété du chapitre.  C'est vers la XIIIème ou XIVème siècle qu'une maison fut construite pour une certaine La Bérangère",
+            "Jacques Pâris de Bollardière (1907 - 1986 ). Officier général de l’armée française, combattant de la Seconde Guerre mondiale, de la guerre d'Indochine et de la guerre d'Algérie. C'est également une des figures de la non-violence en France.",
+            "Théophile Malo Corret de La Tour d'Auvergne. ( 23 novembre 1743, Carhaix - 28 juin 1800, Oberhausen (Allemagne)  Officier français, \"Premier grenadier de la République\".",
+            "au nom du ruisseau du Puits-Mauger, ancien puits public situé près d'un manoir seigneurial du même nom qui était situé au début de la rue de Nantes.",
+            "François Joly, médecin. Élu maire  de Bruz en 1919, il devient président des maires d'Ille-et-Vilaine et du Syndicat d'électrification du canton de Rennes Sud-Ouest, puis député de Rennes Sud, en 1936.",
+            "Maurice Maignan (1883 - 1913 ), mort dans la conquête du Borkou-Ennedi-Tibesti / Tchad",
+            "Général Noël Garnier du Plessix, défenseur de Verdun en 1916 (1860 - 1928)",
+            "Général René François Aubrée, héros du siège de Saragosse (1763 - 1808)",
+            "nom du ruisseau du Puits-Mauger, ancien puits public situé près d'un manoir seigneurial du même nom qui était situé au début de la rue de Nantes."
+          ],
+          "name:etymology:wikidata": [
+            "Q680897",
+            "Q3263405",
+            "Q163108",
+            "Q12191",
+            "Q8334017",
+            "Q3164881",
+            "Q55671858",
+            "Q18977350",
+            "Q2636224",
+            "Q166297",
+            "Q3085898",
+            "Q472568",
+            "Q3289511",
+            "Q2019775",
+            "Q171730",
+            "Q745986",
+            "Q2829603",
+            "Q318122",
+            "Q1133818",
+            "Q3526636",
+            "Q286475",
+            "Q366285",
+            "Q1872007",
+            "Q2847715",
+            "Q1151",
+            "Q3223909",
+            "Q104919",
+            "Q42247",
+            "Q23833579",
+            "Q2185",
+            "Q7321",
+            "Q712455",
+            "Q1268",
+            "Q2958717",
+            "Q3171917",
+            "Q16266399",
+            "Q12718",
+            "Q3052762",
+            "Q37693",
+            "Q5599",
+            "Q2042",
+            "Q192066",
+            "Q3571650",
+            "Q2271556",
+            "Q381244"
+          ]
+        },
+        "create": 0,
+        "modify": 235,
+        "delete": 0,
+        "area": 0.00173379349079997,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 327,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126166184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6835912,
+          48.11488335
+        ]
+      },
+      "id": 126166184
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Yann_L",
+        "uid": "677099",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-17T12:48:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "living_street",
+            "residential",
+            "secondary",
+            "tertiary",
+            "unclassified",
+            "pedestrian",
+            "service",
+            "footway"
+          ],
+          "leisure": [
+            "park",
+            "stadium"
+          ],
+          "boundary": [
+            "political"
+          ],
+          "name:etymology:wikidata": [
+            "Q3425731",
+            "Q15970696",
+            "Q232873",
+            "Q3159824",
+            "Q205783",
+            "Q201143",
+            "Q5582",
+            "Q2185",
+            "Q3052873",
+            "Q312391",
+            "Q51300191",
+            "Q3383454",
+            "Q1244766",
+            "Q219621",
+            "Q3053803",
+            "Q47007661",
+            "Q7321",
+            "Q3588641",
+            "Q3106245",
+            "Q288394",
+            "Q482156",
+            "Q310767",
+            "Q251037",
+            "Q535",
+            "Q2545301",
+            "Q22690",
+            "Q6602",
+            "Q179680",
+            "Q3816",
+            "Q2847612",
+            "Q3227378",
+            "Q267962",
+            "Q84082797",
+            "Q9696",
+            "Q1151",
+            "Q1400172",
+            "Q669893",
+            "Q106126",
+            "Q1394",
+            "Q4700",
+            "Q194436",
+            "Q104919",
+            "Q180278",
+            "Q311663",
+            "Q207951",
+            "Q555329",
+            "Q548532",
+            "Q237103",
+            "Q504",
+            "Q93182",
+            "Q551735",
+            "Q249313",
+            "Q207660",
+            "Q294344",
+            "Q218747",
+            "Q274344",
+            "Q160640",
+            "Q18434",
+            "Q2019775",
+            "Q2379136",
+            "Q2714608",
+            "Q8023",
+            "Q7504",
+            "Q822327",
+            "Q983629",
+            "Q33977",
+            "Q311854",
+            "Q2042",
+            "Q2835491",
+            "Q7226",
+            "Q2025679",
+            "Q1019",
+            "Q557496",
+            "Q286654",
+            "Q48331030",
+            "Q318122",
+            "Q3370862",
+            "Q49088288",
+            "Q632",
+            "Q155415",
+            "Q34969",
+            "Q823720",
+            "Q76181",
+            "Q2896527",
+            "Q3262775",
+            "Q379699",
+            "Q3105836",
+            "Q192615",
+            "Q21510014",
+            "Q157155",
+            "Q207958",
+            "Q2839969",
+            "Q358452",
+            "Q15229615",
+            "Q1382004",
+            "Q179888",
+            "Q16222754",
+            "Q487523",
+            "Q2871334",
+            "Q2636224",
+            "Q959708",
+            "Q3262103",
+            "Q3573441",
+            "Q3570829",
+            "Q471460",
+            "Q3421109",
+            "Q4605",
+            "Q42443",
+            "Q367042",
+            "Q3292642",
+            "Q289149",
+            "Q233088",
+            "Q140619",
+            "Q206972",
+            "Q56158",
+            "Q309702",
+            "Q1897411",
+            "Q16673904",
+            "Q3260273",
+            "Q12688",
+            "Q110835727",
+            "Q573584",
+            "Q201365",
+            "Q171730",
+            "Q3141517",
+            "Q49496",
+            "Q3173070",
+            "Q3275634",
+            "Q3302519",
+            "Q3394230"
+          ]
+        },
+        "create": 0,
+        "modify": 319,
+        "delete": 0,
+        "area": 0.0801684867563986,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 412,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126297873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1991169,
+          47.6676175
+        ]
+      },
+      "id": 126297873
     },
     {
       "type": "Feature",
@@ -5510,6 +8042,323 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "dourven",
+        "uid": "4979659",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-26T15:30:34Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ]
+        },
+        "create": 5,
+        "modify": 5,
+        "delete": 1,
+        "area": 2.48794699998415e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "move": 3,
+        "theme": "street_lighting",
+        "answer": 4,
+        "locale": "fr",
+        "imagery": "osm",
+        "deletion": 1,
+        "move:node/10054006668": "improve_accuracy",
+        "deletion:node/10054006668": "duplicate",
+        "id": 126661600
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01556175,
+          48.6323041
+        ]
+      },
+      "id": 126661600
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "dourven",
+        "uid": "4979659",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-26T07:39:09Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126641450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0160477,
+          48.6323175
+        ]
+      },
+      "id": 126641450
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "dourven",
+        "uid": "4979659",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-26T07:08:33Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "recycling",
+            "waste_disposal"
+          ],
+          "location": [
+            "underground",
+            "overground"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 1.94133000011313e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "answer": 4,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126640223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01485835,
+          48.63208175
+        ]
+      },
+      "id": 126640223
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "dourven",
+        "uid": "4979659",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-27T07:30:31Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "lamp_mount": [
+            "bent_mast"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:colour": [
+            "white"
+          ],
+          "light:method": [
+            "LED"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 6,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126684338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0157867,
+          48.6322243
+        ]
+      },
+      "id": 126684338
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "dourven",
+        "uid": "4979659",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-27T07:24:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "street_lamp"
+          ],
+          "support": [
+            "pole"
+          ],
+          "light:lit": [
+            "dusk-dawn"
+          ],
+          "lamp_mount": [
+            "straight_mast",
+            "bent_mast"
+          ],
+          "light:count": [
+            "1"
+          ],
+          "light:colour": [
+            "white"
+          ],
+          "light:direction": [
+            "313",
+            "38"
+          ]
+        },
+        "create": 0,
+        "modify": 8,
+        "delete": 0,
+        "area": 2.48434780000602e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 15,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126684107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01556175,
+          48.6323037
+        ]
+      },
+      "id": 126684107
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "dourven",
+        "uid": "4979659",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-27T07:18:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary"
+          ],
+          "maxspeed": [
+            "10",
+            "30"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 4.60212479998501e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 1,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 126683818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0205802999999998,
+          48.65169455
+        ]
+      },
+      "id": 126683818
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "Kalepom",
         "uid": "392288",
         "editor": "MapComplete 0.23.2",
@@ -6210,6 +9059,119 @@
         ]
       },
       "id": 131184806
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thomas Citharel",
+        "uid": "6105237",
+        "editor": "MapComplete 0.25.6",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-01-20T15:57:49Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "community_centre",
+            "school"
+          ],
+          "barrier": [
+            "fence"
+          ],
+          "highway": [
+            "secondary",
+            "tertiary",
+            "residential",
+            "living_street",
+            "unclassified",
+            "footway",
+            "path",
+            "service"
+          ],
+          "leisure": [
+            "sports_centre"
+          ],
+          "boundary": [
+            "administrative",
+            "political"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q551597",
+            "Q2959289",
+            "Q2959694",
+            "Q2948686",
+            "Q116269659",
+            "Q28495524",
+            "Q209169",
+            "Q3426440",
+            "Q50187",
+            "Q482156",
+            "Q3407793",
+            "Q116269638",
+            "Q116269583",
+            "Q2018526",
+            "Q15407387",
+            "Q463441",
+            "Q3592333",
+            "Q3288734",
+            "Q243778",
+            "Q3171540",
+            "Q116269599",
+            "Q313584",
+            "Q3427174",
+            "Q12665",
+            "Q3142036",
+            "Q192893",
+            "Q3104113",
+            "Q16222622",
+            "Q312915",
+            "Q26740348",
+            "Q3275634",
+            "Q1669274",
+            "Q2834440",
+            "Q536400",
+            "Q3344047",
+            "Q131117",
+            "Q201365",
+            "Q27182258",
+            "Q539",
+            "Q953305",
+            "Q42887"
+          ]
+        },
+        "create": 0,
+        "modify": 143,
+        "delete": 0,
+        "area": 0.000258484878400036,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 176,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_over_5000m": 40,
+        "id": 131513968
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7085322,
+          48.10655715
+        ]
+      },
+      "id": 131513968
     },
     {
       "type": "Feature",
@@ -6962,6 +9924,116 @@
         ]
       },
       "id": 132846772
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "GeoMechain",
+        "uid": "10398640",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-02-21T08:31:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q983629",
+            "Q9068",
+            "Q6527",
+            "Q43444",
+            "Q551735",
+            "Q3270494",
+            "Q326606",
+            "Q18418654",
+            "Q504",
+            "Q311854",
+            "Q42443",
+            "Q179680",
+            "Q44197"
+          ]
+        },
+        "create": 0,
+        "modify": 20,
+        "delete": 0,
+        "area": 0.000109489601139949,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 23,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 132823716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.102275649999999,
+          47.9871118
+        ]
+      },
+      "id": 132823716
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "tleguern",
+        "uid": "9507879",
+        "editor": "MapComplete 0.26.1",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-02-26T09:01:59Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/uoFP6sq.jpg"
+          ],
+          "colour": [
+            "red"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hailhydrant.html",
+        "theme": "hailhydrant",
+        "answer": 1,
+        "locale": "fr",
+        "imagery": "HDM_HOT",
+        "add-image": 1,
+        "change_within_25m": 2,
+        "id": 133033395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3665961,
+          47.7499142
+        ]
+      },
+      "id": 133033395
     },
     {
       "type": "Feature",
@@ -11470,6 +14542,489 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8736753823",
+            "name": "Rue Jean-Paul Sartre",
+            "osm_id": 8736753823,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "highway": "walkingbus_stop"
+            }
+          },
+          {
+            "url": "node-8736753828",
+            "name": "Rue Jules Verne",
+            "osm_id": 8736753828,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "highway": "walkingbus_stop"
+            }
+          },
+          {
+            "url": "node-8736753826",
+            "name": "Rue Bergson",
+            "osm_id": 8736753826,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "highway": "walkingbus_stop"
+            }
+          },
+          {
+            "url": "node-8736666629",
+            "name": "École Jacques Prévert",
+            "osm_id": 8736666629,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "highway": "walkingbus_stop"
+            }
+          }
+        ],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-04-03T07:41:44Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "bus",
+            "railway"
+          ],
+          "amenity": [
+            "school",
+            "community_centre",
+            "kindergarten",
+            "library"
+          ],
+          "highway": [
+            "steps",
+            "footway",
+            "service",
+            "motorway_junction",
+            "walkingbus_stop",
+            "secondary",
+            "trunk_link",
+            "motorway_link",
+            "residential",
+            "living_street",
+            "unclassified",
+            "tertiary",
+            "primary",
+            "trunk",
+            "pedestrian",
+            "path",
+            "cycleway",
+            "primary_link",
+            "construction"
+          ],
+          "leisure": [
+            "park",
+            "sports_centre"
+          ],
+          "railway": [
+            "abandoned"
+          ],
+          "boundary": [
+            "political",
+            "political_fraction",
+            "administrative"
+          ],
+          "building": [
+            "yes",
+            "gymnasium",
+            "commercial",
+            "civic"
+          ],
+          "description": [
+            "- Bibliothèque Paul Le Bohec - Salle Condorcet",
+            "- Bibliothèque Paul Le Bohec\n- Salle Condorcet"
+          ],
+          "name:etymology:wikidata": [
+            "Q38380",
+            "Q163108",
+            "Q152027",
+            "Q3413032",
+            "Q71724",
+            "Q3413086",
+            "Q170095",
+            "Q959708",
+            "Q3413081",
+            "Q15878",
+            "Q12193",
+            "Q849324",
+            "Q1070570",
+            "Q165274",
+            "Q9364",
+            "Q42156",
+            "Q33977",
+            "Q163118",
+            "Q4043",
+            "Q168473",
+            "Q3067559",
+            "Q25356",
+            "Q632",
+            "Q2957706",
+            "Q39931",
+            "Q134741",
+            "Q647",
+            "Q1178",
+            "Q36050",
+            "Q145889",
+            "Q2042",
+            "Q195450",
+            "Q30051100",
+            "Q82984",
+            "Q219621",
+            "Q463531",
+            "Q529",
+            "Q276480",
+            "Q233965",
+            "Q217706",
+            "Q132684",
+            "Q273607",
+            "Q49325",
+            "Q47162",
+            "Q42596",
+            "Q129155",
+            "Q189006",
+            "Q71023",
+            "Q214851",
+            "Q843173",
+            "Q2757322",
+            "Q3573856",
+            "Q22690",
+            "Q29301440",
+            "Q81082",
+            "Q318004",
+            "Q186492",
+            "Q637241",
+            "Q333388",
+            "Q7321",
+            "Q49496",
+            "Q106208",
+            "Q675",
+            "Q133855",
+            "Q4128",
+            "Q501",
+            "Q755",
+            "Q49752",
+            "Q561724",
+            "Q90",
+            "Q539022",
+            "Q3270494",
+            "Q39607",
+            "Q437983",
+            "Q261010",
+            "Q441143",
+            "Q842462",
+            "Q1379808",
+            "Q16252002",
+            "Q1468519",
+            "Q591233",
+            "Q212",
+            "Q16",
+            "Q29999",
+            "Q3371482",
+            "Q61779876",
+            "Q3131134",
+            "Q12191",
+            "Q107426",
+            "Q213763",
+            "Q542638",
+            "Q676745",
+            "Q191085",
+            "Q1509703",
+            "Q954076",
+            "Q3084254",
+            "Q942434",
+            "Q930538",
+            "Q41",
+            "Q548",
+            "Q219",
+            "Q36",
+            "Q8007",
+            "Q275020",
+            "Q45",
+            "Q21",
+            "Q237564",
+            "Q504",
+            "Q228",
+            "Q36704",
+            "Q314265",
+            "Q1290",
+            "Q287953",
+            "Q244413",
+            "Q35",
+            "Q12688",
+            "Q2475967",
+            "Q43444",
+            "Q2773178",
+            "Q4857439",
+            "Q211",
+            "Q762",
+            "Q680897",
+            "Q2848983",
+            "Q38",
+            "Q3079037",
+            "Q206972",
+            "Q551597",
+            "Q47484",
+            "Q42247",
+            "Q236",
+            "Q37",
+            "Q217",
+            "Q31487",
+            "Q297758",
+            "Q4137",
+            "Q465681",
+            "Q386438",
+            "Q237090",
+            "Q218679",
+            "Q2250176",
+            "Q1190",
+            "Q2824864",
+            "Q33",
+            "Q545",
+            "Q198644",
+            "Q1248451",
+            "Q3261064",
+            "Q5622",
+            "Q166162",
+            "Q270",
+            "Q201823",
+            "Q191",
+            "Q216",
+            "Q8197",
+            "Q645",
+            "Q580",
+            "Q37333",
+            "Q1792",
+            "Q15288",
+            "Q1773",
+            "Q268",
+            "Q11925",
+            "Q208230",
+            "Q25263",
+            "Q14299",
+            "Q768261",
+            "Q2979702",
+            "Q1362331",
+            "Q171730",
+            "Q36769",
+            "Q327",
+            "Q590016",
+            "Q2038",
+            "Q179948",
+            "Q189863",
+            "Q8692",
+            "Q22",
+            "Q19686",
+            "Q84",
+            "Q827169",
+            "Q224",
+            "Q180086",
+            "Q1202",
+            "Q750418",
+            "Q1288",
+            "Q194263",
+            "Q1004306",
+            "Q6514",
+            "Q78967",
+            "Q3500883",
+            "Q170054",
+            "Q34374",
+            "Q75459",
+            "Q212150",
+            "Q1524",
+            "Q105261",
+            "Q103011",
+            "Q153248",
+            "Q7226",
+            "Q45412",
+            "Q159457",
+            "Q742117",
+            "Q24577217",
+            "Q1425908",
+            "Q1142571",
+            "Q273827",
+            "Q159987",
+            "Q732738",
+            "Q41921",
+            "Q1481436",
+            "Q71",
+            "Q14294",
+            "Q13670",
+            "Q35958",
+            "Q111244828",
+            "Q30241",
+            "Q680881",
+            "Q243127",
+            "Q3372727",
+            "Q465721",
+            "Q16230827",
+            "Q1137",
+            "Q1142",
+            "Q9696",
+            "Q3898097",
+            "Q28",
+            "Q43266",
+            "Q312391",
+            "Q1236944",
+            "Q1122980",
+            "Q605051",
+            "Q697829",
+            "Q5647",
+            "Q26831",
+            "Q706553",
+            "Q472",
+            "Q81685",
+            "Q41269",
+            "Q3087508",
+            "Q49767",
+            "Q3816",
+            "Q622365",
+            "Q7197",
+            "Q216092",
+            "Q46",
+            "Q39",
+            "Q2492",
+            "Q274163",
+            "Q15981",
+            "Q3535557",
+            "Q39193",
+            "Q35000",
+            "Q261687",
+            "Q70",
+            "Q221",
+            "Q188736",
+            "Q1653",
+            "Q23522",
+            "Q47887",
+            "Q403",
+            "Q192615",
+            "Q12269651",
+            "Q173699",
+            "Q597",
+            "Q116379705",
+            "Q214",
+            "Q773756",
+            "Q63604",
+            "Q151164",
+            "Q44122",
+            "Q1866058",
+            "Q1400172",
+            "Q733125",
+            "Q9327",
+            "Q3474239",
+            "Q159700",
+            "Q364219",
+            "Q3300775",
+            "Q298180",
+            "Q441294",
+            "Q153425",
+            "Q155691",
+            "Q153832",
+            "Q3335188",
+            "Q3261911",
+            "Q12113",
+            "Q312835",
+            "Q281411",
+            "Q3107304",
+            "Q934015",
+            "Q137579",
+            "Q449",
+            "Q555329",
+            "Q223150",
+            "Q2850173",
+            "Q14112",
+            "Q111576001",
+            "Q8023",
+            "Q347201",
+            "Q1646",
+            "Q12004",
+            "Q239",
+            "Q1085",
+            "Q1309",
+            "Q6602",
+            "Q1781",
+            "Q1435",
+            "Q220",
+            "Q8717",
+            "Q109255",
+            "Q1842",
+            "Q512640",
+            "Q435208",
+            "Q2829859",
+            "Q232831",
+            "Q947032",
+            "Q309945",
+            "Q1685900",
+            "Q239215",
+            "Q233488",
+            "Q3261422",
+            "Q288394",
+            "Q146183",
+            "Q193785",
+            "Q532811",
+            "Q964297",
+            "Q115470062"
+          ]
+        },
+        "create": 0,
+        "modify": 1507,
+        "delete": 0,
+        "area": 0.0416589204103207,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 1995,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 134441348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6093079000000001,
+          48.14716795
+        ]
+      },
+      "id": 134441348
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [],
         "tags": [],
         "features": [],
@@ -12046,6 +15601,2934 @@
         ]
       },
       "id": 135476113
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.2",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-01T17:03:42Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 4,
+        "delete": 0,
+        "area": 2.95911000000469e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/advertising.html",
+        "theme": "advertising",
+        "answer": 8,
+        "locale": "fr",
+        "imagery": "fr.ign.bdortho",
+        "add-image": 1,
+        "change_over_5000m": 2,
+        "change_within_25m": 9,
+        "id": 135583353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5405593,
+          47.21701365
+        ]
+      },
+      "id": 135583353
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.2",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-01T14:33:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no"
+          ],
+          "email": [
+            "demande-interventions@ville-liffre.fr"
+          ],
+          "image": [
+            "https://i.imgur.com/IRZohZk.jpg"
+          ],
+          "phone": [
+            "+33 2 99 68 31 45"
+          ],
+          "leisure": [
+            "playground"
+          ],
+          "max_age": [
+            "12"
+          ],
+          "min_age": [
+            "4"
+          ],
+          "operator": [
+            "Ville de Liffré"
+          ],
+          "opening_hours": [
+            "24/7"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 8.19727600016262e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 7,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 8,
+        "id": 135576661
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51500995,
+          48.2060115
+        ]
+      },
+      "id": 135576661
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.2",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-01T14:32:14Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "colour": [
+            "brown"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "backrest": [
+            "yes"
+          ],
+          "material": [
+            "wood"
+          ],
+          "two_sided": [
+            "no"
+          ],
+          "survey:date": [
+            "2023-05-01"
+          ],
+          "seats:separated": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 5.35163999995109e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 10,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_within_25m": 10,
+        "id": 135576620
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5150521000000001,
+          48.206069299999996
+        ]
+      },
+      "id": 135576620
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.2",
+        "comment": "Adding data with #MapComplete for theme #maps",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-05T15:24:33Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "beauty",
+            "clothes",
+            "jewelry",
+            "optician",
+            "chocolate",
+            "cosmetics",
+            "furniture",
+            "interior_decoration",
+            "mobile_phone",
+            "fashion_accessories",
+            "houseware",
+            "shoes",
+            "department_store",
+            "travel_agency",
+            "hairdresser"
+          ],
+          "image": [
+            "https://i.imgur.com/DvtwiBI.jpg",
+            "https://i.imgur.com/kc7FspC.jpg",
+            "https://i.imgur.com/JL1EcuC.jpg",
+            "https://i.imgur.com/QXXLcuV.jpg",
+            "https://i.imgur.com/hXUtLX8.jpg"
+          ],
+          "amenity": [
+            "bank"
+          ],
+          "toilets": [
+            "no"
+          ],
+          "tourism": [
+            "information"
+          ],
+          "check_date": [
+            "2023-05-05"
+          ],
+          "survey:date": [
+            "2020-05-19"
+          ]
+        },
+        "create": 2,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.00000319934979000728,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maps.html",
+        "theme": "maps",
+        "locale": "fr",
+        "imagery": "CartoDB.Positron",
+        "add-image": 3,
+        "change_over_5000m": 2,
+        "change_within_25m": 3,
+        "id": 135746650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53518085,
+          47.20514125
+        ]
+      },
+      "id": 135746650
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.2",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-05T15:16:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "beauty",
+            "clothes",
+            "jewelry",
+            "optician",
+            "chocolate",
+            "cosmetics",
+            "furniture",
+            "hairdresser",
+            "hairdresser_supply",
+            "newsagent",
+            "interior_decoration",
+            "shoes",
+            "mobile_phone",
+            "fashion_accessories",
+            "houseware",
+            "department_store",
+            "travel_agency"
+          ],
+          "image": [
+            "https://i.imgur.com/9iPrRHN.jpg",
+            "https://i.imgur.com/DvtwiBI.jpg",
+            "https://i.imgur.com/kc7FspC.jpg",
+            "https://i.imgur.com/JL1EcuC.jpg",
+            "https://i.imgur.com/s4pTrrD.jpg",
+            "https://i.imgur.com/PxaYthN.jpg",
+            "https://i.imgur.com/QXXLcuV.jpg"
+          ],
+          "amenity": [
+            "pharmacy",
+            "bank"
+          ],
+          "toilets": [
+            "no"
+          ],
+          "check_date": [
+            "2023-05-05"
+          ],
+          "survey:date": [
+            "2020-05-19"
+          ]
+        },
+        "create": 9,
+        "modify": 20,
+        "delete": 0,
+        "area": 0.00000451187344000457,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/advertising.html",
+        "theme": "advertising",
+        "answer": 18,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 16,
+        "change_over_5000m": 9,
+        "change_within_25m": 34,
+        "id": 135746399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5356717999999998,
+          47.2051419
+        ]
+      },
+      "id": 135746399
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.2",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-07T08:48:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ]
+        },
+        "create": 3,
+        "modify": 4,
+        "delete": 0,
+        "area": 1.10569759998716e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 17,
+        "locale": "fr",
+        "imagery": "fr.ign.bdortho",
+        "change_over_5000m": 3,
+        "change_within_25m": 17,
+        "id": 135801965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5398074,
+          47.21779345
+        ]
+      },
+      "id": 135801965
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Karl Maps",
+        "uid": "19256039",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-05-13T22:24:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 2,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000110588169600018,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 13,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 136068424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6786471,
+          48.1130609
+        ]
+      },
+      "id": 136068424
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T18:54:19Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "ref": [
+            "2505"
+          ],
+          "amenity": [
+            "vending_machine",
+            "parking"
+          ],
+          "building": [
+            "garages"
+          ],
+          "payment:coins": [
+            "yes"
+          ],
+          "payment:notes": [
+            "no"
+          ],
+          "capacity:disabled": [
+            "0"
+          ],
+          "payment:debit_cards": [
+            "yes"
+          ],
+          "payment:credit_cards": [
+            "yes"
+          ]
+        },
+        "create": 3,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.000013995508319981,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/parkings.html",
+        "theme": "parkings",
+        "answer": 3,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_over_5000m": 3,
+        "change_within_25m": 3,
+        "id": 136349788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5323882,
+          47.221847499999996
+        ]
+      },
+      "id": 136349788
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T18:03:34Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no"
+          ],
+          "ref": [
+            "205",
+            "206",
+            "406"
+          ],
+          "image": [
+            "https://i.imgur.com/6zU3YgL.jpg",
+            "https://i.imgur.com/ZkBXnD6.jpg",
+            "https://i.imgur.com/RtMya8M.jpg",
+            "https://i.imgur.com/FAfgVdK.jpg",
+            "https://i.imgur.com/VIL8w8Q.jpg",
+            "https://i.imgur.com/oDYSQjk.jpg",
+            "https://i.imgur.com/EzPiu1h.jpg",
+            "https://i.imgur.com/03fWxTD.jpg",
+            "https://i.imgur.com/8y0ufmR.jpg",
+            "https://i.imgur.com/Cuvvat1.jpg",
+            "https://i.imgur.com/lZInNeQ.jpg",
+            "https://i.imgur.com/cuGteUr.jpg",
+            "https://i.imgur.com/EMdMt5E.jpg"
+          ],
+          "sides": [
+            "1"
+          ],
+          "highway": [
+            "tertiary",
+            "residential",
+            "service"
+          ],
+          "message": [
+            "commercial"
+          ],
+          "animated": [
+            "winding_posters",
+            "no"
+          ],
+          "luminous": [
+            "yes"
+          ],
+          "man_made": [
+            "advertising",
+            "surveillance"
+          ],
+          "camera:direction": [
+            "280",
+            "50"
+          ],
+          "image:streetsign": [
+            "https://i.imgur.com/AMIM3EI.jpg",
+            "https://i.imgur.com/3DY5P2a.jpg",
+            "https://i.imgur.com/BZ3TDjV.jpg",
+            "https://i.imgur.com/J1ThIUv.jpg",
+            "https://i.imgur.com/62Vdkwx.jpg"
+          ]
+        },
+        "create": 3,
+        "modify": 10,
+        "delete": 0,
+        "area": 0.0000479803892399971,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 14,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 4,
+        "change_over_5000m": 3,
+        "change_within_25m": 18,
+        "id": 136348244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5230312,
+          47.2319852
+        ]
+      },
+      "id": 136348244
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T17:59:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "man_made": [
+            "surveillance"
+          ]
+        },
+        "create": 2,
+        "modify": 4,
+        "delete": 0,
+        "area": 6.19520000113789e-10,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 3,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 2,
+        "change_over_5000m": 2,
+        "change_within_25m": 5,
+        "id": 136348143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5198757,
+          47.2353445
+        ]
+      },
+      "id": 136348143
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T16:38:44Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "tourism": [
+            "artwork"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/artwork.html",
+        "theme": "artwork",
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 136345073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5157032,
+          47.2460416
+        ]
+      },
+      "id": 136345073
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T16:36:47Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no",
+            "yes"
+          ],
+          "ref": [
+            "675",
+            "275",
+            "56",
+            "205",
+            "206",
+            "406"
+          ],
+          "image": [
+            "https://i.imgur.com/lMfEh85.jpg",
+            "https://i.imgur.com/4EwM5Xi.jpg",
+            "https://i.imgur.com/tYjvGfT.jpg",
+            "https://i.imgur.com/bNLao7x.jpg",
+            "https://i.imgur.com/uiBVjWh.jpg",
+            "https://i.imgur.com/aIAZOD5.jpg",
+            "https://i.imgur.com/4RBsVHS.jpg",
+            "https://i.imgur.com/Harzh0U.jpg",
+            "https://i.imgur.com/6zU3YgL.jpg",
+            "https://i.imgur.com/ZkBXnD6.jpg",
+            "https://i.imgur.com/RtMya8M.jpg",
+            "https://i.imgur.com/JNu58ck.jpg",
+            "https://i.imgur.com/FAfgVdK.jpg",
+            "https://i.imgur.com/VIL8w8Q.jpg",
+            "https://i.imgur.com/oDYSQjk.jpg",
+            "https://i.imgur.com/EzPiu1h.jpg",
+            "https://i.imgur.com/03fWxTD.jpg",
+            "https://i.imgur.com/O4lQhYO.jpg",
+            "https://i.imgur.com/AEQrgqj.jpg",
+            "https://i.imgur.com/8y0ufmR.jpg",
+            "https://i.imgur.com/Cuvvat1.jpg",
+            "https://i.imgur.com/lZInNeQ.jpg",
+            "https://i.imgur.com/GoHyTP3.jpg"
+          ],
+          "sides": [
+            "1"
+          ],
+          "amenity": [
+            "community_centre"
+          ],
+          "highway": [
+            "crossing",
+            "path",
+            "service",
+            "footway",
+            "tertiary",
+            "residential",
+            "pedestrian"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "message": [
+            "commercial",
+            "local"
+          ],
+          "surface": [
+            "concrete",
+            "grass",
+            "ground",
+            "asphalt"
+          ],
+          "animated": [
+            "no",
+            "winding_posters"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "building": [
+            "garage",
+            "yes",
+            "apartments",
+            "mosque"
+          ],
+          "luminous": [
+            "no",
+            "yes"
+          ],
+          "man_made": [
+            "surveillance",
+            "advertising"
+          ],
+          "operator": [
+            "Ville de Nantes"
+          ],
+          "check_date": [
+            "2023-05-20"
+          ],
+          "camera:type": [
+            "fixed"
+          ],
+          "survey:date": [
+            "2018-12-06"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "outdoor"
+          ],
+          "tactile_paving": [
+            "yes",
+            "no"
+          ],
+          "crossing:island": [
+            "no"
+          ],
+          "camera:direction": [
+            "220",
+            "300",
+            "110",
+            "190",
+            "310",
+            "115"
+          ],
+          "image:streetsign": [
+            "https://i.imgur.com/AMIM3EI.jpg",
+            "https://i.imgur.com/3DY5P2a.jpg",
+            "https://i.imgur.com/Rr3wD3Q.jpg",
+            "https://i.imgur.com/BZ3TDjV.jpg",
+            "https://i.imgur.com/8Q1WBI4.jpg",
+            "https://i.imgur.com/FF8JJjw.jpg",
+            "https://i.imgur.com/Ecsph2U.jpg",
+            "https://i.imgur.com/plqLzWN.jpg",
+            "https://i.imgur.com/vxrP51h.jpg",
+            "https://i.imgur.com/TLbUcH2.jpg",
+            "https://i.imgur.com/Q0JgvUP.jpg",
+            "https://i.imgur.com/QxaLsA1.jpg",
+            "https://i.imgur.com/hz6AXQp.jpg",
+            "https://i.imgur.com/VWTMtty.jpg",
+            "https://i.imgur.com/J1ThIUv.jpg",
+            "https://i.imgur.com/eiSbYun.jpg",
+            "https://i.imgur.com/Ov0n8x2.jpg",
+            "https://i.imgur.com/6FGWETY.jpg",
+            "https://i.imgur.com/q05C12E.jpg",
+            "https://i.imgur.com/AxRi6zV.jpg",
+            "https://i.imgur.com/puoUDRH.jpg",
+            "https://i.imgur.com/3SPuOwG.jpg",
+            "https://i.imgur.com/tC8f13j.jpg",
+            "https://i.imgur.com/62Vdkwx.jpg",
+            "https://i.imgur.com/wNDsjSU.jpg"
+          ],
+          "surveillance:type": [
+            "camera"
+          ],
+          "surveillance:zone": [
+            "entrance"
+          ],
+          "name:etymology:wikidata": [
+            "Q117833067",
+            "Q271991"
+          ]
+        },
+        "create": 0,
+        "modify": 28,
+        "delete": 0,
+        "area": 0.000350454617629951,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 4,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 25,
+        "change_within_25m": 7,
+        "change_within_50m": 11,
+        "change_within_100m": 1,
+        "change_within_500m": 10,
+        "id": 136345020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5201310499999998,
+          47.23614635
+        ]
+      },
+      "id": 136345020
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T16:22:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no",
+            "yes"
+          ],
+          "ref": [
+            "400",
+            "675",
+            "275",
+            "56",
+            "205",
+            "206",
+            "406"
+          ],
+          "image": [
+            "https://i.imgur.com/uDoLsQi.jpg",
+            "https://i.imgur.com/mrAqUdl.jpg",
+            "https://i.imgur.com/lMfEh85.jpg",
+            "https://i.imgur.com/4EwM5Xi.jpg",
+            "https://i.imgur.com/tYjvGfT.jpg",
+            "https://i.imgur.com/bNLao7x.jpg",
+            "https://i.imgur.com/uiBVjWh.jpg",
+            "https://i.imgur.com/aIAZOD5.jpg",
+            "https://i.imgur.com/4RBsVHS.jpg",
+            "https://i.imgur.com/Harzh0U.jpg",
+            "https://i.imgur.com/6zU3YgL.jpg",
+            "https://i.imgur.com/UmVOIE9.jpg",
+            "https://i.imgur.com/ZkBXnD6.jpg",
+            "https://i.imgur.com/RtMya8M.jpg",
+            "https://i.imgur.com/JNu58ck.jpg",
+            "https://i.imgur.com/FAfgVdK.jpg",
+            "https://i.imgur.com/VIL8w8Q.jpg",
+            "https://i.imgur.com/oDYSQjk.jpg",
+            "https://i.imgur.com/EzPiu1h.jpg",
+            "https://i.imgur.com/03fWxTD.jpg",
+            "https://i.imgur.com/O4lQhYO.jpg",
+            "https://i.imgur.com/AEQrgqj.jpg",
+            "https://i.imgur.com/33epPZd.jpg",
+            "https://i.imgur.com/aeG1i1X.jpg",
+            "https://i.imgur.com/nDsBdoF.jpg",
+            "https://i.imgur.com/8y0ufmR.jpg",
+            "https://i.imgur.com/Cuvvat1.jpg",
+            "https://i.imgur.com/lZInNeQ.jpg",
+            "https://i.imgur.com/GoHyTP3.jpg"
+          ],
+          "sides": [
+            "1"
+          ],
+          "amenity": [
+            "community_centre"
+          ],
+          "highway": [
+            "crossing"
+          ],
+          "message": [
+            "commercial",
+            "local"
+          ],
+          "animated": [
+            "no",
+            "winding_posters"
+          ],
+          "building": [
+            "apartments",
+            "yes",
+            "garage",
+            "mosque"
+          ],
+          "luminous": [
+            "no",
+            "yes"
+          ],
+          "man_made": [
+            "surveillance",
+            "advertising",
+            "flagpole"
+          ],
+          "operator": [
+            "Ville de Nantes"
+          ],
+          "check_date": [
+            "2023-05-20"
+          ],
+          "camera:type": [
+            "dome",
+            "fixed"
+          ],
+          "survey:date": [
+            "2018-12-06"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "outdoor"
+          ],
+          "tactile_paving": [
+            "yes",
+            "no"
+          ],
+          "crossing:island": [
+            "no"
+          ],
+          "camera:direction": [
+            "220",
+            "300",
+            "110",
+            "190",
+            "310",
+            "115"
+          ],
+          "surveillance:type": [
+            "camera"
+          ],
+          "surveillance:zone": [
+            "entrance"
+          ]
+        },
+        "create": 5,
+        "modify": 48,
+        "delete": 0,
+        "area": 0.000404104890419958,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/advertising.html",
+        "theme": "advertising",
+        "answer": 41,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 24,
+        "change_over_5000m": 5,
+        "change_within_25m": 54,
+        "change_within_50m": 11,
+        "id": 136344397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5205522,
+          47.23699695
+        ]
+      },
+      "id": 136344397
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T16:07:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/nZgQYAA.jpg",
+            "https://i.imgur.com/uDoLsQi.jpg",
+            "https://i.imgur.com/mrAqUdl.jpg",
+            "https://i.imgur.com/XRgJDjE.jpg",
+            "https://i.imgur.com/PCw0l3m.jpg",
+            "https://i.imgur.com/lMfEh85.jpg",
+            "https://i.imgur.com/4EwM5Xi.jpg",
+            "https://i.imgur.com/dO5EdYk.jpg",
+            "https://i.imgur.com/tYjvGfT.jpg",
+            "https://i.imgur.com/bNLao7x.jpg",
+            "https://i.imgur.com/uiBVjWh.jpg",
+            "https://i.imgur.com/aIAZOD5.jpg",
+            "https://i.imgur.com/4RBsVHS.jpg"
+          ],
+          "amenity": [
+            "community_centre"
+          ],
+          "highway": [
+            "crossing"
+          ],
+          "building": [
+            "apartments",
+            "yes",
+            "garage",
+            "mosque"
+          ],
+          "man_made": [
+            "surveillance"
+          ],
+          "operator": [
+            "Ville de Nantes"
+          ],
+          "check_date": [
+            "2023-05-20"
+          ],
+          "camera:type": [
+            "dome",
+            "fixed"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "outdoor"
+          ],
+          "tactile_paving": [
+            "yes",
+            "no"
+          ],
+          "crossing:island": [
+            "no"
+          ],
+          "camera:direction": [
+            "220",
+            "300",
+            "110",
+            "190",
+            "310",
+            "115"
+          ],
+          "surveillance:type": [
+            "camera"
+          ],
+          "surveillance:zone": [
+            "entrance"
+          ]
+        },
+        "create": 35,
+        "modify": 91,
+        "delete": 0,
+        "area": 0.00010396776799999,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 103,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 25,
+        "change_over_5000m": 9,
+        "change_within_25m": 131,
+        "change_within_50m": 15,
+        "id": 136343924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5161333,
+          47.2420436
+        ]
+      },
+      "id": 136343924
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T14:52:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no"
+          ],
+          "message": [
+            "commercial"
+          ],
+          "animated": [
+            "no"
+          ],
+          "luminous": [
+            "no"
+          ],
+          "operator": [
+            "Insert"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/advertising.html",
+        "theme": "advertising",
+        "answer": 4,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_within_25m": 4,
+        "id": 136341157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5305511,
+          47.2241372
+        ]
+      },
+      "id": 136341157
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T14:44:22Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "vending_machine"
+          ]
+        },
+        "create": 4,
+        "modify": 0,
+        "delete": 0,
+        "area": 0.0000202326486000002,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/parkings.html",
+        "theme": "parkings",
+        "answer": 2,
+        "locale": "fr",
+        "imagery": "fr.ign.bdortho",
+        "change_over_5000m": 4,
+        "change_within_25m": 2,
+        "id": 136340763
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.535185,
+          47.2220832
+        ]
+      },
+      "id": 136340763
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-05-20T09:25:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "bicycle"
+          ],
+          "highway": [
+            "path",
+            "track",
+            "tertiary",
+            "secondary",
+            "residential",
+            "living_street",
+            "unclassified",
+            "steps",
+            "pedestrian",
+            "tertiary_link",
+            "footway",
+            "service"
+          ],
+          "name:etymology:wikidata": [
+            "Q276590",
+            "Q118516883",
+            "Q2830966",
+            "Q118517116",
+            "Q112072414",
+            "Q355112",
+            "Q118516989",
+            "Q3159824",
+            "Q233488",
+            "Q86668127",
+            "Q2958254",
+            "Q5396",
+            "Q118516639",
+            "Q3309024",
+            "Q333489",
+            "Q190944",
+            "Q2828036",
+            "Q3119697",
+            "Q188857",
+            "Q118519398",
+            "Q118517189",
+            "Q3189364",
+            "Q358167",
+            "Q26270191",
+            "Q18425",
+            "Q18434",
+            "Q109875",
+            "Q62272855",
+            "Q56158",
+            "Q3383993",
+            "Q118516829",
+            "Q118518444",
+            "Q2382596",
+            "Q106650398"
+          ]
+        },
+        "create": 0,
+        "modify": 86,
+        "delete": 0,
+        "area": 1.36044930016391,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 94,
+        "locale": "fr",
+        "imagery": "osm",
+        "id": 136329537
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.02787555,
+          47.646663950000004
+        ]
+      },
+      "id": 136329537
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thomas Citharel",
+        "uid": "6105237",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T17:33:48Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school",
+            "cinema",
+            "hospital",
+            "college"
+          ],
+          "highway": [
+            "residential",
+            "tertiary",
+            "path",
+            "service",
+            "living_street",
+            "pedestrian",
+            "footway"
+          ],
+          "leisure": [
+            "sports_centre"
+          ],
+          "railway": [
+            "tram"
+          ],
+          "building": [
+            "yes",
+            "cinema",
+            "school"
+          ],
+          "name:etymology:wikidata": [
+            "Q345",
+            "Q118558568",
+            "Q504931",
+            "Q190507",
+            "Q454",
+            "Q344",
+            "Q247792",
+            "Q3084027",
+            "Q358479",
+            "Q314265",
+            "Q2966173",
+            "Q959708",
+            "Q632",
+            "Q529",
+            "Q122701",
+            "Q1035",
+            "Q1421530",
+            "Q3271084",
+            "Q253224",
+            "Q1471139",
+            "Q104154",
+            "Q769097",
+            "Q313",
+            "Q13423",
+            "Q9200",
+            "Q994190",
+            "Q46",
+            "Q661825",
+            "Q9123",
+            "Q446435",
+            "Q619",
+            "Q83331",
+            "Q937",
+            "Q307",
+            "Q8963",
+            "Q935301",
+            "Q55388",
+            "Q152384",
+            "Q7186",
+            "Q451637",
+            "Q275597",
+            "Q12124",
+            "Q9256",
+            "Q2833671",
+            "Q116246871",
+            "Q7231",
+            "Q2514",
+            "Q515589",
+            "Q236630",
+            "Q882",
+            "Q63704",
+            "Q10464",
+            "Q680897",
+            "Q34969",
+            "Q128267",
+            "Q32334",
+            "Q298180",
+            "Q106126",
+            "Q4605",
+            "Q449091",
+            "Q270187",
+            "Q106443",
+            "Q1631",
+            "Q235641",
+            "Q60022",
+            "Q151972",
+            "Q235982",
+            "Q235507",
+            "Q877804",
+            "Q443085",
+            "Q449794",
+            "Q261456",
+            "Q2262935",
+            "Q3102566",
+            "Q3293614"
+          ]
+        },
+        "create": 0,
+        "modify": 164,
+        "delete": 0,
+        "area": 0.00173926895867999,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 207,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 136381371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5627542,
+          47.17803635
+        ]
+      },
+      "id": 136381371
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T17:22:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "seats": [
+            "4"
+          ],
+          "colour": [
+            "brown"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "material": [
+            "wood"
+          ],
+          "survey:date": [
+            "2023-05-21"
+          ]
+        },
+        "create": 4,
+        "modify": 17,
+        "delete": 0,
+        "area": 7.58398200004865e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 32,
+        "locale": "fr",
+        "imagery": "fr.ign.bdortho",
+        "change_over_5000m": 4,
+        "change_within_25m": 27,
+        "change_within_50m": 5,
+        "id": 136381032
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5161274,
+          47.232372350000006
+        ]
+      },
+      "id": 136381032
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T16:29:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "public_bookcase"
+          ]
+        },
+        "create": 1,
+        "modify": 7,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/bookcases.html",
+        "theme": "bookcases",
+        "answer": 4,
+        "locale": "fr",
+        "imagery": "fr.ign.bdortho",
+        "add-image": 3,
+        "change_over_5000m": 1,
+        "change_within_25m": 7,
+        "id": 136379213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5088391,
+          47.2366077
+        ]
+      },
+      "id": 136379213
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T16:05:23Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "seats": [
+            "2"
+          ],
+          "colour": [
+            "brown"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "material": [
+            "wood"
+          ],
+          "direction": [
+            "195"
+          ],
+          "survey:date": [
+            "2023-05-21"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 5,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_within_25m": 5,
+        "id": 136378355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5086528,
+          47.2415153
+        ]
+      },
+      "id": 136378355
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T14:54:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no"
+          ],
+          "ref": [
+            "016",
+            "14",
+            "13",
+            "152",
+            "526",
+            "751"
+          ],
+          "image": [
+            "https://i.imgur.com/OSjFhoU.jpg",
+            "https://i.imgur.com/dNncmH9.jpg",
+            "https://i.imgur.com/yZkBqMV.jpg",
+            "https://i.imgur.com/n0IZTpR.jpg",
+            "https://i.imgur.com/mmVMcYH.jpg",
+            "https://i.imgur.com/RFhzEmr.jpg",
+            "https://i.imgur.com/76MdWZl.jpg",
+            "https://i.imgur.com/6Wr7p9u.jpg",
+            "https://i.imgur.com/yBfsgUS.jpg",
+            "https://i.imgur.com/hOIiIp2.jpg",
+            "https://i.imgur.com/FEqxmF0.jpg",
+            "https://i.imgur.com/n99CQTf.jpg",
+            "https://i.imgur.com/hPz9ipm.jpg",
+            "https://i.imgur.com/52TrXXq.jpg",
+            "https://i.imgur.com/zrpzgkM.jpg",
+            "https://i.imgur.com/H98VXyn.jpg",
+            "https://i.imgur.com/OycuVl8.jpg",
+            "https://i.imgur.com/80AA4lv.jpg",
+            "https://i.imgur.com/OEKZjiw.jpg",
+            "https://i.imgur.com/nQ5560c.jpg",
+            "https://i.imgur.com/lNGPwBY.jpg",
+            "https://i.imgur.com/y09ETJS.jpg",
+            "https://i.imgur.com/UYuFZep.jpg",
+            "https://i.imgur.com/WkdlNUP.jpg",
+            "https://i.imgur.com/YmPhYzu.jpg",
+            "https://i.imgur.com/dtS5lIs.jpg",
+            "https://i.imgur.com/5NtPyro.jpg",
+            "https://i.imgur.com/lbHuRVK.jpg",
+            "https://i.imgur.com/JV5OzXZ.jpg",
+            "https://i.imgur.com/ZqgSXX1.jpg",
+            "https://i.imgur.com/eJLjISE.jpg"
+          ],
+          "amenity": [
+            "community_centre"
+          ],
+          "highway": [
+            "unclassified",
+            "residential",
+            "tertiary"
+          ],
+          "leisure": [
+            "sports_centre",
+            "park"
+          ],
+          "message": [
+            "commercial"
+          ],
+          "animated": [
+            "no",
+            "winding_posters"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "building": [
+            "yes",
+            "government",
+            "civic"
+          ],
+          "luminous": [
+            "no",
+            "yes"
+          ],
+          "man_made": [
+            "surveillance"
+          ],
+          "operator": [
+            "Nantes Métropole",
+            "MIM"
+          ],
+          "check_date": [
+            "2023-05-21"
+          ],
+          "camera:type": [
+            "fixed",
+            "dome"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "outdoor"
+          ],
+          "camera:direction": [
+            "110",
+            "345",
+            "245",
+            "260"
+          ],
+          "image:streetsign": [
+            "https://i.imgur.com/Gn8S0mB.jpg",
+            "https://i.imgur.com/PKkQJOf.jpg",
+            "https://i.imgur.com/2z4tNSH.jpg",
+            "https://i.imgur.com/2XKD3t4.jpg",
+            "https://i.imgur.com/bl5TY8g.jpg",
+            "https://i.imgur.com/leoij67.jpg",
+            "https://i.imgur.com/aocqTTj.jpg",
+            "https://i.imgur.com/d7UoJr1.jpg",
+            "https://i.imgur.com/1XvqcS1.jpg",
+            "https://i.imgur.com/iJX1sL2.jpg",
+            "https://i.imgur.com/927IyyA.jpg",
+            "https://i.imgur.com/nQFy1Xt.jpg"
+          ],
+          "surveillance:type": [
+            "camera"
+          ],
+          "surveillance:zone": [
+            "entrance",
+            "shop"
+          ]
+        },
+        "create": 0,
+        "modify": 12,
+        "delete": 0,
+        "area": 0.000199818287719956,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 12,
+        "change_within_25m": 2,
+        "change_within_50m": 5,
+        "change_within_100m": 3,
+        "change_within_500m": 2,
+        "id": 136375826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51119535,
+          47.2423093
+        ]
+      },
+      "id": 136375826
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T14:32:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no",
+            "yes"
+          ],
+          "ref": [
+            "016",
+            "27012348;27022348",
+            "13",
+            "526",
+            "751"
+          ],
+          "image": [
+            "https://i.imgur.com/OSjFhoU.jpg",
+            "https://i.imgur.com/dNncmH9.jpg",
+            "https://i.imgur.com/n0IZTpR.jpg",
+            "https://i.imgur.com/u7e0DBV.jpg",
+            "https://i.imgur.com/mmVMcYH.jpg",
+            "https://i.imgur.com/RFhzEmr.jpg",
+            "https://i.imgur.com/76MdWZl.jpg",
+            "https://i.imgur.com/6Wr7p9u.jpg",
+            "https://i.imgur.com/yBfsgUS.jpg",
+            "https://i.imgur.com/hOIiIp2.jpg",
+            "https://i.imgur.com/n99CQTf.jpg",
+            "https://i.imgur.com/hPz9ipm.jpg",
+            "https://i.imgur.com/52TrXXq.jpg",
+            "https://i.imgur.com/fuU3MTg.jpg",
+            "https://i.imgur.com/hCdR0Hq.jpg",
+            "https://i.imgur.com/zrpzgkM.jpg",
+            "https://i.imgur.com/H98VXyn.jpg",
+            "https://i.imgur.com/OycuVl8.jpg",
+            "https://i.imgur.com/lNGPwBY.jpg",
+            "https://i.imgur.com/1ILkgXq.jpg",
+            "https://i.imgur.com/ZqgSXX1.jpg",
+            "https://i.imgur.com/eJLjISE.jpg"
+          ],
+          "sides": [
+            "2"
+          ],
+          "message": [
+            "commercial"
+          ],
+          "animated": [
+            "no",
+            "digital_display",
+            "winding_posters"
+          ],
+          "building": [
+            "yes",
+            "government"
+          ],
+          "luminous": [
+            "no",
+            "yes"
+          ],
+          "man_made": [
+            "surveillance",
+            "mast"
+          ],
+          "operator": [
+            "Nantes Métropole",
+            "Havas",
+            "MIM"
+          ],
+          "advertising": [
+            "billboard",
+            "sign",
+            "totem"
+          ],
+          "camera:type": [
+            "fixed",
+            "dome"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "outdoor"
+          ],
+          "camera:direction": [
+            "110",
+            "345",
+            "245"
+          ],
+          "surveillance:type": [
+            "camera"
+          ],
+          "surveillance:zone": [
+            "entrance"
+          ]
+        },
+        "create": 8,
+        "modify": 12,
+        "delete": 0,
+        "area": 0.000212626225919975,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/hailhydrant.html",
+        "theme": "hailhydrant",
+        "answer": 23,
+        "locale": "fr",
+        "imagery": "HDM_HOT",
+        "add-image": 9,
+        "change_over_5000m": 8,
+        "change_within_25m": 32,
+        "id": 136375027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51445615,
+          47.241779300000005
+        ]
+      },
+      "id": 136375027
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T14:21:32Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "no",
+            "yes"
+          ],
+          "ref": [
+            "345",
+            "344",
+            "016",
+            "27012348;27022348",
+            "14",
+            "13",
+            "124",
+            "152",
+            "526",
+            "751"
+          ],
+          "image": [
+            "https://i.imgur.com/XyMkkW2.jpg",
+            "https://i.imgur.com/OSjFhoU.jpg",
+            "https://i.imgur.com/dNncmH9.jpg",
+            "https://i.imgur.com/yZkBqMV.jpg",
+            "https://i.imgur.com/h1jpYXR.jpg",
+            "https://i.imgur.com/n0IZTpR.jpg",
+            "https://i.imgur.com/0gZeha1.jpg",
+            "https://i.imgur.com/NWU9qUW.jpg",
+            "https://i.imgur.com/u7e0DBV.jpg",
+            "https://i.imgur.com/mmVMcYH.jpg",
+            "https://i.imgur.com/iwN6SrY.jpg",
+            "https://i.imgur.com/RFhzEmr.jpg",
+            "https://i.imgur.com/76MdWZl.jpg",
+            "https://i.imgur.com/1CCktJF.jpg",
+            "https://i.imgur.com/6Wr7p9u.jpg",
+            "https://i.imgur.com/yBfsgUS.jpg",
+            "https://i.imgur.com/hOIiIp2.jpg",
+            "https://i.imgur.com/FEqxmF0.jpg",
+            "https://i.imgur.com/n99CQTf.jpg",
+            "https://i.imgur.com/hPz9ipm.jpg",
+            "https://i.imgur.com/52TrXXq.jpg",
+            "https://i.imgur.com/yUxqO0K.jpg",
+            "https://i.imgur.com/Rgpyhwl.jpg",
+            "https://i.imgur.com/fuU3MTg.jpg",
+            "https://i.imgur.com/hCdR0Hq.jpg",
+            "https://i.imgur.com/zrpzgkM.jpg",
+            "https://i.imgur.com/H98VXyn.jpg",
+            "https://i.imgur.com/OycuVl8.jpg",
+            "https://i.imgur.com/YsusMEm.jpg",
+            "https://i.imgur.com/HpO0wXH.jpg",
+            "https://i.imgur.com/80AA4lv.jpg",
+            "https://i.imgur.com/OEKZjiw.jpg",
+            "https://i.imgur.com/nQ5560c.jpg",
+            "https://i.imgur.com/lNGPwBY.jpg",
+            "https://i.imgur.com/y09ETJS.jpg",
+            "https://i.imgur.com/UYuFZep.jpg",
+            "https://i.imgur.com/1ILkgXq.jpg",
+            "https://i.imgur.com/Msi6YdM.jpg",
+            "https://i.imgur.com/WkdlNUP.jpg",
+            "https://i.imgur.com/YmPhYzu.jpg",
+            "https://i.imgur.com/dtS5lIs.jpg",
+            "https://i.imgur.com/5NtPyro.jpg",
+            "https://i.imgur.com/lbHuRVK.jpg",
+            "https://i.imgur.com/JV5OzXZ.jpg",
+            "https://i.imgur.com/ZqgSXX1.jpg",
+            "https://i.imgur.com/eJLjISE.jpg",
+            "https://i.imgur.com/jaAs9eE.jpg"
+          ],
+          "sides": [
+            "2"
+          ],
+          "amenity": [
+            "bank"
+          ],
+          "message": [
+            "commercial"
+          ],
+          "animated": [
+            "no",
+            "digital_display",
+            "winding_posters"
+          ],
+          "building": [
+            "yes",
+            "government"
+          ],
+          "luminous": [
+            "no",
+            "yes"
+          ],
+          "man_made": [
+            "surveillance",
+            "advertising",
+            "mast"
+          ],
+          "operator": [
+            "Nantes Métropole",
+            "Havas",
+            "MIM"
+          ],
+          "check_date": [
+            "2023-05-21"
+          ],
+          "advertising": [
+            "totem",
+            "sign",
+            "billboard"
+          ],
+          "camera:type": [
+            "fixed",
+            "dome"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "outdoor"
+          ],
+          "camera:direction": [
+            "300",
+            "110",
+            "345",
+            "245",
+            "260"
+          ],
+          "surveillance:type": [
+            "camera"
+          ],
+          "surveillance:zone": [
+            "entrance",
+            "shop",
+            "traffic"
+          ]
+        },
+        "create": 8,
+        "modify": 86,
+        "delete": 0,
+        "area": 0.000262268268899951,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/advertising.html",
+        "theme": "advertising",
+        "answer": 76,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 48,
+        "change_over_5000m": 8,
+        "change_within_25m": 101,
+        "change_within_50m": 23,
+        "id": 136374567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5137592500000001,
+          47.2417937
+        ]
+      },
+      "id": 136374567
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-83124855",
+            "osm_id": 83124855,
+            "reasons": [
+              43
+            ],
+            "version": 3,
+            "primary_tags": {
+              "building": "government"
+            }
+          }
+        ],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T14:14:39Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bin": [
+            "yes"
+          ],
+          "lit": [
+            "yes"
+          ],
+          "bench": [
+            "yes"
+          ],
+          "image": [
+            "https://i.imgur.com/XyMkkW2.jpg",
+            "https://i.imgur.com/OSjFhoU.jpg",
+            "https://i.imgur.com/dNncmH9.jpg",
+            "https://i.imgur.com/yZkBqMV.jpg",
+            "https://i.imgur.com/h1jpYXR.jpg",
+            "https://i.imgur.com/sha1FtN.jpg",
+            "https://i.imgur.com/n0IZTpR.jpg",
+            "https://i.imgur.com/0gZeha1.jpg"
+          ],
+          "amenity": [
+            "restaurant",
+            "bank"
+          ],
+          "highway": [
+            "platform"
+          ],
+          "shelter": [
+            "yes"
+          ],
+          "building": [
+            "yes",
+            "government"
+          ],
+          "man_made": [
+            "surveillance"
+          ],
+          "operator": [
+            "Nantes Métropole"
+          ],
+          "check_date": [
+            "2023-05-21"
+          ],
+          "camera:type": [
+            "fixed",
+            "dome"
+          ],
+          "camera:mount": [
+            "wall"
+          ],
+          "surveillance": [
+            "outdoor"
+          ],
+          "camera:direction": [
+            "300",
+            "110",
+            "345",
+            "245",
+            "260"
+          ],
+          "public_transport": [
+            "platform"
+          ],
+          "surveillance:type": [
+            "camera"
+          ],
+          "surveillance:zone": [
+            "entrance",
+            "shop",
+            "traffic"
+          ]
+        },
+        "create": 44,
+        "modify": 110,
+        "delete": 0,
+        "area": 0.000283636531359992,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 127,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 26,
+        "change_over_5000m": 10,
+        "change_within_25m": 100,
+        "change_within_50m": 64,
+        "change_within_100m": 17,
+        "id": 136374241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5147386,
+          47.2418344
+        ]
+      },
+      "id": 136374241
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-21T13:55:36Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "vending_machine"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/parkings.html",
+        "theme": "parkings",
+        "answer": 1,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_50m": 1,
+        "id": 136373406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5345939,
+          47.219526
+        ]
+      },
+      "id": 136373406
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-22T16:02:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "vending_machine"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/parkings.html",
+        "theme": "parkings",
+        "answer": 3,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 4,
+        "id": 136421126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5355918,
+          47.2218987
+        ]
+      },
+      "id": 136421126
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-22T15:56:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "ref": [
+            "2511"
+          ],
+          "image": [
+            "https://i.imgur.com/IwMbl1G.jpg"
+          ],
+          "amenity": [
+            "vending_machine"
+          ],
+          "payment:coins": [
+            "yes"
+          ],
+          "payment:notes": [
+            "no"
+          ],
+          "payment:debit_cards": [
+            "yes"
+          ],
+          "payment:credit_cards": [
+            "yes"
+          ],
+          "payment:coins:denominations": [
+            "0.10 EUR;0.20 EUR;0.50 EUR;1 EUR;2 EUR"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/parkings.html",
+        "theme": "parkings",
+        "answer": 3,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 4,
+        "id": 136420928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5316568,
+          47.2244149
+        ]
+      },
+      "id": 136420928
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-26T20:59:31Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "pedestrian",
+            "residential"
+          ],
+          "image:streetsign": [
+            "https://i.imgur.com/ckBtHao.jpg",
+            "https://i.imgur.com/hxAiBEx.jpg",
+            "https://i.imgur.com/o0P46ub.jpg",
+            "https://i.imgur.com/0NEkCzR.jpg"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000971685020400384,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 4,
+        "change_within_50m": 3,
+        "change_within_100m": 1,
+        "id": 136605070
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5469439,
+          47.21704215
+        ]
+      },
+      "id": 136605070
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-26T17:12:48Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "image:streetsign": [
+            "https://i.imgur.com/FLpinGl.jpg"
+          ],
+          "name:etymology:wikidata": [
+            "Q687"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.46792599997593e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 1,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_50m": 2,
+        "id": 136597808
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5559181,
+          47.217360400000004
+        ]
+      },
+      "id": 136597808
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thomas Citharel",
+        "uid": "6105237",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-05-26T13:45:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary"
+          ],
+          "name:etymology:wikidata": [
+            "Q118720198"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000957549815999674,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 136588983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5378634500000001,
+          47.1818401
+        ]
+      },
+      "id": 136588983
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-27T12:59:03Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "man_made": [
+            "pole"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/advertising.html",
+        "theme": "advertising",
+        "answer": 2,
+        "locale": "fr",
+        "imagery": "fr.ign.bdortho",
+        "change_over_5000m": 1,
+        "change_within_50m": 2,
+        "id": 136623696
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4569774,
+          47.2809189
+        ]
+      },
+      "id": 136623696
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-27T11:55:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "message": [
+            "commercial"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/advertising.html",
+        "theme": "advertising",
+        "answer": 1,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_within_100m": 1,
+        "id": 136621666
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5909068,
+          47.2437414
+        ]
+      },
+      "id": 136621666
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-28T14:51:11Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "sides": [
+            "2"
+          ],
+          "animated": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/advertising.html",
+        "theme": "advertising",
+        "answer": 2,
+        "locale": "fr",
+        "imagery": "osm",
+        "change_within_50m": 2,
+        "id": 136659826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5157466,
+          48.2050649
+        ]
+      },
+      "id": 136659826
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-29T16:20:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/okzdcI7.jpg",
+            "https://i.imgur.com/DeqGNtI.jpg",
+            "https://i.imgur.com/SQQ3OpW.jpg"
+          ],
+          "man_made": [
+            "surveillance"
+          ],
+          "camera:direction": [
+            "230"
+          ]
+        },
+        "create": 1,
+        "modify": 6,
+        "delete": 0,
+        "area": 6.32286690003615e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/surveillance.html",
+        "theme": "surveillance",
+        "answer": 5,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 4,
+        "change_over_5000m": 1,
+        "change_within_25m": 8,
+        "change_within_50m": 1,
+        "id": 136708144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53300345,
+          47.22360345
+        ]
+      },
+      "id": 136708144
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-29T16:13:34Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "vending_machine"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/parkings.html",
+        "theme": "parkings",
+        "answer": 3,
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 4,
+        "id": 136707879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5330346,
+          47.2235039
+        ]
+      },
+      "id": 136707879
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Kalepom",
+        "uid": "392288",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-30T16:06:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "image:streetsign": [
+            "https://i.imgur.com/2iObAmm.jpg"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 9.01822500010687e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "locale": "fr",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 1,
+        "id": 136753678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53208835,
+          47.22512275
+        ]
+      },
+      "id": 136753678
     }
   ]
 }

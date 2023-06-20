@@ -11,6 +11,47 @@
         "user": "taxi301",
         "uid": "657596",
         "editor": "MapComplete 0.12.13",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-12-19T22:56:06Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 8,
+        "delete": 0,
+        "area": 3.9611260000226e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "trees",
+        "answer": 12,
+        "imagery": "osm",
+        "language": "en",
+        "id": 115141856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.62637565,
+          54.1546701
+        ]
+      },
+      "id": 115141856
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "taxi301",
+        "uid": "657596",
+        "editor": "MapComplete 0.12.13",
         "comment": "Adding data with #MapComplete for theme #street_lighting",
         "comments_count": 0,
         "source": "Not reported",
@@ -41,6 +82,76 @@
         ]
       },
       "id": 115140412
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "taxi301",
+        "uid": "657596",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-02T06:31:12Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes",
+            "no"
+          ],
+          "highway": [
+            "secondary",
+            "tertiary",
+            "trunk_link",
+            "residential",
+            "primary",
+            "trunk",
+            "unclassified",
+            "service",
+            "living_street",
+            "footway",
+            "pedestrian",
+            "services",
+            "path",
+            "tertiary_link",
+            "cycleway",
+            "steps",
+            "construction"
+          ]
+        },
+        "create": 0,
+        "modify": 456,
+        "delete": 0,
+        "area": 0.878710116954871,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 459,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126880560
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.27821905,
+          53.71264305
+        ]
+      },
+      "id": 126880560
     },
     {
       "type": "Feature",
@@ -276,6 +387,107 @@
         "user": "taxi301",
         "uid": "657596",
         "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-25T22:17:59Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "maxspeed": [
+            "50",
+            "30"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.000151605307889875,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126631000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.51952185,
+          54.16197495
+        ]
+      },
+      "id": 126631000
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "taxi301",
+        "uid": "657596",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-25T21:12:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes"
+          ],
+          "highway": [
+            "street_lamp",
+            "secondary",
+            "cycleway"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0697152735146018,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "move": 1,
+        "theme": "street_lighting",
+        "answer": 7,
+        "locale": "en",
+        "imagery": "osm",
+        "move:node/10052317596": "improve_accuracy",
+        "id": 126629960
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7728092,
+          54.0870063
+        ]
+      },
+      "id": 126629960
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "taxi301",
+        "uid": "657596",
+        "editor": "MapComplete 0.23.2",
         "comment": "Adding data with #MapComplete for theme #street_lighting",
         "comments_count": 0,
         "source": "Not reported",
@@ -366,6 +578,60 @@
         ]
       },
       "id": 126629510
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "taxi301",
+        "uid": "657596",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-27T08:59:28Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes",
+            "no"
+          ],
+          "highway": [
+            "service",
+            "footway",
+            "track",
+            "secondary",
+            "path",
+            "steps"
+          ]
+        },
+        "create": 0,
+        "modify": 25,
+        "delete": 0,
+        "area": 0.0167674666637399,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/street_lighting.html",
+        "theme": "street_lighting",
+        "answer": 26,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126687985
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.812488550000001,
+          54.0855951
+        ]
+      },
+      "id": 126687985
     },
     {
       "type": "Feature",
@@ -488,6 +754,61 @@
         ]
       },
       "id": 134838183
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "taxi301",
+        "uid": "657596",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-15T19:04:48Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "indoor": [
+            "yes"
+          ],
+          "tourism": [
+            "hotel"
+          ],
+          "emergency": [
+            "defibrillator"
+          ],
+          "defibrillator:location:en": [
+            "ochrona"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/aed.html",
+        "theme": "aed",
+        "answer": 3,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_5000m": 3,
+        "id": 136139788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5877009,
+          54.182536
+        ]
+      },
+      "id": 136139788
     }
   ]
 }

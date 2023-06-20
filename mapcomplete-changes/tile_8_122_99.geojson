@@ -300,6 +300,169 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8574926839",
+            "name": "SELIM - Banco de Bicicletas",
+            "osm_id": 8574926839,
+            "reasons": [
+              43
+            ],
+            "version": 7,
+            "primary_tags": {
+              "amenity": "bicycle_library"
+            }
+          }
+        ],
+        "user": "Pieter Vander Vennet",
+        "uid": "3818858",
+        "editor": "MapComplete 0.6.3b",
+        "comment": "Adding data with #MapComplete for theme #bicyclelib",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-03-30T14:43:19Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "bicyclelib",
+        "imagery": "osm",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 101993159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1330343,
+          38.7351593
+        ]
+      },
+      "id": 101993159
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "R Felix",
+        "uid": "11207593",
+        "editor": "MapComplete 0.6.3a",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-03-30T11:40:48Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 8,
+        "delete": 0,
+        "area": 0.0000211367961999858,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "cyclofix",
+        "imagery": "CartoDB.Voyager",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 101981953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.13839015,
+          38.7223661
+        ]
+      },
+      "id": 101981953
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-8574926839",
+            "name": "SELIM - Banco de Bicicletas",
+            "osm_id": 8574926839,
+            "reasons": [
+              43
+            ],
+            "version": 6,
+            "primary_tags": {
+              "amenity": "bicycle_library"
+            }
+          }
+        ],
+        "user": "R Felix",
+        "uid": "11207593",
+        "editor": "MapComplete 0.6.3a",
+        "comment": "Adding data with #MapComplete for theme #bicyclelib",
+        "comments_count": 1,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-03-30T11:33:05Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 5,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "bicyclelib",
+        "imagery": "osm",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 101981404
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1330343,
+          38.7351593
+        ]
+      },
+      "id": 101981404
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [],
         "tags": [],
         "features": [],
@@ -421,6 +584,95 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Luice Marion",
+        "uid": "9490064",
+        "editor": "MapComplete 0.19.1",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-05-10T15:20:27Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 2,
+        "delete": 0,
+        "area": 4.76445000075897e-9,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/benches.html",
+        "theme": "benches",
+        "answer": 7,
+        "locale": "en",
+        "imagery": "ORTOS_DGT_2018_WMS",
+        "change_over_5000m": 2,
+        "change_within_500m": 7,
+        "id": 120799030
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.28729285,
+          38.818591749999996
+        ]
+      },
+      "id": 120799030
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Reino Baptista",
+        "uid": "2820801",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-15T18:07:41Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/trees.html",
+        "theme": "trees",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 121021609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1357561,
+          38.712706
+        ]
+      },
+      "id": 121021609
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [],
         "tags": [],
         "features": [],
@@ -513,6 +765,240 @@
         ]
       },
       "id": 126366731
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "José D Fernandes",
+        "uid": "19001445",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-21T07:48:58Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "public_bookcase"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/bookcases.html",
+        "theme": "bookcases",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 135180950
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0763861,
+          38.6647226
+        ]
+      },
+      "id": 135180950
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Diego Canales",
+        "uid": "555543",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-26T15:28:16Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary",
+            "cycleway"
+          ],
+          "separation": [
+            "kerb"
+          ],
+          "smoothness": [
+            "excellent"
+          ],
+          "sidewalk:left": [
+            "no"
+          ],
+          "sidewalk:right": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.000033769975980015,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 135392372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1472281,
+          38.72956695
+        ]
+      },
+      "id": 135392372
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Diego Canales",
+        "uid": "555543",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #sidewalks",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-26T15:06:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary",
+            "residential"
+          ],
+          "sidewalk": [
+            "both"
+          ],
+          "sidewalk:left": [
+            "no",
+            "yes"
+          ],
+          "sidewalk:right": [
+            "yes"
+          ],
+          "sidewalk:left:width": [
+            "2.3"
+          ],
+          "sidewalk:right:width": [
+            "2.3"
+          ]
+        },
+        "create": 0,
+        "modify": 8,
+        "delete": 0,
+        "area": 0.0000417316440000003,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/sidewalks",
+        "theme": "sidewalks",
+        "answer": 13,
+        "locale": "en",
+        "imagery": "ORTOS_DGT_2014_15",
+        "id": 135391405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1477825,
+          38.729404650000006
+        ]
+      },
+      "id": 135391405
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Diego Canales",
+        "uid": "555543",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-04-26T09:47:14Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "maxspeed": [
+            "30"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000439359660001335,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_100m": 1,
+        "id": 135377327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1494964,
+          38.7317503
+        ]
+      },
+      "id": 135377327
     }
   ]
 }

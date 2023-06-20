@@ -8,6 +8,54 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "BubbleGuppies",
+        "uid": "1426091",
+        "editor": "MapComplete 0.19.2",
+        "comment": "Adding data with #MapComplete for theme #schools",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-22T18:05:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "website": [
+            "https://www.facebook.com/pages/Sullivan-Keller-Early-Childhood-Center/146217585402621"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "schools",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 121330118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1191789,
+          33.2184522
+        ]
+      },
+      "id": 121330118
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "Tavlor",
         "uid": "8614976",
         "editor": "MapComplete 0.23.0",
@@ -48,6 +96,56 @@
         ]
       },
       "id": 124501847
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "evilmalus",
+        "uid": "16816486",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-08-12T18:26:58Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "Mapbox",
+        "id": 124829615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2204423,
+          33.0669582
+        ]
+      },
+      "id": 124829615
     },
     {
       "type": "Feature",
@@ -251,6 +349,54 @@
         ]
       },
       "id": 124996143
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "End0fLine",
+        "uid": "17590910",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-04-29T01:36:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "school:gender": [
+            "mixed"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.0000266050170000022,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 135488587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.17455165000001,
+          32.261584400000004
+        ]
+      },
+      "id": 135488587
     }
   ]
 }

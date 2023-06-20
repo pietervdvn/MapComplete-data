@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 87,
+            "name": "Irrelevant tags on highway"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-290251214",
+            "name": "улица Аксакова",
+            "osm_id": 290251214,
+            "reasons": [
+              87
+            ],
+            "version": 7,
+            "primary_tags": {
+              "highway": "tertiary",
+              "railway": "tram"
+            }
+          },
+          {
+            "url": "way-129550656",
+            "name": "улица Гафури",
+            "osm_id": 129550656,
+            "reasons": [
+              87
+            ],
+            "version": 11,
+            "primary_tags": {
+              "highway": "secondary",
+              "boundary": "administrative"
+            }
+          },
+          {
+            "url": "way-96906388",
+            "name": "улица Гафури",
+            "osm_id": 96906388,
+            "reasons": [
+              87
+            ],
+            "version": 7,
+            "primary_tags": {
+              "highway": "tertiary"
+            }
+          },
+          {
+            "url": "way-129550654",
+            "name": "улица Гафури",
+            "osm_id": 129550654,
+            "reasons": [
+              87
+            ],
+            "version": 9,
+            "primary_tags": {
+              "highway": "secondary",
+              "boundary": "administrative"
+            }
+          }
+        ],
+        "user": "Vasiliy",
+        "uid": "60050",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-27T09:06:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary",
+            "tertiary",
+            "unclassified"
+          ],
+          "railway": [
+            "tram"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "name:etymology:wikidata": [
+            "Q2603570",
+            "Q2640945",
+            "Q2719262",
+            "Q315188"
+          ]
+        },
+        "create": 0,
+        "modify": 18,
+        "delete": 0,
+        "area": 0.000500535930179815,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 31,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 126688292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.941930549999995,
+          54.7292779
+        ]
+      },
+      "id": 126688292
+    }
+  ]
+}

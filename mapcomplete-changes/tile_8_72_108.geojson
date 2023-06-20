@@ -49,6 +49,49 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "AlexeyTyur",
+        "uid": "10509852",
+        "editor": "MapComplete 0.12.10",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-11-25T21:24:08Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "cyclofix",
+        "answer": 4,
+        "imagery": "CartoDB.Voyager",
+        "language": "en",
+        "change_over_5000m": 1,
+        "change_within_25m": 4,
+        "id": 114238775
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1312574,
+          25.7645181
+        ]
+      },
+      "id": 114238775
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "InsertUser",
         "uid": "89098",
         "editor": "MapComplete 0.12.13",
@@ -425,6 +468,111 @@
         ]
       },
       "id": 123783066
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "InsertUser",
+        "uid": "89098",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #onwheels",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-05-14T15:54:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "supermarket"
+          ],
+          "amenity": [
+            "fast_food"
+          ],
+          "delivery": [
+            "yes"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "payment:cards": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 1.39868280000752e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/onwheels.html",
+        "theme": "onwheels",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 136091146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65728145,
+          26.5207115
+        ]
+      },
+      "id": 136091146
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "InsertUser",
+        "uid": "89098",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #slipways",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-05-23T18:22:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "leisure": [
+            "slipway"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/theme.html",
+        "theme": "slipways",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 136468144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6806049,
+          26.4936961
+        ]
+      },
+      "id": 136468144
     }
   ]
 }

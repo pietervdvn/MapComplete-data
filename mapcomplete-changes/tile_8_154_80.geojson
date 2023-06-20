@@ -49,6 +49,47 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "trolleway",
+        "uid": "397326",
+        "editor": "MapComplete 0.8.3e",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-07-14T00:00:38Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "benches",
+        "imagery": "osm",
+        "language": "en",
+        "theme-creator": "Florian Edelmann",
+        "id": 107937565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7109274,
+          55.8018651
+        ]
+      },
+      "id": 107937565
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "augxcgrwxo",
         "uid": "371263",
         "editor": "MapComplete 0.13.0",
@@ -215,6 +256,135 @@
         ]
       },
       "id": 127075893
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "augxcgrwxo",
+        "uid": "371263",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-10-10T05:28:24Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "fee": [
+            "no",
+            "yes"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "ref": [
+            "099"
+          ],
+          "image": [
+            "https://i.imgur.com/TTk6ytk.jpg"
+          ],
+          "phone": [
+            "+7 495 018 19 20"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "bicycle": [
+            "no"
+          ],
+          "image:0": [
+            "https://i.imgur.com/DaKyxmZ.jpg"
+          ],
+          "maxstay": [
+            "unlimited"
+          ],
+          "network": [
+            "Энергия Москвы"
+          ],
+          "scooter": [
+            "yes"
+          ],
+          "website": [
+            "https://mos.ru/electro"
+          ],
+          "motorcar": [
+            "yes"
+          ],
+          "parking:fee": [
+            "no"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "socket:chademo": [
+            "1"
+          ],
+          "authentication:app": [
+            "yes"
+          ],
+          "authentication:nfc": [
+            "no"
+          ],
+          "socket:type2_combo": [
+            "1"
+          ],
+          "authentication:none": [
+            "no"
+          ],
+          "socket:chademo:output": [
+            "50 kW"
+          ],
+          "authentication:debit_card": [
+            "no"
+          ],
+          "authentication:money_card": [
+            "no"
+          ],
+          "authentication:phone_call": [
+            "no"
+          ],
+          "socket:type2_combo:output": [
+            "50 kW"
+          ],
+          "authentication:short_message": [
+            "no"
+          ],
+          "authentication:membership_card": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 11,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 13,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 2,
+        "change_within_1000m": 15,
+        "id": 127279903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4379018,
+          55.8503358
+        ]
+      },
+      "id": 127279903
     },
     {
       "type": "Feature",
@@ -441,6 +611,65 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "somix",
+        "uid": "12176526",
+        "editor": "MapComplete 0.25.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-12-25T18:04:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary",
+            "tertiary"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q462166",
+            "Q348001",
+            "Q2914890",
+            "Q15063214"
+          ]
+        },
+        "create": 0,
+        "modify": 64,
+        "delete": 0,
+        "area": 0.000638015311950123,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 93,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_100m": 2,
+        "change_within_500m": 30,
+        "change_within_1000m": 14,
+        "change_within_5000m": 47,
+        "id": 130490108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.41943035,
+          55.85402295
+        ]
+      },
+      "id": 130490108
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "augxcgrwxo",
         "uid": "371263",
         "editor": "MapComplete 0.25.2",
@@ -583,6 +812,89 @@
         ]
       },
       "id": 117125624
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "solenoid jam",
+        "uid": "10129333",
+        "editor": "MapComplete 0.16.5",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-03-05T20:53:06Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "surveillance",
+        "answer": 1,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 118140353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6799834,
+          55.7926476
+        ]
+      },
+      "id": 118140353
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "somix",
+        "uid": "12176526",
+        "editor": "MapComplete 0.19.1",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-05-13T16:18:47Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 6,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_500m": 6,
+        "id": 120944469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4392296,
+          55.8524325
+        ]
+      },
+      "id": 120944469
     },
     {
       "type": "Feature",
@@ -1168,6 +1480,289 @@
         ]
       },
       "id": 135148742
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "somix",
+        "uid": "12176526",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-22T19:16:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ],
+          "socket:type2": [
+            "2",
+            "1"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations",
+        "theme": "charging_stations",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_within_5000m": 2,
+        "id": 136427475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.416559,
+          55.8609054
+        ]
+      },
+      "id": 136427475
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "somix",
+        "uid": "12176526",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-05-22T16:35:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "ref": [
+            "287"
+          ],
+          "email": [
+            "electro@mos.ru"
+          ],
+          "image": [
+            "https://i.imgur.com/vB75BQE.jpg"
+          ],
+          "phone": [
+            "+7 495 018 19 20"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "bicycle": [
+            "no"
+          ],
+          "image:0": [
+            "https://i.imgur.com/vdqfRgK.jpg"
+          ],
+          "maxstay": [
+            "unlimited"
+          ],
+          "network": [
+            "Энергия Москвы"
+          ],
+          "scooter": [
+            "no"
+          ],
+          "website": [
+            "https://transport.mos.ru"
+          ],
+          "motorcar": [
+            "yes"
+          ],
+          "parking:fee": [
+            "no"
+          ],
+          "socket:type2": [
+            "1"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "authentication:app": [
+            "yes"
+          ],
+          "authentication:nfc": [
+            "no"
+          ],
+          "authentication:none": [
+            "no"
+          ],
+          "socket:type2:output": [
+            "22 kW"
+          ],
+          "authentication:debit_card": [
+            "no"
+          ],
+          "authentication:money_card": [
+            "no"
+          ],
+          "authentication:phone_call": [
+            "no"
+          ],
+          "authentication:short_message": [
+            "no"
+          ],
+          "authentication:membership_card": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 12,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations",
+        "theme": "charging_stations",
+        "answer": 12,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 2,
+        "change_within_25m": 14,
+        "id": 136422337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.416559,
+          55.8609054
+        ]
+      },
+      "id": 136422337
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "augxcgrwxo",
+        "uid": "371263",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-05-29T07:42:48Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "ref": [
+            "130"
+          ],
+          "phone": [
+            "+7 495 0181920"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "bicycle": [
+            "no"
+          ],
+          "maxstay": [
+            "unlimited"
+          ],
+          "network": [
+            "Энергия Москвы"
+          ],
+          "scooter": [
+            "yes"
+          ],
+          "website": [
+            "https://www.mos.ru/electro/"
+          ],
+          "motorcar": [
+            "yes"
+          ],
+          "parking:fee": [
+            "no"
+          ],
+          "socket:type2": [
+            "1"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "authentication:app": [
+            "yes"
+          ],
+          "authentication:nfc": [
+            "no"
+          ],
+          "authentication:none": [
+            "no"
+          ],
+          "socket:type2:output": [
+            "22 kW"
+          ],
+          "authentication:debit_card": [
+            "no"
+          ],
+          "authentication:money_card": [
+            "no"
+          ],
+          "authentication:phone_call": [
+            "no"
+          ],
+          "authentication:short_message": [
+            "no"
+          ],
+          "authentication:membership_card": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 7,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 11,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 136684055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6618174,
+          55.7087328
+        ]
+      },
+      "id": 136684055
     }
   ]
 }

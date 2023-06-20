@@ -49,6 +49,47 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "pfiers",
+        "uid": "3797928",
+        "editor": "MapComplete 0.12.7",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-11-13T12:03:24Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "cyclofix",
+        "answer": 1,
+        "imagery": "CartoDB.Voyager",
+        "language": "nl",
+        "id": 113728066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2041098,
+          51.5014559
+        ]
+      },
+      "id": 113728066
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "thevetchlings",
         "uid": "132929",
         "editor": "MapComplete 0.8.0b",
@@ -123,6 +164,94 @@
         ]
       },
       "id": 118906009
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "ZenPhil",
+        "uid": "10208656",
+        "editor": "MapComplete 0.17.1",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-02T12:07:18Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 3,
+        "modify": 32,
+        "delete": 0,
+        "area": 0.000018462510080006,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets",
+        "theme": "toilets",
+        "answer": 48,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 119232826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.992559,
+          51.58856
+        ]
+      },
+      "id": 119232826
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Gerrit Niezen",
+        "uid": "11595943",
+        "editor": "MapComplete 0.19.1",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-05-12T16:00:12Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 1.99933199998773e-7,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/playgrounds.html",
+        "theme": "playgrounds",
+        "locale": "en",
+        "imagery": "osm",
+        "soft-delete": 1,
+        "soft-delete:way/97752096": "disused",
+        "id": 120896533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95353345,
+          51.6132111
+        ]
+      },
+      "id": 120896533
     }
   ]
 }

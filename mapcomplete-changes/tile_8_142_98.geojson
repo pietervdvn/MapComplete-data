@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "fipaddict",
+        "uid": "10197746",
+        "editor": "MapComplete 0.24.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-12-22T16:16:13Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "locale": "fr",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "id": 130383455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2763012,
+          39.4499583
+        ]
+      },
+      "id": 130383455
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9943396001",
+            "osm_id": 9943396001,
+            "reasons": [
+              43
+            ],
+            "version": 1,
+            "primary_tags": {
+              "tourism": "map"
+            }
+          }
+        ],
+        "user": "baditaflorin",
+        "uid": "398300",
+        "editor": "MapComplete 0.23.0",
+        "comment": "Adding data with #MapComplete for theme #maps",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-08-09T19:52:13Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "tourism": [
+            "map"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/maps.html",
+        "theme": "maps",
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "id": 124701249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8180778,
+          39.588672
+        ]
+      },
+      "id": 124701249
+    }
+  ]
+}

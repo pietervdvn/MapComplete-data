@@ -5,6 +5,151 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [
+          {
+            "id": 22,
+            "name": "Edited a place"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-1470838124",
+            "name": "Borriana",
+            "osm_id": 1470838124,
+            "reasons": [
+              22
+            ],
+            "version": 14,
+            "primary_tags": {
+              "place": "town"
+            }
+          }
+        ],
+        "user": "HomoGradiens",
+        "uid": "1946832",
+        "editor": "MapComplete 0.2.3c",
+        "comment": "Adding data with #MapComplete for theme #postalcode",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2020-12-03T21:48:36Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.0951122960387999,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "theme": "postalcode",
+        "language": "es",
+        "theme-creator": "",
+        "id": 95250503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1488465,
+          40.25308095
+        ]
+      },
+      "id": 95250503
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.12.13",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-12-30T10:21:22Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 1,
+        "area": 2.61030000015409e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "toilets",
+        "answer": 4,
+        "imagery": "osm",
+        "deletion": 1,
+        "language": "nl",
+        "change_over_5000m": 2,
+        "change_within_25m": 4,
+        "deletion:node/9378806868": "Addition was buggy",
+        "id": 115556765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.055233000000000004,
+          40.11256805
+        ]
+      },
+      "id": 115556765
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.12.13",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-12-30T10:20:56Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "toilets",
+        "answer": 8,
+        "imagery": "osm",
+        "language": "nl",
+        "change_over_5000m": 4,
+        "change_within_25m": 6,
+        "id": 115556736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0552669,
+          40.1125873
+        ]
+      },
+      "id": 115556736
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [],
         "tags": [],
         "features": [],
@@ -225,6 +370,52 @@
         ]
       },
       "id": 110000187
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Manuel C Arco Martos",
+        "uid": "13949545",
+        "editor": "MapComplete 0.9.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-08-20T16:47:28Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 5,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.0000825417846399906,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "drinking_water",
+        "imagery": "PNOA-Spain-TMS",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 109997272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4395395,
+          39.7218031
+        ]
+      },
+      "id": 109997272
     },
     {
       "type": "Feature",
@@ -591,6 +782,135 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.13.1",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-01-11T15:44:06Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 1.30590000082674e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "campersite",
+        "answer": 10,
+        "imagery": "osm",
+        "language": "en",
+        "add-image": 2,
+        "change_over_5000m": 13,
+        "id": 116029238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2716955,
+          39.96799935
+        ]
+      },
+      "id": 116029238
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.13.1",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-01-12T19:04:24Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "aed",
+        "answer": 7,
+        "imagery": "osm",
+        "language": "en",
+        "change_over_5000m": 8,
+        "id": 116079171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4594317,
+          40.2646883
+        ]
+      },
+      "id": 116079171
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.13.1",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-01-13T11:12:00Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 6,
+        "delete": 0,
+        "area": 1.68002100005324e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "campersite",
+        "answer": 12,
+        "imagery": "osm",
+        "language": "en",
+        "add-image": 3,
+        "change_over_5000m": 1,
+        "change_within_25m": 15,
+        "id": 116101981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09145615,
+          40.62398795
+        ]
+      },
+      "id": 116101981
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "paunofu",
         "uid": "13779940",
         "editor": "MapComplete 0.23.2",
@@ -789,6 +1109,52 @@
         ]
       },
       "id": 130565773
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "HomoGradiens",
+        "uid": "1946832",
+        "editor": "MapComplete 0.25.2",
+        "comment": "Adding data with #MapComplete for theme #blind_osm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-12-28T19:19:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "crossing"
+          ]
+        },
+        "create": 6,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0000079076717000116,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/blind_osm.html",
+        "theme": "blind_osm",
+        "answer": 6,
+        "locale": "fr",
+        "imagery": "PNOA-Spain-TMS",
+        "id": 130615386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0428303,
+          39.98996805
+        ]
+      },
+      "id": 130615386
     },
     {
       "type": "Feature",
@@ -1327,6 +1693,47 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "HomoGradiens",
+        "uid": "1946832",
+        "editor": "MapComplete 0.18.1",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-04-18T15:07:19Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 6.89000000015583e-9,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/waste.html",
+        "theme": "waste",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 119864083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.28813639999999996,
+          40.245792300000005
+        ]
+      },
+      "id": 119864083
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "MrAldisa",
         "uid": "5006221",
         "editor": "MapComplete 0.22.2",
@@ -1421,6 +1828,162 @@
         "reasons": [],
         "tags": [],
         "features": [],
+        "user": "Cleta14",
+        "uid": "13856772",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-03T16:50:10Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/DI76dFv.jpg"
+          ],
+          "bottle": [
+            "yes"
+          ],
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 1.31399999995007e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 3,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 1,
+        "change_over_5000m": 2,
+        "change_within_25m": 2,
+        "change_within_100m": 1,
+        "id": 125746024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7437109,
+          39.0684047
+        ]
+      },
+      "id": 125746024
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Cleta14",
+        "uid": "13856772",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-04T07:39:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 3,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.0000552917851199878,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 3,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 3,
+        "change_over_5000m": 3,
+        "change_within_25m": 6,
+        "id": 125762090
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6775706000000001,
+          39.1330266
+        ]
+      },
+      "id": 125762090
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Cleta14",
+        "uid": "13856772",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-09-07T08:09:11Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/dduqRd6.jpg"
+          ],
+          "bottle": [
+            "yes"
+          ],
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 1,
+        "locale": "ca",
+        "imagery": "CartoDB.Voyager",
+        "add-image": 1,
+        "change_within_25m": 2,
+        "id": 125888938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5559127,
+          38.9578387
+        ]
+      },
+      "id": 125888938
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
         "user": "joost schouppe",
         "uid": "67832",
         "editor": "MapComplete 0.25.3",
@@ -1461,6 +2024,189 @@
         ]
       },
       "id": 130751220
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.25.3",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-01-02T15:15:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "clothes"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/shops.html",
+        "theme": "shops",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 2,
+        "id": 130791955
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1053906,
+          40.3437659
+        ]
+      },
+      "id": 130791955
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.25.3",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-01-03T13:37:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/toilets.html",
+        "theme": "toilets",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 2,
+        "id": 130827107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3437816,
+          40.5874496
+        ]
+      },
+      "id": 130827107
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 42,
+            "name": "Invalid tag modification"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-755116395",
+            "name": "Área de Servicios de Autocaravanas",
+            "osm_id": 755116395,
+            "reasons": [
+              42
+            ],
+            "version": 6,
+            "primary_tags": {
+              "amenity": "sanitary_dump_station"
+            }
+          }
+        ],
+        "user": "joost schouppe",
+        "uid": "67832",
+        "editor": "MapComplete 0.25.3",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-01-03T11:29:17Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "image": [
+            "https://i.imgur.com/arEGDGz.jpg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "sanitary_dump_station"
+          ],
+          "tourism": [
+            "caravan_site"
+          ],
+          "water_point": [
+            "yes"
+          ],
+          "power_supply": [
+            "no"
+          ],
+          "sanitary_dump_station:grey_water": [
+            "yes"
+          ],
+          "sanitary_dump_station:chemical_toilet": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 7.61387200003051e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 6,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "change_within_25m": 7,
+        "id": 130822189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40763375,
+          40.5259734
+        ]
+      },
+      "id": 130822189
     },
     {
       "type": "Feature",
