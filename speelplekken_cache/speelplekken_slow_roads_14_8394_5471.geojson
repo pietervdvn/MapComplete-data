@@ -2457,14 +2457,62 @@
   },
   {
    "type": "Feature",
-   "id": "way/4357539",
+   "id": "way/4357538",
    "properties": {
+    "foot": "designated",
     "highway": "living_street",
-    "maxspeed": "30",
-    "maxspeed:zone": "yes",
+    "maxspeed": "20",
+    "maxspeed:source": "BE:living_street",
     "name": "Wasstraat",
     "oneway": "yes",
     "oneway:bicycle": "no",
+    "oneway:speed_pedelec": "no",
+    "parking:both": "no",
+    "surface": "paving_stones",
+    "id": "way/4357538",
+    "_lat": "51.1979003",
+    "_lon": "4.419935300000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "83.43219598894827",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 151.72523595354167,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 137897901,
+    "_last_edit:timestamp": "2023-06-28T23:14:06Z",
+    "_version_number": 14,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4196517,
+      51.1982307
+     ],
+     [
+      4.4202189,
+      51.1975699
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/4357539",
+   "properties": {
+    "foot": "designated",
+    "highway": "living_street",
+    "maxspeed": "20",
+    "maxspeed:source": "BE:living_street",
+    "name": "Wasstraat",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "oneway:speed_pedelec": "no",
     "parking:lane:both": "no",
     "surface": "grass_paver",
     "vicinal_ref": "22",
@@ -2478,15 +2526,14 @@
     "_length": "82.61593760642482",
     "_length:km": "0.1",
     "_direction:centerpoint": -28.684346655834222,
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 127249082,
-    "_last_edit:timestamp": "2022-10-09T13:33:17Z",
-    "_version_number": 11,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 137897901,
+    "_last_edit:timestamp": "2023-06-28T23:14:06Z",
+    "_version_number": 13,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_is_shadowed": "yes"
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -2504,12 +2551,65 @@
   },
   {
    "type": "Feature",
-   "id": "way/4357553",
+   "id": "way/4357543",
    "properties": {
+    "foot": "designated",
     "highway": "living_street",
     "lit": "yes",
-    "maxspeed": "30",
-    "maxspeed:zone": "yes",
+    "maxspeed": "20",
+    "maxspeed:source": "BE:living_street",
+    "name": "Woeringenstraat",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "oneway:speed_pedelec": "no",
+    "parking:both": "no",
+    "surface": "paving_stones",
+    "id": "way/4357543",
+    "_lat": "51.19800845",
+    "_lon": "4.4214588500000005",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "107.22928918444514",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -120.50262975134551,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 137897901,
+    "_last_edit:timestamp": "2023-06-28T23:14:06Z",
+    "_version_number": 14,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4221262,
+      51.1982484
+     ],
+     [
+      4.4214357,
+      51.1979935
+     ],
+     [
+      4.4207915,
+      51.1977685
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/4357553",
+   "properties": {
+    "foot": "designated",
+    "highway": "living_street",
+    "lit": "yes",
+    "maxspeed": "20",
+    "maxspeed:source": "BE:living_street",
     "name": "Wasstraat",
     "oneway": "yes",
     "oneway:bicycle": "no",
@@ -2525,11 +2625,11 @@
     "_length": "82.42175785018044",
     "_length:km": "0.1",
     "_direction:centerpoint": 151.401050688528,
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 114290114,
-    "_last_edit:timestamp": "2021-11-27T10:53:23Z",
-    "_version_number": 15,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 137897817,
+    "_last_edit:timestamp": "2023-06-28T23:07:09Z",
+    "_version_number": 16,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -2553,12 +2653,14 @@
    "type": "Feature",
    "id": "way/4357558",
    "properties": {
+    "foot": "designated",
     "highway": "living_street",
-    "maxspeed": "30",
-    "maxspeed:zone": "yes",
+    "maxspeed": "20",
+    "maxspeed:source": "BE:living_street",
     "name": "De Brouwerstraat",
     "oneway": "yes",
     "oneway:bicycle": "no",
+    "oneway:speed_pedelec": "no",
     "parking:lane:both": "no",
     "surface": "grass_paver",
     "vicinal_ref": "53",
@@ -2572,11 +2674,11 @@
     "_length": "82.05992154358168",
     "_length:km": "0.1",
     "_direction:centerpoint": -28.491807063909278,
-    "_last_edit:contributor": "ThVerhulst",
-    "_last_edit:contributor:uid": 13383776,
-    "_last_edit:changeset": 127249082,
-    "_last_edit:timestamp": "2022-10-09T13:33:19Z",
-    "_version_number": 10,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 137897901,
+    "_last_edit:timestamp": "2023-06-28T23:14:06Z",
+    "_version_number": 12,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -3609,6 +3711,74 @@
   },
   {
    "type": "Feature",
+   "id": "way/37880673",
+   "properties": {
+    "foot": "designated",
+    "highway": "living_street",
+    "lit": "yes",
+    "maxspeed": "20",
+    "maxspeed:source": "BE:living_street",
+    "name": "Berthoutstraat",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "parking:both": "street_side",
+    "parking:both:orientation": "parallel",
+    "sidewalk": "both",
+    "surface": "paving_stones",
+    "id": "way/37880673",
+    "_lat": "51.19712345",
+    "_lon": "4.421359750000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "213.34635750864012",
+    "_length:km": "0.2",
+    "_direction:centerpoint": 61.327486311307744,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 137897817,
+    "_last_edit:timestamp": "2023-06-28T23:07:09Z",
+    "_version_number": 15,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4200317,
+      51.1966464
+     ],
+     [
+      4.4200702,
+      51.1966589
+     ],
+     [
+      4.4203947,
+      51.1967761
+     ],
+     [
+      4.420788,
+      51.1969181
+     ],
+     [
+      4.421345,
+      51.1971213
+     ],
+     [
+      4.4219975,
+      51.1973449
+     ],
+     [
+      4.4226878,
+      51.1976005
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
    "id": "way/44794770",
    "properties": {
     "highway": "path",
@@ -3738,6 +3908,102 @@
      [
       4.4200665,
       51.1949835
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/70126474",
+   "properties": {
+    "foot": "designated",
+    "highway": "living_street",
+    "maxspeed": "20",
+    "maxspeed:source": "BE:living_street",
+    "name": "Woeringenstraat",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "oneway:speed_pedelec": "no",
+    "parking:both": "no",
+    "surface": "grass_paver",
+    "id": "way/70126474",
+    "_lat": "51.19743645",
+    "_lon": "4.4198363",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "61.02165284599124",
+    "_length:km": "0.1",
+    "_direction:centerpoint": -119.10615087872299,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 137897901,
+    "_last_edit:timestamp": "2023-06-28T23:14:06Z",
+    "_version_number": 13,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4202189,
+      51.1975699
+     ],
+     [
+      4.4195046,
+      51.1973207
+     ],
+     [
+      4.4194537,
+      51.197303
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/70126476",
+   "properties": {
+    "foot": "designated",
+    "highway": "living_street",
+    "maxspeed": "20",
+    "maxspeed:source": "BE:living_street",
+    "name": "Woeringenstraat",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "oneway:speed_pedelec": "no",
+    "parking:both": "no",
+    "surface": "grass_paver",
+    "id": "way/70126476",
+    "_lat": "51.1976692",
+    "_lon": "4.4205052",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "45.60186692708517",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -118.96412586703228,
+    "_last_edit:contributor": "pi11",
+    "_last_edit:contributor:uid": 12066190,
+    "_last_edit:changeset": 137897901,
+    "_last_edit:timestamp": "2023-06-28T23:14:06Z",
+    "_version_number": 10,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.4207915,
+      51.1977685
+     ],
+     [
+      4.4202189,
+      51.1975699
      ]
     ]
    }
