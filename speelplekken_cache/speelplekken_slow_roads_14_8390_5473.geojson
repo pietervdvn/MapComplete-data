@@ -21765,30 +21765,27 @@
    "id": "way/22976788",
    "properties": {
     "bicycle": "yes",
-    "cycleway:right": "track",
-    "cycleway:right:oneway": "no",
-    "cycleway:surface": "compacted",
     "foot": "yes",
     "highway": "track",
     "motor_vehicle": "destination",
     "name": "Moerelei",
     "oneway:bicycle": "no",
-    "sidewalk": "right",
+    "smoothness": "bad",
     "surface": "sett",
     "id": "way/22976788",
-    "_lat": "51.158017799999996",
+    "_lat": "51.15802075",
     "_lon": "4.36012495",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "242.78832407070865",
+    "_length": "243.2080779307196",
     "_length:km": "0.2",
-    "_direction:centerpoint": 169.3650831609671,
+    "_direction:centerpoint": 169.65900851771252,
     "_last_edit:contributor": "H4N5-antw",
     "_last_edit:contributor:uid": 10846743,
-    "_last_edit:changeset": 129895062,
-    "_last_edit:timestamp": "2022-12-09T10:40:47Z",
-    "_version_number": 18,
+    "_last_edit:changeset": 138104597,
+    "_last_edit:timestamp": "2023-07-04T11:47:24Z",
+    "_version_number": 20,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -21798,8 +21795,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.3605692,
-      51.158813
+      4.36059,
+      51.1588189
+     ],
+     [
+      4.3606079,
+      51.1587104
      ],
      [
       4.3608824,
@@ -23533,6 +23534,53 @@
      [
       4.3677532,
       51.162282
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1123404069",
+   "properties": {
+    "highway": "path",
+    "note": "path, gezien geen bordjes fietspad, en niet breed genoeg voor andere dan voetgangers, fietsers etc.",
+    "oneway": "no",
+    "smoothness": "excellent",
+    "surface": "asphalt",
+    "width": "2",
+    "id": "way/1123404069",
+    "_lat": "51.16078165",
+    "_lon": "4.36761525",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "12.242072268376775",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -56.87065938510525,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138104317,
+    "_last_edit:timestamp": "2023-07-04T11:40:36Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3676681,
+      51.160743
+     ],
+     [
+      4.3676572,
+      51.1607815
+     ],
+     [
+      4.3675624,
+      51.1608203
      ]
     ]
    }

@@ -1377,8 +1377,7 @@
     "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_is_shadowed": "yes"
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -2393,23 +2392,23 @@
    "id": "way/302880822",
    "properties": {
     "highway": "path",
-    "note": "wordt opgewaardeerd tot fietspad vanaf 10-10-2022",
-    "surface": "ground",
-    "trail_visibility": "good",
+    "note": "befietst 230704, prentjes tzt",
+    "smoothness": "excellent",
+    "surface": "concrete",
     "id": "way/302880822",
-    "_lat": "51.1317777",
-    "_lon": "4.3447004499999995",
+    "_lat": "51.131796",
+    "_lon": "4.34473955",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "433.92619036415545",
+    "_length": "443.40968246574494",
     "_length:km": "0.4",
-    "_direction:centerpoint": -117.87297372918971,
-    "_last_edit:contributor": "JanFi",
-    "_last_edit:contributor:uid": 672253,
-    "_last_edit:changeset": 131820799,
-    "_last_edit:timestamp": "2023-01-28T20:18:36Z",
-    "_version_number": 4,
+    "_direction:centerpoint": -117.87296076961525,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 5,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -2419,8 +2418,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.3471538,
-      51.1327275
+      4.347232,
+      51.1327641
      ],
      [
       4.3469685,
@@ -2475,12 +2474,12 @@
       51.1314585
      ],
      [
-      4.3425347,
-      51.1313945
+      4.3424107,
+      51.1313282
      ],
      [
-      4.3423089,
-      51.1313169
+      4.3422682,
+      51.131322
      ],
      [
       4.3422471,
@@ -2813,14 +2812,14 @@
     "surface": "grass",
     "trail_visibility": "bad",
     "id": "way/302884269",
-    "_lat": "51.129267299999995",
-    "_lon": "4.3338221",
+    "_lat": "51.12925895",
+    "_lon": "4.33383715",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "9.48602902808313",
+    "_length": "11.768764510372751",
     "_length:km": "0.0",
-    "_direction:centerpoint": -8.375201743437984,
+    "_direction:centerpoint": -17.21024318358971,
     "_last_edit:contributor": "escada",
     "_last_edit:contributor:uid": 436365,
     "_last_edit:changeset": 25365678,
@@ -2835,8 +2834,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.333832,
-      51.1292251
+      4.3338621,
+      51.1292084
      ],
      [
       4.3338122,
@@ -3116,13 +3115,13 @@
     "trail_visibility": "intermediate",
     "id": "way/302884277",
     "_lat": "51.129584449999996",
-    "_lon": "4.3347831",
+    "_lon": "4.33479815",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "176.34435123969448",
+    "_length": "173.75889761284694",
     "_length:km": "0.2",
-    "_direction:centerpoint": 51.62220210646043,
+    "_direction:centerpoint": 51.62220431743877,
     "_last_edit:contributor": "escada",
     "_last_edit:contributor:uid": 436365,
     "_last_edit:changeset": 71805520,
@@ -3136,8 +3135,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.333832,
-      51.1292251
+      4.3338621,
+      51.1292084
      ],
      [
       4.3341813,
@@ -3170,6 +3169,48 @@
      [
       4.3357342,
       51.1300234
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/302884279",
+   "properties": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "note": "befietst 230704, nog geen bordjes zodat bij gebrek aan beter eigenlijk jaagpad = laatste bord voor de brug, doch niet geweten welk max.weight.",
+    "surface": "paved",
+    "width": "2.5",
+    "id": "way/302884279",
+    "_lat": "51.129685300000006",
+    "_lon": "4.3334754",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "42.22224352514532",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -28.531029677051944,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138105848,
+    "_last_edit:timestamp": "2023-07-04T12:19:44Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3336199,
+      51.1295185
+     ],
+     [
+      4.3333309,
+      51.1298521
      ]
     ]
    }
@@ -3260,8 +3301,8 @@
    "id": "way/303226848",
    "properties": {
     "highway": "path",
-    "note": "wordt opgewaardeerd tot fietspad vanaf 10-10-2022",
-    "surface": "grass",
+    "note": "opgewaardeerd tot fietspad , geopend end.jun'23 , befietst 230704",
+    "surface": "concrete",
     "trail_visibility": "good",
     "id": "way/303226848",
     "_lat": "51.130698800000005",
@@ -3272,11 +3313,11 @@
     "_length": "29.244859907516346",
     "_length:km": "0.0",
     "_direction:centerpoint": -167.7112772911173,
-    "_last_edit:contributor": "JanFi",
-    "_last_edit:contributor:uid": 672253,
-    "_last_edit:changeset": 131820799,
-    "_last_edit:timestamp": "2023-01-28T20:18:36Z",
-    "_version_number": 2,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 3,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -4259,21 +4300,23 @@
    "id": "way/563957630",
    "properties": {
     "highway": "path",
-    "note": "wordt opgewaardeerd tot fietspad vanaf 10-10-2022",
+    "note": "befietst 230704, prentjes tzt",
+    "smoothness": "excellent",
+    "surface": "concrete",
     "id": "way/563957630",
-    "_lat": "51.13108995",
-    "_lon": "4.341060150000001",
+    "_lat": "51.13109445",
+    "_lon": "4.3410707",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "180.26865690376334",
+    "_length": "177.63576633365713",
     "_length:km": "0.2",
-    "_direction:centerpoint": -119.89899964667849,
-    "_last_edit:contributor": "JanFi",
-    "_last_edit:contributor:uid": 672253,
-    "_last_edit:changeset": 131820799,
-    "_last_edit:timestamp": "2023-01-28T20:18:36Z",
-    "_version_number": 3,
+    "_direction:centerpoint": -113.58300389237876,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 4,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -4283,8 +4326,8 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.3422471,
-      51.1312153
+      4.3422682,
+      51.131322
      ],
      [
       4.3420726,
@@ -4888,21 +4931,22 @@
    "id": "way/868654046",
    "properties": {
     "highway": "path",
-    "surface": "dirt",
+    "smoothness": "excellent",
+    "surface": "concrete",
     "id": "way/868654046",
-    "_lat": "51.130634099999995",
-    "_lon": "4.3373956499999995",
+    "_lat": "51.1306112",
+    "_lon": "4.337345",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "228.2673307028088",
+    "_length": "222.40764163308623",
     "_length:km": "0.2",
-    "_direction:centerpoint": -106.57820244664339,
-    "_last_edit:contributor": "Theo Flitser",
-    "_last_edit:contributor:uid": 12143180,
-    "_last_edit:changeset": 93799289,
-    "_last_edit:timestamp": "2020-11-09T12:38:22Z",
-    "_version_number": 1,
+    "_direction:centerpoint": -106.57822265240894,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -4912,16 +4956,20 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.33896,
-      51.1308186
+      4.3388587,
+      51.1308289
      ],
      [
-      4.3387167,
-      51.1307905
+      4.338649,
+      51.1307392
      ],
      [
-      4.3382004,
-      51.1308747
+      4.3383369,
+      51.1308051
+     ],
+     [
+      4.3379436,
+      51.1308014
      ],
      [
       4.3374076,
@@ -4943,22 +4991,22 @@
    "id": "way/868654047",
    "properties": {
     "highway": "path",
-    "note": "wordt opgewaardeerd tot fietspad vanaf 10-10-2022",
+    "note": "befietst 230704, prentjes tzt",
     "surface": "dirt",
     "id": "way/868654047",
-    "_lat": "51.1308661",
-    "_lon": "4.339480200000001",
+    "_lat": "51.13089225",
+    "_lon": "4.3395671",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "55.339487766950306",
-    "_length:km": "0.1",
-    "_direction:centerpoint": -97.18184211777863,
-    "_last_edit:contributor": "JanFi",
-    "_last_edit:contributor:uid": 672253,
-    "_last_edit:changeset": 131820799,
-    "_last_edit:timestamp": "2023-01-28T20:18:36Z",
-    "_version_number": 2,
+    "_length": "42.75498005809184",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -92.89415552833285,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 3,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -4972,12 +5020,12 @@
       51.1308989
      ],
      [
-      4.3391802,
-      51.1308441
+      4.3394729,
+      51.1308862
      ],
      [
-      4.3390872,
-      51.1308333
+      4.339261,
+      51.1308856
      ]
     ]
    }
@@ -4988,22 +5036,24 @@
    "properties": {
     "highway": "path",
     "layer": "-1",
-    "surface": "dirt",
+    "note": "dit is een brug onder de spoorbrug, boven de beek.",
+    "surface": "paved",
     "tunnel": "yes",
+    "width": "2.5",
     "id": "way/868654048",
-    "_lat": "51.13082595",
-    "_lon": "4.3390236",
+    "_lat": "51.13085725",
+    "_lon": "4.33905985",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "9.02524778995862",
+    "_length": "28.77168961547421",
     "_length:km": "0.0",
-    "_direction:centerpoint": -100.43442787518153,
-    "_last_edit:contributor": "Theo Flitser",
-    "_last_edit:contributor:uid": 12143180,
-    "_last_edit:changeset": 93799289,
-    "_last_edit:timestamp": "2020-11-09T12:38:22Z",
-    "_version_number": 1,
+    "_direction:centerpoint": -102.65789904857152,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -5013,12 +5063,12 @@
     "type": "LineString",
     "coordinates": [
      [
-      4.3390872,
-      51.1308333
+      4.339261,
+      51.1308856
      ],
      [
-      4.33896,
-      51.1308186
+      4.3388587,
+      51.1308289
      ]
     ]
    }
@@ -5188,19 +5238,19 @@
     "highway": "living_street",
     "name": "Abdijstraat",
     "id": "way/996369364",
-    "_lat": "51.135667749999996",
-    "_lon": "4.33685735",
+    "_lat": "51.13558195",
+    "_lon": "4.336867099999999",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "122.78462496975239",
+    "_length": "103.36002420487134",
     "_length:km": "0.1",
-    "_direction:centerpoint": -6.066217816552679,
-    "_last_edit:contributor": "wegspotter",
-    "_last_edit:contributor:uid": 428001,
-    "_last_edit:changeset": 112960730,
-    "_last_edit:timestamp": "2021-10-25T18:05:44Z",
-    "_version_number": 1,
+    "_direction:centerpoint": -6.066217753899565,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138114728,
+    "_last_edit:timestamp": "2023-07-04T16:21:40Z",
+    "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
     "_country": "be",
@@ -5222,6 +5272,10 @@
       51.1353996
      ],
      [
+      4.3369042,
+      51.1354344
+     ],
+     [
       4.3369496,
       51.1354476
      ],
@@ -5230,8 +5284,8 @@
       51.1357564
      ],
      [
-      4.3367651,
-      51.1361737
+      4.3368173,
+      51.1360021
      ]
     ]
    }
@@ -5283,13 +5337,13 @@
     "trail_visibility": "good",
     "id": "way/1136006099",
     "_lat": "51.132590050000005",
-    "_lon": "4.3480849500000005",
+    "_lon": "4.34812405",
     "_layer": "slow_roads",
     "_surface": "0",
     "_surface:ha": "0",
-    "_length": "158.88893484871153",
+    "_length": "152.11528758752502",
     "_length:km": "0.2",
-    "_direction:centerpoint": -63.82626728874102,
+    "_direction:centerpoint": -63.826257465310604,
     "_last_edit:contributor": "JanFi",
     "_last_edit:contributor:uid": 672253,
     "_last_edit:changeset": 131820799,
@@ -5297,8 +5351,7 @@
     "_version_number": 1,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_is_shadowed": "yes"
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -5332,12 +5385,385 @@
       51.1328784
      ],
      [
-      4.3472587,
-      51.1327738
+      4.3473486,
+      51.1327936
      ],
      [
-      4.3471538,
-      51.1327275
+      4.347232,
+      51.1327641
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1136006100",
+   "properties": {
+    "highway": "path",
+    "note": "befietst 230704, prentjes tzt",
+    "surface": "compacted",
+    "id": "way/1136006100",
+    "_lat": "51.1327945",
+    "_lon": "4.3472383",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "6.817588122910967",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -172.59056180601337,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3472446,
+      51.1328249
+     ],
+     [
+      4.347232,
+      51.1327641
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1136006101",
+   "properties": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "note": "befietst 230704, prentjes tzt",
+    "id": "way/1136006101",
+    "_lat": "51.13289005",
+    "_lon": "4.3472664000000005",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "14.804673316784452",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -168.14159118557106,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3472882,
+      51.1329552
+     ],
+     [
+      4.3472446,
+      51.1328249
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1136006102",
+   "properties": {
+    "highway": "path",
+    "note": "befietst 230704, prentjes tzt",
+    "surface": "compacted",
+    "id": "way/1136006102",
+    "_lat": "51.133867699999996",
+    "_lon": "4.349478850000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "397.55963706020134",
+    "_length:km": "0.4",
+    "_direction:centerpoint": -106.93027521215959,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3515415,
+      51.1347802
+     ],
+     [
+      4.3516695,
+      51.1345096
+     ],
+     [
+      4.3516634,
+      51.1344005
+     ],
+     [
+      4.3515592,
+      51.1343427
+     ],
+     [
+      4.3513252,
+      51.1342636
+     ],
+     [
+      4.3507803,
+      51.1341642
+     ],
+     [
+      4.3487412,
+      51.1337747
+     ],
+     [
+      4.3484455,
+      51.1336677
+     ],
+     [
+      4.348149,
+      51.1334475
+     ],
+     [
+      4.3476584,
+      51.1331518
+     ],
+     [
+      4.3473422,
+      51.1330044
+     ],
+     [
+      4.3472882,
+      51.1329552
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1187292262",
+   "properties": {
+    "highway": "path",
+    "note": "befietst 230704, nog geen bordjes zodat bij gebrek aan beter eigenlijk jaagpad = laatste bord voor de brug, doch niet geweten welk max.weight.",
+    "surface": "concrete",
+    "id": "way/1187292262",
+    "_lat": "51.1298989",
+    "_lon": "4.33329805",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "11.372877635266741",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -23.773306632805813,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138105848,
+    "_last_edit:timestamp": "2023-07-04T12:19:44Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3333309,
+      51.1298521
+     ],
+     [
+      4.3332652,
+      51.1299457
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1187292263",
+   "properties": {
+    "highway": "path",
+    "note": "befietst 230704, nog geen bordjes zodat bij gebrek aan beter eigenlijk jaagpad = laatste bord voor de brug, doch niet geweten welk max.weight.",
+    "surface": "concrete",
+    "width": "3",
+    "id": "way/1187292263",
+    "_lat": "51.129414",
+    "_lon": "4.33371605",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "26.83576897698088",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -30.00286321304724,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138105848,
+    "_last_edit:timestamp": "2023-07-04T12:19:44Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3338122,
+      51.1293095
+     ],
+     [
+      4.3336199,
+      51.1295185
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1187300935",
+   "properties": {
+    "highway": "path",
+    "note": "nieuwe aansluiting, befietst 230704, prentjes tzt",
+    "surface": "paved",
+    "width": "2",
+    "id": "way/1187300935",
+    "_lat": "51.1305258",
+    "_lon": "4.338808350000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "54.493851147759464",
+    "_length:km": "0.1",
+    "_direction:centerpoint": 166.43239524796778,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.338649,
+      51.1307392
+     ],
+     [
+      4.3387527,
+      51.1306865
+     ],
+     [
+      4.3388727,
+      51.1305896
+     ],
+     [
+      4.3389215,
+      51.1304627
+     ],
+     [
+      4.3389677,
+      51.1303124
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1187356975",
+   "properties": {
+    "highway": "living_street",
+    "name": "Abdijstraat",
+    "id": "way/1187356975",
+    "_lat": "51.13613195",
+    "_lon": "4.33677855",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "9.472587870418847",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -11.427975648590877,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138114728,
+    "_last_edit:timestamp": "2023-07-04T16:21:40Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.336792,
+      51.1360902
+     ],
+     [
+      4.3367651,
+      51.1361737
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1187356976",
+   "properties": {
+    "highway": "living_street",
+    "layer": "-1",
+    "name": "Abdijstraat",
+    "tunnel": "yes",
+    "id": "way/1187356976",
+    "_lat": "51.13604615",
+    "_lon": "4.3368046499999995",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "9.954057883309844",
+    "_length:km": "0.0",
+    "_direction:centerpoint": -10.214719906175661,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138114728,
+    "_last_edit:timestamp": "2023-07-04T16:21:40Z",
+    "_version_number": 1,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be",
+    "_is_shadowed": "yes"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3368173,
+      51.1360021
+     ],
+     [
+      4.336792,
+      51.1360902
      ]
     ]
    }
@@ -10953,8 +11379,7 @@
     "_version_number": 2,
     "_backend": "https://openstreetmap.org",
     "_geometry:type": "LineString",
-    "_country": "be",
-    "_is_shadowed": "yes"
+    "_country": "be"
    },
    "geometry": {
     "type": "LineString",
@@ -11202,6 +11627,85 @@
      [
       4.351888,
       51.1284915
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "way/1136006102",
+   "properties": {
+    "highway": "path",
+    "note": "befietst 230704, prentjes tzt",
+    "surface": "compacted",
+    "id": "way/1136006102",
+    "_lat": "51.133867699999996",
+    "_lon": "4.349478850000001",
+    "_layer": "slow_roads",
+    "_surface": "0",
+    "_surface:ha": "0",
+    "_length": "397.55963706020134",
+    "_length:km": "0.4",
+    "_direction:centerpoint": -106.93027521215959,
+    "_last_edit:contributor": "H4N5-antw",
+    "_last_edit:contributor:uid": 10846743,
+    "_last_edit:changeset": 138106187,
+    "_last_edit:timestamp": "2023-07-04T12:29:19Z",
+    "_version_number": 2,
+    "_backend": "https://openstreetmap.org",
+    "_geometry:type": "LineString",
+    "_country": "be"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      4.3515415,
+      51.1347802
+     ],
+     [
+      4.3516695,
+      51.1345096
+     ],
+     [
+      4.3516634,
+      51.1344005
+     ],
+     [
+      4.3515592,
+      51.1343427
+     ],
+     [
+      4.3513252,
+      51.1342636
+     ],
+     [
+      4.3507803,
+      51.1341642
+     ],
+     [
+      4.3487412,
+      51.1337747
+     ],
+     [
+      4.3484455,
+      51.1336677
+     ],
+     [
+      4.348149,
+      51.1334475
+     ],
+     [
+      4.3476584,
+      51.1331518
+     ],
+     [
+      4.3473422,
+      51.1330044
+     ],
+     [
+      4.3472882,
+      51.1329552
      ]
     ]
    }
