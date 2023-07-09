@@ -6685,6 +6685,114 @@
         ]
       },
       "id": 136713424
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Matyáš Richter",
+        "uid": "2906144",
+        "editor": "MapComplete 0.27.5",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-06-22T19:30:37Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "residential",
+            "tertiary",
+            "service"
+          ],
+          "name:etymology:wikidata": [
+            "Q452084",
+            "Q839710",
+            "Q1689541",
+            "Q160021",
+            "Q610179",
+            "Q10856771",
+            "Q329515"
+          ]
+        },
+        "create": 0,
+        "modify": 28,
+        "delete": 0,
+        "area": 0.000159058001339978,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 41,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_500m": 12,
+        "change_within_1000m": 22,
+        "change_within_5000m": 7,
+        "id": 137660711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3646286,
+          50.19452095
+        ]
+      },
+      "id": 137660711
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "FFW_Leo",
+        "uid": "14152227",
+        "editor": "MapComplete 0.7.2l",
+        "comment": "Adding data with #MapComplete for theme #waldbrand",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-06-27T17:36:41Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "waldbrand-app.de",
+        "theme": "waldbrand",
+        "imagery": "osm",
+        "language": "de",
+        "theme-creator": "Sebastian Kürten",
+        "id": 137845937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2140555,
+          50.893167
+        ]
+      },
+      "id": 137845937
     }
   ]
 }

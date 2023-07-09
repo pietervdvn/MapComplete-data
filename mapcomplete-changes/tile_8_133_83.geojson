@@ -29822,6 +29822,517 @@
         ]
       },
       "id": 136791347
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-10942218185",
+            "osm_id": 10942218185,
+            "reasons": [
+              43
+            ],
+            "version": 4,
+            "primary_tags": {
+              "amenity": "parcel_locker"
+            }
+          }
+        ],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #postboxes",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-06-01T10:12:33Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "newsagent"
+          ],
+          "amenity": [
+            "parcel_locker",
+            "post_box"
+          ],
+          "opening_hours": [
+            "Mo 13:00-18:00;Sa 09:00-17:00;Tu-Fr 09:00-18:00",
+            "Mo-Sa 08:00-21:00;Su 12:00-18:00"
+          ],
+          "post_office:letter_from": [
+            "yes"
+          ],
+          "post_office:parcel_pickup": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 1,
+        "area": 4.5413488999912e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/postboxes.html",
+        "theme": "postboxes",
+        "answer": 4,
+        "locale": "nl",
+        "imagery": "CartoDB.Voyager",
+        "deletion": 1,
+        "change_within_5000m": 5,
+        "deletion:node/10942190643": "testing point",
+        "id": 136823796
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.51464225,
+          53.00020605
+        ]
+      },
+      "id": 136823796
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.27.4",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-06-07T07:38:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "charge": [
+            "€0,50"
+          ],
+          "amenity": [
+            "toilets"
+          ],
+          "payment:coins": [
+            "yes"
+          ],
+          "payment:notes": [
+            "no"
+          ],
+          "payment:qr_code": [
+            "no"
+          ],
+          "toilets:position": [
+            "seated;urinal"
+          ],
+          "payment_debit_cards": [
+            "no"
+          ],
+          "payment:credit_cards": [
+            "no"
+          ],
+          "toilets:paper_supplied": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/toilets.html",
+        "theme": "toilets",
+        "answer": 5,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_25m": 5,
+        "id": 137043626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4587107,
+          53.2295772
+        ]
+      },
+      "id": 137043626
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "wandertanne",
+        "uid": "17413136",
+        "editor": "MapComplete 0.30.7",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-06-25T15:49:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "name:etymology": [
+            "Theodor Francksen (1875-1914), Mäzen und Stifter des Stadtmuseums Oldenburg"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.64086900006911e-7,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 1,
+        "locale": "de",
+        "id": 137757633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.225648450000001,
+          53.159677099999996
+        ]
+      },
+      "id": 137757633
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.30.7",
+        "comment": "Adding data with #MapComplete for theme #bag",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-06-26T19:45:14Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "building": [
+            "yes",
+            "construction"
+          ]
+        },
+        "create": 15,
+        "modify": 0,
+        "delete": 0,
+        "area": 8.58690000007734e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/bag.html",
+        "theme": "bag",
+        "import": 3,
+        "locale": "en",
+        "id": 137806942
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6542901,
+          52.975406750000005
+        ]
+      },
+      "id": 137806942
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "wjtje",
+        "uid": "11949970",
+        "editor": "MapComplete 0.30.7",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-06-26T10:36:00Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 4,
+        "locale": "nl",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "id": 137786056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3975314,
+          53.2418659
+        ]
+      },
+      "id": 137786056
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.30.7",
+        "comment": "Adding data with #MapComplete for theme #stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-06-28T12:10:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/tDPSzGI.jpg",
+            "https://i.imgur.com/mto1psh.jpg",
+            "https://i.imgur.com/pT2YamF.jpg",
+            "https://i.imgur.com/A7Jv7fR.jpg"
+          ],
+          "amenity": [
+            "vending_machine"
+          ],
+          "payment:cash": [
+            "no"
+          ],
+          "payment:coins": [
+            "no"
+          ],
+          "payment:notes": [
+            "no"
+          ],
+          "payment:qr_code": [
+            "no"
+          ],
+          "payment:debit_cards": [
+            "yes"
+          ],
+          "payment:credit_cards": [
+            "yes"
+          ],
+          "payment:coins:denominations": [
+            "0.10 EUR;0.20 EUR;0.50 EUR;1 EUR;2 EUR"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 2.69610000031992e-10,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/stations.html",
+        "theme": "stations",
+        "answer": 5,
+        "locale": "nl",
+        "add-image": 4,
+        "change_within_100m": 3,
+        "change_within_500m": 1,
+        "id": 137876662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.565093149999999,
+          53.21101515
+        ]
+      },
+      "id": 137876662
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.30.7",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-06-28T11:43:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "capacity": [
+            "96",
+            "100"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 3.34235999993224e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 1,
+        "locale": "nl",
+        "id": 137875540
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.514022000000001,
+          53.1978393
+        ]
+      },
+      "id": 137875540
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.30.9",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-06-29T08:24:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "waste_basket"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/waste.html",
+        "theme": "waste",
+        "answer": 1,
+        "locale": "nl",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 137908077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5651012,
+          52.9937445
+        ]
+      },
+      "id": 137908077
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Robin van der Linde",
+        "uid": "5093765",
+        "editor": "MapComplete 0.30.9",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-06-29T08:21:49Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/develop/benches.html",
+        "theme": "benches",
+        "answer": 5,
+        "locale": "nl",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "change_within_25m": 1,
+        "id": 137907981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5650841,
+          52.9937371
+        ]
+      },
+      "id": 137907981
     }
   ]
 }
