@@ -76,6 +76,83 @@
         ]
       },
       "id": 125726307
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 489,
+            "name": "Mapbox: Spam text"
+          },
+          {
+            "id": 533,
+            "name": "Mapbox: Irrelevant label"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-403480267",
+            "note": "Irrelevant label reported in [\"name\",\"name:hi\"] tags in the feature",
+            "osm_id": 403480267,
+            "reasons": [
+              489,
+              533
+            ],
+            "version": 12
+          }
+        ],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.31.2",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-08-12T07:45:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "email": [
+            "pro@iitdh.ac.in",
+            "contact@iiitdwd.ac.in",
+            "registrar@uasd.in"
+          ],
+          "phone": [
+            "+91 836 221 2839",
+            "+91 836 225 0879"
+          ],
+          "amenity": [
+            "university",
+            "college"
+          ],
+          "school:gender": [
+            "mixed"
+          ]
+        },
+        "create": 0,
+        "modify": 9,
+        "delete": 0,
+        "area": 0.0143415539074496,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/education.html",
+        "theme": "education",
+        "answer": 9,
+        "locale": "en",
+        "id": 139776584
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.97476325,
+          15.458045349999999
+        ]
+      },
+      "id": 139776584
     }
   ]
 }
