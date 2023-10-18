@@ -6519,6 +6519,198 @@
         ]
       },
       "id": 140492922
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Daniel Sparber",
+        "uid": "17506069",
+        "editor": "MapComplete 0.2.2a",
+        "comment": "Adding data with #MapComplete for theme #climbing",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-09-11T14:59:35Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "climbing:sport": [
+            "yes"
+          ],
+          "climbing:boulder": [
+            "no"
+          ],
+          "climbing:traditional": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.000158537831040012,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "theme": "climbing",
+        "language": "de",
+        "theme-creator": "Christian Neumann <christian@utopicode.de>",
+        "id": 141118078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3161847,
+          44.183642500000005
+        ]
+      },
+      "id": 141118078
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Emere Arco",
+        "uid": "697108",
+        "editor": "MapComplete 0.31.4",
+        "comment": "Adding data with #MapComplete for theme #blind_osm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-09-14T12:36:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "crossing"
+          ],
+          "traffic_signals:arrow": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/blind_osm.html",
+        "theme": "blind_osm",
+        "answer": 1,
+        "locale": "it",
+        "id": 141255853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6847812,
+          45.0546541
+        ]
+      },
+      "id": 141255853
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Silvia Celeste",
+        "uid": "20367313",
+        "editor": "MapComplete 0.33.5",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-09-29T19:14:16Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/trees.html",
+        "theme": "trees",
+        "locale": "it-IT",
+        "id": 141927127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6874952,
+          45.0731351
+        ]
+      },
+      "id": 141927127
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Emere Arco",
+        "uid": "697108",
+        "editor": "MapComplete 0.33.5",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-09-29T04:51:04Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/trees.html",
+        "theme": "trees",
+        "locale": "en",
+        "deletion": 1,
+        "change_over_5000m": 1,
+        "change_within_5000m": 1,
+        "deletion:node/11226285864": "testing point",
+        "id": 141894677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6896044,
+          45.0724754
+        ]
+      },
+      "id": 141894677
     }
   ]
 }

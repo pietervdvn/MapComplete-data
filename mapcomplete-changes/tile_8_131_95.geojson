@@ -2974,6 +2974,227 @@
         ]
       },
       "id": 139085422
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "quelgir",
+        "uid": "13293058",
+        "editor": "MapComplete 0.27.5",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-09-26T11:05:48Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/legacy/0.27.4/trees.html",
+        "theme": "trees",
+        "locale": "ca",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "id": 141768928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8196307,
+          41.9732978
+        ]
+      },
+      "id": 141768928
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-11215443390",
+            "osm_id": 11215443390,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          },
+          {
+            "url": "node-11215642795",
+            "osm_id": 11215642795,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          },
+          {
+            "url": "node-11215642801",
+            "osm_id": 11215642801,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          },
+          {
+            "url": "node-11219392006",
+            "osm_id": 11219392006,
+            "reasons": [
+              43
+            ],
+            "version": 1,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          },
+          {
+            "url": "node-11215642758",
+            "osm_id": 11215642758,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          }
+        ],
+        "user": "quelgir",
+        "uid": "13293058",
+        "editor": "MapComplete 0.27.5",
+        "comment": "Adding data with #MapComplete for theme #https://llefia.org/arbres/mapcomplete1.json",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-09-26T07:51:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "source": [
+            "survey"
+          ],
+          "natural": [
+            "tree_stump",
+            "tree"
+          ]
+        },
+        "create": 1,
+        "modify": 7,
+        "delete": 0,
+        "area": 0.000083890155439988,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/legacy/0.27.4/theme.html",
+        "theme": "https://llefia.org/arbres/mapcomplete1.json",
+        "answer": 15,
+        "locale": "ca",
+        "imagery": "osm",
+        "change_over_5000m": 1,
+        "change_within_25m": 15,
+        "id": 141761364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8202795,
+          41.9737595
+        ]
+      },
+      "id": 141761364
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-774656048",
+            "osm_id": 774656048,
+            "reasons": [
+              43
+            ],
+            "version": 5,
+            "primary_tags": {
+              "natural": "tree_stump"
+            }
+          }
+        ],
+        "user": "quelgir",
+        "uid": "13293058",
+        "editor": "MapComplete 0.27.5",
+        "comment": "Adding data with #MapComplete for theme #https://llefia.org/arbres/mapcomplete1.json",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2023-09-29T12:15:40Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree_stump",
+            "tree"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 7.19152200004311e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://pietervdvn.github.io/mc/legacy/0.27.4/theme.html",
+        "theme": "https://llefia.org/arbres/mapcomplete1.json",
+        "answer": 3,
+        "locale": "ca",
+        "imagery": "HDM_HOT",
+        "change_within_25m": 3,
+        "id": 141909637
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.81962425,
+          41.9701716
+        ]
+      },
+      "id": 141909637
     }
   ]
 }
