@@ -285,6 +285,253 @@
         ]
       },
       "id": 124702801
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "nikdavid",
+        "uid": "19552484",
+        "editor": "MapComplete 0.34.9",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-11-20T05:08:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "primary"
+          ],
+          "maxspeed": [
+            "25mph"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.0000120334034700198,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 6,
+        "locale": "en-US",
+        "id": 144231129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.82535695,
+          38.283873549999996
+        ]
+      },
+      "id": 144231129
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "nikdavid",
+        "uid": "19552484",
+        "editor": "MapComplete 0.34.9",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-11-20T00:12:01Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "road",
+            "hiking"
+          ],
+          "highway": [
+            "primary",
+            "secondary"
+          ],
+          "maxspeed": [
+            "30mph",
+            "20mph",
+            "25",
+            "25mph"
+          ]
+        },
+        "create": 1,
+        "modify": 20,
+        "delete": 0,
+        "area": 0.000898833287439802,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "split": 2,
+        "theme": "maxspeed",
+        "answer": 17,
+        "locale": "en-US",
+        "relation-fix": 2,
+        "change_within_500m": 2,
+        "id": 144226887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.825501,
+          38.296776449999996
+        ]
+      },
+      "id": 144226887
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "nikdavid",
+        "uid": "19552484",
+        "editor": "MapComplete 0.35.0",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-11-21T17:15:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "maxspeed": [
+            "20mph"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000470856275000883,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://dev.mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 1,
+        "locale": "en",
+        "id": 144296570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.80984484999999,
+          38.28844785
+        ]
+      },
+      "id": 144296570
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 87,
+            "name": "Irrelevant tags on highway"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-606792537",
+            "name": "Charlestown Road",
+            "osm_id": 606792537,
+            "reasons": [
+              87
+            ],
+            "version": 11,
+            "primary_tags": {
+              "highway": "primary"
+            }
+          }
+        ],
+        "user": "nikdavid",
+        "uid": "19552484",
+        "editor": "MapComplete 0.34.9",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-11-21T07:14:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "primary_link",
+            "secondary",
+            "tertiary",
+            "residential",
+            "primary"
+          ],
+          "maxspeed": [
+            "25mph",
+            "35",
+            "30mph",
+            "35mph",
+            "30",
+            "45mph",
+            "45",
+            "40 mph"
+          ]
+        },
+        "create": 0,
+        "modify": 93,
+        "delete": 0,
+        "area": 0.00374040084095979,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 93,
+        "locale": "en-US",
+        "id": 144274043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7867779,
+          38.31076265
+        ]
+      },
+      "id": 144274043
     }
   ]
 }
