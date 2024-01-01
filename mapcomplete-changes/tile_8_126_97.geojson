@@ -868,6 +868,75 @@
         "check_user": null,
         "reasons": [
           {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "EduardoRN",
+        "uid": "20693669",
+        "editor": "MapComplete 0.36.3",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-12-17T22:30:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "amenity": [
+            "toilets"
+          ],
+          "wheelchair": [
+            "no"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "toilets:position": [
+            "seated"
+          ],
+          "toilets:handwashing": [
+            "yes"
+          ],
+          "toilets:paper_supplied": [
+            "no"
+          ]
+        },
+        "create": 2,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.000117504290280003,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/toilets.html",
+        "move": 1,
+        "theme": "toilets",
+        "answer": 24,
+        "locale": "es",
+        "move:node/11427597391": "improve_accuracy",
+        "id": 145231086
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6876513500000003,
+          40.3971913
+        ]
+      },
+      "id": 145231086
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
             "id": 4,
             "name": "mass modification"
           },

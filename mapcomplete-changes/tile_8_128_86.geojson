@@ -3843,6 +3843,628 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "flaneurben",
+        "uid": "12994513",
+        "editor": "MapComplete 0.36.3",
+        "comment": "Adding data with #MapComplete for theme #blind_osm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-12-13T15:20:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "crossing"
+          ],
+          "crossing:island": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/blind_osm.html",
+        "theme": "blind_osm",
+        "answer": 1,
+        "locale": "en",
+        "id": 145079372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2059581,
+          51.5228227
+        ]
+      },
+      "id": 145079372
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 42,
+            "name": "Invalid tag modification"
+          },
+          {
+            "id": 489,
+            "name": "Mapbox: Spam text"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-6316591388",
+            "osm_id": 6316591388,
+            "reasons": [
+              42
+            ],
+            "version": 5,
+            "primary_tags": {}
+          },
+          {
+            "url": "node-8202086036",
+            "name": "Lewes Station EVSE",
+            "osm_id": 8202086036,
+            "reasons": [
+              42
+            ],
+            "version": 6,
+            "primary_tags": {}
+          },
+          {
+            "url": "node-5809312560",
+            "osm_id": 5809312560,
+            "reasons": [
+              42
+            ],
+            "version": 2,
+            "primary_tags": {}
+          },
+          {
+            "url": "node-11046610108",
+            "note": "Spam text reported in [\"name\"] tags in the feature",
+            "osm_id": 11046610108,
+            "reasons": [
+              489
+            ],
+            "version": 2
+          }
+        ],
+        "user": "OrangeHurst97",
+        "uid": "1485723",
+        "editor": "MapComplete 0.36.9",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-12-26T17:00:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "fee": [
+            "yes",
+            "no"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "lit": [
+            "yes"
+          ],
+          "area": [
+            "yes"
+          ],
+          "kerb": [
+            "lowered"
+          ],
+          "name": [
+            "Lambeth Palace Road",
+            "Albert Embankment",
+            "Lambeth Bridge",
+            "Lambeth Road",
+            "Pratt Walk",
+            "Lambeth High Street"
+          ],
+          "email": [
+            "info@railwayapartments.co.uk",
+            "support@connectedkerb.co.uk",
+            "hello.uk@mer.eco",
+            "customerservice@shellrecharge.com",
+            "heretohelp@bp.com",
+            "support@blinkcharging.co.uk"
+          ],
+          "fixme": [
+            "Is this really a dual carriageway, with physical separation, not just paint? #surveyme"
+          ],
+          "lanes": [
+            "3",
+            "2"
+          ],
+          "phone": [
+            "+44 333 006 3503",
+            "+44 7498 220201",
+            "+44 20 7519 5052",
+            "+44 800 029 1696",
+            "+44 330 173 2518",
+            "+44 20 3884 2768",
+            "+44 20 3868 1036",
+            "+44 330 016 5126",
+            "+44 1727 807263"
+          ],
+          "route": [
+            "bus",
+            "bicycle",
+            "railway",
+            "train",
+            "hiking",
+            "road",
+            "running",
+            "foot"
+          ],
+          "access": [
+            "yes",
+            "customers"
+          ],
+          "charge": [
+            "0.36GBP/kWh",
+            "0.15GBP/kWh",
+            "0.44GBP/kWh",
+            "0.6GBP/kWh",
+            "30p/kWh",
+            "0.65GBP/kWh"
+          ],
+          "oneway": [
+            "yes"
+          ],
+          "source": [
+            "Bing",
+            "survey;Bing"
+          ],
+          "amenity": [
+            "school",
+            "grit_bin",
+            "charging_station"
+          ],
+          "barrier": [
+            "fence",
+            "wall",
+            "kerb",
+            "gate"
+          ],
+          "bicycle": [
+            "no"
+          ],
+          "footway": [
+            "sidewalk",
+            "traffic_island",
+            "crossing"
+          ],
+          "highway": [
+            "footway",
+            "cycleway",
+            "primary",
+            "service",
+            "track",
+            "residential",
+            "traffic_signals",
+            "bus_stop",
+            "crossing",
+            "give_way",
+            "pedestrian"
+          ],
+          "landuse": [
+            "residential"
+          ],
+          "maxstay": [
+            "3 hours",
+            "unlimited",
+            "2 hours",
+            "90 minutes",
+            "1 hours"
+          ],
+          "natural": [
+            "wood"
+          ],
+          "railway": [
+            "rail"
+          ],
+          "scooter": [
+            "no"
+          ],
+          "surface": [
+            "paved",
+            "asphalt"
+          ],
+          "tourism": [
+            "museum"
+          ],
+          "website": [
+            "https://www.sussex.ac.uk/about/sustainable-university/get-involved/sustainable-and-active-travel/car",
+            "http://www.sussex.ac.uk/sef/services/transport/campus-parking/who-can-park-on-campus",
+            "https://charge.pod-point.com/address/premier-inn-cirencester-town-centre-5zkl",
+            "https://charge.pod-point.com/address/tesco-superstore-lewes-l9mq9",
+            "https://driver.uk.mer.eco/findCharger?51.6723070%2C-1.8969600%2C20z%2CThe+Gateway+Cafe%2C2230si=",
+            "https://network.bppulse.co.uk/live-map/chargepoint?id=BPU0039",
+            "https://network.bppulse.co.uk/live-map/chargepoint?id=BPU0044",
+            "https://network.bppulse.co.uk/live-map/chargepoint?id=24554",
+            "https://charge.pod-point.com/address/lidl-cirencester-8pxq1",
+            "https://charge.pod-point.com/address/tesco-extra-cirencester-erkr",
+            "https://charge.pod-point.com/address/sainsburys-dursley-eey",
+            "https://network.bppulse.co.uk/live-map/chargepoint?id=14808"
+          ],
+          "boundary": [
+            "administrative"
+          ],
+          "building": [
+            "yes"
+          ],
+          "crossing": [
+            "no",
+            "uncontrolled",
+            "marked",
+            "unmarked"
+          ],
+          "motorcar": [
+            "yes"
+          ],
+          "operator": [
+            "Transport for London",
+            "Mer"
+          ],
+          "sidewalk": [
+            "left",
+            "no",
+            "separate",
+            "both",
+            "none"
+          ],
+          "waterway": [
+            "river"
+          ],
+          "direction": [
+            "forward"
+          ],
+          "fence_type": [
+            "railing"
+          ],
+          "parking:fee": [
+            "no",
+            "yes"
+          ],
+          "payment:app": [
+            "yes",
+            "no"
+          ],
+          "area:highway": [
+            "traffic_island",
+            "footway"
+          ],
+          "parking:both": [
+            "no"
+          ],
+          "payment:cash": [
+            "no"
+          ],
+          "socket:type2": [
+            "1"
+          ],
+          "cycleway:left": [
+            "separate",
+            "lane"
+          ],
+          "lanes:forward": [
+            "2"
+          ],
+          "opening_hours": [
+            "24/7",
+            "Mo-Sa 06:00-00:00; Su 09:30-16:00",
+            "Mo-Sa 08:00-21:00; Su 10:00-16:00",
+            "Mo-Sa 08:00-22:00; Su 09:30-16:00",
+            "Mo-Sa 06:00-00:00; Su 10:00-16:00",
+            "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+          ],
+          "payment:cards": [
+            "no",
+            "yes"
+          ],
+          "sidewalk:both": [
+            "separate"
+          ],
+          "sidewalk:left": [
+            "separate",
+            "yes"
+          ],
+          "lanes:backward": [
+            "1"
+          ],
+          "sidewalk:right": [
+            "no",
+            "separate"
+          ],
+          "tactile_paving": [
+            "yes"
+          ],
+          "crossing:island": [
+            "separate",
+            "no"
+          ],
+          "disused:amenity": [
+            "charging_station"
+          ],
+          "payment:qr_code": [
+            "no"
+          ],
+          "traffic_signals": [
+            "pedestrian_crossing",
+            "signal",
+            "traffic_lights"
+          ],
+          "crossing:signals": [
+            "yes"
+          ],
+          "dual_carriageway": [
+            "yes"
+          ],
+          "public_transport": [
+            "stop_area",
+            "platform",
+            "stop_position"
+          ],
+          "crossing:markings": [
+            "dots",
+            "zebra;dots",
+            "no"
+          ],
+          "lanes:psv:forward": [
+            "1"
+          ],
+          "operator:wikidata": [
+            "Q682520"
+          ],
+          "authentication:app": [
+            "yes",
+            "no"
+          ],
+          "authentication:nfc": [
+            "no"
+          ],
+          "authentication:none": [
+            "no",
+            "yes"
+          ],
+          "socket:type2:output": [
+            "7kW",
+            "7MW"
+          ],
+          "construction:amenity": [
+            "charging_station"
+          ],
+          "socket:type2:current": [
+            "32 A"
+          ],
+          "socket:type2:voltage": [
+            "230 V",
+            "400 V",
+            "230"
+          ],
+          "socket:chademo:voltage": [
+            "400V"
+          ],
+          "payment:membership_card": [
+            "no",
+            "yes"
+          ],
+          "parking:both:restriction": [
+            "no_stopping"
+          ],
+          "authentication:debit_card": [
+            "no"
+          ],
+          "authentication:money_card": [
+            "no"
+          ],
+          "authentication:phone_call": [
+            "no"
+          ],
+          "authentication:short_message": [
+            "no"
+          ],
+          "authentication:membership_card": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 148,
+        "delete": 0,
+        "area": 2.18465954160071,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://dev.mapcomplete.org/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 270,
+        "locale": "en",
+        "id": 145542664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1730005000000001,
+          51.2649483
+        ]
+      },
+      "id": 145542664
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "MapFixerSW1A",
+        "uid": "13813605",
+        "editor": "MapComplete 0.36.7",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-12-27T16:46:40Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ],
+          "fountain": [
+            "bottle_refill"
+          ],
+          "seasonal": [
+            "no"
+          ],
+          "opening_hours": [
+            "24/7"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 3,
+        "locale": "en-GB",
+        "id": 145584513
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0089611,
+          51.4897415
+        ]
+      },
+      "id": 145584513
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "OrangeHurst97",
+        "uid": "1485723",
+        "editor": "MapComplete 0.36.9",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-12-27T12:13:22Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ],
+          "maxstay": [
+            "4 hours",
+            "90 minutes",
+            "2 hours"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.309003652929929,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://dev.mapcomplete.org/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 4,
+        "locale": "en",
+        "id": 145572079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.51806185,
+          51.27467835
+        ]
+      },
+      "id": 145572079
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "hocu",
+        "uid": "374342",
+        "editor": "MapComplete 0.36.7",
+        "comment": "Adding data with #MapComplete for theme #cafes_and_pubs",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-12-28T08:51:28Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "cafe"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cafes_and_pubs.html",
+        "theme": "cafes_and_pubs",
+        "answer": 2,
+        "locale": "en",
+        "add-image": 2,
+        "change_within_25m": 4,
+        "id": 145607588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2972537,
+          51.3883092
+        ]
+      },
+      "id": 145607588
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [],
         "tags": [],
         "features": [],

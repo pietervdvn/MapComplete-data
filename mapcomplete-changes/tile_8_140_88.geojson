@@ -3555,6 +3555,71 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-11433113485",
+            "osm_id": 11433113485,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "amenity": "bicycle_wash"
+            }
+          }
+        ],
+        "user": "alpenreiter",
+        "uid": "13695037",
+        "editor": "MapComplete 0.36.3",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-12-19T22:15:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_wash"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix",
+        "theme": "cyclofix",
+        "answer": 1,
+        "locale": "en",
+        "id": 145308871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3776238,
+          48.2394817
+        ]
+      },
+      "id": 145308871
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [],
         "tags": [],
         "features": [],
