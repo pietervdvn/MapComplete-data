@@ -8,39 +8,151 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Awo",
-        "uid": "196556",
-        "editor": "MapComplete 0.14.1",
-        "comment": "Adding data with #MapComplete for theme #trees",
+        "user": "raincandy",
+        "uid": "20754983",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #food",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-01-22T03:04:55Z",
+        "date": "2024-03-10T10:30:25Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "name": [
+            "ナマステ インドカレー レストラン"
+          ],
+          "image": [
+            "https://i.imgur.com/FzDoYya.jpeg"
+          ],
+          "amenity": [
+            "restaurant"
+          ],
+          "image:0": [
+            "https://i.imgur.com/oUuTYwM.jpeg"
+          ],
+          "takeaway": [
+            "yes"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "payment:cards": [
+            "no"
+          ],
+          "diet:vegetarian": [
+            "limited"
+          ],
+          "internet_access": [
+            "no"
+          ],
+          "payment:qr_code": [
+            "yes"
+          ],
+          "service:electricity": [
+            "limited"
+          ]
+        },
         "create": 0,
-        "modify": 1,
+        "modify": 8,
         "delete": 0,
         "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "trees",
-        "imagery": "cyclosm",
-        "language": "en",
-        "add-image": 1,
-        "id": 116453646
+        "host": "https://mapcomplete.org/food.html",
+        "theme": "food",
+        "answer": 7,
+        "locale": "en",
+        "add-image": 2,
+        "change_within_25m": 2,
+        "id": 148455074
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.5694434,
-          31.765696
+          130.5571251,
+          31.5894408
         ]
       },
-      "id": 116453646
+      "id": 148455074
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "raincandy",
+        "uid": "20754983",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #vending_machine",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-03-10T06:59:11Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "office": [
+            "research"
+          ],
+          "amenity": [
+            "vending_machine"
+          ],
+          "highway": [
+            "service"
+          ],
+          "surface": [
+            "asphalt",
+            "paving_stones"
+          ],
+          "building": [
+            "university"
+          ],
+          "roof:shape": [
+            "flat"
+          ],
+          "smoothness": [
+            "good",
+            "excellent",
+            "intermediate"
+          ],
+          "roof:levels": [
+            "0"
+          ],
+          "building:colour": [
+            "white"
+          ],
+          "building:levels": [
+            "5"
+          ]
+        },
+        "create": 6,
+        "modify": 7,
+        "delete": 0,
+        "area": 9.257254500510657e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/vending_machine.html",
+        "theme": "vending_machine",
+        "answer": 11,
+        "locale": "en",
+        "add-image": 5,
+        "change_over_5000m": 6,
+        "change_within_25m": 1,
+        "id": 148449345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.54438985000002,
+          31.57327235
+        ]
+      },
+      "id": 148449345
     }
   ]
 }

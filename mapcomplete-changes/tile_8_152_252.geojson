@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Wim L",
+        "uid": "223681",
+        "editor": "MapComplete 0.12.13",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2021-12-31T23:36:09Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "toilets",
+        "answer": 4,
+        "imagery": "osm",
+        "language": "en",
+        "change_over_5000m": 1,
+        "change_within_100m": 4,
+        "id": 115624437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6415534,
+          -84.4255382
+        ]
+      },
+      "id": 115624437
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "SamWhited",
+        "uid": "14994176",
+        "editor": "MapComplete 0.25.6",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-01-27T13:41:58Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "cargo_bike": [
+            "yes"
+          ],
+          "capacity:cargo_bike": [
+            "1"
+          ]
+        },
+        "create": 0,
+        "modify": 11,
+        "delete": 0,
+        "area": 2.79028200007331e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "move": 4,
+        "theme": "cyclofix",
+        "answer": 12,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "move:node/9798726183": "improve_accuracy",
+        "move:node/9798726184": "improve_accuracy",
+        "move:node/9798955082": "improve_accuracy",
+        "id": 131773858
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8839671,
+          -84.51560305
+        ]
+      },
+      "id": 131773858
+    }
+  ]
+}

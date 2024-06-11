@@ -13,226 +13,45 @@
         ],
         "tags": [],
         "features": [],
-        "user": "GettyYetty21",
-        "uid": "12869632",
-        "editor": "MapComplete 0.5.14",
-        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "user": "ResidentCoffeeCat",
+        "uid": "21197677",
+        "editor": "MapComplete 0.40.5",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-03-17T20:44:50Z",
+        "date": "2024-03-13T12:52:35Z",
         "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 0,
+        "tag_changes": {
+          "highway": [
+            "secondary"
+          ],
+          "maxspeed": [
+            "35 mph"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
         "delete": 0,
-        "area": 0,
+        "area": 0.0000023762974399973806,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "surveillance",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "id": 101213106
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.0541458,
-          29.9774995
-        ]
-      },
-      "id": 101213106
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Sylvain M",
-        "uid": "672931",
-        "editor": "MapComplete 0.25.0",
-        "comment": "Adding data with #MapComplete for theme #trees",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-01-04T11:38:06Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "natural": [
-            "tree"
-          ],
-          "heritage": [
-            "yes"
-          ],
-          "historic": [
-            "tree"
-          ],
-          "denotation": [
-            "natural_monument",
-            "landmark"
-          ],
-          "circumference": [
-            "6"
-          ],
-          "species:wikidata": [
-            "Q1758722"
-          ]
-        },
-        "create": 0,
-        "modify": 5,
-        "delete": 0,
-        "area": 0.0148373647185006,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/trees.html",
-        "theme": "trees",
-        "answer": 6,
-        "locale": "fr",
-        "imagery": "osm",
-        "id": 130862972
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.61758965,
-          30.3594672
-        ]
-      },
-      "id": 130862972
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "paulbrunner",
-        "uid": "15541433",
-        "editor": "MapComplete 0.25.6",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-02-02T21:06:45Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "shop": [
-            "bicycle"
-          ],
-          "rental": [
-            "bike_helmet;city_bike;racebike;tandem"
-          ],
-          "service:bicycle:diy": [
-            "yes",
-            "no"
-          ],
-          "service:bicycle:pump": [
-            "yes",
-            "no"
-          ],
-          "service:bicycle:repair": [
-            "only_sold"
-          ],
-          "service:bicycle:retail": [
-            "yes"
-          ],
-          "service:bicycle:cleaning": [
-            "no"
-          ],
-          "service:bicycle:second_hand": [
-            "no"
-          ]
-        },
-        "create": 0,
-        "modify": 7,
-        "delete": 0,
-        "area": 0.000127563188219986,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 10,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 1,
         "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "change_within_25m": 4,
-        "change_within_500m": 6,
-        "id": 132019161
+        "id": 148592498
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.06269175,
-          29.9573944
+          -90.71232814999999,
+          29.589371900000003
         ]
       },
-      "id": 132019161
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "paulbrunner",
-        "uid": "15541433",
-        "editor": "MapComplete 0.26.0",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-02-04T02:23:24Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "shop": [
-            "bicycle"
-          ],
-          "service:bicycle:rental": [
-            "no"
-          ],
-          "service:bicycle:repair": [
-            "no"
-          ],
-          "service:bicycle:retail": [
-            "no"
-          ],
-          "service:bicycle:second_hand": [
-            "no"
-          ]
-        },
-        "create": 0,
-        "modify": 5,
-        "delete": 0,
-        "area": 0.000172684981769897,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 5,
-        "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "id": 132063136
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.07163065,
-          29.94582475
-        ]
-      },
-      "id": 132063136
+      "id": 148592498
     }
   ]
 }

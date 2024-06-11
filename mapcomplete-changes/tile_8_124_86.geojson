@@ -8,46 +8,53 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Ian Cann",
-        "uid": "202993",
-        "editor": "MapComplete 0.30.9",
-        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "user": "Nathan Hadley",
+        "uid": "21081459",
+        "editor": "MapComplete 0.42.7",
+        "comment": "Adding data with #MapComplete for theme #indoors",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-06-29T16:44:08Z",
+        "date": "2024-05-21T14:18:48Z",
         "reviewed_features": [],
         "tag_changes": {
-          "highway": [
-            "residential"
+          "door": [
+            "sliding",
+            "automatic"
           ],
-          "maxspeed": [
-            "20",
-            "20mph"
+          "highway": [
+            "pedestrian"
+          ],
+          "landuse": [
+            "grass"
+          ],
+          "automatic_door": [
+            "motion"
           ]
         },
-        "create": 0,
+        "create": 1,
         "modify": 5,
         "delete": 0,
-        "area": 0.00000427517999999554,
+        "area": 4.1894660000265236e-7,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/maxspeed.html",
-        "theme": "maxspeed",
-        "answer": 5,
-        "locale": "en",
-        "id": 137926577
+        "host": "https://mapcomplete.org/indoors",
+        "theme": "indoors",
+        "answer": 8,
+        "locale": "en-GB",
+        "change_over_5000m": 1,
+        "id": 151631194
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.2406767,
-          50.230170900000005
+          -4.7060364,
+          50.4763246
         ]
       },
-      "id": 137926577
+      "id": 151631194
     }
   ]
 }

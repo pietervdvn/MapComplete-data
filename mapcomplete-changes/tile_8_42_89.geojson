@@ -5,544 +5,137 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "goldfndr",
-        "uid": "7247",
-        "editor": "MapComplete 0.0.7b Less changesets",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": null,
+        "user": "darknavi",
+        "uid": "9004163",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2020-08-27T04:46:24Z",
+        "date": "2024-04-12T15:57:47Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "theme": "cyclofix",
-        "id": 90001065
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.10240505,
-          47.6215814
-        ]
-      },
-      "id": 90001065
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.10.3",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-10-09T20:32:48Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 2,
-        "modify": 0,
-        "delete": 0,
-        "area": 1.61000001986567e-12,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "bookcases",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 112314551
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.31382995,
-          47.60258815
-        ]
-      },
-      "id": 112314551
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.12.10",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-11-25T19:08:42Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 3,
-        "modify": 3,
-        "delete": 0,
-        "area": 0.0000278555802700433,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "bookcases",
-        "answer": 12,
-        "imagery": "osm",
-        "language": "en",
-        "change_over_5000m": 3,
-        "change_within_25m": 12,
-        "id": 114235477
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.31678285000001,
-          47.69018905
-        ]
-      },
-      "id": 114235477
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.12.13",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-12-11T23:14:44Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "bookcases",
-        "imagery": "osm",
-        "language": "en",
-        "change_over_5000m": 1,
-        "id": 114833158
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2893615,
-          47.684808
-        ]
-      },
-      "id": 114833158
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "rsmb",
-        "uid": "2195609",
-        "editor": "MapComplete 0.5.2c",
-        "comment": "Adding data with #MapComplete for theme #benches",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-02-25T21:40:25Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
         "modify": 2,
         "delete": 0,
         "area": 0,
-        "is_suspect": false,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "benches",
-        "imagery": "EsriWorldImagery",
-        "language": "en",
-        "theme-creator": "Florian Edelmann",
-        "id": 100005066
+        "host": "https://mapcomplete.org/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 6,
+        "locale": "en",
+        "id": 149917832
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3093423,
-          47.5717359
+          -122.1451934,
+          47.7588066
         ]
       },
-      "id": 100005066
+      "id": 149917832
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "rsmb",
-        "uid": "2195609",
-        "editor": "MapComplete 0.5.2c",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "user": "darknavi",
+        "uid": "9004163",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #waste",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-02-25T21:38:14Z",
+        "date": "2024-04-12T15:55:34Z",
         "reviewed_features": [],
         "tag_changes": {},
-        "create": 1,
-        "modify": 2,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "bookcases",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 100005004
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.31036425,
-          47.5737862
-        ]
-      },
-      "id": 100005004
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "rsmb",
-        "uid": "2195609",
-        "editor": "MapComplete 0.5.2c",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-02-25T21:33:01Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 23,
-        "delete": 0,
-        "area": 0.00302529364156041,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "cyclofix",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 100004851
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.30627595,
-          47.604153100000005
-        ]
-      },
-      "id": 100004851
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "bryceco",
-        "uid": "624323",
-        "editor": "MapComplete 0.5.12",
-        "comment": "Adding data with #MapComplete for theme #personal",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-03-16T17:30:42Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 3,
-        "delete": 0,
-        "area": 1.90223200000731e-7,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "personal",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 101136189
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.21284295000001,
-          47.6795755
-        ]
-      },
-      "id": 101136189
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.6.11",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-04-23T03:22:51Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "bookcases",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 103445557
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.27791745,
-          47.7566983
-        ]
-      },
-      "id": 103445557
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.9.0",
-        "comment": "Adding data with #MapComplete for theme #toilets",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-09-08T21:35:58Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "toilets",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 110939442
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.34281245,
-          47.6102151
-        ]
-      },
-      "id": 110939442
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.24.0",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-11-18T04:54:55Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "public_bookcase"
-          ]
-        },
         "create": 1,
         "modify": 0,
         "delete": 0,
         "area": 0,
-        "is_suspect": false,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/bookcases.html",
-        "theme": "bookcases",
+        "host": "https://mapcomplete.org/waste.html",
+        "theme": "waste",
         "answer": 1,
         "locale": "en",
-        "imagery": "osm",
         "change_over_5000m": 1,
-        "change_within_100m": 1,
-        "id": 129068531
+        "id": 149917737
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3416679,
-          47.6866913
+          -122.1075349,
+          47.672482
         ]
       },
-      "id": 129068531
+      "id": 149917737
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.16.8",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "user": "srt4",
+        "uid": "366737",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #hailhydrant",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-03-19T22:55:43Z",
+        "date": "2024-04-13T08:12:54Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 1,
-        "modify": 0,
+        "modify": 2,
         "delete": 0,
         "area": 0,
-        "is_suspect": false,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/bookcases.html",
-        "theme": "bookcases",
-        "answer": 1,
+        "host": "https://mapcomplete.org/hailhydrant.html",
+        "theme": "hailhydrant",
+        "answer": 3,
         "locale": "en",
-        "imagery": "osm",
-        "change_over_5000m": 1,
-        "change_within_500m": 1,
-        "id": 118681569
+        "id": 149939913
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3183669,
-          47.637297
+          -122.3149169,
+          47.688444
         ]
       },
-      "id": 118681569
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Natfoot",
-        "uid": "567792",
-        "editor": "MapComplete 0.21.0",
-        "comment": "Adding data with #MapComplete for theme #surveillance",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-06-23T08:38:46Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "man_made": [
-            "surveillance"
-          ]
-        },
-        "create": 2,
-        "modify": 5,
-        "delete": 0,
-        "area": 0.0000723280034400034,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/surveillance.html",
-        "theme": "surveillance",
-        "answer": 10,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 122746332
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.31361380000001,
-          47.651112350000005
-        ]
-      },
-      "id": 122746332
+      "id": 149939913
     },
     {
       "type": "Feature",
@@ -556,409 +149,38 @@
         ],
         "tags": [],
         "features": [],
-        "user": "Nancy Devine",
-        "uid": "2444061",
-        "editor": "MapComplete 0.23.0",
+        "user": "srt4",
+        "uid": "366737",
+        "editor": "MapComplete 0.41.7",
         "comment": "Adding data with #MapComplete for theme #toilets",
         "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-08-19T20:37:05Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "fee": [
-            "no"
-          ],
-          "access": [
-            "yes"
-          ],
-          "amenity": [
-            "toilets"
-          ],
-          "building": [
-            "yes",
-            "toilets"
-          ]
-        },
-        "create": 0,
-        "modify": 2,
-        "delete": 0,
-        "area": 0.0000179958595999975,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/toilets.html",
-        "theme": "toilets",
-        "answer": 4,
-        "locale": "en",
-        "imagery": "osm",
-        "change_within_1000m": 2,
-        "change_within_5000m": 2,
-        "id": 125125699
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.12585490000001,
-          47.616490799999994
-        ]
-      },
-      "id": 125125699
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "morganmay",
-        "uid": "7602431",
-        "editor": "MapComplete 0.23.2",
-        "comment": "Adding data with #MapComplete for theme #observation_towers",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-09-14T13:15:41Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "fee": [
-            "yes",
-            "no"
-          ],
-          "access": [
-            "yes"
-          ],
-          "charge": [
-            "Regular (ages 13-64): $35-$39;Senior (ages 65+): $30-$33;Youth (ages 5-12): $26-$29"
-          ],
-          "tourism": [
-            "attraction",
-            "viewpoint"
-          ],
-          "website": [
-            "https://volunteerparktrust.org/profile/water-tower/"
-          ],
-          "building": [
-            "yes",
-            "water_tower"
-          ],
-          "elevator": [
-            "yes"
-          ],
-          "man_made": [
-            "tower",
-            "water_tower"
-          ],
-          "operator": [
-            "The Space Needle is privately owned by the Wright family",
-            "Seattle Department of Parks and Recreation"
-          ],
-          "tower:type": [
-            "observation"
-          ]
-        },
-        "create": 0,
-        "modify": 7,
-        "delete": 0,
-        "area": 0.00030826053440002,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/observation_towers.html",
-        "theme": "observation_towers",
-        "answer": 8,
-        "locale": "en",
-        "imagery": "osm",
-        "change_within_5000m": 3,
-        "id": 126182414
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.331996,
-          47.6247252
-        ]
-      },
-      "id": 126182414
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.25.3",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-01-03T23:32:40Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "public_bookcase"
-          ]
-        },
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/bookcases.html",
-        "theme": "bookcases",
-        "locale": "en",
-        "imagery": "osm",
-        "change_over_5000m": 1,
-        "id": 130846152
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3057162,
-          47.7774376
-        ]
-      },
-      "id": 130846152
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "dirabel",
-        "uid": "9799060",
-        "editor": "MapComplete 0.34.9",
-        "comment": "Adding data with #MapComplete for theme #maxspeed",
-        "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-11-21T23:00:40Z",
+        "date": "2024-04-13T08:10:37Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "residential"
-          ],
-          "maxspeed": [
-            "25",
-            "25mph"
-          ]
-        },
+        "tag_changes": {},
         "create": 0,
-        "modify": 2,
+        "modify": 1,
         "delete": 0,
-        "area": 0.0000122218010399856,
+        "area": 1.3171600000536625e-8,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.org/maxspeed",
-        "theme": "maxspeed",
+        "host": "https://mapcomplete.org/toilets.html",
+        "theme": "toilets",
         "answer": 2,
-        "locale": "en-US",
-        "id": 144305578
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.11230889999999,
-          47.678450049999995
-        ]
-      },
-      "id": 144305578
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 28,
-            "name": "Feature with Pokename"
-          }
-        ],
-        "tags": [],
-        "features": [
-          {
-            "url": "way-90045101",
-            "name": "Edge & Spoke",
-            "osm_id": 90045101,
-            "reasons": [
-              28
-            ],
-            "version": 7,
-            "primary_tags": {
-              "shop": "bicycle",
-              "building": "retail"
-            }
-          }
-        ],
-        "user": "tjhorner",
-        "uid": "2885940",
-        "editor": "MapComplete 0.34.9",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-11-27T10:18:23Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "shop": [
-            "bicycle"
-          ],
-          "building": [
-            "retail"
-          ],
-          "service:bicycle:pump": [
-            "yes"
-          ],
-          "service:bicycle:rental": [
-            "yes"
-          ],
-          "service:bicycle:repair": [
-            "yes"
-          ],
-          "service:bicycle:retail": [
-            "yes"
-          ]
-        },
-        "create": 0,
-        "modify": 2,
-        "delete": 0,
-        "area": 6.17053200002915e-8,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.org/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 4,
-        "locale": "en-US",
-        "id": 144501732
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1231271,
-          47.6740453
-        ]
-      },
-      "id": 144501732
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.26.1",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-03-01T00:12:01Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "public_bookcase"
-          ]
-        },
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/bookcases.html",
-        "theme": "bookcases",
-        "answer": 1,
         "locale": "en",
-        "imagery": "osm",
-        "change_over_5000m": 1,
-        "change_within_25m": 1,
-        "id": 133150524
+        "id": 149939861
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3221696,
-          47.6959718
+          -122.31672005,
+          47.6893768
         ]
       },
-      "id": 133150524
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "Akshay Gadre",
-        "uid": "19830473",
-        "editor": "MapComplete 0.30.9",
-        "comment": "Adding data with #MapComplete for theme #trees",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-07-11T04:03:26Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "natural": [
-            "tree"
-          ]
-        },
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/trees",
-        "theme": "trees",
-        "locale": "en",
-        "id": 138360242
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.306815,
-          47.6538161
-        ]
-      },
-      "id": 138360242
+      "id": 149939861
     }
   ]
 }

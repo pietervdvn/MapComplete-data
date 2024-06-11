@@ -5,194 +5,49 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "csoul",
-        "uid": "1217959",
-        "editor": "MapComplete 0.2.5e",
-        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "user": "SpeedMcCool",
+        "uid": "2260722",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2020-12-18T15:39:38Z",
+        "date": "2024-04-02T23:02:41Z",
         "reviewed_features": [],
         "tag_changes": {},
-        "create": 1,
-        "modify": 2,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "theme": "bookcases",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 96079709
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.7281418,
-          39.0644232
-        ]
-      },
-      "id": 96079709
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "brightj",
-        "uid": "14145542",
-        "editor": "MapComplete 0.2.2a",
-        "comment": "Adding data with #MapComplete for theme #climbing",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-10-27T20:55:23Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "url": [
-            "https://www.thecrag.com/en/climbing/united-states/new-york/area/5192981940"
-          ],
-          "natural": [
-            "stone"
-          ],
-          "climbing:sport": [
-            "no"
-          ],
-          "climbing:boulder": [
-            "yes"
-          ],
-          "climbing:toprope": [
-            "no"
-          ],
-          "climbing:traditional": [
-            "no"
-          ]
-        },
         "create": 0,
-        "modify": 43,
+        "modify": 483,
         "delete": 0,
-        "area": 215.293336972173,
-        "is_suspect": false,
+        "area": 341.5884924639625,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "theme": "climbing",
-        "language": "en",
-        "theme-creator": "Christian Neumann <christian@utopicode.de>",
-        "id": 128146828
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.8908685,
-          38.647540000000006
-        ]
-      },
-      "id": 128146828
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Kanellar",
-        "uid": "16249964",
-        "editor": "MapComplete 0.22.2",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-07-10T16:08:20Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "drinking_water"
-          ]
-        },
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 1,
+        "host": "https://mapcomplete.org/etymology",
+        "theme": "etymology",
+        "answer": 508,
         "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "change_over_5000m": 1,
-        "change_within_25m": 1,
-        "id": 123438304
+        "change_over_5000m": 201,
+        "change_within_1000m": 3,
+        "change_within_5000m": 72,
+        "id": 149501429
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.5990713,
-          38.1499529
+          -91.78415405,
+          37.8317304
         ]
       },
-      "id": 123438304
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "bhugh",
-        "uid": "55679",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #maxspeed",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-08-20T03:02:16Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "residential",
-            "unclassified"
-          ],
-          "maxspeed": [
-            "40mph",
-            "55mph"
-          ]
-        },
-        "create": 0,
-        "modify": 12,
-        "delete": 0,
-        "area": 0.00400227212199973,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/maxspeed.html",
-        "theme": "maxspeed",
-        "answer": 12,
-        "locale": "en-US",
-        "id": 140116065
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.4248025,
-          39.222222
-        ]
-      },
-      "id": 140116065
+      "id": 149501429
     }
   ]
 }

@@ -5,128 +5,63 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "Petymag",
-        "uid": "323895",
-        "editor": "MapComplete 0.6.8",
-        "comment": "Adding data with #MapComplete for theme #aed",
+        "user": "Bernardo7",
+        "uid": "21592556",
+        "editor": "MapComplete 0.42.7",
+        "comment": "Adding data with #MapComplete for theme #sport_pitches",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-04-19T11:46:23Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "aed",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 103195164
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.7153246,
-          46.3473224
-        ]
-      },
-      "id": 103195164
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Petymag",
-        "uid": "323895",
-        "editor": "MapComplete 0.6.8",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-04-19T11:38:04Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "cyclofix",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 103194538
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.5310107,
-          46.2983756
-        ]
-      },
-      "id": 103194538
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "DavidKarlas",
-        "uid": "12422736",
-        "editor": "MapComplete 0.27.5",
-        "comment": "Adding data with #MapComplete for theme #charging_stations",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-06-22T03:24:08Z",
+        "date": "2024-05-31T16:28:08Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "charging_station"
+          "hoops": [
+            "1"
+          ],
+          "access": [
+            "yes"
+          ],
+          "leisure": [
+            "pitch"
+          ],
+          "surface": [
+            "fine_gravel",
+            "tartan"
+          ],
+          "reservation": [
+            "no"
           ]
         },
-        "create": 1,
-        "modify": 7,
+        "create": 0,
+        "modify": 3,
         "delete": 0,
-        "area": 0,
-        "is_suspect": false,
+        "area": 4.337050000009268e-7,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/charging_stations.html",
-        "theme": "charging_stations",
+        "host": "https://mapcomplete.org/sport_pitches",
+        "theme": "sport_pitches",
         "answer": 9,
-        "locale": "en",
-        "imagery": "dgu-dof-2019-2020",
-        "id": 137627859
+        "locale": "de-DE",
+        "id": 152089340
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.0090567,
-          45.1627365
+          17.4341935,
+          46.706583
         ]
       },
-      "id": 137627859
+      "id": 152089340
     }
   ]
 }

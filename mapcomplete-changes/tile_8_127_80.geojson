@@ -5,334 +5,41 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "peterkwells",
-        "uid": "14279295",
-        "editor": "MapComplete 0.10.5",
-        "comment": "Adding data with #MapComplete for theme #uk_addresses",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-10-13T08:31:11Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 9,
-        "modify": 10,
-        "delete": 0,
-        "area": 1.59516040000385e-7,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "pietervdvn.github.io",
-        "path": "mc/develop/",
-        "theme": "uk_addresses",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "Pieter Vander Vennet, Rob Nickerson, Russ Garrett",
-        "id": 112450049
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4395996,
-          55.042968200000004
-        ]
-      },
-      "id": 112450049
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 70,
-            "name": "Impossible angle in a highway"
-          },
-          {
-            "id": 91,
-            "name": "Motorway/trunk geometry modified"
-          }
-        ],
-        "tags": [],
-        "features": [
-          {
-            "url": "way-736570673",
-            "name": "Westmorland Way",
-            "osm_id": 736570673,
-            "reasons": [
-              70
-            ],
-            "version": 3,
-            "primary_tags": {
-              "highway": "primary"
-            }
-          },
-          {
-            "url": "way-126044600",
-            "name": "Westmorland Way",
-            "osm_id": 126044600,
-            "reasons": [
-              70
-            ],
-            "version": 2,
-            "primary_tags": {
-              "highway": "primary"
-            }
-          },
-          {
-            "url": "way-736570670",
-            "name": "Westmorland Way",
-            "osm_id": 736570670,
-            "reasons": [
-              70
-            ],
-            "version": 3,
-            "primary_tags": {
-              "highway": "primary"
-            }
-          },
-          {
-            "url": "way-127414111",
-            "name": "South Road",
-            "osm_id": 127414111,
-            "reasons": [
-              91
-            ],
-            "version": 7,
-            "primary_tags": {
-              "route": "bus",
-              "highway": "trunk"
-            }
-          },
-          {
-            "url": "way-23130514",
-            "name": "Alnmouth Road",
-            "osm_id": 23130514,
-            "reasons": [
-              91
-            ],
-            "version": 23,
-            "primary_tags": {
-              "highway": "trunk"
-            }
-          }
-        ],
-        "user": "confusedbuffalo",
-        "uid": "242345",
-        "editor": "MapComplete 0.15.6",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-02-09T21:18:26Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 43,
-        "delete": 0,
-        "area": 0.0400825428863997,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "etymology",
-        "answer": 62,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 117219747
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6448942999999998,
-          55.2582255
-        ]
-      },
-      "id": 117219747
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 70,
-            "name": "Impossible angle in a highway"
-          }
-        ],
-        "tags": [],
-        "features": [
-          {
-            "url": "way-126044593",
-            "name": "Station Road",
-            "osm_id": 126044593,
-            "reasons": [
-              70
-            ],
-            "version": 6,
-            "primary_tags": {
-              "highway": "primary"
-            }
-          },
-          {
-            "url": "way-126044594",
-            "name": "Station Road",
-            "osm_id": 126044594,
-            "reasons": [
-              70
-            ],
-            "version": 5,
-            "primary_tags": {
-              "highway": "secondary"
-            }
-          },
-          {
-            "url": "way-125785869",
-            "name": "Stakeford Lane",
-            "osm_id": 125785869,
-            "reasons": [
-              70
-            ],
-            "version": 4,
-            "primary_tags": {
-              "highway": "primary"
-            }
-          }
-        ],
-        "user": "confusedbuffalo",
-        "uid": "242345",
-        "editor": "MapComplete 0.15.6",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-02-09T19:51:05Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 98,
-        "delete": 0,
-        "area": 0.0162084351371999,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "etymology",
-        "answer": 143,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 117217034
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.56836845,
-          55.1422099
-        ]
-      },
-      "id": 117217034
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "jdtoy",
-        "uid": "2127380",
-        "editor": "MapComplete 0.19.2",
-        "comment": "Adding data with #MapComplete for theme #trees",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-05-15T22:32:18Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 2,
-        "modify": 3,
-        "delete": 0,
-        "area": 0.00000418958285002404,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/trees.html",
-        "move": 1,
-        "theme": "trees",
-        "answer": 4,
-        "locale": "en",
-        "imagery": "EsriWorldImageryClarity",
-        "change_over_5000m": 7,
-        "move:node/9742149050": "improve_accuracy",
-        "id": 121027164
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.7208168500000003,
-          56.05776255
-        ]
-      },
-      "id": 121027164
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "peterkwells",
-        "uid": "14279295",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #uk_addresses",
+        "user": "Thibaultmol",
+        "uid": "2916921",
+        "editor": "MapComplete 0.41.5",
+        "comment": "Adding data with #MapComplete for theme #waste",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-08-05T11:01:23Z",
+        "date": "2024-04-10T16:39:33Z",
         "reviewed_features": [],
         "tag_changes": {},
-        "create": 1,
-        "modify": 0,
+        "create": 0,
+        "modify": 2,
         "delete": 0,
         "area": 0,
-        "is_suspect": true,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/uk_addresses.html",
-        "theme": "uk_addresses",
-        "answer": 1,
-        "import": 1,
+        "host": "https://dev.mapcomplete.org/waste.html",
+        "theme": "waste",
+        "answer": 4,
         "locale": "en",
-        "imagery": "osm",
-        "id": 124517599
+        "id": 149829318
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4395308,
-          55.0436641
+          -1.6098066,
+          54.9796991
         ]
       },
-      "id": 124517599
+      "id": 149829318
     },
     {
       "type": "Feature",
@@ -341,50 +48,203 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "jambamkin",
-        "uid": "53626",
-        "editor": "MapComplete 0.27.5",
-        "comment": "Adding data with #MapComplete for theme #shops",
+        "user": "Thibaultmol",
+        "uid": "2916921",
+        "editor": "MapComplete 0.41.5",
+        "comment": "Adding data with #MapComplete for theme #transit",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-06-17T21:05:05Z",
+        "date": "2024-04-10T16:16:41Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "shop": [
-            "clothes",
-            "yes"
-          ],
-          "email": [
-            "hello@el-north.co.uk"
-          ],
-          "website": [
-            "https://www.el-north.co.uk/"
-          ]
-        },
-        "create": 1,
-        "modify": 5,
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
         "delete": 0,
-        "area": 2.78838799997927e-8,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/shops.html",
-        "theme": "shops",
-        "answer": 6,
+        "host": "https://dev.mapcomplete.org/transit.html",
+        "theme": "transit",
         "locale": "en",
-        "imagery": "osm",
-        "id": 137461204
+        "add-image": 1,
+        "change_within_100m": 1,
+        "id": 149828227
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.55478485,
-          55.477778900000004
+          -1.6093451,
+          54.979309
         ]
       },
-      "id": 137461204
+      "id": 149828227
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thibaultmol",
+        "uid": "2916921",
+        "editor": "MapComplete 0.41.5",
+        "comment": "Adding data with #MapComplete for theme #parkings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-10T09:14:46Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.0000012068404999963855,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://dev.mapcomplete.org/parkings.html",
+        "theme": "parkings",
+        "answer": 1,
+        "locale": "en",
+        "id": 149809780
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.388253,
+          54.99497395
+        ]
+      },
+      "id": 149809780
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thibaultmol",
+        "uid": "2916921",
+        "editor": "MapComplete 0.41.5",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-10T09:03:59Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://dev.mapcomplete.org/aed.html",
+        "theme": "aed",
+        "answer": 2,
+        "locale": "en",
+        "add-image": 3,
+        "change_over_5000m": 1,
+        "id": 149809242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3878175,
+          54.9957592
+        ]
+      },
+      "id": 149809242
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thibaultmol",
+        "uid": "2916921",
+        "editor": "MapComplete 0.41.5",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-10T08:58:48Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://dev.mapcomplete.org/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 9,
+        "locale": "en",
+        "add-image": 3,
+        "change_within_25m": 3,
+        "id": 149809002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3883489,
+          54.9955765
+        ]
+      },
+      "id": 149809002
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Thibaultmol",
+        "uid": "2916921",
+        "editor": "MapComplete 0.41.5",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-11T07:53:57Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://dev.mapcomplete.org/aed.html",
+        "theme": "aed",
+        "answer": 3,
+        "locale": "en",
+        "id": 149851517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5491198,
+          55.4825731
+        ]
+      },
+      "id": 149851517
     }
   ]
 }

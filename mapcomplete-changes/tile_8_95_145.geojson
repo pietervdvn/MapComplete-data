@@ -5,202 +5,46 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "homeroff",
-        "uid": "445668",
-        "editor": "MapComplete 0.19.2",
-        "comment": "Adding data with #MapComplete for theme #trees",
+        "user": "august_r",
+        "uid": "21184919",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #ghostbikes",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-05-25T20:19:10Z",
+        "date": "2024-03-09T01:46:56Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "natural": [
-            "tree"
-          ]
-        },
-        "create": 2,
-        "modify": 2,
-        "delete": 0,
-        "area": 7.27376000012149e-9,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/trees.html",
-        "theme": "trees",
-        "answer": 2,
-        "locale": "en",
-        "imagery": "osm",
-        "add-image": 1,
-        "id": 121491888
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.689729,
-          -23.532753399999997
-        ]
-      },
-      "id": 121491888
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "thiago-tco",
-        "uid": "16946278",
-        "editor": "MapComplete 0.36.7",
-        "comment": "Adding data with #MapComplete for theme #education",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-12-22T22:37:07Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "email": [
-            "comercial@fdsm.edu.br"
-          ],
-          "phone": [
-            "+55 35 3449 8124"
-          ],
-          "amenity": [
-            "university",
-            "school"
-          ],
-          "website": [
-            "https://www.fdsm.edu.br/"
-          ],
-          "school:gender": [
-            "mixed"
-          ],
-          "isced:2011:level": [
-            "bachelor;master"
-          ]
-        },
-        "create": 0,
-        "modify": 6,
-        "delete": 0,
-        "area": 0.00135754112000006,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.org/education.html",
-        "theme": "education",
-        "answer": 6,
-        "locale": "en",
-        "id": 145422261
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.930677700000004,
-          -22.260254
-        ]
-      },
-      "id": 145422261
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Bruno Saragiotto",
-        "uid": "11693270",
-        "editor": "MapComplete 0.36.7",
-        "comment": "Adding data with #MapComplete for theme #cycle_infra",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-12-26T17:52:12Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "residential"
-          ],
-          "cycleway": [
-            "no"
-          ]
-        },
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 9.53018080001425e-7,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.org/cycle_infra",
-        "theme": "cycle_infra",
-        "answer": 1,
-        "locale": "pt-BR",
-        "id": 145544314
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6978197,
-          -22.61240765
-        ]
-      },
-      "id": 145544314
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Sickeira",
-        "uid": "9642532",
-        "editor": "MapComplete 0.27.2",
-        "comment": "Adding data with #MapComplete for theme #surveillance",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-05-02T01:12:11Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "man_made": [
-            "surveillance"
-          ],
-          "camera:direction": [
-            "193"
-          ]
-        },
-        "create": 0,
-        "modify": 1,
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
         "delete": 0,
         "area": 0,
-        "is_suspect": false,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/surveillance",
-        "theme": "surveillance",
-        "answer": 1,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 135595575
+        "host": "https://mapcomplete.org/ghostbikes.html",
+        "theme": "ghostbikes",
+        "locale": "pt-BR",
+        "change_over_5000m": 1,
+        "id": 148407051
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.5198881,
-          -23.6520736
+          -46.7147645,
+          -23.6892317
         ]
       },
-      "id": 135595575
+      "id": 148407051
     }
   ]
 }

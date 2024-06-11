@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 43,
+            "name": "Invalid key value combination"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-9890724657",
+            "name": "Valparaiso Bike Share",
+            "osm_id": 9890724657,
+            "reasons": [
+              43
+            ],
+            "version": 2,
+            "primary_tags": {
+              "amenity": "bicycle_library"
+            }
+          }
+        ],
+        "user": "Kanellar",
+        "uid": "16249964",
+        "editor": "MapComplete 0.22.2",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-07-17T01:49:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "name": [
+            "Valparaiso Bike Share"
+          ],
+          "amenity": [
+            "bicycle_library",
+            "bicycle_parking"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.243669607768163,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_over_5000m": 1,
+        "change_within_25m": 4,
+        "id": 123706455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.68054225,
+          -87.3478312
+        ]
+      },
+      "id": 123706455
+    }
+  ]
+}

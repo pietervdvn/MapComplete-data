@@ -5,59 +5,55 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
         "user": "benjamintchik",
         "uid": "6290466",
-        "editor": "MapComplete 0.23.2",
+        "editor": "MapComplete 0.37.1",
         "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-10-10T17:08:58Z",
+        "date": "2024-02-09T20:34:01Z",
         "reviewed_features": [],
         "tag_changes": {
           "highway": [
             "residential",
-            "primary",
-            "footway",
-            "cycleway"
+            "service",
+            "path",
+            "pedestrian"
           ],
           "name:etymology:wikidata": [
-            "Q4821485",
-            "Q8011870",
-            "Q236371"
+            "Q232453",
+            "Q2657745",
+            "Q3109901",
+            "Q190928",
+            "Q15973976"
           ]
         },
         "create": 0,
-        "modify": 87,
+        "modify": 31,
         "delete": 0,
-        "area": 623.268214602,
-        "is_suspect": true,
+        "area": 403.463235413902,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/etymology.html",
+        "host": "https://mapcomplete.org/etymology.html",
         "theme": "etymology",
-        "answer": 113,
+        "answer": 31,
         "locale": "fr",
-        "imagery": "osm",
-        "id": 127315025
+        "id": 147271789
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -35.8127263,
-          44.79642595
+          -36.508301550000006,
+          44.32578075
         ]
       },
-      "id": 127315025
+      "id": 147271789
     }
   ]
 }

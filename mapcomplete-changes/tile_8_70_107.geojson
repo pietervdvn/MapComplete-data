@@ -5,144 +5,46 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "grouper",
-        "uid": "369983",
-        "editor": "MapComplete 0.6.2",
-        "comment": "Adding data with #MapComplete for theme #shops",
+        "user": "robertdown",
+        "uid": "2055285",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #indoors",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-03-28T15:37:59Z",
+        "date": "2024-02-09T16:59:35Z",
         "reviewed_features": [],
         "tag_changes": {},
-        "create": 1,
-        "modify": 0,
+        "create": 0,
+        "modify": 1,
         "delete": 0,
         "area": 0,
-        "is_suspect": false,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "shops",
-        "imagery": "EsriWorldImagery",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 101879051
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2696517,
-          27.1695582
-        ]
-      },
-      "id": 101879051
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "ray331",
-        "uid": "11726860",
-        "editor": "MapComplete 0.12.13",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-01-05T17:40:31Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 2,
-        "delete": 0,
-        "area": 0.00166176534509998,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "etymology",
+        "host": "https://mapcomplete.org/indoors",
+        "theme": "indoors",
         "answer": 2,
-        "imagery": "osm",
-        "language": "en",
-        "id": 115806717
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.6541413,
-          27.74887675
-        ]
-      },
-      "id": 115806717
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "ray331",
-        "uid": "11726860",
-        "editor": "MapComplete 0.25.6",
-        "comment": "Adding data with #MapComplete for theme #cafes_and_pubs",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-01-20T16:26:48Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "phone": [
-            "+1 727 800 9836"
-          ],
-          "amenity": [
-            "pub"
-          ],
-          "building": [
-            "yes"
-          ],
-          "payment:cash": [
-            "yes"
-          ],
-          "opening_hours": [
-            "Fr 16:00-00:00;Sa 12:00-00:00;Su 12:00-20:00;Th 16:00-22:00"
-          ],
-          "payment:cards": [
-            "yes"
-          ]
-        },
-        "create": 0,
-        "modify": 2,
-        "delete": 0,
-        "area": 4.20404000014178e-8,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cafes_and_pubs.html",
-        "theme": "cafes_and_pubs",
-        "answer": 3,
         "locale": "en",
-        "imagery": "osm",
-        "change_over_5000m": 3,
-        "id": 131514963
+        "id": 147265273
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.65034109999999,
-          27.77175225
+          -81.4798366,
+          28.4288009
         ]
       },
-      "id": 131514963
+      "id": 147265273
     },
     {
       "type": "Feature",
@@ -156,302 +58,39 @@
         ],
         "tags": [],
         "features": [],
-        "user": "Jaden Connors",
-        "uid": "20643270",
-        "editor": "MapComplete 0.35.1",
+        "user": "Stang159",
+        "uid": "21256405",
+        "editor": "MapComplete 0.41.2",
         "comment": "Adding data with #MapComplete for theme #maxspeed",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-12-02T04:20:58Z",
+        "date": "2024-03-29T19:08:57Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "tertiary",
-            "secondary",
-            "secondary_link"
-          ],
-          "maxspeed": [
-            "35",
-            "45mph",
-            "45"
-          ]
-        },
-        "create": 2,
-        "modify": 11,
+        "tag_changes": {},
+        "create": 1,
+        "modify": 4,
         "delete": 0,
-        "area": 0.000382461153240004,
+        "area": 0.00015991376617997764,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
         "host": "https://mapcomplete.org/maxspeed.html",
-        "split": 3,
+        "split": 2,
         "theme": "maxspeed",
-        "answer": 10,
+        "answer": 4,
         "locale": "en",
-        "change_within_100m": 3,
-        "id": 144680884
+        "id": 149327045
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.60220975,
-          28.080933799999997
+          -82.31855985,
+          27.8011127
         ]
       },
-      "id": 144680884
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "DPflug",
-        "uid": "2420587",
-        "editor": "MapComplete 0.30.7",
-        "comment": "Adding data with #MapComplete for theme #food",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-06-25T09:52:24Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "phone": [
-            "+1 407 886 8558",
-            "+1 407 886 1729"
-          ],
-          "amenity": [
-            "fast_food",
-            "restaurant"
-          ],
-          "organic": [
-            "no"
-          ],
-          "website": [
-            "https://www.dairyqueen.com/en-us/locations/fl/apopka/803-e-semoran-blvd/4750/"
-          ],
-          "building": [
-            "yes"
-          ],
-          "delivery": [
-            "yes"
-          ],
-          "takeaway": [
-            "yes"
-          ],
-          "diet:vegan": [
-            "limited"
-          ],
-          "reservation": [
-            "no"
-          ],
-          "diet:vegetarian": [
-            "limited",
-            "yes"
-          ]
-        },
-        "create": 0,
-        "modify": 8,
-        "delete": 0,
-        "area": 3.53394100000872e-7,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/food.html",
-        "theme": "food",
-        "answer": 13,
-        "locale": "en",
-        "id": 137746337
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4939674,
-          28.67348555
-        ]
-      },
-      "id": 137746337
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "DPflug",
-        "uid": "2420587",
-        "editor": "MapComplete 0.30.7",
-        "comment": "Adding data with #MapComplete for theme #nature",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-06-25T09:31:58Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "dog": [
-            "leashed"
-          ],
-          "fee": [
-            "yes"
-          ],
-          "email": [
-            "FSP.Feedback@FloridaDEP.gov"
-          ],
-          "phone": [
-            "+1 407 553 4383"
-          ],
-          "access": [
-            "yes"
-          ],
-          "leisure": [
-            "nature_reserve"
-          ],
-          "website": [
-            "https://myfwc.com/recreation/cooperative/rock-springs-run/"
-          ],
-          "boundary": [
-            "protected_area"
-          ]
-        },
-        "create": 0,
-        "modify": 4,
-        "delete": 0,
-        "area": 0.0105777399879188,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/nature.html",
-        "theme": "nature",
-        "answer": 5,
-        "locale": "en",
-        "id": 137745844
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.46517084999999,
-          28.7641803
-        ]
-      },
-      "id": 137745844
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "DPflug",
-        "uid": "2420587",
-        "editor": "MapComplete 0.30.7",
-        "comment": "Adding data with #MapComplete for theme #pets",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-06-25T09:19:20Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "shop": [
-            "pet"
-          ],
-          "phone": [
-            "+1 407 880 0250"
-          ],
-          "barrier": [
-            "fence"
-          ],
-          "leisure": [
-            "dog_park"
-          ],
-          "website": [
-            "https://stores.petco.com/fl/apopka/pet-supplies-apopka-fl-1548.html"
-          ],
-          "small_dog": [
-            "separate"
-          ],
-          "opening_hours": [
-            "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-          ]
-        },
-        "create": 0,
-        "modify": 4,
-        "delete": 0,
-        "area": 0.000185659197600048,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/pets.html",
-        "theme": "pets",
-        "answer": 5,
-        "locale": "en",
-        "id": 137745504
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4874101,
-          28.6776731
-        ]
-      },
-      "id": 137745504
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "DPflug",
-        "uid": "2420587",
-        "editor": "MapComplete 0.30.7",
-        "comment": "Adding data with #MapComplete for theme #cycle_infra",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-06-25T08:47:13Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "residential"
-          ],
-          "cycleway": [
-            "no"
-          ],
-          "smoothness": [
-            "excellent"
-          ]
-        },
-        "create": 0,
-        "modify": 7,
-        "delete": 0,
-        "area": 0.0000324384372000592,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cycle_infra.html",
-        "theme": "cycle_infra",
-        "answer": 12,
-        "locale": "en",
-        "id": 137744704
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4823941,
-          28.693002900000003
-        ]
-      },
-      "id": 137744704
+      "id": 149327045
     }
   ]
 }

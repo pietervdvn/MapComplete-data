@@ -8,80 +8,91 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "CurlingMan13",
-        "uid": "6641970",
-        "editor": "MapComplete 0.25.3",
-        "comment": "Adding data with #MapComplete for theme #transit",
+        "user": "Awo",
+        "uid": "196556",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #trees",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-01-04T06:03:58Z",
+        "date": "2024-04-20T17:05:04Z",
         "reviewed_features": [],
         "tag_changes": {
-          "to": [
-            "Canyon Lodge"
+          "image": [
+            "https://i.imgur.com/n1V7Ctb.jpeg"
           ],
-          "bin": [
-            "yes",
-            "no"
+          "natural": [
+            "tree"
           ],
-          "lit": [
-            "yes"
-          ],
-          "from": [
-            "The Village"
-          ],
-          "bench": [
-            "yes",
-            "no"
-          ],
-          "route": [
-            "bus"
-          ],
-          "noname": [
-            "yes"
-          ],
-          "highway": [
-            "bus_stop"
-          ],
-          "shelter": [
-            "yes",
-            "no"
-          ],
-          "wheelchair": [
-            "yes"
-          ],
-          "tactile_paving": [
-            "no"
-          ],
-          "public_transport": [
-            "platform"
+          "species:wikidata": [
+            "Q290967"
           ]
         },
         "create": 0,
-        "modify": 5,
+        "modify": 2,
         "delete": 0,
-        "area": 0.00024541956440004,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/transit.html",
-        "theme": "transit",
-        "answer": 13,
-        "locale": "en",
-        "imagery": "osm",
-        "change_over_5000m": 13,
-        "id": 130851987
+        "host": "https://mapcomplete.org/trees.html",
+        "theme": "trees",
+        "answer": 1,
+        "locale": "es",
+        "add-image": 1,
+        "id": 150272891
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.9934758,
-          37.6429122
+          -119.7988022,
+          36.7672795
         ]
       },
-      "id": 130851987
+      "id": 150272891
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "habi",
+        "uid": "15671",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #campersite",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2024-05-21T18:58:40Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/campersite.html",
+        "theme": "campersite",
+        "answer": 7,
+        "locale": "en",
+        "imagery": "osm",
+        "change_within_50m": 7,
+        "id": 151643421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4583361,
+          35.6500073
+        ]
+      },
+      "id": 151643421
     }
   ]
 }

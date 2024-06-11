@@ -8,43 +8,129 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "benetj",
-        "uid": "2353661",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #artwork",
+        "user": "gabpr05",
+        "uid": "8983868",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #parkings",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-08-09T06:31:02Z",
+        "date": "2024-02-07T21:03:09Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "tourism": [
-            "artwork"
-          ]
-        },
-        "create": 3,
-        "modify": 3,
-        "delete": 0,
-        "area": 0.00000127870740001168,
+        "tag_changes": {},
+        "create": 4,
+        "modify": 0,
+        "delete": 1,
+        "area": 1.86074830003261e-7,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/artwork.html",
-        "theme": "artwork",
-        "answer": 5,
-        "locale": "ca",
-        "imagery": "osm",
-        "id": 124668363
+        "host": "https://mapcomplete.org/parkings.html",
+        "theme": "parkings",
+        "locale": "es",
+        "deletion": 1,
+        "deletion:node/11596076100": "not found",
+        "id": 147193065
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1574334000000004,
-          39.7661562
+          3.02739895,
+          39.77146175
         ]
       },
-      "id": 124668363
+      "id": 147193065
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gabpr05",
+        "uid": "8983868",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-02-07T20:40:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ]
+        },
+        "create": 19,
+        "modify": 1,
+        "delete": 1,
+        "area": 0.0000731519322300201,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/benches.html",
+        "theme": "benches",
+        "answer": 1,
+        "locale": "es",
+        "deletion": 1,
+        "deletion:node/11548197069": "not found",
+        "id": 147192299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02540285,
+          39.76705255
+        ]
+      },
+      "id": 147192299
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gabpr05",
+        "uid": "8983868",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #clock",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-02-07T20:35:15Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "clock"
+          ]
+        },
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/clock.html",
+        "theme": "clock",
+        "answer": 4,
+        "locale": "es",
+        "id": 147192127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0232601,
+          39.7700589
+        ]
+      },
+      "id": 147192127
     }
   ]
 }

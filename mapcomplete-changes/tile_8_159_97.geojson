@@ -5,49 +5,359 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "Noktoborus",
-        "uid": "540529",
-        "editor": "MapComplete 0.30.7",
-        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "user": "Igor Zaytsev",
+        "uid": "3214325",
+        "editor": "MapComplete 0.12.8",
+        "comment": "Adding data with #MapComplete for theme #climbing",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-06-27T06:45:16Z",
+        "date": "2021-11-21T09:22:17Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "secondary",
-            "primary"
-          ],
-          "maxspeed": [
-            "60"
-          ]
-        },
-        "create": 0,
-        "modify": 10,
+        "tag_changes": {},
+        "create": 1,
+        "modify": 3,
         "delete": 0,
-        "area": 0.0000188627890499892,
-        "is_suspect": false,
+        "area": 0,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/maxspeed.html",
-        "theme": "maxspeed",
-        "answer": 10,
-        "locale": "en",
-        "id": 137820259
+        "host": "mapcomplete.osm.be",
+        "theme": "climbing",
+        "answer": 5,
+        "imagery": "osm",
+        "language": "en",
+        "id": 114050247
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.476823949999996,
-          40.19170005
+          43.6810052,
+          40.2759111
         ]
       },
-      "id": 137820259
+      "id": 114050247
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Igor Zaytsev",
+        "uid": "3214325",
+        "editor": "MapComplete 0.12.8",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2021-11-21T09:06:54Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 3.51972999992477e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "mapcomplete.osm.be",
+        "theme": "food",
+        "answer": 7,
+        "imagery": "osm",
+        "language": "en",
+        "id": 114049879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.67893885,
+          40.211125800000005
+        ]
+      },
+      "id": 114049879
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Базич",
+        "uid": "262206",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-22T12:39:03Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "leisure": [
+            "playground"
+          ]
+        },
+        "create": 1,
+        "modify": 6,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 7,
+        "locale": "ru",
+        "imagery": "osm",
+        "id": 133976677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1022348,
+          39.0847219
+        ]
+      },
+      "id": 133976677
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Базич",
+        "uid": "262206",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #clock",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-29T20:38:17Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "date": [
+            "yes"
+          ],
+          "faces": [
+            "2"
+          ],
+          "image": [
+            "https://i.imgur.com/L14657l.jpg"
+          ],
+          "amenity": [
+            "clock"
+          ],
+          "display": [
+            "digital"
+          ],
+          "support": [
+            "wall_mounted"
+          ],
+          "visibility": [
+            "area"
+          ]
+        },
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/clock.html",
+        "theme": "clock",
+        "answer": 4,
+        "locale": "en",
+        "imagery": "osm",
+        "add-image": 1,
+        "id": 134278080
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.094896,
+          39.0742196
+        ]
+      },
+      "id": 134278080
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Enzet",
+        "uid": "380996",
+        "editor": "MapComplete 0.42.4",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-14T10:04:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "recycling",
+            "waste_disposal"
+          ],
+          "survey:date": [
+            "2024-05-14"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "recycling_type": [
+            "container"
+          ]
+        },
+        "create": 1,
+        "modify": 5,
+        "delete": 0,
+        "area": 0.000006807474100002777,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/waste.html",
+        "move": 1,
+        "theme": "waste",
+        "answer": 13,
+        "locale": "en-GB",
+        "change_over_5000m": 2,
+        "move:node/11903555363": "improve_accuracy",
+        "id": 151304478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51700985,
+          40.165280800000005
+        ]
+      },
+      "id": 151304478
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "VlIvYur",
+        "uid": "345975",
+        "editor": "MapComplete 0.42.7",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-20T09:06:33Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "toilets"
+          ]
+        },
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 0.0004935065650500309,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/toilets.html",
+        "theme": "toilets",
+        "answer": 5,
+        "locale": "en",
+        "id": 151568158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.497280950000004,
+          40.185664149999994
+        ]
+      },
+      "id": 151568158
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "VlIvYur",
+        "uid": "345975",
+        "editor": "MapComplete 0.42.7",
+        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-20T09:03:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "indoor": [
+            "no"
+          ],
+          "noname": [
+            "yes"
+          ],
+          "amenity": [
+            "public_bookcase"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/bookcases.html",
+        "theme": "bookcases",
+        "answer": 2,
+        "locale": "en",
+        "id": 151568040
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51261,
+          40.1853
+        ]
+      },
+      "id": 151568040
     }
   ]
 }

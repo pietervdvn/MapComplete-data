@@ -5,83 +5,47 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "InsecurePeanut",
-        "uid": "13338897",
-        "editor": "MapComplete 0.7.3",
-        "comment": "Adding data with #MapComplete for theme #toilets",
+        "user": "SpeedMcCool",
+        "uid": "2260722",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-05-23T09:55:18Z",
+        "date": "2024-04-05T18:22:43Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 0,
-        "modify": 1,
+        "modify": 469,
         "delete": 0,
-        "area": 2.7428399995477e-9,
-        "is_suspect": false,
+        "area": 7.536082038000969,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "toilets",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 105158908
+        "host": "https://mapcomplete.org/etymology",
+        "theme": "etymology",
+        "answer": 500,
+        "locale": "en",
+        "change_over_5000m": 354,
+        "id": 149628058
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.59835100000001,
-          44.530470449999996
+          -91.23800829999999,
+          44.571068499999996
         ]
       },
-      "id": 105158908
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "InsecurePeanut",
-        "uid": "13338897",
-        "editor": "MapComplete 0.7.3",
-        "comment": "Adding data with #MapComplete for theme #artworks",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-05-23T09:46:08Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "artworks",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 105158635
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5715612,
-          44.5272569
-        ]
-      },
-      "id": 105158635
+      "id": 149628058
     }
   ]
 }

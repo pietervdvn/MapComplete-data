@@ -5,151 +5,465 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 43,
-            "name": "Invalid key value combination"
-          }
-        ],
+        "reasons": [],
         "tags": [],
-        "features": [
-          {
-            "url": "node-8499095699",
-            "osm_id": 8499095699,
-            "reasons": [
-              43
-            ],
-            "version": 1,
-            "primary_tags": {
-              "tourism": "map"
-            }
-          },
-          {
-            "url": "node-8499121603",
-            "osm_id": 8499121603,
-            "reasons": [
-              43
-            ],
-            "version": 2,
-            "primary_tags": {
-              "tourism": "map"
-            }
-          }
-        ],
-        "user": "benetj",
-        "uid": "2353661",
-        "editor": "MapComplete 0.5.5",
-        "comment": "Adding data with #MapComplete for theme #maps",
+        "features": [],
+        "user": "gabpr05",
+        "uid": "8983868",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #parkings",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-03-09T07:56:07Z",
+        "date": "2024-02-07T21:03:09Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 4,
+        "modify": 0,
+        "delete": 1,
+        "area": 1.86074830003261e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/parkings.html",
+        "theme": "parkings",
+        "locale": "es",
+        "deletion": 1,
+        "deletion:node/11596076100": "not found",
+        "id": 147193065
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02739895,
+          39.77146175
+        ]
+      },
+      "id": 147193065
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gabpr05",
+        "uid": "8983868",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #benches",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-02-07T20:40:43Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bench"
+          ]
+        },
+        "create": 19,
+        "modify": 1,
+        "delete": 1,
+        "area": 0.0000731519322300201,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/benches.html",
+        "theme": "benches",
+        "answer": 1,
+        "locale": "es",
+        "deletion": 1,
+        "deletion:node/11548197069": "not found",
+        "id": 147192299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02540285,
+          39.76705255
+        ]
+      },
+      "id": 147192299
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "gabpr05",
+        "uid": "8983868",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #clock",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-02-07T20:35:15Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "clock"
+          ]
+        },
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/clock.html",
+        "theme": "clock",
+        "answer": 4,
+        "locale": "es",
+        "id": 147192127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0232601,
+          39.7700589
+        ]
+      },
+      "id": 147192127
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "benetj",
+        "uid": "2353661",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-03-08T14:50:48Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary",
+            "primary",
+            "unclassified",
+            "track",
+            "residential",
+            "living_street",
+            "path",
+            "pedestrian"
+          ],
+          "leisure": [
+            "sports_centre",
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q646556",
+            "Q8246906",
+            "Q11914373",
+            "Q193660",
+            "Q9001270",
+            "Q966753",
+            "Q16184684",
+            "Q2424185",
+            "Q528401",
+            "Q980768",
+            "Q11952083",
+            "Q212052",
+            "Q562489",
+            "Q727402",
+            "Q85434698",
+            "Q19288833",
+            "Q19716046",
+            "Q597732",
+            "Q2910842",
+            "Q9033477",
+            "Q11938316",
+            "Q690437",
+            "Q20100767",
+            "Q37064",
+            "Q1092365",
+            "Q19998030"
+          ]
+        },
+        "create": 0,
+        "modify": 69,
+        "delete": 0,
+        "area": 0.002577951524399981,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 69,
+        "locale": "ca",
+        "change_over_5000m": 16,
+        "id": 148387694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7633029000000002,
+          39.68513845
+        ]
+      },
+      "id": 148387694
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "benetj",
+        "uid": "2353661",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #atm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-03-08T14:43:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bank"
+          ]
+        },
+        "create": 0,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/atm.html",
+        "theme": "atm",
+        "locale": "ca",
+        "deletion": 1,
+        "change_over_5000m": 1,
+        "deletion:node/3091666316": "disused",
+        "id": 148387415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7728334,
+          39.65076
+        ]
+      },
+      "id": 148387415
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "benetj",
+        "uid": "2353661",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #artwork",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-03-12T11:04:33Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 2,
         "modify": 1,
         "delete": 0,
-        "area": 6.5611750001198e-7,
+        "area": 2.7983699999958235e-8,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "maps",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 100688874
+        "host": "https://mapcomplete.org/artwork.html",
+        "theme": "artwork",
+        "answer": 1,
+        "locale": "ca",
+        "change_over_5000m": 2,
+        "id": 148544273
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7806433999999998,
-          39.64794675
+          2.7758616,
+          39.64906925
         ]
       },
-      "id": 100688874
+      "id": 148544273
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 42,
+            "name": "Invalid tag modification"
+          }
+        ],
         "tags": [],
-        "features": [],
+        "features": [
+          {
+            "url": "node-3093110193",
+            "name": "Tot Calçat",
+            "osm_id": 3093110193,
+            "reasons": [
+              42
+            ],
+            "version": 4,
+            "primary_tags": {}
+          }
+        ],
         "user": "benetj",
         "uid": "2353661",
-        "editor": "MapComplete 0.5.5",
-        "comment": "Adding data with #MapComplete for theme #aed",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #shops",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-03-09T07:44:15Z",
+        "date": "2024-03-12T10:55:24Z",
         "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 3,
-        "delete": 0,
-        "area": 0.00000523120859999823,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "aed",
-        "imagery": "osm",
-        "language": "ca",
-        "theme-creator": "MapComplete",
-        "id": 100687881
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.7728815,
-          39.648012
-        ]
-      },
-      "id": 100687881
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "benetj",
-        "uid": "2353661",
-        "editor": "MapComplete 0.5.5",
-        "comment": "Adding data with #MapComplete for theme #charging_stations",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-03-09T07:39:35Z",
-        "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "name": [
+            "Lluís Fernandez",
+            "Taller Martí Canyelles"
+          ],
+          "shop": [
+            "shoes",
+            "car_repair",
+            "optician"
+          ],
+          "phone": [
+            "+34 971 14 02 19"
+          ],
+          "disused:shop": [
+            "shoes"
+          ],
+          "opening_hours": [
+            "Mo-Fr 09:30-13:30,16:30-20:30; Sa 09:30-13:30; Su 09:30-14:00"
+          ],
+          "internet_access": [
+            "no"
+          ]
+        },
         "create": 0,
         "modify": 6,
         "delete": 0,
-        "area": 0.0000167815897599945,
+        "area": 0.000015415279880002885,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "charging_stations",
-        "imagery": "osm",
-        "language": "en",
-        "id": 100687422
+        "host": "https://mapcomplete.org/shops.html",
+        "theme": "shops",
+        "answer": 4,
+        "locale": "ca",
+        "special-delete": 2,
+        "change_over_5000m": 2,
+        "id": 148543871
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7744178,
-          39.64887685
+          2.77322595,
+          39.6508482
         ]
       },
-      "id": 100687422
+      "id": 148543871
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "benetj",
+        "uid": "2353661",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-08T19:34:21Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 2.9835135000134487e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 1,
+        "locale": "ca",
+        "id": 149749994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.77595845,
+          39.64865985
+        ]
+      },
+      "id": 149749994
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "benetj",
+        "uid": "2353661",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #education",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-08T19:31:59Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/education.html",
+        "theme": "education",
+        "locale": "ca",
+        "deletion": 1,
+        "change_over_5000m": 1,
+        "deletion:node/3093058226": "disused",
+        "id": 149749890
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7745761,
+          39.6484925
+        ]
+      },
+      "id": 149749890
     },
     {
       "type": "Feature",
@@ -163,87 +477,172 @@
         ],
         "tags": [],
         "features": [],
-        "user": "Adanost",
-        "uid": "18042436",
-        "editor": "MapComplete 0.25.0",
-        "comment": "Adding data with #MapComplete for theme #surveillance",
+        "user": "carlss12",
+        "uid": "21181540",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #trees",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-12-20T15:37:30Z",
+        "date": "2024-04-09T06:55:39Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "building": [
-            "industrial"
-          ],
-          "man_made": [
-            "surveillance"
-          ]
-        },
-        "create": 6,
-        "modify": 8,
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
         "delete": 0,
-        "area": 4.96820799995637e-7,
+        "area": 0,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/surveillance",
-        "theme": "surveillance",
-        "answer": 12,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 130296106
+        "host": "https://mapcomplete.org/trees.html",
+        "theme": "trees",
+        "locale": "es",
+        "change_over_5000m": 1,
+        "id": 149762005
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7150065999999997,
-          39.62283455
+          2.7517684,
+          39.4930964
         ]
       },
-      "id": 130296106
+      "id": 149762005
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "benetj",
-        "uid": "2353661",
-        "editor": "MapComplete 0.15.8",
-        "comment": "Adding data with #MapComplete for theme #https://raw.githubusercontent.com/yopaseopor/mcquests/master/libraries.json",
+        "user": "gomesito",
+        "uid": "21181525",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #bicycle_rental",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-02-15T09:35:09Z",
+        "date": "2024-04-09T06:55:02Z",
         "reviewed_features": [],
         "tag_changes": {},
-        "create": 0,
-        "modify": 27,
+        "create": 1,
+        "modify": 0,
         "delete": 0,
         "area": 0,
-        "is_suspect": false,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "https://raw.githubusercontent.com/yopaseopor/mcquests/master/libraries.json",
-        "answer": 32,
-        "locale": "ca",
-        "imagery": "osm",
-        "id": 117427236
+        "host": "https://mapcomplete.org/bicycle_rental.html",
+        "theme": "bicycle_rental",
+        "locale": "es",
+        "id": 149761985
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7781999,
-          39.6470007
+          2.7328391,
+          39.5272102
         ]
       },
-      "id": 117427236
+      "id": 149761985
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Toni_Pro_🇪🇦_010",
+        "uid": "21181551",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #icecream",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-09T06:51:13Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/icecream.html",
+        "theme": "icecream",
+        "answer": 1,
+        "locale": "es",
+        "id": 149761880
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7540236,
+          39.5024543
+        ]
+      },
+      "id": 149761880
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Lemon👍",
+        "uid": "21181545",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #atm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-09T06:50:31Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 2,
+        "modify": 0,
+        "delete": 0,
+        "area": 6.916473299977455e-7,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/atm.html",
+        "theme": "atm",
+        "answer": 1,
+        "locale": "es",
+        "id": 149761857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.75544615,
+          39.497299850000005
+        ]
+      },
+      "id": 149761857
     },
     {
       "type": "Feature",
@@ -254,12 +653,12 @@
         "features": [],
         "user": "benetj",
         "uid": "2353661",
-        "editor": "MapComplete 0.15.8",
-        "comment": "Adding data with #MapComplete for theme #food",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #atm",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-02-15T07:10:38Z",
+        "date": "2024-04-09T06:31:56Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 1,
@@ -270,21 +669,65 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "food",
-        "answer": 1,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 117421559
+        "host": "https://mapcomplete.org/atm.html",
+        "theme": "atm",
+        "locale": "ca",
+        "change_over_5000m": 1,
+        "id": 149761329
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7717385,
-          39.6509155
+          2.7555041,
+          39.498953
         ]
       },
-      "id": 117421559
+      "id": 149761329
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "gomesito",
+        "uid": "21181525",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #bicycle_rental",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-12T07:10:40Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/bicycle_rental.html",
+        "theme": "bicycle_rental",
+        "answer": 3,
+        "locale": "es",
+        "id": 149895118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7328391,
+          39.5272102
+        ]
+      },
+      "id": 149895118
     },
     {
       "type": "Feature",
@@ -295,37 +738,267 @@
         "features": [],
         "user": "benetj",
         "uid": "2353661",
-        "editor": "MapComplete 0.15.8",
-        "comment": "Adding data with #MapComplete for theme #policia",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-02-16T10:23:56Z",
+        "date": "2024-04-16T08:22:27Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "highway": [
+            "motorway_junction",
+            "secondary",
+            "residential",
+            "tertiary",
+            "track",
+            "pedestrian",
+            "unclassified"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q9072402",
+            "Q4894879",
+            "Q49567",
+            "Q94761014",
+            "Q11939316",
+            "Q638628",
+            "Q8538539",
+            "Q11915796",
+            "Q18008922",
+            "Q20104694",
+            "Q6098402",
+            "Q52348453",
+            "Q25429",
+            "Q51279",
+            "Q166282",
+            "Q11914373",
+            "Q17148261",
+            "Q22043197",
+            "Q3112684",
+            "Q3753643",
+            "Q17300763",
+            "Q11928944",
+            "Q8248572",
+            "Q20106435",
+            "Q2634",
+            "Q43958",
+            "Q11941085",
+            "Q9073026",
+            "Q25418",
+            "Q25469",
+            "Q25393",
+            "Q6072584",
+            "Q25334",
+            "Q11577",
+            "Q25234",
+            "Q1164350",
+            "Q11943718",
+            "Q104554878",
+            "Q587189",
+            "Q1652824",
+            "Q65204088",
+            "Q26006",
+            "Q33036816",
+            "Q36146",
+            "Q13188",
+            "Q255375",
+            "Q11943443",
+            "Q3351769",
+            "Q218155",
+            "Q732892",
+            "Q1918252",
+            "Q859",
+            "Q228",
+            "Q1369140",
+            "Q743741",
+            "Q43922",
+            "Q3109663",
+            "Q3977149",
+            "Q152384",
+            "Q1857729",
+            "Q20003570",
+            "Q2518249",
+            "Q55065297",
+            "Q20004680",
+            "Q5593",
+            "Q18008153",
+            "Q941271",
+            "Q1092365",
+            "Q5997764",
+            "Q453122",
+            "Q180372",
+            "Q193742",
+            "Q3328249",
+            "Q16999656",
+            "Q12104",
+            "Q25383",
+            "Q4951156",
+            "Q52849810",
+            "Q54955",
+            "Q11938297",
+            "Q25961",
+            "Q4721848",
+            "Q18008559"
+          ]
+        },
+        "create": 0,
+        "modify": 135,
+        "delete": 0,
+        "area": 0.0024001883212800006,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 136,
+        "locale": "ca",
+        "change_within_100m": 3,
+        "change_within_500m": 1,
+        "change_within_1000m": 8,
+        "change_within_5000m": 26,
+        "id": 150071995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7114152999999996,
+          39.590986400000006
+        ]
+      },
+      "id": 150071995
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "benetj",
+        "uid": "2353661",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-16T06:26:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "crossing",
+            "residential",
+            "pedestrian"
+          ],
+          "public_transport": [
+            "stop_position"
+          ],
+          "name:etymology:wikidata": [
+            "Q5754012",
+            "Q2886135",
+            "Q9033477",
+            "Q9033481",
+            "Q11682262",
+            "Q9001270",
+            "Q8194204",
+            "Q11682261",
+            "Q11936397",
+            "Q2551187",
+            "Q2423524",
+            "Q1232094",
+            "Q52636",
+            "Q52631",
+            "Q5765",
+            "Q783573",
+            "Q55998200",
+            "Q36050",
+            "Q1686582",
+            "Q25350",
+            "Q11927653",
+            "Q3773338",
+            "Q52650",
+            "Q137659",
+            "Q980768",
+            "Q94725",
+            "Q52626",
+            "Q9013176",
+            "Q21402522",
+            "Q4892394"
+          ]
+        },
+        "create": 0,
+        "modify": 32,
+        "delete": 0,
+        "area": 0.0002781616589999936,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 32,
+        "locale": "ca",
+        "change_within_1000m": 1,
+        "id": 150067692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7080746500000004,
+          39.6132486
+        ]
+      },
+      "id": 150067692
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "benetj",
+        "uid": "2353661",
+        "editor": "MapComplete 0.42.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-09T15:35:15Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q56401019"
+          ]
+        },
         "create": 0,
         "modify": 1,
         "delete": 0,
-        "area": 0,
+        "area": 0.0000011976837600093692,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "policia",
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
         "answer": 1,
-        "locale": "es",
-        "imagery": "osm",
-        "id": 117469662
+        "locale": "en",
+        "id": 151106650
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.7786352,
-          39.6473863
+          2.7679839,
+          39.659687500000004
         ]
       },
-      "id": 117469662
+      "id": 151106650
     },
     {
       "type": "Feature",
@@ -336,130 +1009,52 @@
         "features": [],
         "user": "benetj",
         "uid": "2353661",
-        "editor": "MapComplete 0.19.0",
-        "comment": "Adding data with #MapComplete for theme #https://raw.githubusercontent.com/yopaseopor/mcquests/main/parkingspaces.json",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-05-03T12:26:05Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 4,
-        "delete": 0,
-        "area": 6.65443999999306e-7,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/theme.html",
-        "theme": "https://raw.githubusercontent.com/yopaseopor/mcquests/main/parkingspaces.json",
-        "answer": 4,
-        "locale": "es",
-        "imagery": "osm",
-        "id": 120497985
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.7781972,
-          39.648841649999994
-        ]
-      },
-      "id": 120497985
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "benetj",
-        "uid": "2353661",
-        "editor": "MapComplete 0.23.0",
+        "editor": "MapComplete 0.42.4",
         "comment": "Adding data with #MapComplete for theme #artwork",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-08-09T06:31:02Z",
+        "date": "2024-05-09T15:08:00Z",
         "reviewed_features": [],
         "tag_changes": {
+          "image": [
+            "https://i.imgur.com/JXXqFL4.jpeg"
+          ],
           "tourism": [
             "artwork"
+          ],
+          "building": [
+            "house",
+            "apartments"
+          ],
+          "artwork_type": [
+            "mural",
+            "graffiti"
           ]
         },
-        "create": 3,
-        "modify": 3,
-        "delete": 0,
-        "area": 0.00000127870740001168,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/artwork.html",
-        "theme": "artwork",
-        "answer": 5,
-        "locale": "ca",
-        "imagery": "osm",
-        "id": 124668363
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.1574334000000004,
-          39.7661562
-        ]
-      },
-      "id": 124668363
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "LennertS",
-        "uid": "1269026",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #playgrounds",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-04-13T07:18:24Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "leisure": [
-            "playground"
-          ]
-        },
-        "create": 2,
+        "create": 4,
         "modify": 8,
         "delete": 0,
-        "area": 0.000036175861520009,
+        "area": 0.004461505335300116,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/playgrounds.html",
-        "theme": "playgrounds",
-        "answer": 11,
-        "locale": "nl",
-        "imagery": "osm",
-        "add-image": 2,
-        "change_over_5000m": 2,
-        "change_within_25m": 13,
-        "id": 134847968
+        "host": "https://mapcomplete.org/artwork.html",
+        "theme": "artwork",
+        "answer": 4,
+        "locale": "en",
+        "add-image": 3,
+        "id": 151105467
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.66231375,
-          39.575408499999995
+          2.73395455,
+          39.6258258
         ]
       },
-      "id": 134847968
+      "id": 151105467
     }
   ]
 }

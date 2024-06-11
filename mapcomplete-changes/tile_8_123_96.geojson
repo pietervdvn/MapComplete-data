@@ -8,876 +8,98 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "waldyrious",
-        "uid": "5177",
-        "editor": "MapComplete 0.1.2f",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "sanchi",
+        "uid": "170106",
+        "editor": "MapComplete 0.40.0",
+        "comment": "Adding data with #MapComplete for theme #https://raw.githubusercontent.com/yopaseopor/mcquests/main/libraries.json",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2020-11-12T13:43:57Z",
+        "date": "2024-03-01T07:15:23Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "amenity": [
+            "library"
+          ],
+          "library": [
+            "public"
+          ],
+          "building": [
+            "yes"
+          ]
+        },
         "create": 0,
-        "modify": 5,
+        "modify": 2,
         "delete": 0,
-        "area": 0.0000209756267100116,
+        "area": 8.349218999965844e-7,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "theme": "cyclofix",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 94000102
+        "host": "https://mapcomplete.org/theme.html",
+        "theme": "https://raw.githubusercontent.com/yopaseopor/mcquests/main/libraries.json",
+        "answer": 2,
+        "locale": "ca",
+        "id": 148083668
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.42557665,
-          41.55130935
+          -5.65464875,
+          40.9783504
         ]
       },
-      "id": 94000102
+      "id": 148083668
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
-        "user": "andralves",
-        "uid": "12438683",
-        "editor": "MapComplete 0.7.0a",
-        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "user": "o_andras",
+        "uid": "13641767",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #bicycle_parkings",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-05-01T23:26:34Z",
+        "date": "2024-03-07T00:56:15Z",
         "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 0,
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "covered": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
         "delete": 0,
         "area": 0,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "drinking_water",
-        "imagery": "Mapbox",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 103976357
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.6169446,
-          41.423333
-        ]
-      },
-      "id": 103976357
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "cregox",
-        "uid": "9515343",
-        "editor": "MapComplete 0.8.1",
-        "comment": "Adding data with #MapComplete for theme #personal",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-07-04T06:16:54Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 3,
-        "modify": 7,
-        "delete": 0,
-        "area": 0.000255602241419815,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "personal",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 107376395
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.6953024,
-          41.27305465
-        ]
-      },
-      "id": 107376395
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "cregox",
-        "uid": "9515343",
-        "editor": "MapComplete 0.8.1",
-        "comment": "Adding data with #MapComplete for theme #drinking_water",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-07-04T05:40:19Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 5,
-        "modify": 8,
-        "delete": 0,
-        "area": 0.00561702952145831,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "drinking_water",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 107375700
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.7915753,
-          41.27653235
-        ]
-      },
-      "id": 107375700
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "cregox",
-        "uid": "9515343",
-        "editor": "MapComplete 0.8.1",
-        "comment": "Adding data with #MapComplete for theme #charging_stations",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-07-04T05:37:00Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 4,
-        "delete": 0,
-        "area": 0.0000141660518999456,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "charging_stations",
-        "imagery": "osm",
-        "language": "en",
-        "id": 107375646
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.685330649999999,
-          41.2703645
-        ]
-      },
-      "id": 107375646
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "sanchi",
-        "uid": "170106",
-        "editor": "MapComplete 0.13.1",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-01-16T23:24:25Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 9,
-        "delete": 0,
-        "area": 0.0000141224073900198,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "etymology",
-        "answer": 24,
-        "imagery": "osm",
-        "language": "en",
-        "id": 116231990
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.67732555,
-          40.97097975
-        ]
-      },
-      "id": 116231990
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "sanchi",
-        "uid": "170106",
-        "editor": "MapComplete 0.13.1",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-01-17T04:53:31Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 20,
-        "delete": 0,
-        "area": 0.000192742500800013,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "etymology",
-        "answer": 37,
-        "imagery": "osm",
-        "language": "en",
-        "id": 116236409
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.671200300000001,
-          40.970611399999996
-        ]
-      },
-      "id": 116236409
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "Mikalet73",
-        "uid": "1343690",
-        "editor": "MapComplete 0.26.1",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-03-04T15:44:32Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "place": [
-            "square"
-          ],
-          "amenity": [
-            "library",
-            "school",
-            "university"
-          ],
-          "highway": [
-            "trunk",
-            "primary",
-            "residential",
-            "secondary",
-            "living_street",
-            "pedestrian",
-            "footway",
-            "service",
-            "steps"
-          ],
-          "leisure": [
-            "sports_centre"
-          ],
-          "tourism": [
-            "attraction"
-          ],
-          "building": [
-            "yes"
-          ],
-          "historic": [
-            "yes"
-          ],
-          "name:etymology:wikidata": [
-            "Q8018",
-            "Q151663",
-            "Q500546",
-            "Q3189822",
-            "Q74241884",
-            "Q6682",
-            "Q2137717",
-            "Q970660",
-            "Q163900",
-            "Q32500",
-            "Q1339628",
-            "Q9200",
-            "Q16213868",
-            "Q4421",
-            "Q353532",
-            "Q235080",
-            "Q379053",
-            "Q313369",
-            "Q3388890",
-            "Q204503",
-            "Q181146",
-            "Q221474",
-            "Q34417",
-            "Q127349",
-            "Q6010454",
-            "Q132510",
-            "Q18674606",
-            "Q156904",
-            "Q161473",
-            "Q42729158",
-            "Q1290",
-            "Q5941750",
-            "Q2166628",
-            "Q79870354",
-            "Q605489",
-            "Q271974",
-            "Q36380",
-            "Q310371",
-            "Q41284",
-            "Q602054",
-            "Q3751769",
-            "Q190388",
-            "Q159862",
-            "Q5719037",
-            "Q8739",
-            "Q811173",
-            "Q146183",
-            "Q12233",
-            "Q4115628",
-            "Q174880",
-            "Q330740",
-            "Q157449",
-            "Q26325",
-            "Q1561555",
-            "Q5739",
-            "Q450246",
-            "Q5982460",
-            "Q179501"
-          ]
-        },
-        "create": 0,
-        "modify": 196,
-        "delete": 0,
-        "area": 0.00151636498160011,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/etymology",
-        "theme": "etymology",
-        "answer": 256,
-        "locale": "es",
-        "imagery": "osm",
-        "id": 133295358
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6663877,
-          40.9685271
-        ]
-      },
-      "id": 133295358
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "Mikalet73",
-        "uid": "1343690",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-04-12T22:35:46Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "school"
-          ],
-          "barrier": [
-            "fence"
-          ],
-          "highway": [
-            "primary",
-            "residential",
-            "pedestrian",
-            "living_street",
-            "trunk"
-          ],
-          "leisure": [
-            "sports_centre"
-          ],
-          "name:etymology": [
-            "Esteban Madruga Jiménez (El Tejado, 1890-1980), rector de la Universidad  1936-1951",
-            "Alfonso Balcells Gorina (Barcelona, 1915-, 2002), médico patólogo. Rector de la Universidad 1960-1968",
-            "Diego Ramírez de Villaescusa (Villaescusa de Haro, 1459-Cuenca, 1537). Obispo"
-          ],
-          "name:etymology:wikidata": [
-            "Q1754499",
-            "Q1710492",
-            "Q2632421",
-            "Q7178",
-            "Q2663398",
-            "Q6005894",
-            "Q110985860",
-            "Q190218"
-          ]
-        },
-        "create": 0,
-        "modify": 22,
-        "delete": 0,
-        "area": 0.000145393915499961,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/etymology",
-        "theme": "etymology",
-        "answer": 25,
-        "locale": "es",
-        "imagery": "osm",
-        "id": 134838822
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6536295,
-          40.97917505
-        ]
-      },
-      "id": 134838822
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "sanchi",
-        "uid": "170106",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-04-13T04:50:17Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "cinema",
-            "university"
-          ],
-          "highway": [
-            "residential",
-            "footway",
-            "trunk",
-            "pedestrian"
-          ],
-          "leisure": [
-            "park"
-          ],
-          "building": [
-            "yes"
-          ],
-          "name:etymology:wikidata": [
-            "Q150679",
-            "Q112967478",
-            "Q85004166",
-            "Q3851512",
-            "Q185085",
-            "Q2807"
-          ]
-        },
-        "create": 0,
-        "modify": 44,
-        "delete": 0,
-        "area": 0.00110817177240021,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/etymology.html",
-        "theme": "etymology",
-        "answer": 73,
-        "locale": "es",
-        "imagery": "osm",
-        "id": 134843879
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6695418,
-          40.96383565
-        ]
-      },
-      "id": 134843879
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Mikalet73",
-        "uid": "1343690",
-        "editor": "MapComplete 0.27.5",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-06-15T06:24:58Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "community_centre",
-            "school"
-          ],
-          "barrier": [
-            "fence"
-          ],
-          "highway": [
-            "trunk",
-            "primary",
-            "secondary",
-            "residential",
-            "pedestrian",
-            "footway",
-            "living_street",
-            "service",
-            "path",
-            "steps"
-          ],
-          "leisure": [
-            "park",
-            "stadium"
-          ],
-          "building": [
-            "stadium"
-          ],
-          "name:etymology": [
-            "Simón Federico Anaya, alcalde de Salamanca en 1922 por el Partido Republicano y fundador de la UD Salamanca.",
-            "Gómez Arias, escritor, médico y astrólogo del s. XVIII. Poco se sabe de este prolífico y polifacético autor, de profesión médico, más allá de su amplia obra de carácter costumbrista, en la senda de Quevedo y especialmente de Torres Villarroel."
-          ],
-          "name:etymology:wikidata": [
-            "Q788105",
-            "Q1648214",
-            "Q128701",
-            "Q6170745",
-            "Q3431290",
-            "Q944201",
-            "Q30916669",
-            "Q5865270",
-            "Q5860223",
-            "Q131113",
-            "Q1628505",
-            "Q965028",
-            "Q9024946",
-            "Q558371",
-            "Q877729",
-            "Q3751285",
-            "Q844209",
-            "Q312314",
-            "Q51885",
-            "Q770735",
-            "Q5850463",
-            "Q5623766",
-            "Q11202802",
-            "Q6115064",
-            "Q319622",
-            "Q82778789",
-            "Q14513",
-            "Q185085",
-            "Q1918252",
-            "Q761732",
-            "Q52636",
-            "Q952185",
-            "Q2056008",
-            "Q5865303",
-            "Q28316659",
-            "Q590",
-            "Q379972",
-            "Q8961670",
-            "Q146183",
-            "Q1708316",
-            "Q1369248"
-          ]
-        },
-        "create": 0,
-        "modify": 130,
-        "delete": 0,
-        "area": 0.00157885463725023,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/etymology.html",
-        "theme": "etymology",
-        "answer": 146,
-        "locale": "es",
-        "imagery": "osm",
-        "id": 137355025
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.66908845,
-          40.97891765
-        ]
-      },
-      "id": 137355025
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Mikalet73",
-        "uid": "1343690",
-        "editor": "MapComplete 0.27.5",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-06-22T22:45:06Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "school",
-            "community_centre"
-          ],
-          "highway": [
-            "primary",
-            "secondary",
-            "residential",
-            "trunk",
-            "pedestrian",
-            "footway"
-          ],
-          "building": [
-            "school",
-            "sports_centre",
-            "yes"
-          ],
-          "name:etymology": [
-            "La finca denominada La Flecha, posesión de los agustinos en Aldealengua, a unos 7 km de Salamanca. Es conocida por ser lugar de retiro de Fray Luis de León, Jacinto Benavente o Miguel de Unamuno",
-            "Emigdio de la Riva y Garzón, alcalde de Salamanca del 1 ene al 20 set de 1916",
-            "Luisa y Nieves Fidalgo Morales, damas adineradas que realizaron diversas obras de caridad y donaron a la ciudad su colección pictórica",
-            "La finca denominada La Flecha era una posesión de los agustinos en Aldealengua, a unos 7 km de Salamanca. Es conocida por ser lugar de retiro de Fray Luis de León, Jacinto Benavente o Miguel de Unamuno"
-          ],
-          "name:etymology:wikidata": [
-            "Q151197",
-            "Q26997504",
-            "Q562630",
-            "Q6160182",
-            "Q207668",
-            "Q41799401",
-            "Q185318",
-            "Q174880",
-            "Q5956237",
-            "Q928",
-            "Q780060",
-            "Q16707841"
-          ]
-        },
-        "create": 0,
-        "modify": 47,
-        "delete": 0,
-        "area": 0.000286065417559893,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/etymology.html",
-        "theme": "etymology",
-        "answer": 50,
-        "locale": "es",
-        "imagery": "osm",
-        "id": 137665403
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.6563896,
-          40.9750796
-        ]
-      },
-      "id": 137665403
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "cmjs",
-        "uid": "1887348",
-        "editor": "MapComplete 0.30.9",
-        "comment": "Adding data with #MapComplete for theme #waste_basket",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-07-10T13:28:25Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/waste_basket.html",
-        "theme": "waste_basket",
-        "answer": 1,
-        "locale": "en",
-        "change_over_5000m": 1,
-        "id": 138338404
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.0104281,
-          40.1953234
-        ]
-      },
-      "id": 138338404
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "Ninguém",
-        "uid": "358138",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #artwork",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-08-12T21:14:05Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "tourism": [
-            "artwork"
-          ],
-          "artist:wikidata": [
-            "Q375386"
-          ]
-        },
-        "create": 1,
-        "modify": 1,
-        "delete": 0,
-        "area": 0.00000633396824999522,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/artwork.html",
-        "theme": "artwork",
+        "host": "https://mapcomplete.org/bicycle_parkings.html",
+        "theme": "bicycle_parkings",
         "answer": 2,
         "locale": "pt",
-        "id": 139802875
+        "id": 148319850
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.43588775,
-          40.200485549999996
+          -8.3835757,
+          41.5620408
         ]
       },
-      "id": 139802875
+      "id": 148319850
     },
     {
       "type": "Feature",
@@ -886,57 +108,48 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Mikalet73",
-        "uid": "1343690",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #etymology",
+        "user": "o_andras",
+        "uid": "13641767",
+        "editor": "MapComplete 0.40.3",
+        "comment": "Adding data with #MapComplete for theme #bicycle_rental",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-22T03:03:52Z",
+        "date": "2024-03-07T00:48:06Z",
         "reviewed_features": [],
         "tag_changes": {
-          "highway": [
-            "residential",
-            "secondary",
-            "living_street",
-            "pedestrian",
-            "primary"
+          "shop": [
+            "bicycle"
           ],
-          "name:etymology:wikidata": [
-            "Q770186",
-            "Q102240169",
-            "Q2453469",
-            "Q134283",
-            "Q2946681",
-            "Q1352058",
-            "Q3391807",
-            "Q188844",
-            "Q94802"
+          "email": [
+            "info@gobybike.eu"
+          ],
+          "opening_hours": [
+            "Mo-Sa 10:00-13:30, 15:00-19:00"
           ]
         },
         "create": 0,
-        "modify": 42,
+        "modify": 2,
         "delete": 0,
-        "area": 0.0000913609532999826,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/etymology.html",
-        "theme": "etymology",
-        "answer": 57,
-        "locale": "es",
-        "id": 140206853
+        "host": "https://mapcomplete.org/bicycle_rental.html",
+        "theme": "bicycle_rental",
+        "answer": 2,
+        "locale": "pt",
+        "id": 148319731
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.657865149999999,
-          40.9810332
+          -8.4236314,
+          41.5502258
         ]
       },
-      "id": 140206853
+      "id": 148319731
     }
   ]
 }

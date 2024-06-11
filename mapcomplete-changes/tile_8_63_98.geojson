@@ -5,97 +5,49 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "Kanellar",
-        "uid": "16249964",
-        "editor": "MapComplete 0.22.2",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "SpeedMcCool",
+        "uid": "2260722",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-07-10T16:08:20Z",
+        "date": "2024-04-02T23:02:41Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "drinking_water"
-          ]
-        },
-        "create": 1,
-        "modify": 0,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 1,
-        "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "change_over_5000m": 1,
-        "change_within_25m": 1,
-        "id": 123438304
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.5990713,
-          38.1499529
-        ]
-      },
-      "id": 123438304
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "CatSu",
-        "uid": "15080312",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #waste",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-04-28T03:03:11Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "access": [
-            "no"
-          ],
-          "amenity": [
-            "waste_disposal"
-          ]
-        },
+        "tag_changes": {},
         "create": 0,
-        "modify": 1,
+        "modify": 483,
         "delete": 0,
-        "area": 0,
-        "is_suspect": false,
+        "area": 341.5884924639625,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/waste.html",
-        "theme": "waste",
-        "answer": 3,
+        "host": "https://mapcomplete.org/etymology",
+        "theme": "etymology",
+        "answer": 508,
         "locale": "en",
-        "imagery": "osm",
-        "change_within_100m": 3,
-        "id": 135448891
+        "change_over_5000m": 201,
+        "change_within_1000m": 3,
+        "change_within_5000m": 72,
+        "id": 149501429
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.2575941,
-          38.589338
+          -91.78415405,
+          37.8317304
         ]
       },
-      "id": 135448891
+      "id": 149501429
     }
   ]
 }

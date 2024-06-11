@@ -5,42 +5,53 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 83,
+            "name": "User has multiple blocks"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "Villodie",
-        "uid": "619565",
-        "editor": "MapComplete 0.9.0",
-        "comment": "Adding data with #MapComplete for theme #trees",
+        "user": "LLAQWA",
+        "uid": "77114",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #education",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-08-25T20:45:18Z",
+        "date": "2024-01-28T17:44:28Z",
         "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 0,
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "language:es": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 8,
         "delete": 0,
-        "area": 0,
-        "is_suspect": false,
+        "area": 0.00224354469573034,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "trees",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "Midgard",
-        "id": 110251690
+        "host": "https://mapcomplete.org/education",
+        "theme": "education",
+        "answer": 8,
+        "locale": "es",
+        "id": 146789058
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.038426,
-          -2.8624529
+          -79.21088814999999,
+          -4.00034355
         ]
       },
-      "id": 110251690
+      "id": 146789058
     }
   ]
 }

@@ -5,214 +5,113 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 4,
-            "name": "mass modification"
-          },
-          {
-            "id": 91,
-            "name": "Motorway/trunk geometry modified"
-          }
-        ],
+        "reasons": [],
         "tags": [],
-        "features": [
-          {
-            "url": "way-352056298",
-            "name": "улица Куйбышева",
-            "osm_id": 352056298,
-            "reasons": [
-              91
-            ],
-            "version": 8,
-            "primary_tags": {
-              "highway": "trunk"
-            }
-          }
-        ],
-        "user": "korobkov",
-        "uid": "389895",
-        "editor": "MapComplete 0.23.2",
-        "comment": "Adding data with #MapComplete for theme #etymology",
+        "features": [],
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-09-13T06:17:24Z",
+        "date": "2024-04-30T12:55:32Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 5,
+        "locale": "ru",
+        "add-image": 1,
+        "change_within_25m": 1,
+        "id": 150706841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3982106,
+          53.4986236
+        ]
+      },
+      "id": 150706841
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-30T10:33:38Z",
         "reviewed_features": [],
         "tag_changes": {
-          "route": [
-            "road",
-            "bus"
+          "fee": [
+            "no"
+          ],
+          "image": [
+            "https://i.imgur.com/5tLs58s.jpeg",
+            "https://i.imgur.com/7h2QqTe.jpeg"
+          ],
+          "access": [
+            "members"
           ],
           "amenity": [
-            "hospital",
-            "school",
-            "kindergarten",
-            "university"
+            "bicycle_parking"
           ],
-          "highway": [
-            "service",
-            "residential",
-            "path",
-            "footway",
-            "tertiary",
-            "trunk",
-            "secondary",
-            "unclassified",
-            "primary"
+          "covered": [
+            "no"
           ],
-          "leisure": [
-            "sports_centre",
-            "park"
+          "capacity": [
+            "8",
+            "5"
           ],
-          "natural": [
-            "wood",
-            "water"
+          "operator": [
+            "ТГУ"
           ],
-          "boundary": [
-            "administrative",
-            "national_park"
-          ],
-          "building": [
-            "yes",
-            "hospital"
-          ],
-          "waterway": [
-            "river"
-          ],
-          "check_date": [
-            "2022-09-13"
-          ],
-          "opening_hours": [
-            "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su,PH 09:00-16:00",
-            "Mo-Fr 08:00-19:00; Sa 09:00-17:00"
-          ],
-          "name:etymology:wikidata": [
-            "Q193294",
-            "Q5207064",
-            "Q4176535",
-            "Q894",
-            "Q443703",
-            "Q229828",
-            "Q7327",
-            "Q165044",
-            "Q190007",
-            "Q270706",
-            "Q166073",
-            "Q667",
-            "Q1394",
-            "Q23397",
-            "Q15955568",
-            "Q298384",
-            "Q1332918",
-            "Q1132165",
-            "Q18235304",
-            "Q485016",
-            "Q4539",
-            "Q43718",
-            "Q23595",
-            "Q12556141",
-            "Q7777019",
-            "Q3914",
-            "Q25243",
-            "Q1107656",
-            "Q4022",
-            "Q6958747",
-            "Q188869",
-            "Q626",
-            "Q9061",
-            "Q1418376",
-            "Q215637",
-            "Q58720",
-            "Q8495",
-            "Q132603",
-            "Q42976",
-            "Q49509",
-            "Q6987428",
-            "Q188570",
-            "Q454",
-            "Q525",
-            "Q12706",
-            "Q4421",
-            "Q160169",
-            "Q207682",
-            "Q64627814",
-            "Q47499",
-            "Q491",
-            "Q581754",
-            "Q49845",
-            "Q251395",
-            "Q659",
-            "Q649",
-            "Q5627",
-            "Q22698",
-            "Q217470",
-            "Q193891",
-            "Q1341",
-            "Q99756880",
-            "Q1956360",
-            "Q22667",
-            "Q83405",
-            "Q46076",
-            "Q8148",
-            "Q468756",
-            "Q333236",
-            "Q16917",
-            "Q154240",
-            "Q219760",
-            "Q157449",
-            "Q349",
-            "Q67183571",
-            "Q123991",
-            "Q679",
-            "Q7200",
-            "Q7802",
-            "Q311499",
-            "Q193175",
-            "Q2514025",
-            "Q208003",
-            "Q39816",
-            "Q875399",
-            "Q642555",
-            "Q1361400",
-            "Q131512",
-            "Q315279",
-            "Q34679",
-            "Q515",
-            "Q326766",
-            "Q745",
-            "Q2844542",
-            "Q44371",
-            "Q119",
-            "Q42503289",
-            "Q186185",
-            "Q129324",
-            "Q563485"
+          "bicycle_parking": [
+            "wall_loops"
           ]
         },
         "create": 0,
-        "modify": 571,
+        "modify": 3,
         "delete": 0,
-        "area": 1.38962202906004,
-        "is_suspect": true,
+        "area": 0.0000035525802800009497,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/etymology.html",
-        "theme": "etymology",
-        "answer": 779,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 12,
         "locale": "ru",
-        "imagery": "osm",
-        "id": 126115013
+        "add-image": 2,
+        "change_within_25m": 1,
+        "change_within_500m": 1,
+        "id": 150700407
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.27182645,
-          54.243410749999995
+          49.3975721,
+          53.49948595
         ]
       },
-      "id": 126115013
+      "id": 150700407
     },
     {
       "type": "Feature",
@@ -221,43 +120,65 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "un-logic",
-        "uid": "2251899",
-        "editor": "MapComplete 0.27.2",
-        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-05-06T23:48:04Z",
+        "date": "2024-04-30T10:32:43Z",
         "reviewed_features": [],
         "tag_changes": {
-          "leisure": [
-            "playground"
+          "image": [
+            "https://i.imgur.com/ivtzbpZ.jpeg"
+          ],
+          "access": [
+            "customers"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "covered": [
+            "no"
+          ],
+          "capacity": [
+            "4"
+          ],
+          "operator": [
+            "Магнит"
+          ],
+          "cargo_bike": [
+            "yes"
+          ],
+          "bicycle_parking": [
+            "stands"
           ]
         },
-        "create": 2,
+        "create": 0,
         "modify": 1,
         "delete": 0,
-        "area": 0.00000742836079998848,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/playgrounds.html",
-        "theme": "playgrounds",
-        "answer": 4,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 6,
         "locale": "ru",
-        "imagery": "Mapbox",
-        "id": 135794414
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 150700372
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.35192705,
-          53.5385341
+          49.3959855,
+          53.4998416
         ]
       },
-      "id": 135794414
+      "id": 150700372
     },
     {
       "type": "Feature",
@@ -266,43 +187,399 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "un-logic",
-        "uid": "2251899",
-        "editor": "MapComplete 0.27.2",
-        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-05-06T23:36:30Z",
+        "date": "2024-04-30T10:30:07Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "leisure": [
-            "playground"
-          ]
-        },
-        "create": 7,
-        "modify": 12,
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
         "delete": 0,
-        "area": 0.00000650665005001398,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/playgrounds.html",
-        "theme": "playgrounds",
-        "answer": 16,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
         "locale": "ru",
-        "imagery": "Mapbox",
-        "id": 135794303
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 150700275
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.35177415,
-          53.53855445
+          49.3957243,
+          53.4990053
         ]
       },
-      "id": 135794303
+      "id": 150700275
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-30T09:00:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_parking"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 3,
+        "locale": "ru",
+        "change_over_5000m": 1,
+        "id": 150696581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3957243,
+          53.4990053
+        ]
+      },
+      "id": 150696581
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.4",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-04T09:33:27Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/lHz06Mq.jpeg",
+            "https://i.imgur.com/YEsz33G.jpeg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "covered": [
+            "no"
+          ],
+          "capacity": [
+            "8"
+          ],
+          "operator": [
+            "Старт",
+            "Поляна"
+          ],
+          "bicycle_parking": [
+            "stands",
+            "wall_loops"
+          ]
+        },
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 1.2625919999855862e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 12,
+        "locale": "ru",
+        "add-image": 2,
+        "id": 150870846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3949456,
+          53.5003445
+        ]
+      },
+      "id": 150870846
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.4",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-06T18:27:47Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/pQC136M.jpeg",
+            "https://i.imgur.com/cqNXPNL.jpeg",
+            "https://i.imgur.com/8dr34ZI.jpeg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "covered": [
+            "no"
+          ],
+          "capacity": [
+            "5"
+          ],
+          "operator": [
+            "De Sport",
+            "Rich Family"
+          ],
+          "cargo_bike": [
+            "yes"
+          ],
+          "bicycle_parking": [
+            "stands",
+            "wall_loops"
+          ]
+        },
+        "create": 0,
+        "modify": 5,
+        "delete": 0,
+        "area": 0.00004703003097005937,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 9,
+        "locale": "ru",
+        "add-image": 3,
+        "change_over_5000m": 1,
+        "change_within_5000m": 2,
+        "id": 150978359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.382070049999996,
+          53.54467065
+        ]
+      },
+      "id": 150978359
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.4",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-06T08:30:31Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/q8IDAa2.jpeg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "operator": [
+            "ТГУ"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 2,
+        "locale": "ru",
+        "add-image": 1,
+        "change_within_25m": 1,
+        "id": 150952536
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4008385,
+          53.5006734
+        ]
+      },
+      "id": 150952536
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.4",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-19T14:58:38Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/S5B5Cny.jpeg"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "capacity": [
+            "4"
+          ],
+          "bicycle_parking": [
+            "stands"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 2,
+        "locale": "ru",
+        "add-image": 1,
+        "change_within_1000m": 1,
+        "id": 151538228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3996352,
+          53.506667
+        ]
+      },
+      "id": 151538228
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "alexashh",
+        "uid": "9054103",
+        "editor": "MapComplete 0.42.7",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-20T09:11:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/mXQWs6z.jpeg",
+            "https://i.imgur.com/aLtlfkf.jpeg",
+            "https://i.imgur.com/Y5hy6gm.jpeg",
+            "https://i.imgur.com/LtFXa96.jpeg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "covered": [
+            "no"
+          ],
+          "operator": [
+            "Магнит"
+          ],
+          "cargo_bike": [
+            "yes"
+          ],
+          "bicycle_parking": [
+            "wall_loops",
+            "stands"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 3.042790200004247e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 12,
+        "locale": "ru",
+        "add-image": 4,
+        "id": 151568354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3683629,
+          53.47891385
+        ]
+      },
+      "id": 151568354
     }
   ]
 }

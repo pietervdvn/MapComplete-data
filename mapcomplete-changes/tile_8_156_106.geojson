@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "bbtns1",
+        "uid": "5132923",
+        "editor": "MapComplete 0.20.3",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "survey",
+        "imagery_used": "Not reported",
+        "date": "2022-06-19T12:44:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "barrier": [
+            "bollard"
+          ],
+          "bicycle": [
+            "yes"
+          ],
+          "bollard": [
+            "flexible"
+          ],
+          "highway": [
+            "traffic_signals",
+            "crossing"
+          ],
+          "crossing": [
+            "unmarked",
+            "uncontrolled",
+            "marked"
+          ],
+          "tactile_paving": [
+            "no",
+            "yes"
+          ],
+          "button_operated": [
+            "yes"
+          ],
+          "crossing:island": [
+            "no",
+            "yes"
+          ],
+          "maxwidth:physical": [
+            "0.3"
+          ],
+          "red_turn:right:bicycle": [
+            "no"
+          ],
+          "red_turn:straight:bicycle": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 22,
+        "delete": 0,
+        "area": 0.623876152306437,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/cycle_infra",
+        "theme": "cycle_infra",
+        "answer": 37,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "change_within_1000m": 6,
+        "id": 122578230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.6889961,
+          28.4353151
+        ]
+      },
+      "id": 122578230
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "tarikdindar",
+        "uid": "18447517",
+        "editor": "MapComplete 0.27.3",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-05-08T10:51:21Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "bicycle": [
+            "no"
+          ],
+          "scooter": [
+            "no"
+          ],
+          "motorcar": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "id": 135847117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1929205,
+          29.0786372
+        ]
+      },
+      "id": 135847117
+    }
+  ]
+}

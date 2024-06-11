@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 489,
+            "name": "Mapbox: Spam text"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-750002872",
+            "note": "Spam text reported in [\"name\",\"name:etymology:wikidata\"] tags in the feature",
+            "osm_id": 750002872,
+            "reasons": [
+              489
+            ],
+            "version": 2
+          }
+        ],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-17T19:11:34Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "hospital"
+          ],
+          "building": [
+            "yes"
+          ],
+          "name:etymology:wikidata": [
+            "Q717086"
+          ]
+        },
+        "create": 0,
+        "modify": 32,
+        "delete": 0,
+        "area": 376.245445773204,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 32,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 133801466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.612578149999997,
+          83.25153685
+        ]
+      },
+      "id": 133801466
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-17T14:24:02Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "primary"
+          ],
+          "name:etymology:wikidata": [
+            "Q9455"
+          ]
+        },
+        "create": 0,
+        "modify": 37,
+        "delete": 0,
+        "area": 352.426305440064,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 50,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 133790647
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7589209,
+          83.45974575
+        ]
+      },
+      "id": 133790647
+    }
+  ]
+}

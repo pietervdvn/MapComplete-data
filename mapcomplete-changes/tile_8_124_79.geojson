@@ -8,30 +8,113 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "oliverhawes",
-        "uid": "665469",
-        "editor": "MapComplete 0.12.2",
-        "comment": "Adding data with #MapComplete for theme #climbing",
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #postboxes",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-11-08T10:56:15Z",
+        "date": "2024-04-20T20:35:27Z",
         "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 14,
+        "tag_changes": {
+          "amenity": [
+            "parcel_locker"
+          ],
+          "operator": [
+            "InPost"
+          ],
+          "parcel_mail_in": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
         "delete": 0,
-        "area": 0.000185166408930015,
+        "area": 0.0000039610848500019405,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
+        "host": "https://mapcomplete.org/postboxes.html",
+        "theme": "postboxes",
+        "answer": 4,
+        "locale": "en-GB",
+        "id": 150279954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.291127449999999,
+          55.823104650000005
+        ]
+      },
+      "id": 150279954
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #climbing",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-20T20:32:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "leisure": [
+            "sports_centre"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "internet_access": [
+            "wlan"
+          ],
+          "payment:qr_code": [
+            "no"
+          ],
+          "internet_access:fee": [
+            "customers"
+          ],
+          "climbing:grade:french:max": [
+            "9"
+          ],
+          "climbing:grade:french:min": [
+            "3"
+          ],
+          "service:climbing_rope:rental": [
+            "yes"
+          ],
+          "service:climbing_harness:rental": [
+            "yes"
+          ],
+          "service:climbing_belay_device:rental": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0001851664089300154,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/climbing.html",
         "theme": "climbing",
-        "answer": 24,
-        "imagery": "osm",
-        "language": "en",
-        "id": 113516827
+        "answer": 13,
+        "locale": "en-GB",
+        "id": 150279887
       },
       "geometry": {
         "type": "Point",
@@ -40,7 +123,7 @@
           55.87046315
         ]
       },
-      "id": 113516827
+      "id": 150279887
     },
     {
       "type": "Feature",
@@ -49,374 +132,575 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "titusd",
-        "uid": "1222046",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #drinking_water",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-08-13T15:21:38Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "image": [
-            "https://i.imgur.com/XKvMcLr.jpg"
-          ],
-          "amenity": [
-            "drinking_water"
-          ]
-        },
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/drinking_water.html",
-        "theme": "drinking_water",
-        "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "add-image": 1,
-        "change_within_100m": 1,
-        "id": 124857429
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.073144,
-          56.231575
-        ]
-      },
-      "id": 124857429
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "titusd",
-        "uid": "1222046",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #drinking_water",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-08-14T10:40:14Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "image": [
-            "https://i.imgur.com/V3fiGUa.jpg"
-          ],
-          "amenity": [
-            "drinking_water"
-          ]
-        },
-        "create": 0,
-        "modify": 3,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/drinking_water.html",
-        "theme": "drinking_water",
-        "answer": 1,
-        "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "add-image": 2,
-        "change_within_25m": 3,
-        "id": 124882095
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.473306,
-          56.412556
-        ]
-      },
-      "id": 124882095
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "titusd",
-        "uid": "1222046",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #drinking_water",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-08-16T08:16:00Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "image": [
-            "https://i.imgur.com/V3fiGUa.jpg"
-          ],
-          "amenity": [
-            "drinking_water"
-          ]
-        },
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/toilets.html",
-        "theme": "drinking_water",
-        "answer": 1,
-        "locale": "en",
-        "imagery": "osm",
-        "change_within_25m": 1,
-        "id": 124959235
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.473306,
-          56.412556
-        ]
-      },
-      "id": 124959235
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "rleyton",
-        "uid": "10378072",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #shops",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-03-24T11:10:38Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "rental": [
-            "city_bike"
-          ],
-          "amenity": [
-            "bicycle_rental"
-          ],
-          "payment:app": [
-            "yes"
-          ],
-          "payment:cash": [
-            "no"
-          ],
-          "payment:cards": [
-            "no"
-          ],
-          "bicycle_rental": [
-            "dropoff_point"
-          ],
-          "payment:membership_card": [
-            "no"
-          ]
-        },
-        "create": 0,
-        "modify": 3,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 3,
-        "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "id": 134062442
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.295498,
-          55.8274064
-        ]
-      },
-      "id": 134062442
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "rubecula",
-        "uid": "9278757",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-04-02T13:32:14Z",
+        "date": "2024-04-20T20:29:22Z",
         "reviewed_features": [],
         "tag_changes": {
           "shop": [
-            "bicycle"
+            "dry_cleaning",
+            "supermarket",
+            "car_parts"
           ],
-          "website": [
-            "https://thebikeshedrothesay.com/"
+          "phone": [
+            "+44 141 636 6234"
           ],
-          "opening_hours": [
-            "Mo-Sa 09:00-17:30;Su 12:00-16:00"
+          "amenity": [
+            "trolley_bay"
           ],
-          "service:bicycle:retail": [
+          "covered": [
             "yes"
+          ],
+          "organic": [
+            "yes"
+          ],
+          "building": [
+            "supermarket",
+            "retail",
+            "yes"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "trolley:seats": [
+            "yes"
+          ],
+          "diet:sugar_free": [
+            "yes",
+            "limited"
+          ],
+          "internet_access": [
+            "no",
+            "wlan"
+          ],
+          "payment:qr_code": [
+            "no"
+          ],
+          "trolley:flatbed": [
+            "no"
+          ],
+          "diet:gluten_free": [
+            "limited"
+          ],
+          "trolley:children": [
+            "no"
+          ],
+          "trolley:vertical": [
+            "no"
+          ],
+          "diet:lactose_free": [
+            "limited"
+          ],
+          "trolley:magnifier": [
+            "no"
+          ],
+          "trolley:wheelchair": [
+            "yes"
+          ],
+          "internet_access:fee": [
+            "customers"
           ]
         },
         "create": 0,
-        "modify": 2,
+        "modify": 5,
+        "delete": 0,
+        "area": 0.000006234745860000219,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/shops.html",
+        "theme": "shops",
+        "answer": 19,
+        "locale": "en-GB",
+        "id": 150279802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.29159075,
+          55.823427
+        ]
+      },
+      "id": 150279802
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #advertising",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-20T20:21:14Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "sides": [
+            "2",
+            "1"
+          ],
+          "message": [
+            "commercial"
+          ],
+          "animated": [
+            "digital_display",
+            "no"
+          ],
+          "luminous": [
+            "no"
+          ]
+        },
+        "create": 15,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.0016622273654901295,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/advertising.html",
+        "move": 1,
+        "theme": "advertising",
+        "answer": 78,
+        "locale": "en-GB",
+        "change_over_5000m": 5,
+        "move:node/11833738280": "improve_accuracy",
+        "id": 150279636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31452855,
+          55.81913435
+        ]
+      },
+      "id": 150279636
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-25T23:17:03Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "bus",
+            "bicycle",
+            "disused_bus"
+          ],
+          "highway": [
+            "tertiary",
+            "crossing"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 5.96929500002107e-7,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "locale": "en-GB",
+        "id": 150516713
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.292825499999999,
+          55.82381275
+        ]
+      },
+      "id": 150516713
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #atm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-25T23:12:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "atm"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
         "delete": 0,
         "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 3,
-        "locale": "de",
-        "imagery": "CartoDB.Voyager",
-        "id": 134414482
+        "host": "https://mapcomplete.org/atm.html",
+        "theme": "atm",
+        "answer": 5,
+        "locale": "en-GB",
+        "id": 150516668
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0535298,
-          55.8372007
+          -4.2859341,
+          55.824871
         ]
       },
-      "id": 134414482
+      "id": 150516668
     },
     {
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Rose Marie Burke",
-        "uid": "19213726",
-        "editor": "MapComplete 0.27.3",
-        "comment": "Adding data with #MapComplete for theme #ghostbikes",
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #cafes_and_pubs",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-05-09T20:29:15Z",
+        "date": "2024-04-26T23:26:12Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cafes_and_pubs.html",
+        "theme": "cafes_and_pubs",
+        "answer": 6,
+        "locale": "en-GB",
+        "id": 150560297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2570465,
+          55.8584921
+        ]
+      },
+      "id": 150560297
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-26T23:21:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "dog": [
+            "no"
+          ],
+          "name": [
+            "Viva Brazil"
+          ],
+          "shop": [
+            "optician",
+            "recruitment",
+            "bookmaker",
+            "deli"
+          ],
+          "fixme": [
+            "A mapcomplete user marked this feature to be deleted (shop_closed)"
+          ],
+          "phone": [
+            "+44 141 226 7775"
+          ],
+          "amenity": [
+            "fast_food",
+            "restaurant"
+          ],
+          "smoking": [
+            "no"
+          ],
+          "building": [
+            "yes"
+          ],
+          "delivery": [
+            "no"
+          ],
+          "takeaway": [
+            "only"
+          ],
+          "wheelchair": [
+            "limited"
+          ],
+          "reservation": [
+            "no"
+          ],
+          "disused:shop": [
+            "optician",
+            "recruitment",
+            "bookmaker"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "opening_hours": [
+            "Mo-Fr 07:00-15:00"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "diet:vegetarian": [
+            "yes"
+          ],
+          "internet_access": [
+            "no"
+          ],
+          "payment:qr_code": [
+            "no"
+          ],
+          "service:electricity": [
+            "no"
+          ]
+        },
+        "create": 1,
+        "modify": 7,
+        "delete": 7,
+        "area": 0.000013263811080016184,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/food.html",
+        "theme": "food",
+        "answer": 30,
+        "locale": "en-GB",
+        "deletion": 7,
+        "soft-delete": 1,
+        "change_over_5000m": 1,
+        "change_within_5000m": 8,
+        "deletion:node/1322796867": "shop_closed",
+        "deletion:node/1342587534": "shop_closed",
+        "deletion:node/1342587547": "shop_closed",
+        "deletion:node/2038187684": "shop_closed",
+        "deletion:node/2093870526": "shop_closed",
+        "deletion:node/5801154553": "duplicate",
+        "deletion:node/9910600347": "shop_closed",
+        "soft-delete:way/50693471": "shop_closed",
+        "id": 150560215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259559299999999,
+          55.85989845
+        ]
+      },
+      "id": 150560215
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-26T23:12:25Z",
         "reviewed_features": [],
         "tag_changes": {
           "name": [
-            "Emma Burke Newman"
+            "Hays Travel",
+            "Kuoni"
           ],
-          "image": [
-            "https://i.imgur.com/dAI5iuP.jpg"
+          "shop": [
+            "optician",
+            "travel_agency",
+            "recruitment",
+            "bookmaker",
+            "variety_store",
+            "cosmetics",
+            "supermarket",
+            "deli"
           ],
-          "historic": [
-            "memorial"
+          "email": [
+            "Glasgow@hays-travel.co.uk",
+            "glasgow.city@lush.co.uk"
+          ],
+          "phone": [
+            "+44 141 319 4933",
+            "+44 141 243 2522"
+          ],
+          "organic": [
+            "yes"
+          ],
+          "website": [
+            "https://www.haystravel.co.uk/branches/glasgow/"
+          ],
+          "building": [
+            "retail"
+          ],
+          "addr:street": [
+            "Buchanan Street"
+          ],
+          "disused:shop": [
+            "optician",
+            "travel_agency",
+            "recruitment",
+            "bookmaker",
+            "variety_store"
+          ],
+          "payment:cash": [
+            "yes"
+          ],
+          "opening_hours": [
+            "Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su 11:00-16:00",
+            "Mo-We 09:30-18:30; Th-Sa 09:30-19:00; Su 10:00-18:00",
+            "Mo-Tu 09:00-18:00, We 09:00-18:00,09:00-19:00, Fr-Sa 09:00-19:00, Su 10:00-18:00"
+          ],
+          "payment:cards": [
+            "yes"
+          ],
+          "internet_access": [
+            "wlan",
+            "no"
+          ],
+          "payment:qr_code": [
+            "no"
+          ],
+          "addr:housenumber": [
+            "78"
+          ],
+          "internet_access:fee": [
+            "customers"
+          ]
+        },
+        "create": 0,
+        "modify": 16,
+        "delete": 1,
+        "area": 0.0015325382022000136,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/shops.html",
+        "move": 1,
+        "theme": "shops",
+        "answer": 13,
+        "locale": "en-GB",
+        "deletion": 1,
+        "relocated": 1,
+        "special-delete": 5,
+        "change_within_5000m": 8,
+        "move:node/7062967495": "relocated",
+        "deletion:node/2050322306": "duplicate",
+        "id": 150560069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2742457,
+          55.8420683
+        ]
+      },
+      "id": 150560069
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #atm",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-26T23:10:40Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "atm"
+          ],
+          "speech_output": [
+            "no"
           ]
         },
         "create": 0,
         "modify": 1,
         "delete": 0,
         "area": 0,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/ghostbikes.html",
-        "theme": "ghostbikes",
-        "answer": 1,
-        "locale": "en",
-        "imagery": "CartoDB.Positron",
-        "add-image": 1,
-        "id": 135911189
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2601231,
-          55.856511
-        ]
-      },
-      "id": 135911189
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #aed",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-08-02T14:05:59Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "bar"
-          ],
-          "building": [
-            "retail"
-          ]
-        },
-        "create": 2,
-        "modify": 4,
-        "delete": 0,
-        "area": 9.2946480000346e-8,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/campersite.html",
-        "theme": "aed",
-        "answer": 3,
-        "locale": "nl",
-        "add-image": 1,
-        "change_within_25m": 3,
-        "id": 139349868
+        "host": "https://mapcomplete.org/atm.html",
+        "theme": "atm",
+        "answer": 1,
+        "locale": "en-GB",
+        "id": 150560047
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.9120325000000005,
-          56.27601
+          -4.289774,
+          55.8230075
         ]
       },
-      "id": 139349868
+      "id": 150560047
     },
     {
       "type": "Feature",
@@ -425,44 +709,54 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #aed",
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #advertising",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-02T10:20:48Z",
+        "date": "2024-04-28T12:41:27Z",
         "reviewed_features": [],
         "tag_changes": {
-          "building": [
-            "hotel"
+          "lit": [
+            "no"
+          ],
+          "message": [
+            "commercial"
+          ],
+          "animated": [
+            "no"
+          ],
+          "luminous": [
+            "no"
+          ],
+          "operator": [
+            "Arnold Clark"
           ]
         },
-        "create": 2,
+        "create": 0,
         "modify": 2,
         "delete": 0,
-        "area": 6.40306350000045e-7,
+        "area": 1.0827000001303686e-9,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/aed",
-        "theme": "aed",
-        "answer": 2,
-        "locale": "nl",
-        "add-image": 1,
-        "change_within_25m": 3,
-        "id": 139339775
+        "host": "https://mapcomplete.org/advertising.html",
+        "theme": "advertising",
+        "answer": 8,
+        "locale": "en-GB",
+        "id": 150616895
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.684438849999999,
-          56.243181449999994
+          -4.29839655,
+          55.8262396
         ]
       },
-      "id": 139339775
+      "id": 150616895
     },
     {
       "type": "Feature",
@@ -471,46 +765,115 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #aed",
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #advertising",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-03T11:56:03Z",
+        "date": "2024-04-28T12:41:14Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "restaurant"
+          "lit": [
+            "no"
           ],
-          "building": [
+          "message": [
+            "commercial"
+          ],
+          "animated": [
+            "no"
+          ],
+          "luminous": [
+            "yes"
+          ],
+          "operator": [
+            "Arnold Clark"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/advertising.html",
+        "theme": "advertising",
+        "answer": 4,
+        "locale": "en-GB",
+        "id": 150616884
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.298462,
+          55.8261842
+        ]
+      },
+      "id": 150616884
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-28T12:39:30Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bottle": [
+            "no",
+            "yes"
+          ],
+          "amenity": [
+            "drinking_water"
+          ],
+          "fountain": [
+            "bubbler",
+            "bottle_refill"
+          ],
+          "seasonal": [
+            "no"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "not:tourism:artwork": [
             "yes"
           ]
         },
-        "create": 2,
-        "modify": 3,
+        "create": 0,
+        "modify": 1,
         "delete": 0,
-        "area": 1.01523409998266e-7,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/aed",
-        "theme": "aed",
-        "answer": 2,
-        "locale": "nl",
-        "add-image": 1,
-        "id": 139390392
+        "host": "https://mapcomplete.org/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 6,
+        "locale": "en-GB",
+        "id": 150616798
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.32188225,
-          56.00811125
+          -4.3081034,
+          55.8302765
         ]
       },
-      "id": 139390392
+      "id": 150616798
     },
     {
       "type": "Feature",
@@ -519,14 +882,435 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #aed",
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #advertising",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-04T11:44:33Z",
+        "date": "2024-04-29T22:18:57Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/advertising.html",
+        "theme": "advertising",
+        "answer": 4,
+        "locale": "en-GB",
+        "id": 150683268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2756209,
+          55.8335348
+        ]
+      },
+      "id": 150683268
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #vending_machine",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-29T21:54:25Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 1,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/vending_machine.html",
+        "theme": "vending_machine",
+        "locale": "en-GB",
+        "deletion": 1,
+        "deletion:node/11867410030": "duplicate",
+        "id": 150682830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2896434,
+          55.823016
+        ]
+      },
+      "id": 150682830
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-29T21:30:09Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ],
+          "fountain": [
+            "bottle_refill"
+          ],
+          "seasonal": [
+            "no"
+          ],
+          "opening_hours": [
+            "24/7"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0.0003442660215400001,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 5,
+        "locale": "en-GB",
+        "id": 150682258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2653317,
+          55.847299449999994
+        ]
+      },
+      "id": 150682258
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-29T21:28:08Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "residents"
+          ],
+          "amenity": [
+            "recycling"
+          ],
+          "operator": [
+            "Glasgow City Council"
+          ],
+          "survey:date": [
+            "2024-04-29"
+          ],
+          "opening_hours": [
+            "08:00-18:00"
+          ],
+          "recycling:cans": [
+            "yes"
+          ],
+          "recycling:paper": [
+            "yes"
+          ],
+          "recycling:shoes": [
+            "yes"
+          ],
+          "recycling:waste": [
+            "yes"
+          ],
+          "recycling:clothes": [
+            "yes"
+          ],
+          "recycling:plastic": [
+            "yes"
+          ],
+          "recycling:bicycles": [
+            "yes"
+          ],
+          "recycling:batteries": [
+            "yes"
+          ],
+          "recycling:newspaper": [
+            "yes"
+          ],
+          "recycling:green_waste": [
+            "yes"
+          ],
+          "recycling:light_bulbs": [
+            "yes"
+          ],
+          "recycling:scrap_metal": [
+            "yes"
+          ],
+          "recycling:glass_bottles": [
+            "yes"
+          ],
+          "recycling:plastic_bottles": [
+            "yes"
+          ],
+          "recycling:beverage_cartons": [
+            "yes"
+          ],
+          "recycling:small_appliances": [
+            "yes"
+          ],
+          "recycling:fluorescent_tubes": [
+            "yes"
+          ],
+          "recycling:plastic_packaging": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/waste.html",
+        "theme": "waste",
+        "answer": 6,
+        "locale": "en-GB",
+        "id": 150682219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2459568,
+          55.8333096
+        ]
+      },
+      "id": 150682219
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #sports",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-29T00:42:32Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "hoops": [
+            "2"
+          ],
+          "phone": [
+            "+44 141 632 9393"
+          ],
+          "sport": [
+            "Bowls",
+            "bowls"
+          ],
+          "access": [
+            "members",
+            "yes"
+          ],
+          "leisure": [
+            "sports_centre",
+            "fitness_centre",
+            "pitch"
+          ],
+          "surface": [
+            "grass"
+          ],
+          "building": [
+            "retail"
+          ],
+          "wheelchair": [
+            "limited"
+          ],
+          "reservation": [
+            "no"
+          ],
+          "opening_hours": [
+            "24/7"
+          ]
+        },
+        "create": 0,
+        "modify": 7,
+        "delete": 0,
+        "area": 0.0012291285652199918,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/sports.html",
+        "theme": "sports",
+        "answer": 11,
+        "locale": "en-GB",
+        "id": 150640721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2757337500000006,
+          55.8411635
+        ]
+      },
+      "id": 150640721
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #shops",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-29T00:37:56Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "kitchen"
+          ],
+          "email": [
+            "glasgowhaggs.branch@magnet.co.uk"
+          ],
+          "website": [
+            "https://www.howdens.com/find-a-depot/glasgow-pollokshaws",
+            "https://www.magnet.co.uk/kitchen-showrooms-glasgow-haggs-road/"
+          ],
+          "building": [
+            "warehouse"
+          ],
+          "opening_hours": [
+            "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+            "Mo-We 09:00-18:00; Th 09:00-20:00; Fr-Sa 09:00-18:00; Su 11:00-17:00"
+          ],
+          "internet_access": [
+            "wlan"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 0.0000012834215399961482,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/shops.html",
+        "theme": "shops",
+        "answer": 6,
+        "locale": "en-GB",
+        "id": 150640664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2972254,
+          55.82902385
+        ]
+      },
+      "id": 150640664
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-30T23:43:10Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/waste.html",
+        "theme": "waste",
+        "locale": "en-GB",
+        "soft-delete": 1,
+        "soft-delete:node/-1": "testing point",
+        "id": 150730348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2934399,
+          55.823671
+        ]
+      },
+      "id": 150730348
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.3",
+        "comment": "Adding data with #MapComplete for theme #vending_machine",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-30T23:41:43Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 1,
@@ -537,21 +1321,20 @@
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/aed",
-        "theme": "aed",
-        "answer": 2,
-        "locale": "nl",
-        "add-image": 1,
-        "id": 139437897
+        "host": "https://mapcomplete.org/vending_machine.html",
+        "theme": "vending_machine",
+        "answer": 1,
+        "locale": "en-GB",
+        "id": 150730333
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.4135639,
-          55.8634301
+          -4.2934966,
+          55.823729
         ]
       },
-      "id": 139437897
+      "id": 150730333
     },
     {
       "type": "Feature",
@@ -560,43 +1343,41 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #campersite",
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.4",
+        "comment": "Adding data with #MapComplete for theme #postboxes",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-05T18:57:47Z",
+        "date": "2024-05-03T22:39:36Z",
         "reviewed_features": [],
         "tag_changes": {
           "amenity": [
-            "sanitary_dump_station"
+            "post_box"
           ]
         },
         "create": 1,
-        "modify": 2,
+        "modify": 0,
         "delete": 0,
         "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/campersite",
-        "theme": "campersite",
-        "answer": 7,
-        "locale": "nl",
-        "change_over_5000m": 1,
-        "id": 139492722
+        "host": "https://mapcomplete.org/postboxes.html",
+        "theme": "postboxes",
+        "locale": "en-GB",
+        "id": 150858361
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.8269592,
-          56.6329479
+          -4.2995963,
+          55.8224583
         ]
       },
-      "id": 139492722
+      "id": 150858361
     },
     {
       "type": "Feature",
@@ -605,43 +1386,42 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "joost schouppe",
-        "uid": "67832",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #campersite",
+        "user": "rfadam",
+        "uid": "644769",
+        "editor": "MapComplete 0.42.4",
+        "comment": "Adding data with #MapComplete for theme #advertising",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-07T16:17:56Z",
+        "date": "2024-05-05T23:22:18Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "sanitary_dump_station"
+          "building": [
+            "yes"
           ]
         },
-        "create": 1,
+        "create": 4,
         "modify": 3,
         "delete": 0,
-        "area": 0,
+        "area": 0.000025905726699986418,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/campersite",
-        "theme": "campersite",
-        "answer": 6,
-        "locale": "nl",
-        "add-image": 1,
-        "id": 139573338
+        "host": "https://mapcomplete.org/advertising",
+        "theme": "advertising",
+        "answer": 5,
+        "locale": "en-GB",
+        "id": 150941995
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.1030188,
-          57.1456695
+          -4.2541549,
+          55.858160350000006
         ]
       },
-      "id": 139573338
+      "id": 150941995
     }
   ]
 }

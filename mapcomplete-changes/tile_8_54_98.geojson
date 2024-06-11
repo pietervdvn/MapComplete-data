@@ -8,39 +8,90 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "HopsAndSpokes",
-        "uid": "5593540",
-        "editor": "MapComplete 0.4.7",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "Allison P",
+        "uid": "9097970",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #blind_osm",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-01-13T19:49:25Z",
+        "date": "2024-02-04T06:32:18Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "route": [
+            "bus"
+          ],
+          "highway": [
+            "tertiary",
+            "residential",
+            "traffic_signals"
+          ],
+          "button_operated": [
+            "yes"
+          ]
+        },
         "create": 0,
-        "modify": 5,
+        "modify": 3,
         "delete": 0,
-        "area": 0,
+        "area": 0.00000224923860000557,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "cyclofix",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 97461822
+        "host": "https://mapcomplete.org/blind_osm.html",
+        "theme": "blind_osm",
+        "answer": 5,
+        "locale": "en",
+        "id": 147042095
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.827921,
-          38.8674445
+          -105.22132225,
+          39.7553665
         ]
       },
-      "id": 97461822
+      "id": 147042095
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "SpeedMcCool",
+        "uid": "2260722",
+        "editor": "MapComplete 0.41.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-03-29T04:15:33Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 214.58222666249293,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology",
+        "theme": "etymology",
+        "answer": 3,
+        "locale": "en",
+        "id": 149294830
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.77571395,
+          39.2480544
+        ]
+      },
+      "id": 149294830
     },
     {
       "type": "Feature",
@@ -54,48 +105,86 @@
         ],
         "tags": [],
         "features": [],
-        "user": "Das_Cheese",
-        "uid": "3728446",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "user": "Meloddo",
+        "uid": "21197780",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #cafes_and_pubs",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-10T13:57:49Z",
+        "date": "2024-04-12T15:42:21Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "residential"
-          ],
-          "cycleway": [
-            "lane"
-          ],
-          "cycleway:separation": [
-            "solid_line"
-          ]
-        },
-        "create": 0,
-        "modify": 2,
+        "tag_changes": {},
+        "create": 1,
+        "modify": 3,
         "delete": 0,
-        "area": 0.00000131245758001514,
+        "area": 0,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/cycle_infra.html",
-        "theme": "cycle_infra",
-        "answer": 2,
+        "host": "https://mapcomplete.org/cafes_and_pubs.html",
+        "theme": "cafes_and_pubs",
+        "answer": 5,
         "locale": "en",
-        "id": 139708779
+        "id": 149917229
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.76372945,
-          38.9074215
+          -104.7476616,
+          38.8404591
         ]
       },
-      "id": 139708779
+      "id": 149917229
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "bookcase_hunter",
+        "uid": "20087447",
+        "editor": "MapComplete 0.42.7",
+        "comment": "Adding data with #MapComplete for theme #bookcases",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-05-31T16:40:13Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "public_bookcase"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/bookcases",
+        "theme": "bookcases",
+        "locale": "en",
+        "id": 152089907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.978826,
+          39.7347908
+        ]
+      },
+      "id": 152089907
     }
   ]
 }

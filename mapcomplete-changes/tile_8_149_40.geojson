@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 87,
+            "name": "Irrelevant tags on highway"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-1071515814",
+            "name": "Maharaja Agrasen Marg",
+            "osm_id": 1071515814,
+            "reasons": [
+              87
+            ],
+            "version": 5,
+            "primary_tags": {
+              "highway": "residential"
+            }
+          },
+          {
+            "url": "way-78755637",
+            "name": "Netaji Marg",
+            "osm_id": 78755637,
+            "reasons": [
+              87
+            ],
+            "version": 8,
+            "primary_tags": {
+              "highway": "residential"
+            }
+          }
+        ],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-04-26T05:52:46Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "tertiary",
+            "residential"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q5558123",
+            "Q2153",
+            "Q188618",
+            "Q3629875",
+            "Q1047",
+            "Q715607",
+            "Q2721961",
+            "Q231690",
+            "Q9513",
+            "Q1001",
+            "Q377808"
+          ]
+        },
+        "create": 0,
+        "modify": 16,
+        "delete": 0,
+        "area": 0.00196577021047017,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 20,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 135367811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.728199150000002,
+          77.14772255
+        ]
+      },
+      "id": 135367811
+    }
+  ]
+}

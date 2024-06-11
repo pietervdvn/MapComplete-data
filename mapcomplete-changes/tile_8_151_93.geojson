@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Lamassu",
+        "uid": "12523467",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #kerbs_and_crossings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-18T17:25:55Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "barrier": [
+            "kerb"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/kerbs_and_crossings.html",
+        "theme": "kerbs_and_crossings",
+        "locale": "en",
+        "imagery": "EsriWorldImagery",
+        "id": 133831866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0628272,
+          44.3566346
+        ]
+      },
+      "id": 133831866
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 83,
+            "name": "User has multiple blocks"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "LockOnGuy",
+        "uid": "15559282",
+        "editor": "MapComplete 0.27.1",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-18T16:51:47Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "charging_station"
+          ]
+        },
+        "create": 0,
+        "modify": 0,
+        "delete": 8,
+        "area": 0.0609051817249692,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/charging_stations.html",
+        "theme": "charging_stations",
+        "locale": "en",
+        "imagery": "CartoDB.Voyager",
+        "deletion": 8,
+        "deletion:node/7911966385": "not found",
+        "deletion:node/8035754085": "not found",
+        "deletion:node/8037742094": "not found",
+        "deletion:node/8150563017": "not found",
+        "deletion:node/8412505417": "not found",
+        "deletion:node/8679635917": "not found",
+        "deletion:node/8978990120": "not found",
+        "deletion:node/9611953317": "not found",
+        "id": 133830642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.31773145,
+          44.58822525
+        ]
+      },
+      "id": 133830642
+    }
+  ]
+}

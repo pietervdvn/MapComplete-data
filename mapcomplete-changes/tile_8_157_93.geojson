@@ -5,93 +5,49 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Igor Zaytsev",
-        "uid": "3214325",
-        "editor": "MapComplete 0.12.8",
-        "comment": "Adding data with #MapComplete for theme #climbing",
+        "user": "Noktoborus",
+        "uid": "540529",
+        "editor": "MapComplete 0.30.7",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-11-21T09:22:17Z",
+        "date": "2023-06-27T06:45:16Z",
         "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 3,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "climbing",
-        "answer": 5,
-        "imagery": "osm",
-        "language": "en",
-        "id": 114050247
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.2759111,
-          43.6810052
-        ]
-      },
-      "id": 114050247
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "Igor Zaytsev",
-        "uid": "3214325",
-        "editor": "MapComplete 0.12.8",
-        "comment": "Adding data with #MapComplete for theme #food",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-11-21T09:06:54Z",
-        "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "highway": [
+            "secondary",
+            "primary"
+          ],
+          "maxspeed": [
+            "60"
+          ]
+        },
         "create": 0,
-        "modify": 4,
+        "modify": 10,
         "delete": 0,
-        "area": 3.51972999992477e-8,
-        "is_suspect": true,
+        "area": 0.0000188627890499892,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "food",
-        "answer": 7,
-        "imagery": "osm",
-        "language": "en",
-        "id": 114049879
+        "host": "https://mapcomplete.osm.be/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 10,
+        "locale": "en",
+        "id": 137820259
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.211125800000005,
-          43.67893885
+          40.19170005,
+          44.476823949999996
         ]
       },
-      "id": 114049879
+      "id": 137820259
     }
   ]
 }

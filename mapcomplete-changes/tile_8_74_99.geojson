@@ -5,64 +5,42 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          },
-          {
-            "id": 43,
-            "name": "Invalid key value combination"
-          }
-        ],
+        "reasons": [],
         "tags": [],
-        "features": [
-          {
-            "url": "node-9516997172",
-            "osm_id": 9516997172,
-            "reasons": [
-              43
-            ],
-            "version": 1,
-            "primary_tags": {
-              "tourism": "map"
-            }
-          }
-        ],
-        "user": "cmitchusa",
-        "uid": "1884021",
-        "editor": "MapComplete 0.16.1",
-        "comment": "Adding data with #MapComplete for theme #maps",
+        "features": [],
+        "user": "SpeedMcCool",
+        "uid": "2260722",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-02-18T16:11:40Z",
+        "date": "2024-04-05T04:49:07Z",
         "reviewed_features": [],
         "tag_changes": {},
-        "create": 1,
-        "modify": 0,
+        "create": 0,
+        "modify": 180,
         "delete": 0,
-        "area": 0,
-        "is_suspect": true,
+        "area": 0.02136061191902013,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "pietervdvn.github.io",
-        "path": "mc/develop/",
-        "theme": "maps",
+        "host": "https://mapcomplete.org/etymology",
+        "theme": "etymology",
+        "answer": 180,
         "locale": "en",
-        "imagery": "osm",
-        "change_over_5000m": 1,
-        "id": 117572151
+        "change_over_5000m": 166,
+        "id": 149596144
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.1604184,
-          36.8382338
+          -77.12873164999999,
+          38.7964303
         ]
       },
-      "id": 117572151
+      "id": 149596144
     },
     {
       "type": "Feature",
@@ -71,90 +49,49 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "OpenBrian",
-        "uid": "791438",
-        "editor": "MapComplete 0.27.2",
-        "comment": "Adding data with #MapComplete for theme #building types",
+        "user": "Jason Spriggs",
+        "uid": "870879",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #indoors",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-05-07T13:49:54Z",
+        "date": "2024-04-19T13:57:01Z",
         "reviewed_features": [],
         "tag_changes": {
-          "building": [
-            "detached",
+          "door": [
+            "hinged"
+          ],
+          "entrance": [
+            "service",
             "yes"
+          ],
+          "automatic_door": [
+            "button"
           ]
         },
         "create": 0,
-        "modify": 2,
+        "modify": 4,
         "delete": 0,
-        "area": 0.00000117965080999035,
+        "area": 0.0000026707989999672843,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/theme.html",
-        "theme": "building types",
-        "answer": 2,
+        "host": "https://mapcomplete.org/indoors",
+        "theme": "indoors",
+        "answer": 5,
         "locale": "en",
-        "imagery": "osm",
-        "id": 135812377
+        "id": 150225430
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.06087565,
-          38.81848275
+          -77.0171025,
+          38.78096055
         ]
       },
-      "id": 135812377
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "OpenBrian",
-        "uid": "791438",
-        "editor": "MapComplete 0.27.2",
-        "comment": "Adding data with #MapComplete for theme #building types",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-05-07T13:23:23Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "building": [
-            "apartments",
-            "yes"
-          ]
-        },
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 6.18305599978327e-8,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/theme.html",
-        "theme": "building types",
-        "answer": 1,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 135811350
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0569256,
-          38.81848085
-        ]
-      },
-      "id": 135811350
+      "id": 150225430
     }
   ]
 }

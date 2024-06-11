@@ -5,52 +5,100 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
-        "user": "gefures",
-        "uid": "6164191",
-        "editor": "MapComplete 0.25.6",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "Awo",
+        "uid": "196556",
+        "editor": "MapComplete 0.37.1",
+        "comment": "Adding data with #MapComplete for theme #trees",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-01-18T13:51:59Z",
+        "date": "2024-01-25T14:19:37Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "bicycle_repair_station"
+          "image": [
+            "https://i.imgur.com/2gLpwxp.jpg"
+          ],
+          "natural": [
+            "tree"
           ]
         },
-        "create": 1,
-        "modify": 4,
+        "create": 0,
+        "modify": 2,
         "delete": 0,
         "area": 0,
-        "is_suspect": true,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 6,
-        "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "add-image": 6,
-        "id": 131424653
+        "host": "https://mapcomplete.org/trees.html",
+        "theme": "trees",
+        "answer": 1,
+        "locale": "es",
+        "add-image": 1,
+        "id": 146675610
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.4329181,
-          28.1633568
+          -15.5499818,
+          28.0384354
         ]
       },
-      "id": 131424653
+      "id": 146675610
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Awo",
+        "uid": "196556",
+        "editor": "MapComplete 0.37.0",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-01-28T16:25:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/jTHa0wb.jpg"
+          ],
+          "natural": [
+            "tree"
+          ],
+          "species:wikidata": [
+            "Q290967"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/trees.html",
+        "theme": "trees",
+        "answer": 1,
+        "locale": "es",
+        "add-image": 1,
+        "id": 146785913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5347128,
+          28.4108742
+        ]
+      },
+      "id": 146785913
     }
   ]
 }

@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.23.2",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2022-09-06T06:11:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "school"
+          ],
+          "highway": [
+            "residential"
+          ],
+          "name:etymology:wikidata": [
+            "Q34286",
+            "Q158143"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 13.4719949498449,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 2,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 125840855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.100429300000002,
+          71.23394425000001
+        ]
+      },
+      "id": 125840855
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 87,
+            "name": "Irrelevant tags on highway"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "way-167451050",
+            "name": "Umashankar Joshi Marg",
+            "osm_id": 167451050,
+            "reasons": [
+              87
+            ],
+            "version": 6,
+            "primary_tags": {
+              "highway": "tertiary"
+            }
+          }
+        ],
+        "user": "NaanAvanIllai",
+        "uid": "14062769",
+        "editor": "MapComplete 0.27.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2023-03-10T11:48:29Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary",
+            "primary",
+            "tertiary",
+            "unclassified"
+          ],
+          "leisure": [
+            "sports_centre",
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q244689",
+            "Q5099299",
+            "Q1226230",
+            "Q3595245",
+            "Q17495751",
+            "Q197736",
+            "Q6981024",
+            "Q2639585"
+          ]
+        },
+        "create": 0,
+        "modify": 16,
+        "delete": 0,
+        "area": 5.12964986584344,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.osm.be/etymology.html",
+        "theme": "etymology",
+        "answer": 28,
+        "locale": "en",
+        "imagery": "osm",
+        "id": 133515394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.35630085,
+          71.40505555
+        ]
+      },
+      "id": 133515394
+    }
+  ]
+}

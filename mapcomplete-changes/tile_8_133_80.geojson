@@ -5,52 +5,55 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Niels Madsen",
-        "uid": "16042981",
-        "editor": "MapComplete 0.23.2",
-        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "user": "Peter Brodersen",
+        "uid": "80543",
+        "editor": "MapComplete 0.36.9",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-09-05T13:51:13Z",
+        "date": "2024-01-02T00:26:46Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "charging_station"
+          "highway": [
+            "tertiary",
+            "unclassified",
+            "residential",
+            "service",
+            "track"
+          ],
+          "name:etymology:wikidata": [
+            "Q122811014",
+            "Q8331",
+            "Q122069",
+            "Q122980929"
           ]
         },
-        "create": 1,
-        "modify": 7,
+        "create": 0,
+        "modify": 11,
         "delete": 0,
-        "area": 0,
-        "is_suspect": true,
+        "area": 0.0093959112675701,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/charging_stations.html",
-        "theme": "charging_stations",
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
         "answer": 11,
-        "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "add-image": 1,
-        "id": 125816677
+        "locale": "da",
+        "id": 145779962
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.3729714,
-          55.9633926
+          8.24588375,
+          55.69965395
         ]
       },
-      "id": 125816677
+      "id": 145779962
     },
     {
       "type": "Feature",
@@ -59,54 +62,93 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "AE35",
-        "uid": "21323",
-        "editor": "MapComplete 0.33.13",
+        "user": "Peter Brodersen",
+        "uid": "80543",
+        "editor": "MapComplete 0.36.9",
         "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-10-29T15:52:08Z",
+        "date": "2024-01-02T00:26:31Z",
         "reviewed_features": [],
         "tag_changes": {
-          "route": [
-            "bus",
-            "bicycle",
-            "hiking"
-          ],
           "highway": [
             "tertiary",
-            "unclassified",
-            "secondary",
-            "residential",
-            "service"
+            "residential"
           ],
           "name:etymology:wikidata": [
-            "Q1693"
+            "Q122811014"
           ]
         },
         "create": 0,
-        "modify": 85,
+        "modify": 4,
         "delete": 0,
-        "area": 0.48054630927135,
+        "area": 0.0000759502527899826,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.org/etymology",
+        "host": "https://mapcomplete.org/etymology.html",
         "theme": "etymology",
-        "answer": 85,
+        "answer": 4,
         "locale": "da",
-        "id": 143318371
+        "id": 145779956
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.34151885,
-          55.699919449999996
+          8.23989295,
+          55.78008585
         ]
       },
-      "id": 143318371
+      "id": 145779956
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Peter Brodersen",
+        "uid": "80543",
+        "editor": "MapComplete 0.36.7",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-01-13T08:20:06Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "proposed"
+          ],
+          "name:etymology:wikidata": [
+            "Q809446"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.00000814818419999505,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 1,
+        "locale": "da",
+        "id": 146205760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.134837300000001,
+          56.1335052
+        ]
+      },
+      "id": 146205760
     },
     {
       "type": "Feature",
@@ -120,194 +162,66 @@
         ],
         "tags": [],
         "features": [],
-        "user": "Peter Brodersen",
-        "uid": "80543",
-        "editor": "MapComplete 0.33.13",
+        "user": "AE35",
+        "uid": "21323",
+        "editor": "MapComplete 0.37.1",
         "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-10-30T23:00:23Z",
+        "date": "2024-02-12T19:48:18Z",
         "reviewed_features": [],
         "tag_changes": {
           "highway": [
             "residential",
-            "tertiary",
-            "unclassified",
-            "secondary",
-            "cycleway",
             "service",
-            "path",
-            "track"
+            "footway",
+            "secondary",
+            "path"
           ],
           "name:etymology:wikidata": [
-            "Q27524",
-            "Q25392",
-            "Q12319571",
-            "Q3038",
-            "Q25234",
-            "Q29858",
-            "Q28922",
-            "Q12323495",
-            "Q210396",
-            "Q841736",
-            "Q25469",
-            "Q48706",
-            "Q956682",
-            "Q115661",
-            "Q20837",
-            "Q25535",
-            "Q12338446",
-            "Q2633724",
-            "Q12300246",
-            "Q12316916",
-            "Q12024",
+            "Q1693",
+            "Q1542804",
             "Q206998",
-            "Q22710",
             "Q26782",
-            "Q448739",
-            "Q216422",
-            "Q46740",
-            "Q12334190",
-            "Q12319189",
-            "Q25662",
-            "Q13180",
-            "Q13179",
-            "Q122811105",
-            "Q25432",
-            "Q683719",
-            "Q113039252",
-            "Q53480",
-            "Q156901",
-            "Q18845",
-            "Q2092297",
-            "Q145781",
-            "Q129018",
-            "Q30838",
-            "Q2507911",
-            "Q133287",
-            "Q212939",
-            "Q18854",
-            "Q27589",
-            "Q39861",
-            "Q26106",
-            "Q26969",
-            "Q43489",
-            "Q25510",
-            "Q26626",
-            "Q25928",
-            "Q25385",
-            "Q21148",
+            "Q37340",
+            "Q126916",
+            "Q29858",
+            "Q13426919",
             "Q33140745",
-            "Q28507",
-            "Q786045",
-            "Q25222",
-            "Q13181",
-            "Q134394",
-            "Q10524997",
-            "Q157211",
+            "Q18854",
             "Q202305",
-            "Q93235",
-            "Q5812410",
-            "Q25243",
-            "Q25403",
-            "Q12004",
-            "Q11009",
-            "Q131224",
-            "Q2697255",
-            "Q147255",
-            "Q147475",
-            "Q2297615",
-            "Q160092",
-            "Q828224",
-            "Q25618",
-            "Q12314575",
-            "Q10856",
-            "Q157449",
-            "Q27583",
-            "Q156944",
-            "Q146391",
-            "Q15280889",
-            "Q158359",
-            "Q22701",
-            "Q7538278",
-            "Q22987564",
-            "Q12338226",
-            "Q5598001"
+            "Q26626",
+            "Q27589",
+            "Q34679",
+            "Q165",
+            "Q1313",
+            "Q25439",
+            "Q23746857"
           ]
         },
         "create": 0,
-        "modify": 374,
+        "modify": 740,
         "delete": 0,
-        "area": 0.0882827992987189,
+        "area": 0.0222998175083797,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.org/etymology.html",
+        "host": "https://mapcomplete.org/etymology",
         "theme": "etymology",
-        "answer": 374,
+        "answer": 740,
         "locale": "da",
-        "id": 143391222
+        "id": 147382458
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.3264406,
-          55.6109266
+          8.135546699999999,
+          56.078981850000005
         ]
       },
-      "id": 143391222
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Peter Brodersen",
-        "uid": "80543",
-        "editor": "MapComplete 0.33.13",
-        "comment": "Adding data with #MapComplete for theme #etymology",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-10-31T13:59:38Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "residential"
-          ],
-          "name:etymology:wikidata": [
-            "Q27583",
-            "Q146130",
-            "Q10856",
-            "Q25432"
-          ]
-        },
-        "create": 0,
-        "modify": 11,
-        "delete": 0,
-        "area": 0.000128869993919927,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.org/etymology.html",
-        "theme": "etymology",
-        "answer": 11,
-        "locale": "da",
-        "id": 143422937
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.2824752,
-          55.8348916
-        ]
-      },
-      "id": 143422937
+      "id": 147382458
     },
     {
       "type": "Feature",
@@ -318,43 +232,44 @@
         "features": [],
         "user": "AE35",
         "uid": "21323",
-        "editor": "MapComplete 0.34.9",
+        "editor": "MapComplete 0.37.5",
         "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-12-04T14:20:02Z",
+        "date": "2024-02-15T11:57:52Z",
         "reviewed_features": [],
         "tag_changes": {
           "highway": [
-            "residential"
+            "residential",
+            "service"
           ],
           "name:etymology:wikidata": [
-            "Q8148"
+            "Q15115194"
           ]
         },
         "create": 0,
-        "modify": 1,
+        "modify": 59,
         "delete": 0,
-        "area": 0.00000753138885002618,
+        "area": 0.00007178246592006135,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
         "host": "https://mapcomplete.org/etymology",
         "theme": "etymology",
-        "answer": 1,
+        "answer": 59,
         "locale": "da",
-        "id": 144757284
+        "id": 147487926
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.28538185,
-          55.77751285
+          8.0989112,
+          55.555337300000005
         ]
       },
-      "id": 144757284
+      "id": 147487926
     },
     {
       "type": "Feature",
@@ -363,45 +278,207 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Raft3093",
-        "uid": "19428817",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "user": "Peter Brodersen",
+        "uid": "80543",
+        "editor": "MapComplete 0.40.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-12T16:08:49Z",
+        "date": "2024-03-01T22:39:50Z",
         "reviewed_features": [],
         "tag_changes": {
           "highway": [
-            "residential"
+            "tertiary",
+            "unclassified",
+            "secondary",
+            "residential",
+            "service",
+            "primary",
+            "footway",
+            "track",
+            "path"
           ],
-          "maxspeed": [
-            "50"
+          "name:etymology:wikidata": [
+            "Q455311",
+            "Q124711896",
+            "Q3432981",
+            "Q161426",
+            "Q518044",
+            "Q7215110",
+            "Q12106",
+            "Q146760",
+            "Q123304227",
+            "Q25243",
+            "Q1811230",
+            "Q15925967",
+            "Q1797189",
+            "Q1934441",
+            "Q365068"
           ]
         },
         "create": 0,
-        "modify": 3,
+        "modify": 137,
         "delete": 0,
-        "area": 0.000242614359200148,
+        "area": 0.08708082133528895,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/maxspeed.html",
-        "theme": "maxspeed",
-        "answer": 3,
-        "locale": "da-DK",
-        "id": 139793786
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 137,
+        "locale": "da",
+        "id": 148114522
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.42991455,
-          55.5022052
+          8.39445475,
+          56.30320525
         ]
       },
-      "id": 139793786
+      "id": 148114522
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Peter Brodersen",
+        "uid": "80543",
+        "editor": "MapComplete 0.40.0",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-03-02T20:04:11Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "primary",
+            "tertiary",
+            "unclassified",
+            "service",
+            "primary_link"
+          ],
+          "name:etymology:wikidata": [
+            "Q2408565",
+            "Q124724954",
+            "Q75506919"
+          ]
+        },
+        "create": 0,
+        "modify": 37,
+        "delete": 0,
+        "area": 0.01607753739969987,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 45,
+        "locale": "da",
+        "id": 148144986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.28133725,
+          56.1407143
+        ]
+      },
+      "id": 148144986
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "AE35",
+        "uid": "21323",
+        "editor": "MapComplete 0.41.4",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-08T17:46:11Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0000035168371699979463,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology",
+        "theme": "etymology",
+        "answer": 2,
+        "locale": "da",
+        "id": 149745951
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.42449615,
+          55.49269745
+        ]
+      },
+      "id": 149745951
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "ballerup-kommune",
+        "uid": "19552302",
+        "editor": "MapComplete 0.41.7",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-04-22T09:51:00Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "secondary"
+          ],
+          "name:etymology:wikidata": [
+            "Q444687"
+          ]
+        },
+        "create": 0,
+        "modify": 13,
+        "delete": 0,
+        "area": 0.002437006777319927,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 13,
+        "locale": "da",
+        "id": 150337664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4017202,
+          55.652835499999995
+        ]
+      },
+      "id": 150337664
     }
   ]
 }

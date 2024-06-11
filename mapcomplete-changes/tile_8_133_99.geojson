@@ -5,45 +5,47 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "yamada-as",
-        "uid": "346585",
-        "editor": "MapComplete 0.34.7",
-        "comment": "Adding data with #MapComplete for theme #healthcare",
+        "user": "Joel Schwaber",
+        "uid": "14199687",
+        "editor": "MapComplete 0.9.14",
+        "comment": "Adding data with #MapComplete for theme #ghostbikes",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-11-15T07:38:58Z",
+        "date": "2021-09-29T00:57:00Z",
         "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "pharmacy"
-          ]
-        },
-        "create": 1,
-        "modify": 0,
+        "tag_changes": {},
+        "create": 3,
+        "modify": 6,
         "delete": 0,
-        "area": 0,
-        "is_suspect": false,
+        "area": 15365.8425037475,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.org/healthcare.html",
-        "theme": "healthcare",
-        "locale": "ar-DZ",
-        "change_over_5000m": 1,
-        "id": 144038820
+        "host": "mapcomplete.osm.be",
+        "theme": "ghostbikes",
+        "imagery": "CartoDB.Positron",
+        "language": "en",
+        "theme-creator": "MapComplete",
+        "id": 111841662
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9009307,
-          36.7777626
+          6.0965507500000005,
+          38.660928
         ]
       },
-      "id": 144038820
+      "id": 111841662
     }
   ]
 }
