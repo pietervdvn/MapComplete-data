@@ -8,39 +8,61 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "art-smith",
-        "uid": "13106766",
-        "editor": "MapComplete 0.6.8",
-        "comment": "Adding data with #MapComplete for theme #trees",
+        "user": "Lake_e",
+        "uid": "21008636",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #personal",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-04-18T12:56:16Z",
+        "date": "2024-06-29T18:40:04Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_parking",
+            "toilets"
+          ],
+          "operator": [
+            "City of Lancaster"
+          ],
+          "gender_segregated": [
+            "no"
+          ],
+          "toilets:handwashing": [
+            "no"
+          ],
+          "toilets:paper_supplied": [
+            "yes"
+          ]
+        },
         "create": 0,
-        "modify": 1,
+        "modify": 4,
         "delete": 0,
-        "area": 0,
+        "area": 0.0000013394022399891253,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "trees",
-        "imagery": "osm",
-        "language": "en",
-        "theme-creator": "Midgard",
-        "id": 103136285
+        "host": "https://mapcomplete.org/personal.html",
+        "theme": "personal",
+        "answer": 11,
+        "locale": "en",
+        "id": 153343826
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4503622,
-          39.410636
+          -82.583991,
+          39.7099603
         ]
       },
-      "id": 103136285
+      "id": 153343826
     },
     {
       "type": "Feature",
@@ -49,39 +71,284 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "wolfgang8741",
-        "uid": "307520",
-        "editor": "MapComplete 0.8.0a",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "Lake_e",
+        "uid": "21008636",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-06-21T18:16:12Z",
+        "date": "2024-06-29T16:39:40Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "lit": [
+            "no"
+          ],
+          "barrier": [
+            "bollard"
+          ],
+          "bicycle": [
+            "yes"
+          ],
+          "bollard": [
+            "foldable",
+            "fixed"
+          ],
+          "highway": [
+            "crossing",
+            "cycleway"
+          ],
+          "surface": [
+            "gravel"
+          ],
+          "crossing": [
+            "uncontrolled",
+            "marked",
+            "traffic_signals"
+          ],
+          "crossing_ref": [
+            "zebra"
+          ],
+          "button_operated": [
+            "yes"
+          ],
+          "crossing:island": [
+            "no"
+          ],
+          "maxwidth:physical": [
+            "1",
+            "0.5"
+          ],
+          "traffic_signals:arrow": [
+            "no"
+          ],
+          "traffic_signals:sound": [
+            "no"
+          ],
+          "traffic_signals:minimap": [
+            "no"
+          ],
+          "traffic_signals:vibration": [
+            "no"
+          ]
+        },
         "create": 0,
-        "modify": 1,
+        "modify": 34,
         "delete": 0,
-        "area": 0,
+        "area": 0.0014235014946098843,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "cyclofix",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 106731786
+        "host": "https://mapcomplete.org/cycle_infra.html",
+        "theme": "cycle_infra",
+        "answer": 73,
+        "locale": "en",
+        "id": 153339766
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4565247,
-          39.4148476
+          -82.59991654999999,
+          39.72345035
         ]
       },
-      "id": 106731786
+      "id": 153339766
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Lake_e",
+        "uid": "21008636",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-06-29T16:15:58Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "access": [
+            "yes",
+            "customers"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "leisure": [
+            "playground"
+          ],
+          "surface": [
+            "rubber"
+          ],
+          "operator": [
+            "City of Lancaster"
+          ],
+          "direction": [
+            "180",
+            "228",
+            "32",
+            "97",
+            "191",
+            "177",
+            "2"
+          ],
+          "opening_hours": [
+            "sunrise-sunset"
+          ],
+          "seats:separated": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 17,
+        "delete": 0,
+        "area": 0.0001632674194799352,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/playgrounds.html",
+        "theme": "playgrounds",
+        "answer": 24,
+        "locale": "en",
+        "id": 153338931
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6130133,
+          39.70981495
+        ]
+      },
+      "id": 153338931
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Lake_e",
+        "uid": "21008636",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-06-29T16:01:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "waste": [
+            "trash"
+          ],
+          "access": [
+            "yes"
+          ],
+          "noname": [
+            "yes"
+          ],
+          "amenity": [
+            "waste_basket",
+            "recycling"
+          ],
+          "not:vending": [
+            "dog_excrement_bag"
+          ],
+          "opening_hours": [
+            "24/7"
+          ]
+        },
+        "create": 0,
+        "modify": 18,
+        "delete": 0,
+        "area": 0.0017353901729201791,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/waste.html",
+        "theme": "waste",
+        "answer": 22,
+        "locale": "en",
+        "id": 153338351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6283823,
+          39.718244150000004
+        ]
+      },
+      "id": 153338351
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Lake_e",
+        "uid": "21008636",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-06-29T15:48:49Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bottle": [
+            "no"
+          ],
+          "amenity": [
+            "drinking_water",
+            "bicycle_parking"
+          ],
+          "fountain": [
+            "bubbler"
+          ],
+          "operator": [
+            "City of Lancaster"
+          ],
+          "seasonal": [
+            "summer"
+          ],
+          "cargo_bike": [
+            "no"
+          ]
+        },
+        "create": 0,
+        "modify": 10,
+        "delete": 0,
+        "area": 0.0010223735347997512,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix.html",
+        "theme": "cyclofix",
+        "answer": 10,
+        "locale": "en",
+        "id": 153337857
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.595758,
+          39.71538795
+        ]
+      },
+      "id": 153337857
     }
   ]
 }

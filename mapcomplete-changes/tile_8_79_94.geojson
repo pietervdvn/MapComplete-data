@@ -57,6 +57,143 @@
         ]
       },
       "id": 148388348
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Osric",
+        "uid": "2552221",
+        "editor": "MapComplete 0.43.1",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-06-14T13:58:22Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "lit": [
+            "yes"
+          ],
+          "highway": [
+            "secondary"
+          ],
+          "cycleway": [
+            "lane"
+          ],
+          "cycleway:surface": [
+            "asphalt"
+          ],
+          "cycleway:separation": [
+            "solid_line"
+          ],
+          "cycleway:smoothness": [
+            "intermediate"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.000001860222399993581,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cycle_infra.html",
+        "theme": "cycle_infra",
+        "answer": 5,
+        "locale": "en",
+        "id": 152680496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1909829,
+          42.048863600000004
+        ]
+      },
+      "id": 152680496
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Osric",
+        "uid": "2552221",
+        "editor": "MapComplete 0.43.1",
+        "comment": "Adding data with #MapComplete for theme #bicycle_parkings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-06-14T13:48:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "customers"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "covered": [
+            "no"
+          ],
+          "maxstay": [
+            "7 days"
+          ],
+          "capacity": [
+            "10",
+            "6"
+          ],
+          "operator": [
+            "Town of Provincetown",
+            "East End Market"
+          ],
+          "cargo_bike": [
+            "yes"
+          ],
+          "operator:phone": [
+            "+1 508 487 7000",
+            "+1 507 487 7000"
+          ],
+          "bicycle_parking": [
+            "stands",
+            "informal"
+          ],
+          "operator:website": [
+            "https://paam.org",
+            "https://www.provincetown-ma.gov"
+          ]
+        },
+        "create": 0,
+        "modify": 8,
+        "delete": 1,
+        "area": 0.00005286205050001675,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/bicycle_parkings.html",
+        "theme": "bicycle_parkings",
+        "answer": 14,
+        "locale": "en",
+        "deletion": 1,
+        "deletion:node/11056789172": "duplicate",
+        "id": 152680049
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.18596355,
+          42.05675170000001
+        ]
+      },
+      "id": 152680049
     }
   ]
 }
