@@ -8,39 +8,43 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "ChristianA",
-        "uid": "429903",
-        "editor": "MapComplete 0.7.5b",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #waste",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-06-17T06:17:58Z",
+        "date": "2024-07-07T13:17:52Z",
         "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 3,
+        "tag_changes": {
+          "amenity": [
+            "recycling"
+          ]
+        },
+        "create": 1,
+        "modify": 1,
         "delete": 0,
-        "area": 5.30233679998538e-7,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "cyclofix",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 106505668
+        "host": "https://mapcomplete.org/waste.html",
+        "theme": "waste",
+        "answer": 1,
+        "locale": "de",
+        "change_over_5000m": 1,
+        "id": 153661770
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.3636667,
-          58.67330685
+          14.1765892,
+          57.7712808
         ]
       },
-      "id": 106505668
+      "id": 153661770
     },
     {
       "type": "Feature",
@@ -49,45 +53,531 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "houtari",
-        "uid": "2186388",
-        "editor": "MapComplete 0.31.2",
-        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #transit",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-08-08T07:21:34Z",
+        "date": "2024-07-08T03:42:27Z",
         "reviewed_features": [],
         "tag_changes": {
+          "bin": [
+            "yes"
+          ],
           "lit": [
             "yes"
           ],
+          "bench": [
+            "yes"
+          ],
+          "image": [
+            "https://i.imgur.com/DwYjPbx.jpeg"
+          ],
           "highway": [
-            "footway"
+            "bus_stop"
+          ],
+          "shelter": [
+            "yes"
+          ],
+          "wheelchair": [
+            "designated"
+          ],
+          "tactile_paving": [
+            "yes"
+          ],
+          "public_transport": [
+            "stop_position"
           ]
         },
         "create": 0,
         "modify": 1,
         "delete": 0,
-        "area": 0.0000017588287200079,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/street_lighting.html",
-        "theme": "street_lighting",
-        "answer": 1,
-        "locale": "en",
-        "id": 139597919
+        "host": "https://mapcomplete.org/transit.html",
+        "theme": "transit",
+        "answer": 6,
+        "locale": "de",
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 153684907
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.184114899999997,
-          58.590521100000004
+          14.5055084,
+          58.5386029
         ]
       },
-      "id": 139597919
+      "id": 153684907
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #transit",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-08T03:41:22Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bin": [
+            "no"
+          ],
+          "lit": [
+            "yes"
+          ],
+          "bench": [
+            "no"
+          ],
+          "image": [
+            "https://i.imgur.com/KLwqaKq.jpeg"
+          ],
+          "highway": [
+            "bus_stop"
+          ],
+          "shelter": [
+            "no"
+          ],
+          "wheelchair": [
+            "designated"
+          ],
+          "tactile_paving": [
+            "yes"
+          ],
+          "public_transport": [
+            "stop_position"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/transit.html",
+        "theme": "transit",
+        "answer": 6,
+        "locale": "de",
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 153684894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5056296,
+          58.5387218
+        ]
+      },
+      "id": 153684894
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-08T03:37:42Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/s5kb63d.jpeg"
+          ],
+          "survey:date": [
+            "2024-07-08"
+          ],
+          "opening_hours": [
+            "24/7"
+          ]
+        },
+        "create": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/aed.html",
+        "theme": "aed",
+        "answer": 2,
+        "locale": "de",
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 153684853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5060359,
+          58.540949
+        ]
+      },
+      "id": 153684853
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #aed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-08T03:37:17Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/aed.html",
+        "theme": "aed",
+        "answer": 1,
+        "locale": "de",
+        "id": 153684848
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5060359,
+          58.540949
+        ]
+      },
+      "id": 153684848
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-08T03:20:52Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "fee": [
+            "yes"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "image": [
+            "https://i.imgur.com/10Z07vs.jpeg"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "bicycle": [
+            "no"
+          ],
+          "maxstay": [
+            "2 hours"
+          ],
+          "scooter": [
+            "no"
+          ],
+          "capacity": [
+            "2"
+          ],
+          "motorcar": [
+            "yes"
+          ],
+          "payment:app": [
+            "no"
+          ],
+          "payment:cash": [
+            "no"
+          ],
+          "socket:type2": [
+            "1"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "payment:cards": [
+            "no"
+          ],
+          "payment:qr_code": [
+            "no"
+          ],
+          "payment:membership_card": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 6,
+        "delete": 0,
+        "area": 2.1617639999481867e-8,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 12,
+        "locale": "de",
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 153684682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.505928,
+          58.54072775
+        ]
+      },
+      "id": 153684682
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-08T03:20:07Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/charging_stations.html",
+        "theme": "charging_stations",
+        "locale": "de",
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 153684675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5059478,
+          58.5410007
+        ]
+      },
+      "id": 153684675
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #postboxes",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-08T03:17:14Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/GNxlMoY.jpeg"
+          ],
+          "amenity": [
+            "post_box"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/postboxes.html",
+        "theme": "postboxes",
+        "locale": "de",
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 153684635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.506047,
+          58.5411335
+        ]
+      },
+      "id": 153684635
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #guideposts",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-08T03:16:04Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "image": [
+            "https://i.imgur.com/7vkBQuL.jpeg"
+          ],
+          "tourism": [
+            "information"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/guideposts.html",
+        "theme": "guideposts",
+        "locale": "de",
+        "add-image": 1,
+        "change_within_500m": 1,
+        "id": 153684616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5061625,
+          58.5414647
+        ]
+      },
+      "id": 153684616
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "5R-MFT",
+        "uid": "3417876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-09T00:38:50Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "fee": [
+            "no"
+          ],
+          "image": [
+            "https://i.imgur.com/q4NJuvA.jpeg"
+          ],
+          "amenity": [
+            "toilets"
+          ],
+          "changing_table": [
+            "no"
+          ],
+          "toilets:position": [
+            "seated"
+          ],
+          "gender_segregated": [
+            "no"
+          ],
+          "toilets:handwashing": [
+            "yes"
+          ],
+          "toilets:paper_supplied": [
+            "yes"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/toilets.html",
+        "theme": "toilets",
+        "answer": 6,
+        "locale": "de",
+        "add-image": 1,
+        "change_over_5000m": 1,
+        "id": 153724768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4353671,
+          58.5755799
+        ]
+      },
+      "id": 153724768
     }
   ]
 }

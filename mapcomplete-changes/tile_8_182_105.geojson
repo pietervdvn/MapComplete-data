@@ -13,38 +13,136 @@
         ],
         "tags": [],
         "features": [],
-        "user": "Mohit Jairath",
-        "uid": "15920679",
-        "editor": "MapComplete 0.19.2",
-        "comment": "Adding data with #MapComplete for theme #toerisme_vlaanderen",
+        "user": "mohit poonia",
+        "uid": "21702745",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #parkings",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-05-15T07:10:39Z",
+        "date": "2024-07-03T12:05:48Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 1,
-        "modify": 0,
+        "modify": 2,
+        "delete": 0,
+        "area": 3.454559000106318e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/parkings.html",
+        "move": 2,
+        "theme": "parkings",
+        "answer": 1,
+        "locale": "en-GB",
+        "change_over_5000m": 3,
+        "move:node/12031095810": "improve_accuracy",
+        "id": 153499135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.70013735,
+          31.25505275
+        ]
+      },
+      "id": 153499135
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "mohit poonia",
+        "uid": "21702745",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #hotels",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-03T11:55:54Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 1,
+        "modify": 1,
         "delete": 0,
         "area": 0,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/toerisme_vlaanderen",
-        "theme": "toerisme_vlaanderen",
-        "locale": "nl",
-        "imagery": "osm",
-        "id": 121001868
+        "host": "https://mapcomplete.org/hotels.html",
+        "theme": "hotels",
+        "answer": 1,
+        "locale": "en-GB",
+        "id": 153498724
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.7769537,
-          31.2197083
+          75.6990945,
+          31.2536499
         ]
       },
-      "id": 121001868
+      "id": 153498724
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "mohit poonia",
+        "uid": "21702745",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #food",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-03T02:03:27Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "restaurant"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/food.html",
+        "theme": "food",
+        "answer": 2,
+        "locale": "en-GB",
+        "change_over_5000m": 1,
+        "id": 153481553
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.699746,
+          31.2541023
+        ]
+      },
+      "id": 153481553
     }
   ]
 }

@@ -5,49 +5,101 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "BubbleGuppies",
-        "uid": "1426091",
-        "editor": "MapComplete 0.19.2",
-        "comment": "Adding data with #MapComplete for theme #schools",
+        "user": "RunnerLeann",
+        "uid": "21709876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #toilets",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-05-22T18:05:53Z",
+        "date": "2024-07-01T01:46:44Z",
         "reviewed_features": [],
         "tag_changes": {
           "amenity": [
-            "school"
-          ],
-          "website": [
-            "https://www.facebook.com/pages/Sullivan-Keller-Early-Childhood-Center/146217585402621"
+            "toilets"
           ]
         },
-        "create": 0,
+        "create": 4,
         "modify": 1,
         "delete": 0,
-        "area": 0,
-        "is_suspect": false,
+        "area": 0.00046632165833991005,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/theme.html",
-        "theme": "schools",
-        "answer": 2,
+        "host": "https://mapcomplete.org/toilets",
+        "theme": "toilets",
+        "answer": 14,
         "locale": "en",
-        "imagery": "osm",
-        "id": 121330118
+        "id": 153390841
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.1191789,
-          33.2184522
+          -96.55599649999999,
+          33.349660650000004
         ]
       },
-      "id": 121330118
+      "id": 153390841
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "RunnerLeann",
+        "uid": "21709876",
+        "editor": "MapComplete 0.44.3",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-01T01:23:17Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 7,
+        "modify": 4,
+        "delete": 1,
+        "area": 0.0004678520987699962,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/drinking_water",
+        "theme": "drinking_water",
+        "answer": 25,
+        "locale": "en",
+        "deletion": 1,
+        "deletion:node/12024111193": "not found",
+        "id": 153390493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55600935000001,
+          33.349681950000004
+        ]
+      },
+      "id": 153390493
     }
   ]
 }

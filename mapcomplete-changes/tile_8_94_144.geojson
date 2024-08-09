@@ -5,95 +5,208 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "IgorEliezer",
-        "uid": "6833365",
-        "editor": "MapComplete 0.23.2",
-        "comment": "Adding data with #MapComplete for theme #etymology",
+        "user": "RBiloti",
+        "uid": "12717019",
+        "editor": "MapComplete 0.44.4",
+        "comment": "Adding data with #MapComplete for theme #food",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-10-09T14:56:52Z",
+        "date": "2024-07-15T12:08:06Z",
         "reviewed_features": [],
         "tag_changes": {
-          "highway": [
-            "secondary"
-          ],
-          "name:etymology:wikidata": [
-            "Q40662"
-          ]
-        },
-        "create": 0,
-        "modify": 10,
-        "delete": 0,
-        "area": 0.00000154957230999493,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/",
-        "theme": "etymology",
-        "answer": 12,
-        "locale": "pt_BR",
-        "id": 127252868
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.83696545,
-          -23.05037595
-        ]
-      },
-      "id": 127252868
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Bruno Saragiotto",
-        "uid": "11693270",
-        "editor": "MapComplete 0.36.7",
-        "comment": "Adding data with #MapComplete for theme #cycle_infra",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-12-26T17:52:12Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "highway": [
-            "residential"
-          ],
-          "cycleway": [
-            "no"
+          "amenity": [
+            "fast_food",
+            "restaurant"
           ]
         },
         "create": 0,
         "modify": 1,
         "delete": 0,
-        "area": 9.53018080001425e-7,
-        "is_suspect": false,
+        "area": 0,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.org/cycle_infra",
-        "theme": "cycle_infra",
+        "host": "https://mapcomplete.org/food.html",
+        "theme": "food",
         "answer": 1,
-        "locale": "pt-BR",
-        "id": 145544314
+        "locale": "pt_BR",
+        "id": 153969137
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.6978197,
-          -22.61240765
+          -47.0726062,
+          -22.8894534
         ]
       },
-      "id": 145544314
+      "id": 153969137
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "RBiloti",
+        "uid": "12717019",
+        "editor": "MapComplete 0.44.4",
+        "comment": "Adding data with #MapComplete for theme #pets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-15T12:02:27Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "bakery"
+          ],
+          "leisure": [
+            "dog_park"
+          ],
+          "opening_hours": [
+            "Mo-Fr 06:00-21:00; Sa 06:00-20:00; Su 06:00-13:00",
+            "Mo-Su 06:00-21:00"
+          ]
+        },
+        "create": 1,
+        "modify": 2,
+        "delete": 0,
+        "area": 5.70719600005685e-8,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/pets.html",
+        "theme": "pets",
+        "answer": 2,
+        "locale": "pt_BR",
+        "change_over_5000m": 1,
+        "id": 153968904
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.072404,
+          -22.889051700000003
+        ]
+      },
+      "id": 153968904
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "RBiloti",
+        "uid": "12717019",
+        "editor": "MapComplete 0.44.4",
+        "comment": "Adding data with #MapComplete for theme #waste",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-15T11:55:20Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "recycling"
+          ]
+        },
+        "create": 1,
+        "modify": 4,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/waste.html",
+        "theme": "waste",
+        "answer": 5,
+        "locale": "pt_BR",
+        "change_over_5000m": 1,
+        "id": 153968606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1009696,
+          -22.8919441
+        ]
+      },
+      "id": 153968606
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "RBiloti",
+        "uid": "12717019",
+        "editor": "MapComplete 0.44.4",
+        "comment": "Adding data with #MapComplete for theme #trees",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-07-15T11:40:57Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "natural": [
+            "tree"
+          ]
+        },
+        "create": 2,
+        "modify": 1,
+        "delete": 0,
+        "area": 2.1770999989820112e-10,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/trees.html",
+        "theme": "trees",
+        "locale": "pt_BR",
+        "add-image": 1,
+        "change_over_5000m": 2,
+        "id": 153968016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07127295,
+          -22.89127575
+        ]
+      },
+      "id": 153968016
     }
   ]
 }

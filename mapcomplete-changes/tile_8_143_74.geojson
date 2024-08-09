@@ -8,129 +8,69 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Que2",
-        "uid": "107548",
-        "editor": "MapComplete 0.4.7",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-01-13T18:57:52Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 4,
-        "delete": 0,
-        "area": 0.000046626972549978,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "cyclofix",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "theme-creator": "MapComplete",
-        "id": 97460300
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.27739105,
-          60.45108275
-        ]
-      },
-      "id": 97460300
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Walkingmage",
-        "uid": "124870",
-        "editor": "MapComplete 0.19.2",
-        "comment": "Adding data with #MapComplete for theme #street_lighting",
+        "user": "ramil",
+        "uid": "109530",
+        "editor": "MapComplete 0.44.9",
+        "comment": "Adding data with #MapComplete for theme #toilets",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-05-24T21:47:11Z",
+        "date": "2024-07-18T18:55:14Z",
         "reviewed_features": [],
         "tag_changes": {
-          "lit": [
-            "yes",
-            "no"
+          "access": [
+            "key"
           ],
-          "highway": [
-            "path",
-            "footway",
-            "cycleway"
+          "amenity": [
+            "toilets"
+          ],
+          "wheelchair": [
+            "yes"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "changing_table": [
+            "yes"
+          ],
+          "toilets:position": [
+            "seated"
+          ],
+          "gender_segregated": [
+            "yes"
+          ],
+          "toilets:handwashing": [
+            "yes"
+          ],
+          "toilets:paper_supplied": [
+            "yes"
+          ],
+          "changing_table:location": [
+            "wheelchair_toilet"
           ]
         },
         "create": 0,
-        "modify": 5,
-        "delete": 0,
-        "area": 0.00000689101344000514,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/street_lighting.html",
-        "theme": "street_lighting",
-        "answer": 5,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 121446476
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.936324,
-          60.0991293
-        ]
-      },
-      "id": 121446476
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Walkingmage",
-        "uid": "124870",
-        "editor": "MapComplete 0.2.2a",
-        "comment": "Adding data with #MapComplete for theme #climbing",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-04-13T12:16:11Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 1,
-        "modify": 0,
+        "modify": 4,
         "delete": 0,
         "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "theme": "climbing",
-        "language": "en",
-        "theme-creator": "Christian Neumann <christian@utopicode.de>",
-        "id": 134860570
+        "host": "https://mapcomplete.org/toilets.html",
+        "theme": "toilets",
+        "answer": 9,
+        "locale": "en",
+        "id": 154114725
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.9310204,
-          60.087913
+          22.2870909,
+          60.4739617
         ]
       },
-      "id": 134860570
+      "id": 154114725
     }
   ]
 }
