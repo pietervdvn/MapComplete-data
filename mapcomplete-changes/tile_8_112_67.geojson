@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 489,
+            "name": "Mapbox: Spam text"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-12117458345",
+            "note": "Spam text reported in [\"name\"] tags in the feature",
+            "osm_id": 12117458345,
+            "reasons": [
+              489
+            ],
+            "version": 2
+          },
+          {
+            "url": "node-12117422086",
+            "note": "Spam text reported in [\"name\"] tags in the feature",
+            "osm_id": 12117422086,
+            "reasons": [
+              489
+            ],
+            "version": 2
+          }
+        ],
+        "user": "Trziste prace",
+        "uid": "13468016",
+        "editor": "MapComplete 0.45.3",
+        "comment": "Adding data with #MapComplete for theme #hotels",
+        "comments_count": 1,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-08-17T20:31:17Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "tourism": [
+            "chalet",
+            "apartment"
+          ]
+        },
+        "create": 16,
+        "modify": 20,
+        "delete": 0,
+        "area": 0.10515407114548934,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/hotels.html",
+        "theme": "hotels",
+        "answer": 45,
+        "locale": "en",
+        "id": 155388744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.78250925,
+          64.19260245000001
+        ]
+      },
+      "id": 155388744
+    }
+  ]
+}
