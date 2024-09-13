@@ -8,93 +8,244 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Stalfur",
-        "uid": "149223",
-        "editor": "MapComplete 0.8.3c",
-        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "user": "delroth",
+        "uid": "12167264",
+        "editor": "MapComplete 0.44.13",
+        "comment": "Adding data with #MapComplete for theme #benches",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-07-09T16:47:09Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 2,
-        "modify": 5,
-        "delete": 0,
-        "area": 0.000023311735259843,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "charging_stations",
-        "imagery": "osm",
-        "language": "en",
-        "id": 107716873
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.879822949999998,
-          64.1013077
-        ]
-      },
-      "id": 107716873
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "M!dgard",
-        "uid": "763799",
-        "editor": "MapComplete 0.2.2a",
-        "comment": "Adding data with #MapComplete for theme #climbing",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2022-08-04T19:18:03Z",
+        "date": "2024-08-07T19:38:16Z",
         "reviewed_features": [],
         "tag_changes": {
-          "leisure": [
-            "sports_centre"
+          "image": [
+            "https://i.imgur.com/4FcN47Z.jpeg"
           ],
-          "climbing:sport": [
+          "colour": [
+            "gray"
+          ],
+          "amenity": [
+            "bench"
+          ],
+          "armrest": [
             "no"
           ],
-          "climbing:boulder": [
-            "yes"
+          "highway": [
+            "secondary"
           ],
-          "climbing:toprope": [
+          "material": [
+            "wood"
+          ],
+          "direction": [
+            "296"
+          ],
+          "survey:date": [
+            "2024-08-07"
+          ],
+          "cycleway:both": [
             "no"
           ],
-          "climbing:traditional": [
+          "seats:separated": [
             "no"
           ]
         },
         "create": 0,
         "modify": 4,
         "delete": 0,
-        "area": 0,
+        "area": 0.00043629498668000793,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "theme": "climbing",
-        "language": "en",
-        "theme-creator": "Christian Neumann <christian@utopicode.de>",
-        "id": 124494350
+        "host": "https://mapcomplete.org/benches.html",
+        "theme": "benches",
+        "answer": 13,
+        "locale": "en",
+        "add-image": 2,
+        "change_within_25m": 1,
+        "change_within_500m": 1,
+        "id": 154951299
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.8775569,
-          64.136145
+          -22.679773349999998,
+          63.8436643
         ]
       },
-      "id": 124494350
+      "id": 154951299
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Trziste prace",
+        "uid": "13468016",
+        "editor": "MapComplete 0.45.3",
+        "comment": "Adding data with #MapComplete for theme #hotels",
+        "comments_count": 1,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-08-16T21:38:51Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "name": [
+            "101 Guesthouse Hotel",
+            "Gistihús #101",
+            "201 Hotel",
+            "First Hotel Reykjavík (Kópavogur)"
+          ],
+          "phone": [
+            "+354 595 8540",
+            "+354 556 1100"
+          ],
+          "tourism": [
+            "hotel",
+            "guest_house",
+            "apartment"
+          ],
+          "website": [
+            "https://tripingguide.com/view-hotel?hotel=centerhotel-arnarhvoll-iceland",
+            "https://tripingguide.com/view-hotel?hotel=skjaldbreid-iceland",
+            "https://tripingguide.com/view-hotel?hotel=klopp-iceland",
+            "https://tripingguide.com/view-hotel?hotel=city-center-reykjavik-iceland",
+            "https://tripingguide.com/view-hotel?hotel=plaza-iceland",
+            "https://tripingguide.com/view-hotel?hotel=alda-reykjavik-iceland",
+            "https://tripingguide.com/view-hotel?hotel=100-iceland-iceland",
+            "https://tripingguide.com/view-hotel?hotel=brim-iceland",
+            "https://tripingguide.com/view-hotel?hotel=first-kopavogur-iceland"
+          ],
+          "building": [
+            "yes"
+          ]
+        },
+        "create": 9,
+        "modify": 30,
+        "delete": 0,
+        "area": 0.007435987870918951,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/hotels.html",
+        "theme": "hotels",
+        "answer": 38,
+        "locale": "en",
+        "id": 155348079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.87530525,
+          64.12259639999999
+        ]
+      },
+      "id": 155348079
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          },
+          {
+            "id": 489,
+            "name": "Mapbox: Spam text"
+          }
+        ],
+        "tags": [],
+        "features": [
+          {
+            "url": "node-12116681455",
+            "note": "Spam text reported in [\"name\"] tags in the feature",
+            "osm_id": 12116681455,
+            "reasons": [
+              489
+            ],
+            "version": 2
+          }
+        ],
+        "user": "Trziste prace",
+        "uid": "13468016",
+        "editor": "MapComplete 0.45.3",
+        "comment": "Adding data with #MapComplete for theme #hotels",
+        "comments_count": 1,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-08-17T09:59:46Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "name": [
+            "Flóki by Guesthouse Reykjavík",
+            "Reykjavík Hostel Village"
+          ],
+          "brand": [
+            "Alfred's Apartments"
+          ],
+          "phone": [
+            "+354 552 6646",
+            "+354 771 9985",
+            "+354 694 8118"
+          ],
+          "nobrand": [
+            "yes"
+          ],
+          "tourism": [
+            "guest_house",
+            "apartment",
+            "hotel",
+            "hostel",
+            "chalet"
+          ],
+          "website": [
+            "https://tripingguide.com/view-hotel?hotel=baldursbra-guesthouse-laufasvegur-iceland",
+            "https://tripingguide.com/view-hotel?hotel=alfred-39-s-premium-laugavegur-iceland",
+            "https://www.alfreds-apartments.com",
+            "https://tripingguide.com/view-hotel?hotel=eric-the-red-guesthouse-iceland",
+            "https://tripingguide.com/view-hotel?hotel=floki-by-guesthouse-reykjavik-iceland",
+            "https://hostelvillage.is/"
+          ],
+          "building": [
+            "house",
+            "residential"
+          ],
+          "guest_house": [
+            "bed_and_breakfast"
+          ]
+        },
+        "create": 30,
+        "modify": 63,
+        "delete": 0,
+        "area": 0.03226572282959881,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/hotels.html",
+        "theme": "hotels",
+        "answer": 116,
+        "locale": "en",
+        "id": 155362424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8874447,
+          64.16559665
+        ]
+      },
+      "id": 155362424
     }
   ]
 }
