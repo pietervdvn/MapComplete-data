@@ -8,120 +8,68 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "ielham",
-        "uid": "462218",
-        "editor": "MapComplete 0.1.0c",
-        "comment": "Adding data with #MapComplete for theme #restaurants",
+        "user": "Robot8A",
+        "uid": "393359",
+        "editor": "MapComplete 0.46.9",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2020-10-13T16:28:02Z",
+        "date": "2024-09-15T21:03:10Z",
         "reviewed_features": [],
-        "tag_changes": {},
+        "tag_changes": {
+          "highway": [
+            "primary",
+            "residential",
+            "pedestrian",
+            "trunk",
+            "tertiary",
+            "secondary",
+            "service",
+            "living_street"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q259867",
+            "Q451841",
+            "Q87128442",
+            "Q3264654",
+            "Q4918",
+            "Q4120321",
+            "Q16581689",
+            "Q56189",
+            "Q7259",
+            "Q555348",
+            "Q151874",
+            "Q2447692",
+            "Q3751269",
+            "Q275929"
+          ]
+        },
         "create": 0,
-        "modify": 8,
+        "modify": 81,
         "delete": 0,
-        "area": 4.73447081135268,
+        "area": 0.0010338848511599313,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "theme": "restaurants",
-        "language": "es",
-        "theme-creator": "",
-        "id": 92428732
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 81,
+        "locale": "es",
+        "id": 156664015
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.3008633,
-          39.11420510000001
+          -4.793965050000001,
+          37.882747699999996
         ]
       },
-      "id": 92428732
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "adrigrillo",
-        "uid": "8553087",
-        "editor": "MapComplete 0.0.8f",
-        "comment": "Adding data with #MapComplete for theme #postalcode",
-        "comments_count": null,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2020-09-27T17:01:38Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0.0404315540550011,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "theme": "postalcode",
-        "theme-creator": "",
-        "id": 91591043
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.9520918,
-          38.094740099999996
-        ]
-      },
-      "id": 91591043
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "mtaborda",
-        "uid": "358284",
-        "editor": "MapComplete 0.4.9",
-        "comment": "Adding data with #MapComplete for theme #containeronvas",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2021-02-06T17:39:00Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 3,
-        "modify": 4,
-        "delete": 0,
-        "area": 7.6068360001144e-7,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "pietervdvn.github.io",
-        "theme": "containeronvas",
-        "imagery": "osm",
-        "language": "es",
-        "id": 98823177
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.0178028,
-          38.2408024
-        ]
-      },
-      "id": 98823177
+      "id": 156664015
     }
   ]
 }

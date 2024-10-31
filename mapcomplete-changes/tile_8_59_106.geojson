@@ -8,55 +8,94 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "pmc_",
-        "uid": "9622052",
-        "editor": "MapComplete 0.20.1",
-        "comment": "Adding data with #MapComplete for theme #toilets",
+        "user": "mrmaxguns",
+        "uid": "14535651",
+        "editor": "MapComplete 0.46.0",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-06-09T04:18:38Z",
+        "date": "2024-09-07T20:42:51Z",
         "reviewed_features": [],
         "tag_changes": {
-          "fee": [
-            "no"
+          "highway": [
+            "residential"
           ],
-          "amenity": [
-            "toilets"
-          ],
-          "building": [
-            "yes"
-          ],
-          "toilets:handwashing": [
-            "yes"
-          ],
-          "toilets:paper_supplied": [
-            "yes"
+          "maxspeed": [
+            "25 mph"
           ]
         },
         "create": 0,
         "modify": 3,
         "delete": 0,
-        "area": 1.44226199995009e-8,
+        "area": 0.000008969546300004815,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/toilets.html",
-        "theme": "toilets",
-        "answer": 6,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 3,
         "locale": "en",
-        "imagery": "osm",
-        "id": 122142707
+        "id": 156328708
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.40084519999999,
-          30.17283755
+          -97.74293975,
+          30.4213573
         ]
       },
-      "id": 122142707
+      "id": 156328708
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "lncelncelnce",
+        "uid": "21928671",
+        "editor": "MapComplete 0.46.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-09-07T02:53:03Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "drinking_water"
+          ]
+        },
+        "create": 2,
+        "modify": 2,
+        "delete": 0,
+        "area": 0.0004469796292500708,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/drinking_water",
+        "theme": "drinking_water",
+        "answer": 10,
+        "locale": "en",
+        "id": 156297195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.82440295,
+          30.45793775
+        ]
+      },
+      "id": 156297195
     }
   ]
 }

@@ -45,6 +45,135 @@
         ]
       },
       "id": 149823301
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "no982515",
+        "uid": "21935323",
+        "editor": "MapComplete 0.46.0",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-09-09T06:03:51Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0.0000013831387399861225,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 1,
+        "locale": "en",
+        "id": 156378282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.90883690000001,
+          40.45283155
+        ]
+      },
+      "id": 156378282
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          },
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "no982515",
+        "uid": "21935323",
+        "editor": "MapComplete 0.46.9",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-09-19T19:08:07Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "route": [
+            "bicycle",
+            "road",
+            "bus"
+          ],
+          "highway": [
+            "motorway_link",
+            "trunk_link",
+            "tertiary_link",
+            "tertiary",
+            "residential",
+            "secondary_link",
+            "primary",
+            "secondary",
+            "primary_link",
+            "trunk"
+          ],
+          "railway": [
+            "abandoned"
+          ],
+          "maxspeed": [
+            "45 mph",
+            "35 mph",
+            "25 mph",
+            "20 mph",
+            "30 mph",
+            "40 mph",
+            "50 mph",
+            "55 mph",
+            "65 mph"
+          ]
+        },
+        "create": 12,
+        "modify": 214,
+        "delete": 0,
+        "area": 0.008794019218320548,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "split": 19,
+        "theme": "maxspeed",
+        "answer": 216,
+        "locale": "en",
+        "relation-fix": 5,
+        "change_within_5000m": 19,
+        "id": 156836232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.849786,
+          40.43016955
+        ]
+      },
+      "id": 156836232
     }
   ]
 }

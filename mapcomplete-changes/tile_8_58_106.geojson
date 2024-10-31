@@ -5,109 +5,48 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Jaggylore97",
-        "uid": "20011718",
-        "editor": "MapComplete 0.33.13",
-        "comment": "Adding data with #MapComplete for theme #food",
+        "user": "mrmaxguns",
+        "uid": "14535651",
+        "editor": "MapComplete 0.46.0",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-10-27T19:34:40Z",
+        "date": "2024-09-07T20:42:51Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "restaurant"
-          ]
-        },
-        "create": 1,
-        "modify": 11,
-        "delete": 0,
-        "area": 2.49099999992011e-11,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.org/food.html",
-        "move": 1,
-        "theme": "food",
-        "answer": 17,
-        "locale": "en-US",
-        "add-image": 3,
-        "change_over_5000m": 2,
-        "change_within_25m": 1,
-        "move:node/11293936336": "improve_accuracy",
-        "id": 143226926
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.53249755,
-          29.47042345
-        ]
-      },
-      "id": 143226926
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "Ifdsisd",
-        "uid": "18764700",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #drinking_water",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2023-03-19T19:51:33Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "bottle": [
-            "no"
+          "highway": [
+            "residential"
           ],
-          "amenity": [
-            "fountain"
+          "maxspeed": [
+            "25 mph"
           ]
         },
         "create": 0,
-        "modify": 1,
+        "modify": 3,
         "delete": 0,
-        "area": 0,
-        "is_suspect": true,
+        "area": 0.000008969546300004815,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/drinking_water.html",
-        "theme": "drinking_water",
-        "answer": 1,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 3,
         "locale": "en",
-        "imagery": "Mapbox",
-        "change_within_25m": 1,
-        "id": 133871765
+        "id": 156328708
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.6698997,
-          29.5181424
+          -97.74293975,
+          30.4213573
         ]
       },
-      "id": 133871765
+      "id": 156328708
     },
     {
       "type": "Feature",
@@ -121,50 +60,42 @@
         ],
         "tags": [],
         "features": [],
-        "user": "Ifdsisd",
-        "uid": "18764700",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "lncelncelnce",
+        "uid": "21928671",
+        "editor": "MapComplete 0.46.0",
+        "comment": "Adding data with #MapComplete for theme #drinking_water",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-03-19T17:28:15Z",
+        "date": "2024-09-07T02:53:03Z",
         "reviewed_features": [],
         "tag_changes": {
-          "bottle": [
-            "yes"
-          ],
           "amenity": [
-            "drinking_water",
-            "bicycle_parking"
+            "drinking_water"
           ]
         },
-        "create": 1,
-        "modify": 3,
+        "create": 2,
+        "modify": 2,
         "delete": 0,
-        "area": 0.000177038158950011,
+        "area": 0.0004469796292500708,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 7,
+        "host": "https://mapcomplete.org/drinking_water",
+        "theme": "drinking_water",
+        "answer": 10,
         "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "change_over_5000m": 1,
-        "change_within_25m": 6,
-        "change_within_5000m": 1,
-        "id": 133866871
+        "id": 156297195
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.64306525,
-          29.52054455
+          -97.82440295,
+          30.45793775
         ]
       },
-      "id": 133866871
+      "id": 156297195
     }
   ]
 }
