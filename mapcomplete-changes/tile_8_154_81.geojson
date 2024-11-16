@@ -5,6 +5,143 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "augxcgrwxo",
+        "uid": "371263",
+        "editor": "MapComplete 0.47.5",
+        "comment": "Adding data with #MapComplete for theme #charging_stations",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-10-10T15:44:28Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "bus": [
+            "no"
+          ],
+          "fee": [
+            "no"
+          ],
+          "hgv": [
+            "no"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "charging_station"
+          ],
+          "bicycle": [
+            "yes"
+          ],
+          "scooter": [
+            "yes"
+          ],
+          "motorcar": [
+            "no"
+          ],
+          "no:network": [
+            "yes"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "socket:schuko": [
+            "12"
+          ],
+          "authentication:none": [
+            "yes"
+          ],
+          "socket:schuko:voltage": [
+            "230 V"
+          ]
+        },
+        "create": 0,
+        "modify": 1,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/charging_stations.html",
+        "theme": "charging_stations",
+        "answer": 8,
+        "locale": "en",
+        "id": 157722056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.530864,
+          55.7419165
+        ]
+      },
+      "id": 157722056
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "augxcgrwxo",
+        "uid": "371263",
+        "editor": "MapComplete 0.47.5",
+        "comment": "Adding data with #MapComplete for theme #bicycle_parkings",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-10-10T15:39:25Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "bicycle_parking"
+          ],
+          "operator": [
+            "Сбер"
+          ],
+          "cargo_bike": [
+            "no"
+          ],
+          "bicycle_parking": [
+            "rack",
+            "wall_loops"
+          ]
+        },
+        "create": 0,
+        "modify": 3,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/bicycle_parkings.html",
+        "theme": "bicycle_parkings",
+        "answer": 5,
+        "locale": "en",
+        "id": 157721814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5308953,
+          55.7419226
+        ]
+      },
+      "id": 157721814
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [
           {
             "id": 40,

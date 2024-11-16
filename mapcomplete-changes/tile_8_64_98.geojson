@@ -5,107 +5,52 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
+        "reasons": [],
         "tags": [],
         "features": [],
-        "user": "Freitag554",
-        "uid": "18439888",
-        "editor": "MapComplete 0.30.9",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "Travis Peebles",
+        "uid": "9051389",
+        "editor": "MapComplete 0.47.5",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-12-28T03:27:55Z",
+        "date": "2024-10-09T18:35:44Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "bicycle_parking"
+          "highway": [
+            "residential",
+            "primary_link"
           ],
-          "cargo_bike": [
-            "yes"
+          "maxspeed": [
+            "25 mph",
+            "15 mph",
+            "45 mph",
+            "30 mph"
           ]
         },
         "create": 0,
-        "modify": 1,
+        "modify": 27,
         "delete": 0,
-        "area": 0,
-        "is_suspect": true,
+        "area": 0.0002915107897500256,
+        "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "answer": 1,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 27,
         "locale": "en",
-        "id": 145600177
+        "id": 157685066
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.9647637,
-          38.7833902
+          -91.00847945000001,
+          38.53908055
         ]
       },
-      "id": 145600177
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [
-          {
-            "id": 40,
-            "name": "New mapper"
-          }
-        ],
-        "tags": [],
-        "features": [],
-        "user": "Freitag554",
-        "uid": "18439888",
-        "editor": "MapComplete 0.26.1",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "Not reported",
-        "imagery_used": "Not reported",
-        "date": "2023-02-12T03:38:40Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "amenity": [
-            "bicycle_parking"
-          ],
-          "bicycle_parking": [
-            "rack",
-            "wave"
-          ]
-        },
-        "create": 0,
-        "modify": 2,
-        "delete": 0,
-        "area": 0.0000141595724800034,
-        "is_suspect": true,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix",
-        "theme": "cyclofix",
-        "answer": 2,
-        "locale": "en",
-        "imagery": "osm",
-        "id": 132429849
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.9530338,
-          38.8075519
-        ]
-      },
-      "id": 132429849
+      "id": 157685066
     },
     {
       "type": "Feature",
@@ -114,47 +59,57 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "CatSu",
-        "uid": "15080312",
-        "editor": "MapComplete 0.27.1",
-        "comment": "Adding data with #MapComplete for theme #waste",
+        "user": "Travis Peebles",
+        "uid": "9051389",
+        "editor": "MapComplete 0.47.5",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-04-28T03:03:11Z",
+        "date": "2024-10-09T15:06:00Z",
         "reviewed_features": [],
         "tag_changes": {
-          "access": [
-            "no"
+          "highway": [
+            "residential",
+            "tertiary",
+            "secondary",
+            "motorway_link",
+            "unclassified",
+            "primary_link",
+            "secondary_link"
           ],
-          "amenity": [
-            "waste_disposal"
+          "maxspeed": [
+            "20 mph",
+            "25 mph",
+            "10 mph",
+            "40 mph",
+            "45 mph",
+            "60 mph",
+            "50 mph"
           ]
         },
         "create": 0,
-        "modify": 1,
+        "modify": 113,
         "delete": 0,
-        "area": 0,
+        "area": 0.009949333452550906,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/waste.html",
-        "theme": "waste",
-        "answer": 3,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 113,
         "locale": "en",
-        "imagery": "osm",
-        "change_within_100m": 3,
-        "id": 135448891
+        "id": 157676850
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.2575941,
-          38.589338
+          -90.82679784999999,
+          38.46378435
         ]
       },
-      "id": 135448891
+      "id": 157676850
     },
     {
       "type": "Feature",
@@ -168,63 +123,140 @@
         ],
         "tags": [],
         "features": [],
-        "user": "Freitag554",
-        "uid": "18439888",
-        "editor": "MapComplete 0.30.9",
+        "user": "legallyahc",
+        "uid": "17181098",
+        "editor": "MapComplete 0.47.5",
         "comment": "Adding data with #MapComplete for theme #cyclofix",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-07-06T22:52:17Z",
+        "date": "2024-10-11T00:48:57Z",
         "reviewed_features": [],
         "tag_changes": {
-          "shop": [
-            "bicycle"
-          ],
-          "phone": [
-            "+1 618 692 0070"
-          ],
-          "website": [
-            "https://www.thecyclerys.com/"
-          ],
-          "building": [
-            "yes"
-          ],
-          "opening_hours": [
-            "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-17:00"
-          ],
-          "service:bicycle:repair": [
-            "yes"
-          ],
-          "service:bicycle:retail": [
-            "yes"
-          ],
-          "service:bicycle:second_hand": [
-            "yes"
+          "amenity": [
+            "bicycle_repair_station"
           ]
         },
-        "create": 0,
-        "modify": 4,
+        "create": 1,
+        "modify": 1,
         "delete": 0,
-        "area": 1.25517599997781e-7,
+        "area": 0,
         "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
+        "host": "https://mapcomplete.org/cyclofix",
         "theme": "cyclofix",
-        "answer": 6,
+        "answer": 8,
         "locale": "en",
-        "id": 138206919
+        "id": 157737135
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.9505236,
-          38.78236215
+          -90.2321843,
+          38.5942188
         ]
       },
-      "id": 138206919
+      "id": 157737135
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Tigew",
+        "uid": "9051389",
+        "editor": "MapComplete 0.47.5",
+        "comment": "Adding data with #MapComplete for theme #maxspeed",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-10-12T19:22:02Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "highway": [
+            "residential",
+            "unclassified"
+          ],
+          "maxspeed": [
+            "15 mph",
+            "20 mph"
+          ]
+        },
+        "create": 0,
+        "modify": 69,
+        "delete": 0,
+        "area": 0.0005222252301301397,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/maxspeed.html",
+        "theme": "maxspeed",
+        "answer": 69,
+        "locale": "en",
+        "id": 157810266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.98003265,
+          38.34501385
+        ]
+      },
+      "id": 157810266
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "legallyahc",
+        "uid": "17181098",
+        "editor": "MapComplete 0.47.5",
+        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-10-15T00:07:41Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "amenity": [
+            "bicycle_repair_station"
+          ]
+        },
+        "create": 1,
+        "modify": 0,
+        "delete": 0,
+        "area": 0,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/cyclofix",
+        "theme": "cyclofix",
+        "answer": 4,
+        "locale": "en",
+        "id": 157899843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2512473,
+          38.6278379
+        ]
+      },
+      "id": 157899843
     }
   ]
 }
