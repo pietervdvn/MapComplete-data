@@ -49,6 +49,117 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "rui228",
+        "uid": "12612838",
+        "editor": "MapComplete 0.47.11",
+        "comment": "Adding data with #MapComplete for theme #toilets",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-12-03T22:15:17Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "shop": [
+            "mall"
+          ],
+          "level": [
+            "0",
+            "-1"
+          ],
+          "access": [
+            "yes"
+          ],
+          "amenity": [
+            "toilets"
+          ],
+          "building": [
+            "retail",
+            "yes"
+          ],
+          "toilets:fee": [
+            "no"
+          ],
+          "toilets:access": [
+            "yes"
+          ]
+        },
+        "create": 3,
+        "modify": 8,
+        "delete": 0,
+        "area": 0.0017916451300400097,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/toilets.html",
+        "theme": "toilets",
+        "answer": 13,
+        "locale": "en",
+        "id": 159898744
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.556485599999998,
+          40.944790749999996
+        ]
+      },
+      "id": 159898744
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Tigeleiro",
+        "uid": "1040342",
+        "editor": "MapComplete 0.47.13",
+        "comment": "Adding data with #MapComplete for theme #postboxes",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-12-28T01:56:11Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 4,
+        "modify": 4,
+        "delete": 0,
+        "area": 1.3236668148701995,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/postboxes",
+        "move": 1,
+        "theme": "postboxes",
+        "answer": 12,
+        "locale": "pt",
+        "move:node/1984153297": "improve_accuracy",
+        "id": 160698577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0361501,
+          39.632245299999994
+        ]
+      },
+      "id": 160698577
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [
           {
             "id": 40,

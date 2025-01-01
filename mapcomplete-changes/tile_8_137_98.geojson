@@ -8,45 +8,103 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "FinixFighter",
-        "uid": "10477933",
-        "editor": "MapComplete 0.33.7",
-        "comment": "Adding data with #MapComplete for theme #hailhydrant",
+        "user": "Coooly",
+        "uid": "12189491",
+        "editor": "MapComplete 0.47.8",
+        "comment": "Adding data with #MapComplete for theme #cycle_infra",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-10-12T12:05:20Z",
+        "date": "2024-11-03T21:33:24Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "fire_station"
+          "lit": [
+            "yes"
           ],
-          "operator:type": [
-            "government"
+          "highway": [
+            "residential"
+          ],
+          "surface": [
+            "asphalt"
+          ],
+          "cycleway": [
+            "no",
+            "lane"
+          ],
+          "cycleway:surface": [
+            "sett"
+          ],
+          "cycleway:separation": [
+            "parking_lane"
+          ],
+          "cycleway:smoothness": [
+            "intermediate"
           ]
         },
         "create": 0,
-        "modify": 1,
+        "modify": 4,
         "delete": 0,
-        "area": 3.91771829997998e-7,
+        "area": 0.000006711474400001848,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.org/hailhydrant.html",
-        "theme": "hailhydrant",
-        "answer": 1,
-        "locale": "en",
-        "id": 142476784
+        "host": "https://mapcomplete.org/cycle_infra.html",
+        "theme": "cycle_infra",
+        "answer": 8,
+        "locale": "fr",
+        "id": 158718215
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.35754535,
-          38.11890085
+          13.334793000000001,
+          38.12834155
         ]
       },
-      "id": 142476784
+      "id": 158718215
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "Coooly",
+        "uid": "12189491",
+        "editor": "MapComplete 0.47.9",
+        "comment": "Adding data with #MapComplete for theme #healthcare",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-11-08T06:27:22Z",
+        "reviewed_features": [],
+        "tag_changes": {},
+        "create": 0,
+        "modify": 7,
+        "delete": 1,
+        "area": 0.00001410513606001308,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/healthcare.html",
+        "theme": "healthcare",
+        "answer": 11,
+        "locale": "fr",
+        "deletion": 1,
+        "deletion:node/6364695342": "not found",
+        "id": 158882385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3357141,
+          38.12929235
+        ]
+      },
+      "id": 158882385
     }
   ]
 }

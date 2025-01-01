@@ -8,82 +8,37 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "SherbetS",
-        "uid": "12163682",
-        "editor": "MapComplete 0.11.0",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "ooosssay",
+        "uid": "20614726",
+        "editor": "MapComplete 0.47.10",
+        "comment": "Adding data with #MapComplete for theme #memorials",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2021-10-23T02:52:43Z",
-        "reviewed_features": [],
-        "tag_changes": {},
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "cyclofix",
-        "imagery": "CartoDB.Voyager",
-        "language": "en",
-        "add-image": 1,
-        "id": 112861395
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.4725958,
-          32.5885088
-        ]
-      },
-      "id": 112861395
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "Wim L",
-        "uid": "223681",
-        "editor": "MapComplete 0.12.13",
-        "comment": "Adding data with #MapComplete for theme #toilets",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2021-12-31T23:36:09Z",
+        "date": "2024-11-15T02:23:05Z",
         "reviewed_features": [],
         "tag_changes": {},
         "create": 1,
-        "modify": 1,
+        "modify": 0,
         "delete": 0,
         "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "mapcomplete.osm.be",
-        "theme": "toilets",
-        "answer": 4,
-        "imagery": "osm",
-        "language": "en",
-        "change_over_5000m": 1,
-        "change_within_100m": 4,
-        "id": 115624437
+        "host": "https://mapcomplete.org/memorials",
+        "theme": "memorials",
+        "locale": "en",
+        "id": 159152555
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.4255382,
-          33.6415534
+          -86.4696328,
+          33.9321671
         ]
       },
-      "id": 115624437
+      "id": 159152555
     },
     {
       "type": "Feature",
@@ -92,53 +47,49 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "SamWhited",
-        "uid": "14994176",
-        "editor": "MapComplete 0.25.6",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
+        "user": "ooosssay",
+        "uid": "20614726",
+        "editor": "MapComplete 0.47.10",
+        "comment": "Adding data with #MapComplete for theme #surveillance",
         "comments_count": 0,
         "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2023-01-27T13:41:58Z",
+        "date": "2024-11-24T18:23:55Z",
         "reviewed_features": [],
         "tag_changes": {
-          "amenity": [
-            "bicycle_parking"
+          "man_made": [
+            "surveillance"
           ],
-          "cargo_bike": [
-            "yes"
+          "operator": [
+            "Flock Safety"
           ],
-          "capacity:cargo_bike": [
-            "1"
+          "surveillance": [
+            "public",
+            "traffic"
           ]
         },
         "create": 0,
-        "modify": 11,
+        "modify": 1,
         "delete": 0,
-        "area": 2.79028200007331e-8,
+        "area": 0,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "move": 4,
-        "theme": "cyclofix",
-        "answer": 12,
+        "host": "https://mapcomplete.org/surveillance.html",
+        "theme": "surveillance",
+        "answer": 2,
         "locale": "en",
-        "imagery": "CartoDB.Voyager",
-        "move:node/9798726183": "improve_accuracy",
-        "move:node/9798726184": "improve_accuracy",
-        "move:node/9798955082": "improve_accuracy",
-        "id": 131773858
+        "id": 159544710
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.51560305,
-          33.8839671
+          -86.4481701,
+          33.9726328
         ]
       },
-      "id": 131773858
+      "id": 159544710
     }
   ]
 }

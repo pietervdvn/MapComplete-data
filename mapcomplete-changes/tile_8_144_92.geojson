@@ -5,214 +5,88 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
-        "reasons": [],
+        "reasons": [
+          {
+            "id": 4,
+            "name": "mass modification"
+          }
+        ],
         "tags": [],
         "features": [],
-        "user": "5R-MFT",
-        "uid": "3417876",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #toilets",
+        "user": "Buraddo",
+        "uid": "2287200",
+        "editor": "MapComplete 0.47.8",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-08-12T20:10:57Z",
+        "date": "2024-11-04T18:04:57Z",
         "reviewed_features": [],
         "tag_changes": {
-          "image": [
-            "https://i.imgur.com/ALhonXe.jpg",
-            "https://i.imgur.com/kCIzSMF.jpg"
-          ],
-          "access": [
-            "yes"
-          ],
-          "amenity": [
-            "toilets"
-          ]
-        },
-        "create": 0,
-        "modify": 3,
-        "delete": 0,
-        "area": 0.0000101444173400027,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/toilets.html",
-        "theme": "toilets",
-        "answer": 1,
-        "locale": "de",
-        "imagery": "osm",
-        "add-image": 2,
-        "change_within_5000m": 3,
-        "id": 124832810
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.22723925,
-          45.755912699999996
-        ]
-      },
-      "id": 124832810
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "5R-MFT",
-        "uid": "3417876",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-08-12T20:00:38Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "image": [
-            "https://i.imgur.com/bUDbPQg.jpg"
-          ],
-          "amenity": [
-            "bicycle_rental"
-          ]
-        },
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "locale": "de",
-        "imagery": "CartoDB.Voyager",
-        "add-image": 2,
-        "change_over_5000m": 1,
-        "change_within_5000m": 1,
-        "id": 124832485
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.2111194,
-          45.7448527
-        ]
-      },
-      "id": 124832485
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "5R-MFT",
-        "uid": "3417876",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #cyclofix",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-08-12T08:17:39Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "image": [
-            "https://i.imgur.com/8VFIk5M.jpg"
-          ],
-          "amenity": [
-            "bicycle_rental"
-          ]
-        },
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/cyclofix.html",
-        "theme": "cyclofix",
-        "locale": "de",
-        "imagery": "CartoDB.Voyager",
-        "add-image": 1,
-        "change_within_1000m": 1,
-        "id": 124806560
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.2612191,
-          45.7660158
-        ]
-      },
-      "id": 124806560
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "5R-MFT",
-        "uid": "3417876",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #transit",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-08-14T19:58:28Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "bin": [
-            "yes"
-          ],
-          "image": [
-            "https://i.imgur.com/nsXyrK8.jpg",
-            "https://i.imgur.com/INSQ5iX.jpg"
-          ],
           "highway": [
-            "bus_stop"
+            "secondary",
+            "primary",
+            "tertiary",
+            "residential",
+            "secondary_link",
+            "service",
+            "footway",
+            "unclassified",
+            "cycleway",
+            "path",
+            "primary_link",
+            "tertiary_link"
           ],
-          "shelter": [
-            "yes"
-          ],
-          "tactile_paving": [
-            "no"
+          "name:etymology:wikidata": [
+            "Q100188",
+            "Q462220",
+            "Q16754288",
+            "Q869137",
+            "Q58285",
+            "Q461926",
+            "Q186448",
+            "Q207493",
+            "Q12720571",
+            "Q535",
+            "Q313; Q47652",
+            "Q2534833",
+            "Q762",
+            "Q2918453",
+            "Q660435",
+            "Q131125",
+            "Q12724880",
+            "Q201582; Q157046",
+            "Q791458",
+            "Q218134",
+            "Q5592",
+            "Q1509835",
+            "Q3130890",
+            "Q868851",
+            "Q610526"
           ]
         },
         "create": 0,
-        "modify": 5,
+        "modify": 487,
         "delete": 0,
-        "area": 4.33611900003529e-8,
-        "is_suspect": false,
+        "area": 0.002492197103880047,
+        "is_suspect": true,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/transit.html",
-        "theme": "transit",
-        "answer": 6,
-        "locale": "de",
-        "imagery": "osm",
-        "add-image": 2,
-        "change_within_1000m": 8,
-        "id": 124901812
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 487,
+        "locale": "en",
+        "id": 158751523
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.22349615,
-          45.38950185
+          21.2337858,
+          45.73880915
         ]
       },
-      "id": 124901812
+      "id": 158751523
     },
     {
       "type": "Feature",
@@ -221,46 +95,51 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "5R-MFT",
-        "uid": "3417876",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #playgrounds",
+        "user": "Buraddo",
+        "uid": "2287200",
+        "editor": "MapComplete 0.47.8",
+        "comment": "Adding data with #MapComplete for theme #etymology",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-08-14T14:26:44Z",
+        "date": "2024-11-04T16:39:17Z",
         "reviewed_features": [],
         "tag_changes": {
-          "image": [
-            "https://i.imgur.com/OEAr7F9.jpg"
+          "highway": [
+            "residential",
+            "living_street",
+            "tertiary",
+            "cycleway",
+            "path",
+            "footway"
           ],
-          "leisure": [
-            "playground"
+          "name:etymology:wikidata": [
+            "Q459023",
+            "Q14542631"
           ]
         },
         "create": 0,
-        "modify": 1,
+        "modify": 42,
         "delete": 0,
-        "area": 9.67004999987012e-8,
+        "area": 0.0005551593429000686,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/playgrounds.html",
-        "theme": "playgrounds",
-        "locale": "de",
-        "imagery": "osm",
-        "add-image": 1,
-        "id": 124890124
+        "host": "https://mapcomplete.org/etymology.html",
+        "theme": "etymology",
+        "answer": 42,
+        "locale": "en",
+        "id": 158748379
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.22729065,
-          45.3887662
+          21.23116125,
+          45.730372
         ]
       },
-      "id": 124890124
+      "id": 158748379
     },
     {
       "type": "Feature",
@@ -269,96 +148,64 @@
         "reasons": [],
         "tags": [],
         "features": [],
-        "user": "5R-MFT",
-        "uid": "3417876",
-        "editor": "MapComplete 0.23.0",
+        "user": "Buraddo",
+        "uid": "2287200",
+        "editor": "MapComplete 0.47.8",
         "comment": "Adding data with #MapComplete for theme #drinking_water",
         "comments_count": 0,
-        "source": "survey",
+        "source": "Not reported",
         "imagery_used": "Not reported",
-        "date": "2022-08-17T07:44:56Z",
+        "date": "2024-11-04T16:35:54Z",
         "reviewed_features": [],
         "tag_changes": {
-          "image": [
-            "https://i.imgur.com/OKmJsbC.jpg"
+          "fee": [
+            "no"
+          ],
+          "bottle": [
+            "no",
+            "yes"
           ],
           "amenity": [
             "drinking_water"
-          ]
-        },
-        "create": 0,
-        "modify": 1,
-        "delete": 0,
-        "area": 0,
-        "is_suspect": false,
-        "harmful": null,
-        "checked": false,
-        "check_date": null,
-        "host": "https://mapcomplete.osm.be/drinking_water.html",
-        "theme": "drinking_water",
-        "locale": "de",
-        "imagery": "CartoDB.Voyager",
-        "add-image": 1,
-        "change_within_500m": 1,
-        "id": 125003819
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.7838854,
-          45.178108
-        ]
-      },
-      "id": 125003819
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "check_user": null,
-        "reasons": [],
-        "tags": [],
-        "features": [],
-        "user": "5R-MFT",
-        "uid": "3417876",
-        "editor": "MapComplete 0.23.0",
-        "comment": "Adding data with #MapComplete for theme #maps",
-        "comments_count": 0,
-        "source": "survey",
-        "imagery_used": "Not reported",
-        "date": "2022-08-18T18:02:21Z",
-        "reviewed_features": [],
-        "tag_changes": {
-          "image": [
-            "https://i.imgur.com/Nf5R2ZI.jpg"
           ],
-          "tourism": [
-            "information"
+          "fountain": [
+            "bubbler"
+          ],
+          "man_made": [
+            "water_tap"
+          ],
+          "seasonal": [
+            "spring;summer;autumn"
+          ],
+          "opening_hours": [
+            "24/7"
+          ],
+          "not:tourism:artwork": [
+            "yes"
           ]
         },
         "create": 0,
-        "modify": 1,
+        "modify": 4,
         "delete": 0,
-        "area": 0,
+        "area": 0.0007025721412499601,
         "is_suspect": false,
         "harmful": null,
         "checked": false,
         "check_date": null,
-        "host": "https://mapcomplete.osm.be/maps.html",
-        "theme": "maps",
-        "locale": "de",
-        "imagery": "osm",
-        "add-image": 1,
-        "change_within_500m": 1,
-        "id": 125074019
+        "host": "https://mapcomplete.org/drinking_water.html",
+        "theme": "drinking_water",
+        "answer": 24,
+        "locale": "en",
+        "id": 158748238
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.8848179,
-          45.7951858
+          21.22641465,
+          45.740169949999995
         ]
       },
-      "id": 125074019
+      "id": 158748238
     }
   ]
 }

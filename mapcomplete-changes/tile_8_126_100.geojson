@@ -97,6 +97,206 @@
       "type": "Feature",
       "properties": {
         "check_user": null,
+        "reasons": [],
+        "tags": [],
+        "features": [],
+        "user": "kapazao",
+        "uid": "7543375",
+        "editor": "MapComplete 0.47.10",
+        "comment": "Adding data with #MapComplete for theme #etymology",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-11-27T07:41:19Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "barrier": [
+            "wall"
+          ],
+          "highway": [
+            "tertiary",
+            "living_street",
+            "residential",
+            "pedestrian",
+            "footway",
+            "steps",
+            "secondary",
+            "primary"
+          ],
+          "leisure": [
+            "park"
+          ],
+          "name:etymology:wikidata": [
+            "Q8196150",
+            "Q67152542",
+            "Q2329751",
+            "Q25414602",
+            "Q44091",
+            "Q1042785",
+            "Q39631",
+            "Q736",
+            "Q11704485",
+            "Q318699",
+            "Q6163464",
+            "Q55317884",
+            "Q14080",
+            "Q3928948",
+            "Q42295317",
+            "Q5783",
+            "Q454",
+            "Q847664"
+          ]
+        },
+        "create": 0,
+        "modify": 41,
+        "delete": 0,
+        "area": 0.002500442816759902,
+        "is_suspect": false,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/etymology",
+        "theme": "etymology",
+        "answer": 41,
+        "locale": "es",
+        "id": 159646447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60721055,
+          37.1731581
+        ]
+      },
+      "id": 159646447
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Lorenzo Soriano",
+        "uid": "5653311",
+        "editor": "MapComplete 0.47.13",
+        "comment": "Adding data with #MapComplete for theme #nature",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-12-17T22:18:53Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "dog": [
+            "leashed"
+          ],
+          "access": [
+            "yes"
+          ],
+          "leisure": [
+            "nature_reserve"
+          ],
+          "boundary": [
+            "protected_area"
+          ],
+          "panoramax": [
+            "be0a0a22-3a4a-4253-b012-a79327f6723c"
+          ],
+          "panoramax:0": [
+            "32a14ad5-4560-4e96-9df3-8460620c6ff8"
+          ],
+          "panoramax:1": [
+            "a35e28b6-59de-4267-9b51-46dfcbf50e4c"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.009920658577709766,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/nature.html",
+        "theme": "nature",
+        "answer": 2,
+        "locale": "es",
+        "add-image": 3,
+        "id": 160325013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.45582805,
+          37.46687475
+        ]
+      },
+      "id": 160325013
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
+        "reasons": [
+          {
+            "id": 40,
+            "name": "New mapper"
+          }
+        ],
+        "tags": [],
+        "features": [],
+        "user": "Lorenzo Soriano",
+        "uid": "5653311",
+        "editor": "MapComplete 0.47.13",
+        "comment": "Adding data with #MapComplete for theme #guideposts",
+        "comments_count": 0,
+        "source": "Not reported",
+        "imagery_used": "Not reported",
+        "date": "2024-12-17T22:12:37Z",
+        "reviewed_features": [],
+        "tag_changes": {
+          "tourism": [
+            "information"
+          ],
+          "panoramax": [
+            "64821f41-59d4-4ec1-83de-ac96ec0a2fcc",
+            "bb0a407b-9dc8-45b7-a1a4-6f512d101b6a",
+            "e93057ff-318d-47dc-81bd-dd2b3a916635",
+            "4a2c6b2f-2edd-4db4-923d-238f39ffca78"
+          ]
+        },
+        "create": 0,
+        "modify": 4,
+        "delete": 0,
+        "area": 0.0011737409970999585,
+        "is_suspect": true,
+        "harmful": null,
+        "checked": false,
+        "check_date": null,
+        "host": "https://mapcomplete.org/guideposts.html",
+        "theme": "guideposts",
+        "locale": "es",
+        "add-image": 4,
+        "id": 160324780
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4385479,
+          37.50074315
+        ]
+      },
+      "id": 160324780
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "check_user": null,
         "reasons": [
           {
             "id": 4,
